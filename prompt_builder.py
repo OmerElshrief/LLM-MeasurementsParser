@@ -1,3 +1,5 @@
+"""Building prompts objects.
+"""
 import html
 import json
 import os
@@ -14,7 +16,28 @@ from utils import format_dicts_to_string
 
 class PromptBuilder:
     @classmethod
-    def build_prompt_from_dir(cls, prompt_id):
+    def build_prompt_from_dir(cls, prompt_id: str)-> ChatPromptTemplate:
+        """Builds a prompt given a prompt id.
+        
+        Prombt directory should contains:
+        1- prombt.json: This file should contain prombt instructions and output format, 
+        ex:
+        {
+        "text": "prompt instructions",
+
+        "output_format": "Prompt for the output format"
+        }
+        2- examples.json: in case using a few-shots prompting, this file should contain the exmaples used in the few shots prompt as a list of jsons.
+        Each json is for 1 example, and contains "text" key and "measurements" key.
+
+        Args:
+            prompt_id (str): Prompt Id, souhld be the directory name 
+            where prompt files are. each example is a
+            
+
+        Returns:
+            ChatPromptTemplate: CHat prompt.
+        """
 
         prompt = cls._load_prompt_from_json(prompt_id)
         examples = cls._load_examples_from_json(prompt_id)
@@ -26,7 +49,16 @@ class PromptBuilder:
         )
 
     @classmethod
-    def build_few_shots_prompt(cls, prompt, examples):
+    def build_few_shots_prompt(cls, prompt: str, examples: list) -> ChatPromptTemplate:
+        """Given a propt instructions and examples, it build full few-shots prompt.
+
+        Args:
+            prompt (str): Prompt instructions.
+            examples (list): List of dict holding the examples.
+
+        Returns:
+            ChatPromptTemplate: Full ChatPrompt object.
+        """
 
         system_message = (
             "You are a helpful assistant you extract measurements from research patent."

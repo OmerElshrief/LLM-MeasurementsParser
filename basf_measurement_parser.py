@@ -12,7 +12,7 @@ from typing import Tuple
 import pandas as pd
 from dotenv import load_dotenv
 from langchain import LLMChain
-from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
+from langchain.chat_models import AzureChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
@@ -29,7 +29,7 @@ class BASFMeasurementParser:
         prompt_id="000",
         chunk_size=3000,
         chunk_overlap=0,
-        logger=ParserLogger(),
+        logger=None,
     ):
         """Parser main class.
 
@@ -126,7 +126,7 @@ class BASFMeasurementParser:
         return self.post_process_predictions(results_all_splits)
 
     def post_process_predictions(
-        self, predictions: list[str], return_df=True
+        self, predictions: list, return_df=True
     ) -> Tuple[dict, dict]:
         """Parse Predictions from LLM to follow JSON format.
 
@@ -141,10 +141,9 @@ class BASFMeasurementParser:
             Tuple[dict, dict]: First item is the list of json objects,
             second item is predictions failed to be parsed as Json.
         """
-        predictions_list = predictions.replace("\n", " ").split("]")
         predictions_json = []
         false_json = []
-        for prediction in predictions_list:
+        for prediction in predictions:
             try:
                 predictions_json.extend(build_dict_from_json_string(prediction + "]"))
             except Exception as exception:
