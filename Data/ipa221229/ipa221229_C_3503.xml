@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411893A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411893</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17771745</doc-number>
+<date>20201026</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>42</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>59</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>39</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>026</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>39</main-group>
+<subgroup>17</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>016</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>42</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>59</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>39</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>026</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>39</main-group>
+<subgroup>17</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>016</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20170101</date></cpc-version-indicator>
+<section>B</section>
+<class>01</class>
+<subclass>J</subclass>
+<main-group>47</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">PURIFICATION OF SCANDIUM CONCENTRATE</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>62926708</doc-number>
+<date>20191028</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>RIO TINTO IRON AND TITANIUM CANADA INC.</orgname>
+<address>
+<city>Sorel-Tracy</city>
+<country>CA</country>
+</address>
+</addressbook>
+<residence>
+<country>CA</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Paquin</last-name>
+<first-name>Michel</first-name>
+<address>
+<city>B&#xe9;cancour</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Roy</last-name>
+<first-name>Simon</first-name>
+<address>
+<city>Sorel-Tracy</city>
+<country>CA</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/CA2020/051432</doc-number>
+<date>20201026</date>
+</document-id>
+<us-371c12-date><date>20220425</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In order to reduce the contamination of scandium oxide products, the present disclosure provides a process for removing at least one metal contaminant from a scandium (Sc) concentrate. The process is based on contacting the Sc concentrate with an ion exchange resin to obtain a purified Sc eluate or raffinate. The first ion exchange resin and the second ion exchange resin are strong acid cationic resins with sulfonic acid functional groups in a potassium or sodium form. The purified Sc eluate or raffinate can be used to make scandium oxide products having a reduced amount of metal ion contaminants.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="107.10mm" wi="158.75mm" file="US20220411893A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="222.59mm" wi="150.62mm" orientation="landscape" file="US20220411893A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="248.75mm" wi="169.50mm" orientation="landscape" file="US20220411893A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="187.62mm" wi="123.95mm" orientation="landscape" file="US20220411893A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application claims priority from U.S. provisional Patent Application Ser. No. 62/926,708 filed on Oct. 28, 2019 and herewith incorporated in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNOLOGICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates to processes for reducing the contamination in a scandium concentrate using ion exchange resins.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Scandium (Sc) oxide products can be contaminated with metal contaminants which may, in some embodiments, be radioactive. Contamination, especially with radioactive metal contaminants, is problematic as it may limit the transport of the Sc oxide product and reduce its commercial value.</p>
+<p id="p-0005" num="0004">It would be highly desirable to be provided with a process for reducing the contamination of metal contaminants in the Sc concentrate in order to make a Sc oxide product having a level of 500 ppm (or below) of metal contaminants.</p>
+<heading id="h-0004" level="1">BRIEF SUMMARY</heading>
+<p id="p-0006" num="0005">The present disclosure concerns the use of a strong acid cationic resin (such as a sulfonate ion exchange resin) for reducing the contamination in a scandium concentrate.</p>
+<p id="p-0007" num="0006">In a first aspect, the present disclosure provides a process for removing at least one metal contaminant from a scandium (Sc) concentrate. The process comprises contacting the Sc concentrate with an acidic solution so as to produce an impure Sc solution. In one embodiment of the process, the process comprises contacting the impure Sc solution with a first ion exchange resin capturing the at least one metal contaminant so as to produce a first ion exchange resin complex and a purified Sc raffinate solution, wherein the first ion exchange resin has more affinity for the at least one metal contaminant than for Sc and optionally eluting Sc from the first ion exchange resin complex with a first eluting solution to obtain a first Sc eluate and combining the first Sc eluate with the first Sc raffinate. In another embodiment of the process, the process also comprises contacting the impure Sc solution with a second ion exchange resin capturing the at least one metal contaminant and Sc so as to produce a second ion exchange resin complex; and eluting Sc from the second ion exchange resin complex with a second eluting solution so as to produce a purified Sc eluate. In the processes of the present disclosure, the concentration of the at least one metal contaminant in the purified Sc eluate or the purified Sc raffinate is lower than the concentration of the at least one metal contaminant in the impure Sc solution. Still in the processes of the present disclosure the first ion exchange resin and the second ion exchange resin are strong acid cationic resins with sulfonic acid functional groups in a potassium or sodium form. In an embodiment, the Sc concentrate is in a dry solid form or in an aqueous solid suspension or a slurry form. In yet another embodiment, the sulfonic acid functional groups are in the sodium form. In yet a further embodiment, the at least one metal contaminant has an oxidation state of at least 3. In still a further embodiment, the at least one metal contaminant is thorium (Th) or zirconium (Zr). In a specific embodiment, the at least one metal contaminant is Th. In still another embodiment, the impure Sc solution has a pH between about 1.5 and about 3.5, such as, for example, a pH between about 3.0 and about 3.5. In yet another embodiment, the acidic solution is a HCl solution. In a further embodiment, the process comprises eluting Sc from the first ion exchange resin complex with a first eluting solution to obtain the first Sc eluate and combining the first Sc eluate with the purified Sc raffinate. In yet another embodiment, the second eluting solution or the second eluting solution is a HCl solution. In still another embodiment, the second ion exchange resin is a gel. In yet another embodiment, the first ion exchange resin is a macroporous resin. In an embodiment, the process further comprises eluting the at least one metal contaminant from the first ion exchange resin complex or the second ion exchange resin complex. In another embodiment, the process further comprises regenerating the first ion exchange resin or the second ion exchange resin in the sodium or potassium form.</p>
+<p id="p-0008" num="0007">According to a second aspect, the present disclosure provides a purified scandium (Sc) eluate obtainable or obtained by the process described herein.</p>
+<p id="p-0009" num="0008">According to a third aspect, the present disclosure provides a purified scandium (Sc) raffinate obtainable or obtained by the process described herein.</p>
+<p id="p-0010" num="0009">According to a fourth aspect, the present disclosure provides a process of making a refined scandium (Sc) oxide product. The process comprises precipitating the purified Sc eluate described herein or the purified Sc raffinate described herein with oxalic acid so as to obtain a precipitated slurry having a solid fraction and a liquid fraction. The process also comprises separating the solid fraction of the precipitated slurry from the liquid fraction of the precipitated slurry so as to obtain a separated solid fraction. The process further comprises calcining the separated solid fraction so as to obtain the refined Sc oxide product. The refined Sc oxide product obtained has a concentration of less than 500 ppm of the at least one metal contaminant.</p>
+<p id="p-0011" num="0010">According to a fifth aspect, the present disclosure provides a refined scandium (Sc) oxide product obtainable or obtained by the process described herein. The refined Sc oxide product has a concentration of less than 500 ppm of the at least one metal contaminant.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">Having thus generally described the nature of the invention, reference will now be made to the accompanying drawings, showing by way of illustration, a preferred embodiment thereof, and in which:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a process flow diagram of a first ion exchange process according to one embodiment of a process of removing metal contaminants from a scandium (Sc) concentrate as described herein.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a process flow diagram of a second ion exchange process according to another embodiment of a process of removing metal contaminants from a scandium (Sc) concentrate as described herein.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>3</b></figref> provides the percentage of retention on gel-type resin of scandium (left column for each condition) and thorium (right column for each condition) as a function of the number of cycles of treatment. The percentage of retention is provided as a numeral on top of each columns.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0016" num="0015">The present disclosure concerns a process for reducing the presence of contaminating metallic elements in a scandium concentrate. As used in the context of the present disclosure, the expression &#x201c;scandium concentrate&#x201d; refers to an amorphous (e.g., aqueous solid suspension or slurry) or a crystalline (e.g., dry solid form) scandium carbonate-bicarbonate-hydroxide precipitate. The precipitate can be obtained from processing scandium containing feed material such as liquid effluents and solid residues from titanium dioxide (TiO<sub>2</sub>) feedstock upgrading plants (UGS process, etc.), from TiO<sub>2 </sub>pigment production (sulfate or chloride method), from alumina (Al<sub>2</sub>O<sub>3</sub>) production (Bayer process), from nickel ore processing, from zirconium feedstock processing, from uranium ore processing, from tungsten ore processing, etc. The expression &#x201c;scandium concentrate&#x201d; also refers to scandium oxide or any other scandium-containing solid compound which contains significant amounts of impurities like thorium, zirconium, etc.</p>
+<p id="p-0017" num="0016">In some embodiments, the scandium concentrate can be obtained by neutralizing a scandium carbonate solution from initial pH about 11.0 to final pH 6.5, with the addition of a strong acid, such as, for example, HCl. The scandium concentrate can be repulped and washed with deionized water, and optionally recovered by filtration. An embodiment of a process for obtaining a scandium concentrate is provided in WO2019/213753, herewith incorporated in its entirety.</p>
+<p id="p-0018" num="0017">In the first step of the process, the Sc concentrate is treated with a strong acid, such as, for example, HCl, to achieve a solution (referred to herein as an impure Sc solution) having a pH between about 1.5 and 3.5 (and in some embodiments about between 3.0 and 3.5, or about 3.0). In an embodiment, the impure Sc solution has a pH of at least about 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0, 3.1, 3.2, 3.3 or 3.4, In another embodiment, the impure Sc solution has a pH of no more than about 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.9, 2.8, 2.7, 2.6, 2.5, 2.4, 2.3, 2.2, 2.1, 2.0, 1.9, 1.8, 1.7 or 1.6. In a further embodiment, the impure Sc solution has a pH between about 1.5, 1.6, 1.7, 1.8, 1.9, 2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 3.0, 3.1, 3.2, 3.3 or 3.4 and about 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.9, 2.8, 2.7, 2.6, 2.5, 2.4, 2.3, 2.2, 2.1, 2.0, 1.9, 1.8, 1.7 or 1.6. In an embodiment, the impure Sc solution has a pH of at least about 3.0, 3.1, 3.2, 3.3 or 3.4, In another embodiment, the impure Sc solution has a pH of no more than about 3.5, 3.4, 3.3, 3.2 or 3.1. In a further embodiment, the impure Sc solution has a pH between about 3.0, 3.1, 3.2, 3.3 or 3.4 and about 3.5, 3.4, 3.3, 3.2 or 3.1. In still another embodiment, the impure Sc solution has a pH of about 3.0. In an embodiment, the impure Sc solution has a Sc concentration of about 1 to 20 g/L, and, in some embodiments, of about 1 to 10 g/L, 2 to 6 g/L or 4 to 5 g/L.</p>
+<p id="p-0019" num="0018">The process of the present disclosure is designed to remove, at least in part, some of the metal contaminants from the Sc concentrate by treating an impure Sc solution. The metal contaminants that can be removed from the impure Sc solution by the process of the present disclosure have an oxidation state (in the impure Sc solution) of at least 3. For example, they can include, but are not limited to thorium (Th), iron (Fe), chromium (Cr) and zirconium (Zr). In a specific embodiment, the metal contaminants that can be removed from the impure Sc solution by the process of the present disclosure can include (and in some embodiments be limited to) thorium (Th) and zirconium (Zr). In a specific embodiment, the metal contaminants that can be removed from the impure Sc solution by the process of the present disclosure can include (and in some embodiments be limited to) thorium (Th). In some embodiments, the concentration of the each metal contaminant in the Sc impure solution is between about 10 to 500 mg/L. In an embodiment, the concentration of the each metal contaminant in the Sc impure solution is at least about 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250, 300, 350, 400, 450 mg/mL or more. In another embodiment, the concentration of the each metal contaminant in the Sc impure solution is no more than 500, 450, 400, 350, 300, 250, 200, 150, 100, 90, 80, 70, 60, 50, 40, 30, 20 mg/L or less. In another embodiment, the concentration of the each metal contaminant in the Sc impure solution is between about 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250, 300, 350, 400, 450 mg/mL and about 500, 450, 400, 350, 300, 250, 200, 150, 100, 90, 80, 70, 60, 50, 40, 30, 20 mg/L.</p>
+<p id="p-0020" num="0019">Once the impure Sc solution has been obtained, it is contacted with an ion exchange resin. An &#x201c;ion exchange resin&#x201d; is understood as a resin having an affinity for a metallic ion of interest. The ion exchange resin that can be used in the process of the present disclosure can be made with particles of so called &#x201c;chromatographic size&#x201d; (e.g., average diameter between about 200-400 &#x3bc;m) or of &#x201c;standard size&#x201d; (e.g., average diameter between about 300-1200 &#x3bc;m). The particles of the ion exchange resin can be cross-linked prior to being submitted in the process.</p>
+<p id="p-0021" num="0020">The ion exchange resins used in the process of the present disclosure are strong acid cationic resins such as sulfonate cationic resins. In the context of the present disclosure, such ion exchange resins include sulfonic acid moieties capable of capturing metallic ion contaminants and, in some embodiments, Sc too. As it is known in the art, strong cationic resins show no or very little variation in ion exchange capacity (e.g., charges) with changes in pH. In some embodiments, a strong cationic exchange resin shows no or little variation over a pH range between 1 and 14, for example between 2 and 14. This is contrast with weak cationic exchange resins which are only ionized over a limited pH range (<b>2</b> to <b>9</b> for example).</p>
+<p id="p-0022" num="0021">The ion exchange resins used in the process of the present disclosure are in a potassium or sodium form. As it is known in the art, the &#x201c;form&#x201d; of an ion exchange resin refers to the countercation which is absorbed on the sulfonic acid functional group prior to the process. In the present disclosure, it is preferred that the ion exchange resin includes potassium or sodium countercations. In a specific embodiment, the ion exchange resin of the present disclosure includes sodium countercations (e.g., in a resin in a sodium form).</p>
+<p id="p-0023" num="0022">In some embodiments of the present disclosure, it is possible to use an ion exchange resin in the form of a gel. Gel resins generally have small pores (e.g., about 1 to 2 nm when hydrated). Embodiments of gel ion exchange resins which can be used in the context of the present disclosure include, but are not limited to, Purolite PCR642&#x2122; or SSTC60&#x2122;, Diaion UBK(8)&#x2122;.</p>
+<p id="p-0024" num="0023">In other embodiments of the present disclosure, it is possible to use an ion exchange resin in a macroporous form. Macroporous resins generally have large pores (e.g., about 20 to 100 nm when hydrated). Embodiments of macroporous ion exchange resins which can be used in the context of the present disclosure include, but are not limited to, Purolite C150&#x2122; or PCR145K&#x2122;.</p>
+<p id="p-0025" num="0024">In the processes of the present disclosure, two different types of ion exchange resins can be used. In a first embodiment, the process uses a first ion exchange resin which preferentially captures the metal contaminant but not Sc (at least not in a substantive manner). In this first embodiment, the metal contaminant(s) forms a complex with the first ion exchange resin (e.g., a loaded resin or a second ion exchange resin complex). Furthermore, when the first ion exchange resin is used, a Sc raffinate is obtained. In this first aspect, since some Sc may be captured by the resin, it is possible to elute Sc from the first ion exchange resin complex (e.g., the loaded resin) to obtain a first Sc eluate which can optionally be combined with the Sc raffinate. In the first aspect of the process using a first ion exchange resin, a macroporous resin can be used.</p>
+<p id="p-0026" num="0025">In a second embodiment, the process uses a second ion exchange resin which is capable of capturing and forming a complex with both the metal contaminant and the Sc present in the impure Sc solution. When the second ion exchange resin is used, it is necessary to elute the captured Sc from the resin to obtain a second Sc eluate. The elution step can be performed by contacting, for example, the second ion exchange resin complex (e.g., the loaded resin) with a second eluting solution. The person skilled art would know how to select an eluting solution suitable to obtain the second Sc eluate. In an embodiment, the eluting solution is a strong acid eluting solution, such as, for example, an HCl solution (for example a 1N HCl solution, a 2N HCl solution or a 3N HCl solution). In the second embodiment of the process using a first ion exchange resin, a macroporous or gel resin can be used.</p>
+<p id="p-0027" num="0026">In the processes of the present disclosure, it is possible, once the Sc eluate and/or raffinate have been obtained, to regenerate the resin to undertake a new ion exchange cycle. In such embodiment, the first and/or second ion exchange resin may be submitted to an elution step with a further eluting solution so as to remove the metal contaminants which may have been captured by the resin. The person skilled art would know how to select an eluting solution suitable to remove, at least partially or the majority of, the captured metal contaminants. In an embodiment, the eluting solution is a strong acid eluting solution, such as, for example, an HCl solution (for example a 4N HCl solution, a 5N HCl solution, a 6N HCl solution, or a 8N HCl solution). The eluted metal contaminants may be further treated or discarded.</p>
+<p id="p-0028" num="0027">The processes of the present disclosure can further include steps for generating a refined scandium oxide product. The scandium oxide obtained using the purified Sc eluate and/or Sc raffinate described herein can have, in some embodiments, a level of each metal ion contaminant (e.g., metallic contaminant) below about 500, 450, 400, 350, 300, 250, 200, 150, 100, 90, 80, 70, 60, 50, 40, 30 or 10 ppm. In embodiments in which the scandium concentrate includes Th as a metal ion contaminant, the scandium oxide obtained using the purified Sc eluate and/or raffinate described herein can have, in some embodiments, a level of Th below about 500, 450, 400, 350, 300, 250, 200, 150, 100, 90, 80, 70, 60, 50, 40, 30 or 10 ppm.</p>
+<p id="p-0029" num="0028">An embodiment of the first embodiment of the process using a first ion exchange resin capable of preferentially capturing the metal contaminant and Sc is shown at step <b>130</b> of <figref idref="DRAWINGS">FIG. <b>1</b></figref>. In preliminary steps, a raw Sc concentrate <b>105</b> can be dissolved at step <b>110</b> at pH between 1.5 and 3.5, for example at a pH of 3.0, and heated to a temperature between 20 to 100&#xb0; C., and such as, for example, at about 90&#xb0; C. Dissolution step <b>110</b> can be done using a concentrated acid, such as, for example HCl. The dissolution step generates a slurry <b>115</b> which is submitted to a solid/liquid separation step <b>120</b>. The solid residue (which may include, for example, Fe, Ti, Zr, Th, etc.) obtained after step <b>120</b> can be discarded as waste solids. The separated liquid obtained at step <b>120</b> is considered an impure Sc solution <b>125</b>. In <figref idref="DRAWINGS">FIG. <b>1</b></figref>, an impure Sc solution containing Th as a metal ion contaminant is shown. The impure Sc solution is loaded on a first ion exchange resin at step <b>130</b> to generate a loaded resin <b>133</b>-A (also referred to as a first ion exchange resin complex) including the metal ion contaminant (Th in <figref idref="DRAWINGS">FIG. <b>1</b></figref>). Because the first ion exchange resin does not substantially capture Sc, step <b>130</b> generates a purified Sc raffinate <b>135</b>-B. The loaded resin <b>133</b>-A can be submitted to an elution step to gather the Sc metallic ion which may have been captured on the first ion exchange resin (not shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>). The purified Sc raffinate <b>135</b>-B (optionally in combination with the Sc eluate obtained) can be submitted to a precipitation step <b>140</b> whereby oxalic acid <b>143</b> is added. The precipitation step <b>140</b> can be conducted at a temperature of 20 to 100&#xb0; C., such as, for example, at about 60&#xb0; C. The precipitation step can generate a slurry <b>145</b> which can be submitted to a solid/liquid separation step <b>150</b>. The solids <b>155</b> obtained from the separation step <b>150</b> can be submitted to a calcining step <b>160</b> and the spent oxalate solution can be disposed or reused. Calcining step <b>160</b> can include a step of submitting the solids <b>155</b> to a temperature of 600 to 1000&#xb0; C., (such as, for example, at about 900&#xb0; C.) until a refined scandium oxide product <b>165</b> is obtained.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>1</b></figref> also includes the steps to regenerate the resin once a purified Sc raffinate <b>135</b>-B and optionally the Sc eluate have been obtained. In order to do so, resin <b>133</b>-A can be submitted to elution step <b>134</b> using a strong acid solution, such as, for example, a 6N HCl solution as shown on <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The eluate from step <b>134</b> can be further treated. Resin <b>133</b>-B obtained after step <b>134</b> can be washed, at step <b>136</b>, with an aqueous solution, such as for example, water as shown on <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Washed resin <b>133</b>-C obtained from step <b>136</b> can be regenerated at step <b>138</b> using a basic solution, such as, for example, a 5-10% NaOH solution. The basic solution added at step <b>138</b> includes a sodium or a potassium ion. The regenerated resin <b>139</b> can be used at step <b>130</b> to perform the ion exchange step.</p>
+<p id="p-0031" num="0030">An embodiment of the second embodiment of the process using a second ion exchange resin capable of capturing both the metal contaminant and Sc is shown at steps <b>130</b> and <b>132</b> of <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Prior to steps <b>130</b> and <b>132</b>, a raw Sc concentrate <b>105</b> can be dissolved at step <b>110</b> at pH between 1.5 and 3.5, for example at pH 3.0, and heated to a temperature between 20 to 100&#xb0; C., such as, for example, at about 90&#xb0; C. Dissolution step <b>110</b> can be done using a concentrated acid, such as, for example HCl. The dissolution step generates a slurry <b>115</b> which can be submitted to a solid/liquid separation step <b>120</b>. The solid residue (which may include, for example, Fe, Ti, Zr, Th, etc.) obtained after step <b>120</b> can be discarded as waste solids. The separated liquid obtained at step <b>120</b> is considered an impure Sc solution <b>125</b>. In <figref idref="DRAWINGS">FIG. <b>2</b></figref>, an impure Sc solution containing Th as a metal ion contaminant is shown. The impure Sc solution is loaded on a first ion exchange resin at step <b>130</b> to generate a loaded resin <b>131</b>-A (also referred to as a second ion exchange resin complex) including both Sc and Th. In order to separate Sc from the metal ion contaminant (e.g., Th in <figref idref="DRAWINGS">FIG. <b>2</b></figref>), the resin is submitted to an elution step <b>132</b>. At elution step <b>132</b>, a strong acid, such as a 3N HCl solution as shown on <figref idref="DRAWINGS">FIG. <b>2</b></figref>, is applied to the loaded resin <b>131</b>-A to obtain a purified Sc eluate <b>135</b>-A. The acid used to elute Sc must be just strong enough to remove Sc from the resin and leave behind most of the metal ion contaminant (e.g., Th in <figref idref="DRAWINGS">FIG. <b>2</b></figref>) and most of other contaminants. The purified Sc eluate <b>135</b>-A can be submitted to a precipitation step <b>140</b> whereby oxalic acid <b>143</b> is added. The precipitation step <b>140</b> can be conducted at a temperature of 20 to 100&#xb0; C., such as, for example, at about 60&#xb0; C. The precipitation step <b>140</b> generates a slurry <b>145</b> which can be submitted to a solid/liquid separation step <b>150</b>. The solids <b>155</b> obtained from separation step <b>150</b> can be submitted to a calcining step <b>160</b> and the spent oxalate solution can be disposed or reused. The calcining step <b>160</b> can include a step of submitting the solids <b>155</b> to a temperature of 600 to 1000&#xb0; C., and such as, for example, at about 900&#xb0; C. until a refined scandium oxide product <b>165</b> is obtained.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>2</b></figref> also includes the steps to regenerate the resin once a purified Sc eluate <b>135</b>-A has been obtained. In order to do so, resin <b>133</b>-A can be submitted to elution step <b>134</b> using a strong acid solution, such as, for example, a 6N HCl solution as shown on <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Because the second ion exchange resin has more affinity for the metal contaminant than for Sc, the acidic solution used to eluate the metal ion contaminant of resin <b>133</b>-A is of higher normality than the acidic solution used to eluate Sc of resin <b>131</b>-A. The eluate from step <b>134</b> can be further treated. Resin <b>133</b>-B obtained after step <b>134</b> can be washed, at step <b>136</b>, with an aqueous solution, such as for example, water as shown on <figref idref="DRAWINGS">FIG. <b>2</b></figref>. Washed resin <b>133</b>-C obtained from step <b>136</b> can be regenerated at step <b>138</b> using a basic solution, such as, for example, a 5-10% NaOH solution. The basic solution at step <b>138</b> includes a sodium or a potassium ion (not specifically shown on <figref idref="DRAWINGS">FIG. <b>2</b></figref>). The regenerated resin <b>139</b> can be used at step <b>130</b> to perform the ion exchange step.</p>
+<p id="p-0033" num="0032">The skilled person in the art appreciates that the final purity of the scandium oxide product <b>165</b> is directly affected by the initial purity of the scandium eluate or raffinate obtained after the ion exchange steps <b>130</b> (and optionally <b>132</b>). The process described herein increases the final purity of the scandium oxide product by increasing the purity of the scandium eluate.</p>
+<heading id="h-0007" level="1">EXAMPLE I&#x2014; THE EFFECT OF RESIN CONDITION (H<sup>+</sup> FORM, OR Na<sup>+</sup> FORM) ON ITS SELECTIVITY FOR SCANDIUM AND THORIUM</heading>
+<p id="p-0034" num="0033">Selectivity tests were performed with two strong cationic (sulfonate) gel-type resins in H<sup>+</sup> form (i.e., with protons occupying the active sites of the resin) or in Na<sup>+</sup> form (i.e., with sodium cations occupying the active sites of the resin). In each test, 15 mL resin, and 100 mL impure scandium solution containing 4-5 g/L Sc at pH 3.0, were mixed in a beaker under ambient temperature for 12 h so as to reach equilibrium. The resins had been initially received in H<sup>+</sup> form. For the tests with the resins in Na<sup>+</sup> form, the resins were pre-conditioned for few hours with sodium hydroxide solution (5% w/w NaOH). After each test, the solutions were recovered by filtration and analyzed for their scandium and thorium contents. As shown in Table 1, the resins in Na<sup>+</sup> form were more selective for scandium in comparison to thorium. About 98% of thorium was adsorbed on the resins in H<sup>+</sup> form, when only 15% to 20% of thorium was adsorbed on the resins in Na<sup>+</sup> form.</p>
+<p id="p-0035" num="0034">Table 1. Results from selectivity tests with two strong cationic (sulfonate) gel-type resins in H<sup>+</sup> form and in Na<sup>+</sup> form.</p>
+<p id="p-0036" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="119pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Concentration (mg/L)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Sc </entry>
+<entry>Sc </entry>
+<entry>Th </entry>
+<entry>Th </entry>
+</row>
+<row>
+<entry/>
+<entry>Resin</entry>
+<entry>Form</entry>
+<entry>initial</entry>
+<entry>final</entry>
+<entry>initial</entry>
+<entry>final</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="42pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Diaion </entry>
+<entry>H<sup>+</sup> form</entry>
+<entry>4100</entry>
+<entry>1400</entry>
+<entry>20</entry>
+<entry>0.4</entry>
+</row>
+<row>
+<entry/>
+<entry>UBK (8)</entry>
+<entry>Na<sup>+</sup> form</entry>
+<entry>4400</entry>
+<entry>1100</entry>
+<entry>34</entry>
+<entry>29</entry>
+</row>
+<row>
+<entry/>
+<entry>Purolite </entry>
+<entry>H<sup>+</sup> form</entry>
+<entry>4030</entry>
+<entry>1300</entry>
+<entry>20</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry/>
+<entry>SSTC60</entry>
+<entry>Na<sup>+</sup> form</entry>
+<entry>4030</entry>
+<entry>1400</entry>
+<entry>21</entry>
+<entry>17</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0008" level="1">EXAMPLE II&#x2014;THE EFFECT OF pH OF THE IMPURE SCANDIUM SOLUTION ON THE RESIN SELECTIVITY FOR SCANDIUM AND THORIUM</heading>
+<p id="p-0037" num="0035">To evaluate the effect of pH of the impure scandium solution on the selectivity of strong cationic (sulfonate) resins for scandium and thorium, tests were performed with gel-type chromatographic resin Purolite PCR642 and impure scandium solution containing 4-5 g/L Sc and acidified with HCl at different pH values. All tests were conducted in a beaker with 15 mL resin and 100 mL impure scandium solution mixed together under ambient temperature for 12 hours so as to reach equilibrium. Prior to the tests, the resin had been conditioned in Na<sup>+</sup> form by contacting it with sodium hydroxide solution (5% w/w NaOH) solution for few hours. After each test, the solutions were recovered by filtration and analyzed for their scandium and thorium contents. As shown on Table 2, the resin selectivity for scandium is higher at relatively higher pH values. The optimal pH for best selectivity lies between 3.0 and pH 3.5. At these pH values, 75% of scandium was adsorbed in comparison to less than 25% of thorium adsorbed. At pH &#x3e;3.5, scandium losses were significant because scandium started precipitating in a solid form.</p>
+<p id="p-0038" num="0036">Table 2. Results from tests with feed (impure) scandium solution at different pH values, and gel-type chromatographic resin Purolite PCR642.</p>
+<p id="p-0039" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="175pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Concentration (mg/L)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>pH</entry>
+<entry>Sc initial</entry>
+<entry>Sc final</entry>
+<entry>Th initial</entry>
+<entry>Th final</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="char" char="."/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="56pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1.5</entry>
+<entry>5300</entry>
+<entry>3000</entry>
+<entry>32</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry>2.0</entry>
+<entry>4700</entry>
+<entry>2900</entry>
+<entry>29</entry>
+<entry>16</entry>
+</row>
+<row>
+<entry>2.5</entry>
+<entry>5000</entry>
+<entry>2800</entry>
+<entry>37</entry>
+<entry>23</entry>
+</row>
+<row>
+<entry>3.0</entry>
+<entry>4600</entry>
+<entry>1100</entry>
+<entry>36</entry>
+<entry>28</entry>
+</row>
+<row>
+<entry>3.5</entry>
+<entry>4700</entry>
+<entry>1600</entry>
+<entry>37</entry>
+<entry>30</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0009" level="1">EXAMPLE III&#x2014; THE EFFECT OF RESIN TYPE (GEL-TYPE, OR MACROPOROUS) AND PARTICLE SIZE (STANDARD, OR CHROMATOGRAPHIC) ON ITS SELECTIVITY FOR SCANDIUM AND THORIUM</heading>
+<p id="p-0040" num="0037">To evaluate the effect of resin type (gel-type, or macroporous) and resin particle size (standard 300-1200 &#x3bc;m, or chromatographic 200-400 &#x3bc;m) on the selectivity for scandium and thorium, tests were performed with different strong cationic (sulfonate) resins, and impure scandium solution containing 4-5 g/L Sc and acidified with HCl at pH 3.0. All tests were conducted in a beaker with 15 mL resin and 100 mL impure scandium solution mixed together under ambient temperature for 12 hours so as to reach equilibrium. Prior to the tests, the resin had been conditioned in Na<sup>+</sup> form by contacting it with sodium chloride (5% w/w NaOH) solution for few hours. After each test, the solutions were recovered by filtration and analyzed for their scandium and thorium contents. As shown on Table 3, the macroporous resins adsorbed nearly 100% of thorium in solution. Also, the results of Table 3 showed that resins of chromatographic particle size exhibited higher selectivity for thorium than for scandium.</p>
+<p id="p-0041" num="0038">Table 3. Results from tests with strong cationic (sulfonate) resins of different types and sizes.</p>
+<p id="p-0042" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="147pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Concentration (mg/L)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Resin type and size</entry>
+<entry>Sc initial</entry>
+<entry>Sc final</entry>
+<entry>Th initial</entry>
+<entry>Th final</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Gel-type, standard size</entry>
+<entry>5100</entry>
+<entry>1400</entry>
+<entry>21</entry>
+<entry>17</entry>
+</row>
+<row>
+<entry>Purolite SSTC60</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Macroporous, </entry>
+<entry>5000</entry>
+<entry>1650</entry>
+<entry>21</entry>
+<entry>0.1</entry>
+</row>
+<row>
+<entry>standard size</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Purolite C150</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Gel-type, </entry>
+<entry>4600</entry>
+<entry>1100</entry>
+<entry>36</entry>
+<entry>28</entry>
+</row>
+<row>
+<entry>chromatographic size</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Purolite PCR642</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Macroporous, </entry>
+<entry>5100</entry>
+<entry>2300</entry>
+<entry>21</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry>chromatographic size</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Purolite PCR145</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="1">EXAMPLE IV&#x2014;COLUMN PURIFICATION OF IMPURE SCANDIUM SOLUTION USING A GEL-TYPE RESIN</heading>
+<p id="p-0043" num="0039">Continuous column tests were performed with UBK(8) resin from Diaion (strong cationic resin (sulfonate in Na<sup>+</sup>-form) made of polystyrene gel crosslinked with divinylbenzene). The adsorption was conducted in a column having 1.5 cm diameter and containing 12 mL resin volume, with a flow of impure scandium solution about 5 mL/min. The resin was washed using 100 mL water at a flow of 10 mL/min. Scandium was eluted with 100 mL of 3N HCl solution at a flow of 5 mL/min. The total recovery of scandium from the impure scandium solution to the scandium eluate was 73%, while that of thorium was only 2.7%, indicating the high selectivity of scandium versus thorium. Thorium was finally eluted from the resin with 300 mL 6N HCl solution at a flow of 5 mL/min.</p>
+<p id="p-0044" num="0040">Four cycles of adsorption (80 mL of acidified impure scandium solution at 5 mL/min), washing (30 mL water at 5 mL/min), scandium elution (100 mL of 3N HCl solution at 5 mL/min), thorium elution (300 mL of 6N HCl solution at 5 mL/min), washing (100 mL water at 5 mL/min), and conditioning (50 mL of 5% wt. NaOH solution at 5 mL/min) were performed on the same column. The scandium eluates were combined, and scandium was precipitated as scandium oxalate with the addition of 50 mL of 240 g/L hot oxalic acid solution. The precipitate was filtered, washed with deionized water, and calcined overnight at 850&#xb0; C. The thorium content of the final product (scandium oxide) was determined by inductively coupled plasma mass spectrometry (ICP-MS), and it was found to be 410&#xb1;25 ppm (mg/kg). The chemical analysis of the initial solution (acidified impure scandium solution), the solution treated with the resin (raffinate), the scandium eluate and the precipitated product obtained is presented in Table 4.</p>
+<p id="p-0045" num="0041">Table 4. Chemical analysis of the initial solution, the raffinate, the scandium eluate and the filtrate of scandium oxalate precipitation.</p>
+<p id="p-0046" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="175pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Concentration (mg/L)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="70pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Initial </entry>
+<entry>Solution </entry>
+<entry>Sc eluate</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>solution at</entry>
+<entry>treated</entry>
+<entry>(with </entry>
+</row>
+<row>
+<entry/>
+<entry>Element</entry>
+<entry>pH 3.0</entry>
+<entry>with UBK(8)</entry>
+<entry>3N HCl)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="70pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>0</entry>
+<entry>0.5</entry>
+<entry>&#x3c;0.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>54</entry>
+<entry>22.7</entry>
+<entry>22</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Ni</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>22</entry>
+<entry>14.9</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>V</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Zr</entry>
+<entry>37</entry>
+<entry>25.9</entry>
+<entry>4.0</entry>
+</row>
+<row>
+<entry/>
+<entry>Mg</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Cu</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Sc</entry>
+<entry>4700</entry>
+<entry>637</entry>
+<entry>3050</entry>
+</row>
+<row>
+<entry/>
+<entry>Nd</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Al</entry>
+<entry>12.6</entry>
+<entry>2.4</entry>
+<entry>5.13</entry>
+</row>
+<row>
+<entry/>
+<entry>Ca</entry>
+<entry>0</entry>
+<entry>3.46</entry>
+<entry>5.71</entry>
+</row>
+<row>
+<entry/>
+<entry>Na</entry>
+<entry>1000</entry>
+<entry>5300</entry>
+<entry>1300</entry>
+</row>
+<row>
+<entry/>
+<entry>P</entry>
+<entry>0</entry>
+<entry>10.7</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Y</entry>
+<entry>0</entry>
+<entry>0.1</entry>
+<entry>&#x3c;0.1</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>28</entry>
+<entry>20</entry>
+<entry>5.88</entry>
+</row>
+<row>
+<entry/>
+<entry>U</entry>
+<entry>0.9</entry>
+<entry>0.4</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry/>
+<entry>Th</entry>
+<entry>20.5</entry>
+<entry>11.7</entry>
+<entry>2.7</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0047" num="0042">The stability of the resin after four cycles of treatment as described above was determined. As shown on <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the adsorption of scandium remained stable with 81&#xb1;3% of Sc adsorbed in each pass, which is equivalent to an average resin capacity of about 21 g/L Sc. As also shown on <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the adsorption of thorium was low, at 14&#xb1;3% in each pass.</p>
+<heading id="h-0011" level="1">EXAMPLE V&#x2014;SELECTIVITY TESTS AND COLUMN PURIFICATION OF IMPURE SCANDIUM SOLUTION USING A MACROPOROUS RESIN</heading>
+<p id="p-0048" num="0043">Selectivity tests were performed with PCR145K resin from Purolite (strong cationic resin (sulfonate in Na<sup>+</sup>-form) made of macroporous polystyrene beads crosslinked with divinylbenzene).</p>
+<p id="p-0049" num="0044">For the selectivity tests, 5-15 mL of resin was mixed with 100-200 mL of impure scandium solution (&#x2dc;5 g/L Sc at pH 3.0) under ambient temperature for 12-16 h. After each test, the solution was analyzed again for its scandium and thorium contents. It was thus observed that the resin adsorbed 97% of thorium and only 7% of scandium (see Table 5 below, test 4).</p>
+<p id="p-0050" num="0045">Table 5. Effects of the variables tested on the adsorption of scandium and thorium</p>
+<p id="p-0051" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="offset" colwidth="77pt" align="left"/>
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Initial</entry>
+<entry>Final</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>concentration</entry>
+<entry>concentration</entry>
+<entry>Adsorbed</entry>
+<entry>Adsorbed</entry>
+</row>
+<row>
+<entry/>
+<entry>Time</entry>
+<entry>(mg/L)</entry>
+<entry>(mg/L)</entry>
+<entry>Sc</entry>
+<entry>Th</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Test</entry>
+<entry>Resin/Solution</entry>
+<entry>(h)</entry>
+<entry>Th</entry>
+<entry>Sc</entry>
+<entry>Th</entry>
+<entry>Sc</entry>
+<entry>(%)</entry>
+<entry>(%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>15 mL resin/</entry>
+<entry>16</entry>
+<entry>20.9</entry>
+<entry>5100</entry>
+<entry>0.08</entry>
+<entry>2300</entry>
+<entry>55</entry>
+<entry>99.6</entry>
+</row>
+<row>
+<entry/>
+<entry>100 mL solution</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>5 mL resin/</entry>
+<entry>16</entry>
+<entry>20.9</entry>
+<entry>5100</entry>
+<entry>0.26</entry>
+<entry>4300</entry>
+<entry>16</entry>
+<entry>98.8</entry>
+</row>
+<row>
+<entry/>
+<entry>100 mL solution</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>5 mL resin/</entry>
+<entry>16</entry>
+<entry>20.9</entry>
+<entry>5100</entry>
+<entry>0.50</entry>
+<entry>4600</entry>
+<entry>10</entry>
+<entry>97.6</entry>
+</row>
+<row>
+<entry/>
+<entry>200 mL solution</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>10 mL resin/</entry>
+<entry>16</entry>
+<entry>42.8</entry>
+<entry>9600</entry>
+<entry>1.31</entry>
+<entry>8950</entry>
+<entry>7</entry>
+<entry>96.9</entry>
+</row>
+<row>
+<entry/>
+<entry>100 mL solution</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>5 mL resin/</entry>
+<entry>2</entry>
+<entry>21.1</entry>
+<entry>4950</entry>
+<entry>6.67</entry>
+<entry>4450</entry>
+<entry>10</entry>
+<entry>68.4</entry>
+</row>
+<row>
+<entry/>
+<entry>200 mL solution</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0052" num="0046">The selectivity of the PCR145K resin for thorium was superior compared to the selectivity of corresponding gel-type resins (such as those described in Example IV, see Table 6).</p>
+<p id="p-0053" num="0047">Table 6. Comparison of the gel-type and macroporous-type resins.</p>
+<p id="p-0054" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Sc<sub>2</sub>O<sub>3 </sub></entry>
+<entry/>
+<entry>Th </entry>
+</row>
+<row>
+<entry/>
+<entry>equivalent</entry>
+<entry>Sc </entry>
+<entry>removal</entry>
+</row>
+<row>
+<entry/>
+<entry>production</entry>
+<entry>recovery</entry>
+<entry>rate</entry>
+</row>
+<row>
+<entry>Resin</entry>
+<entry>(g/L resin)</entry>
+<entry>(%)*</entry>
+<entry>(%)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Diaion UBK(8) [gel]</entry>
+<entry>~25</entry>
+<entry>71</entry>
+<entry>78</entry>
+</row>
+<row>
+<entry>Purolite SSTC60 [gel]</entry>
+<entry>~25</entry>
+<entry>73</entry>
+<entry>81</entry>
+</row>
+<row>
+<entry>Purolite PCR145K</entry>
+<entry>~178</entry>
+<entry>92</entry>
+<entry>98</entry>
+</row>
+<row>
+<entry>[macroporous]</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="4" align="left" id="FOO-00001">*Adsorbed Sc for gel-type resins and non-adsorbed Sc for the Purolite&#x2009;&#xae; PCR145K resin.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0055" num="0048">Continuous column tests were also performed with resin PCR145K. The adsorption was conducted in column having 1.5 cm diameter and containing 12 mL resin, with 200 mL of impure scandium solution at a flow between 1 mL/min. The resin was washed with 30 mL water at a flow of 10 mL/min. Thorium was eluted with 300 mL 6N HCl solution at a flow of 5 mL/min. The resin was conditioned using 100 mL 5% w/w NaOH solution at a flow of 5 mL/min.</p>
+<p id="p-0056" num="0049">Oxalic acid was added to the raffinate (the solution that after Th adsorption on PCR145K resin) to precipitate scandium oxalate, and to determine the purity of the final scandium oxide product. The precipitation of scandium oxalate was done with the addition of 50 mL of 240 g/L hot oxalic acid solution to about 200 mL of scandium-containing raffinate. The scandium oxalate precipitate was filtered, washed with water, was calcined overnight at 850&#xb0; C. to convert it to scandium oxide. The initial solution feed solution (impure scandium solution at pH 3.0), the raffinate, and the filtrate after scandium oxalate precipitation were analyzed by ICP-MS. The mass balance (based on chemical analyses) is presented in Table 7.</p>
+<p id="p-0057" num="0050">Table 7. Mass balance of the initial solution, the raffinate (solution treated with PCR145K), and the solution after scandium oxalate precipitation.</p>
+<p id="p-0058" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="91pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Initial solution</entry>
+<entry>Raffinate</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>pH 3.0 (mg)</entry>
+<entry>(mg)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="91pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>9.504</entry>
+<entry>1.868</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>28.60</entry>
+<entry>7.526</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>0.096</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>Ni</entry>
+<entry>0.72</entry>
+<entry>0.79</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>11.04</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>V</entry>
+<entry>0.24</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>Zr</entry>
+<entry>20.25</entry>
+<entry>0.338</entry>
+</row>
+<row>
+<entry/>
+<entry>Mg</entry>
+<entry>0.048</entry>
+<entry>0.188</entry>
+</row>
+<row>
+<entry/>
+<entry>Cu</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>Sc</entry>
+<entry>2448</entry>
+<entry>1900</entry>
+</row>
+<row>
+<entry/>
+<entry>Nd</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>Al</entry>
+<entry>1.77</entry>
+<entry>2.274</entry>
+</row>
+<row>
+<entry/>
+<entry>Ca</entry>
+<entry>0</entry>
+<entry>2.218</entry>
+</row>
+<row>
+<entry/>
+<entry>Na</entry>
+<entry>528</entry>
+<entry>938</entry>
+</row>
+<row>
+<entry/>
+<entry>P</entry>
+<entry>11.71</entry>
+<entry>0.618</entry>
+</row>
+<row>
+<entry/>
+<entry>Y</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>14.54</entry>
+<entry>14.20</entry>
+</row>
+<row>
+<entry/>
+<entry>U</entry>
+<entry>0.432</entry>
+<entry>0.442</entry>
+</row>
+<row>
+<entry/>
+<entry>Th</entry>
+<entry>8.928</entry>
+<entry>0.186</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0059" num="0051">The final scandium oxide product was analysed for its thorium content and it was found to be only 56&#xb1;13 ppm (mg/kg), well below the specification for commercial applications (typically less than 150 ppm Th).</p>
+<p id="p-0060" num="0052">While the invention has been described in connection with specific embodiments thereof, it will be understood that the scope of the claims should not be limited by the preferred embodiments set forth in the examples, but should be given the broadest interpretation consistent with the description as a whole.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A process for removing at least one metal contaminant from a scandium (Sc) concentrate, the process comprising:
+<claim-text>a) contacting the Sc concentrate with an acidic solution so as to produce an impure Sc solution; and</claim-text>
+<claim-text>b) contacting the impure Sc solution with a first ion exchange resin capturing the at least one metal contaminant so as to produce a first ion exchange resin complex and a purified Sc raffinate solution, wherein the first ion exchange resin has more affinity for the at least one metal contaminant than for Sc; and optionally eluting Sc from the first ion exchange resin complex with a first eluting solution to obtain a first Sc eluate and combining the first Sc eluate with the first Sc raffinate; or
+<claim-text>contacting the impure Sc solution with a second ion exchange resin capturing the at least one metal contaminant and Sc so as to produce a second ion exchange resin complex; and eluting Sc from the second ion exchange resin complex with a second eluting solution so as to produce a purified Sc eluate;</claim-text>
+</claim-text>
+<claim-text>wherein a concentration of the at least one metal contaminant in the purified Sc eluate or the purified Sc raffinate solution is lower than a concentration of the at least one metal contaminant in the impure Sc solution; and</claim-text>
+<claim-text>wherein the first ion exchange resin and the second ion exchange resin are strong acid cationic resins with sulfonic acid functional groups in a potassium or sodium form.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the Sc concentrate is in a dry solid form or in an aqueous solid suspension form.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sulfonic acid functional groups are in the sodium form.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one metal contaminant has an oxidation state of at least 3.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The process of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the at least one metal contaminant is thorium (Th) or zirconium (Zr).</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The process of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the at least one metal contaminant is Th.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the impure Sc solution has a pH between about 1.5 and about 3.5.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The process of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the impure Sc solution has a pH between about 3.0 and about 3.5.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the acidic solution is a HCl solution.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising eluting Sc from the first ion exchange resin complex with a first eluting solution to obtain the first Sc eluate and combining the first Sc eluate with the first Sc raffinate.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second first eluting solution or the second eluting solution is a HCl solution.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the second ion exchange resin is a gel.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first ion exchange resin is a macroporous resin.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The process of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising eluting the at least one metal contaminant from the first ion exchange resin complex or the second ion exchange resin complex.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The process of <claim-ref idref="CLM-00014">claim 14</claim-ref> further comprising regenerating the first ion exchange resin or the second ion exchange resin in the sodium or potassium form.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A purified scandium (Sc) eluate obtainable or obtained by the process of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A process of making a refined scandium (Sc) oxide product, the process comprising:
+<claim-text>(i) precipitating the purified Sc eluate of <claim-ref idref="CLM-00016">claim 16</claim-ref> with oxalic acid so as to obtain a precipitated slurry having a solid fraction and a liquid fraction;</claim-text>
+<claim-text>(ii) separating the solid fraction of the precipitated slurry from the liquid fraction of the precipitated slurry so as to obtain a separated solid fraction; and</claim-text>
+<claim-text>(iii) calcining the separated solid fraction so as to obtain the refined Sc oxide product,</claim-text>
+<claim-text>wherein the refined Sc oxide product has a concentration of less than 500 ppm of the at least one metal contaminant.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

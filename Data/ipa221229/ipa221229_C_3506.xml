@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411896A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411896</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17754586</doc-number>
+<date>20201005</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FR</country>
+<doc-number>1911251</doc-number>
+<date>20191010</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>47</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>10</main-group>
+<subgroup>54</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>26</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>47</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>10</main-group>
+<subgroup>54</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>26</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>23</main-group>
+<subgroup>0461</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>006</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">METHOD FOR RECYCLING LI-ION BATTERIES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>COMMISSARIAT &#xc0; L'&#xc9;NERGIE ATOMIQUE ET AUX &#xc9;NERGIES ALTERNATIVES</orgname>
+<address>
+<city>Paris</city>
+<country>FR</country>
+</address>
+</addressbook>
+<residence>
+<country>FR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Billy</last-name>
+<first-name>Emmanuel</first-name>
+<address>
+<city>Grenoble</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Barthelemy</last-name>
+<first-name>Sandrine</first-name>
+<address>
+<city>Grenoble</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/FR2020/051737</doc-number>
+<date>20201005</date>
+</document-id>
+<us-371c12-date><date>20220406</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for recycling a battery including the following steps: a) dissolution of a battery waste, for example an electrode, including lithium and a metal selected from cobalt and manganese, such that a solution to be treated containing lithium ions and metal ions is formed, b) addition of a peroxymonosulfate salt to the solution to be treated, the solution to be treated being regulated at a pH ranging from 1 to 4 when the metal is cobalt or at a pH ranging from 0.1 to 2.5 when the metal is manganese, such that the metal ions are selectively precipitated in the form of metal oxyhydroxide, c) separation of the lithium ions from the solution to be treated. Advantageously, the solution further comprises nickel ions.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="128.44mm" wi="145.97mm" file="US20220411896A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to the general field of recycling of lithium batteries and more particularly to recycling of Li-ion type batteries.</p>
+<p id="p-0003" num="0002">The invention relates to a recycling method allowing selectively extracting cobalt and/or manganese from a solution further containing lithium ions.</p>
+<p id="p-0004" num="0003">The invention is particularly interesting since the efficiency of extraction of these elements is very high.</p>
+<heading id="h-0002" level="1">PRIOR ART</heading>
+<p id="p-0005" num="0004">The market of lithium, in particular Li-ion type, accumulators (or batteries) is currently growing in particular with nomadic applications (&#x201c;smartphone&#x201d;, portable electric tooling...) and with the emergence and development of electric and hybrid vehicles.</p>
+<p id="p-0006" num="0005">Lithium-ion accumulators comprise an anode, a cathode, a separator, an electrolyte and a casing which may consist of a polymer pouch, or a metallic packaging. In general, the negative electrode is made of graphite mixed with a PVDF type binder deposited over a copper sheet. The positive electrode is a lithium-ion insertion material (for example, LiCoO<sub>2</sub>, LiMnO<sub>2</sub>, Li<sub>3</sub>NiMnCoO<sub>6</sub>, LiFePO<sub>4</sub>) mixed with a polyvinylidene fluoride type binder deposited over an aluminium sheet. The electrolyte consists of lithium salts (LiPF<sub>6</sub>, LiBF<sub>4</sub>, LiClO<sub>4</sub>) solubilised in an organic base consisting of mixtures of binary or ternary solvents based on carbonates.</p>
+<p id="p-0007" num="0006">The operation is as follows: during charging, lithium is detached from the active material of the positive electrode and fits into the active material of the negative electrode. During discharge, the process is reversed.</p>
+<p id="p-0008" num="0007">Given the environmental, economic and strategic challenges in the supply of some metals present in batteries, it is necessary to recycle 50% of the materials contained in Li-ion cells and accumulators (2006/66/EC directive). In particular, it consists in valorising copper, cobalt, nickel and lithium.</p>
+<p id="p-0009" num="0008">Currently, to recover the valuable elements, industrials generally use a combination of physical, thermal and chemical methods.</p>
+<p id="p-0010" num="0009">For example, the physical methods consist in dismantling, crushing and sieving the batteries.</p>
+<p id="p-0011" num="0010">The thermal methods are based on pyrometallurgical processes consisting in heating the residues at high temperature to separate the metals in the form of slags or alloys. However, these thermal methods are energy-expensive because they need temperatures that could reach 1400&#xb0; C. While being very efficient to separate cobalt, nickel and copper, they do not allow recovering manganese and lithium. The chemical methods are used to recover the valuable elements in a pure form. These consist of hydrometallurgical processes implementing reagent in a liquid phase to dissolve and/or make the metals precipitate. The conventional lixiviation uses highly concentrated acids. The separation could be achieved by various chemical methods and reagents.</p>
+<p id="p-0012" num="0011">For example, in the document WO 2005/101564 A1, cells and batteries are subjected to a hydrometallurgical treatment process. The process comprises the following steps: dry crushing, at room temperature, in an inert atmosphere, then a treatment by magnetic separation and densimetric table, and aqueous hydrolysis, in order to recover lithium, for example in the form of carbonate. The fine fraction freed from soluble lithium and including the valuable elements is dissolved in a 2N sulfuric medium at a temperature of 80&#xb0; C. in the presence of steel shot. After purification, cobalt is recovered by precipitation by adding sodium hypochlorite, with the regulation of pH at a value comprised between 2.3 and 2.8. This method is used for a solution rich in cobalt (&#x3e;98%) and with a very low manganese concentration (&#x3c;2%). For a solution that is rich in both cobalt and manganese, an electrolysis is carried out at a temperature of 55&#xb0; C. under a current density comprised between 400 and 600 A/m<sup>2</sup>.</p>
+<p id="p-0013" num="0012">However, the use of hypochlorite is harmful for the plants, safety and therefore the cost of the process. In addition, it is necessary to know the manganese concentration in order to select the suitable process.</p>
+<p id="p-0014" num="0013">In the document EP 2 532 759 A1, the method for recovering metals from crushings of lithium batteries or of elements of lithium batteries comprising the following steps:</p>
+<p id="p-0015" num="0014">lixiviation of the crushings in an acid medium so as to obtain a solution containing metal ions,</p>
+<p id="p-0016" num="0015">separation of the metal ions from the obtained solution on a first cation-exchange resin, preferably on a sulfonic resin, to obtain a solution of lithium ions, a nickel, cobalt and/or manganese solution, and a last solution of aluminium ions,</p>
+<p id="p-0017" num="0016">separation of the solution of nickel and cobalt and manganese ions on a second cation-exchange resin so as to obtain a solution of nickel and cobalt ions, and a solution of manganese ions.</p>
+<p id="p-0018" num="0017">For example, the elution of the nickel and cobalt ions is carried out with a solution complexing the nickel and/or cobalt ions, for example with aminopolycarboxylic acid.</p>
+<p id="p-0019" num="0018">For example, the elution of the manganese ions is carried out with a mineral acid at a concentration of 2N to 4N.</p>
+<p id="p-0020" num="0019">However, ion-exchange resins are relatively expensive, and need to be regenerated. Their use generates much effluents, significant treatment times and a considerable acid consumption.</p>
+<p id="p-0021" num="0020">In the document US 2019/0152797 A1, a method allowing recovering nickel, manganese, lithium sulphates and cobalt oxides from the battery wastes. The method consists in dissolving battery wastes with acid, iron and aluminium are then retrieved and then calcium, magnesium and copper are retrieved. The separation steps are based on extraction by a solvent and crystallisation by evaporation. The recovered products have a high purity.</p>
+<p id="p-0022" num="0021">However, the extraction by solvent (or liquid/liquid extraction) requires for each element several steps (extraction in the organic solvent, de-extraction of the organic solvent, crystallisation) and therefore involves many products such as kerosene, sulfuric acid and hydrochloric acid. Such a method is long to implement and generates a considerable amount of effluents, it is therefore difficult to industrialise, from an economic and environmental perspective.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="p-0023" num="0022">The present invention aims to provide a cobalt and/or manganese extraction method, overcoming the drawbacks of the prior art, and in particular an extraction method that is simple to implement, with a low environmental impact, allowing recovering, rapidly and efficiently, cobalt and/or manganese from a multi-metal solution further containing lithium ions and, possibly, other ions, such as nickel ions.</p>
+<p id="p-0024" num="0023">For this purpose, the present invention proposes a method for recycling a battery including the following steps:</p>
+<p id="p-0025" num="0024">a) dissolution of a battery waste including lithium and a metal selected from cobalt and manganese, such that a solution to be treated containing lithium ions and metal ions is formed,</p>
+<p id="p-0026" num="0025">b) addition of a peroxymonosulfate salt to the solution to be treated,</p>
+<p id="p-0027" num="0026">the solution to be treated being regulated at a pH ranging from 1 to 4 when the metal is cobalt or at a pH ranging from 0.1 to 2.5 when the metal is manganese, such that the metal ions are selectively precipitated in the form of metal oxyhydroxide,</p>
+<p id="p-0028" num="0027">c) separation of the lithium ions from the solution to be treated.</p>
+<p id="p-0029" num="0028">Steps b) and c) may be reversed.</p>
+<p id="p-0030" num="0029">The invention differs from the prior art essentially by the implementation of an oxidising precipitation step during which a peroxymonosulfate salt is used for the selective separation of cobalt and/or manganese.</p>
+<p id="p-0031" num="0030">Only the peroxymonosulfate salt is consumed during the process. Afterwards, the solution to be treated may be subjected to another process, for example, in order to valorise another element present in the solution to be treated.</p>
+<p id="p-0032" num="0031">A synergetic effect is observed between the peroxymonosulfate salt (HSO<sub>5</sub><sup>&#x2212;</sup>) and the cobalt (II) ions. The peroxymonosulfate and the cobalt (II) ion are active compounds which will react together to form highly oxidant species (like radicals or cobalt (III)) and considerably increase the reactivity of the peroxymonosulfate (by a 10 and possibly 15 factor). The combination of these elements catalyses the selective extraction of cobalt. Cobalt is extracted in the form of a cobalt oxyhydroxide precipitate (CoOOH) which could be easily transformed into cobalt oxide (CoO<sub>2</sub>) and valorised.</p>
+<p id="p-0033" num="0032">Advantageously, the battery waste includes both cobalt and manganese. The combination of peroxymonosulfate and cobalt (II) ion catalyses the selective extraction of manganese when the solution contains both cobalt and manganese. Throughout the process, Co(III) ions are generated. These ions will oxidise manganese and enable reduction thereof. Upon completion of the process, cobalt (II) is regenerated. Cobalt is still soluble in the solution throughout the entire process. According to this advantageous embodiment the cobalt ions Co<sup>2+</sup> may be initially present in the solution or introduced during the process. Manganese is extracted in the form of a manganese oxyhydroxide (MnOOH) precipitate, with Mn(III) and Mn(IV) which could be easily transformed into manganese oxide.</p>
+<p id="p-0034" num="0033">According to this advantageous embodiment, step b) is repeated twice: one time to selectively make the manganese ions precipitate and another time to selectively make the cobalt ions precipitate. Advantageously, the order of the steps is carried out in this order.</p>
+<p id="p-0035" num="0034">Advantageously, the ratio between the cobalt concentration and the manganese concentration ranges from 0.1 to 10 and preferably from 0.5 to 1. Such a range leads to an efficient extraction of manganese while limiting the risks of entrainment.</p>
+<p id="p-0036" num="0035">According to an advantageous variant, the method includes the following successive steps:</p>
+<p id="p-0037" num="0036">step a) as defined before,</p>
+<p id="p-0038" num="0037">a step during which the pH of the solution to be treated in increased and set between 7 and 10, by addition of a base such as NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>, such that a precipitate comprising cobalt and manganese is formed,</p>
+<p id="p-0039" num="0038">step c) as defined before,</p>
+<p id="p-0040" num="0039">dissolution of the precipitate comprising cobalt and manganese,</p>
+<p id="p-0041" num="0040">implementation of step b) as defined before by addition of a peroxymonosulfate salt at a pH ranging from 0.1 to 2.5 to selectively make the manganese ions precipitate in the form of manganese oxyhydroxide,</p>
+<p id="p-0042" num="0041">implementation of step b) as defined before by addition of a peroxymonosulfate salt at a pH ranging from 1 to 4 to selectively make the cobalt ions precipitate in the form of cobalt oxyhydroxide.</p>
+<p id="p-0043" num="0042">Advantageously, the battery waste further includes nickel and the dissolution of the battery waste leads to the formation of nickel ions.</p>
+<p id="p-0044" num="0043">According to this embodiment, the method advantageously includes a step during which the pH is increased between 7 and 10, by addition of a base such as NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>, such that the nickel ions are precipitated.</p>
+<p id="p-0045" num="0044">Advantageously, the peroxymonosulfate salt is potassium peroxymonosulfate. Preferably, it consists of potassium peroxymonosulfate triple salt.</p>
+<p id="p-0046" num="0045">This compound is stable, inexpensive and is simple to use.</p>
+<p id="p-0047" num="0046">Advantageously, the temperature ranges from 20&#xb0; C. to 95&#xb0; C., and preferably from 40&#xb0; C. to 80&#xb0; C., for example in the range of 50&#xb0; C.</p>
+<p id="p-0048" num="0047">Advantageously, step c) is carried out by adding carbonate or with a resin.</p>
+<p id="p-0049" num="0048">Advantageously, the battery waste is a Li-ion battery electrode. Advantageously, it may consist of a nickel-manganese-cobalt (NMC) electrode.</p>
+<p id="p-0050" num="0049">The method has many advantages:</p>
+<p id="p-0051" num="0050">reduce the environmental impact: no generation of toxic gases, a low energy consumption, and a very significant reduction of effluents since, on the one hand, the method does not need acid solutions and, on the other hand, the peroxymonosulfate salt has a very high solubility; a gain of 50% by volume has been noticed,</p>
+<p id="p-0052" num="0051">the method is more efficient in comparison with the methods of the prior art since there is no dilution effect,</p>
+<p id="p-0053" num="0052">the salt dissolved in the solution is very stable in comparison with a mixture of acids,</p>
+<p id="p-0054" num="0053">reduce the treatment cost (price of the salts, reduction of risks for the plants, etc.),</p>
+<p id="p-0055" num="0054">simplify the method and make it more easily industrialisable because the species are not hazardous and are easy to handle,</p>
+<p id="p-0056" num="0055">selectively separate the different metals in presence, in particular in order to valorise them, in particular as in the case of cobalt.</p>
+<p id="p-0057" num="0056">Other features and advantages of the invention will appear from the following complementary description.</p>
+<p id="p-0058" num="0057">It goes without saying that this complementary description is provided only for illustration of the object of the invention and should not in any case be interpreted as a limitation of this object.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0059" num="0058">The present invention will be better understood upon reading the description of embodiments provided for indicative and non-limiting purposes with reference to the appended <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a graph representing the evolution of the manganese separation efficiency according to the nature of the ions in the solution, at room temperature for an Oxone&#xae; equivalence with respect to manganese, according to a particular embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DISCLOSURE OF PARTICULAR EMBODIMENTS</heading>
+<p id="p-0061" num="0060">Although this is not limiting in any way, the invention finds particular applications in the field of recycling and/or valorisation of Li-ion type batteries/accumulators/cells, and in particular of their electrodes.</p>
+<p id="p-0062" num="0061">Next, reference will be made to a battery, but it could consist of a cell or of an accumulator.</p>
+<p id="p-0063" num="0062">Next, by battery waste, it should be understood the battery or a portion of the battery that has been recovered after safeguarding and dismantling the battery.</p>
+<p id="p-0064" num="0063">For example, the battery waste comprises lithium as well as cobalt and/or manganese and, possibly nickel. According to a particular embodiment, the battery waste is an electrode whose active material may be LiCoO<sub>2</sub>, LiMnO<sub>2 </sub>or LiNi<sub>0.33</sub>Mn<sub>0.33</sub>Co<sub>0.33</sub>. (NMC). The NMC electrode may have different nickel, cobalt and manganese rations. For example, the ratio may be 1/1/1 or 6/2/2 or 8/1/1.</p>
+<p id="p-0065" num="0064">The battery waste may further contain other species. The other species may be metals, alkaline metals and/or rare earths. As an illustrative and non-limiting example, mention may be made of the following elements: Fe, Zn, Al, Mg, Cu, Ca, Pb, Cd, La, Nd and Ce.</p>
+<p id="p-0066" num="0065">Advantageously, the battery waste is crushed such that crushings are formed. Alternatively, the method may also be carried out directly on a non-crushed battery waste.</p>
+<p id="p-0067" num="0066">The method for valorising the battery waste comprises at least the following steps:</p>
+<p id="p-0068" num="0067">a) dissolution of the battery waste including lithium and a divalent metal selected from cobalt and manganese, and possibly nickel, such that a solution to be treated is formed containing lithium ions, ions of the divalent metal, and possibly nickel ions,</p>
+<p id="p-0069" num="0068">b) addition of a peroxymonosulfate salt to the solution to be treated, the solution to be treated being set at a pH ranging from 0.1 to 2.5 when the divalent metal is manganese or at a pH ranging from 1 to 4 when the divalent metal is cobalt, such that the ions of the divalent metal are selectively precipitated in the form of metal oxyhydroxide,</p>
+<p id="p-0070" num="0069">c) separation of the lithium ions,</p>
+<p id="p-0071" num="0070">d) possibly separation of the nickel ions.</p>
+<p id="p-0072" num="0071">For example, the steps may be carried out according to the order a), b), c), d) or according to the order a), c), b), d).</p>
+<p id="p-0073" num="0072">According to a first advantageous variant, the method comprises, more particularly, the following successive steps:</p>
+<p id="p-0074" num="0073">dissolution of the battery waste, in an acid medium,</p>
+<p id="p-0075" num="0074">possibly, elimination of the impurities,</p>
+<p id="p-0076" num="0075">separation of manganese, according to the implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 0.1 to 2.5 and/or separation of cobalt according to the implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 1 to 4,</p>
+<p id="p-0077" num="0076">possibly, separation of nickel, by precipitation in a basic medium,</p>
+<p id="p-0078" num="0077">separation of lithium,</p>
+<p id="p-0079" num="0078">regeneration of the medium.</p>
+<p id="p-0080" num="0079">According to a second advantageous variant, the method comprises, more particularly, the following successive steps:</p>
+<p id="p-0081" num="0080">dissolution of the battery waste, in an acid medium,</p>
+<p id="p-0082" num="0081">possibly, elimination of the impurities,</p>
+<p id="p-0083" num="0082">formation of a manganese and/or cobalt and, possibly, nickel precipitate, by precipitation,</p>
+<p id="p-0084" num="0083">separation of lithium,</p>
+<p id="p-0085" num="0084">dissolution of the precipitate,</p>
+<p id="p-0086" num="0085">separation of manganese, according to the implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 0.1 to 2.5 and/or separation of cobalt according to the implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 1 to 4,</p>
+<p id="p-0087" num="0086">possibly, separation of nickel, by precipitation in a basic medium,</p>
+<p id="p-0088" num="0087">regeneration of the medium.</p>
+<p id="p-0089" num="0088">The peroxymonosulfate salt, also called monopersulfate or peroxysulfate, is an inexpensive compound with a low environmental impact. The compound is stable, and could be handled without any risk or significant precautions, in contrast with the other processes of the prior art (Cl<sub>2</sub>, O<sub>3</sub>, SO<sub>2</sub>/O<sub>2</sub>, . . .). The by-products of the reaction are essentially sulphates which is an advantage, with regards to processes based on chlorides (generation of Cl<sub>2</sub>). The oxidising precipitation is selective and efficient.</p>
+<p id="p-0090" num="0089">Preferably, the peroxymonosulfate salt is a potassium peroxymonosulfate salt. It may consist of a triple salt. The formula of the potassium peroxymonosulfate triple salt is 2KHSO<sub>5</sub>.KHSO<sub>4</sub>.K<sub>2</sub>SO<sub>4</sub>. For example, such a product is commercialised under the reference Oxone&#xae;. It is also possible to use the potassium peroxymonosulfate triple salt commercialised under the reference Caroat&#xae;.</p>
+<p id="p-0091" num="0090">It may also consist of a sodium peroxymonosulfate salt. According to a first variant, the peroxymonosulfate salt may be introduced in a liquid form. For example, it is solubilised beforehand in water. It has the advantage of being very soluble in water (250 g/L), which reduces the amount of effluents derived from the process.</p>
+<p id="p-0092" num="0091">According to a second variant, the peroxymonosulfate salt is introduced in a solid form in the solution to be treated. This avoids adding an aqueous solvent in the solution to be treated.</p>
+<p id="p-0093" num="0092">Advantageously, the peroxymonosulfate salt is introduced with a flow rate ranging from 0.1 g per minute per litre of solution (g/min/L<sub>solution</sub>) to 30 g/min/L<sub>solution </sub>and preferably from 1 to 10 g/min/L<sub>solution</sub>.</p>
+<p id="p-0094" num="0093">Preferably, the manganese extraction (manganese removal) step is carried out with a solution containing both cobalt ions and nickel ions. Indeed, the efficiency of manganese removal is particularly high when the solution contains both peroxymonosulfate salt and cobalt, and possibly nickel (<figref idref="DRAWINGS">FIG. <b>1</b></figref>).</p>
+<p id="p-0095" num="0094">Advantageously, the ratio between the cobalt concentration and the manganese concentration ranges from 0.1 to 10, and preferably from 0.5 to 1. Such a range leads to an efficient extraction of manganese while limiting the risks of entrainment during precipitation.</p>
+<p id="p-0096" num="0095">Preferably, to extract cobalt, a pH from 2 to 3 is selected. For example, a pH in the range of 3 will be selected.</p>
+<p id="p-0097" num="0096">Preferably, the cobalt concentration in the solution is higher than 0.5 g/L and still more preferably higher than 1 g/L. Preferably, the cobalt concentration is lower than 50 g/L and still more preferably lower than 40 g/L to avoid the effects of entrainment which would reduce the purity of the end product.</p>
+<p id="p-0098" num="0097">Preferably, to extract manganese, a pH from 0.75 to 1.5 is selected. For example, a pH of 0.9 will be selected.</p>
+<p id="p-0099" num="0098">Preferably, the manganese concentration, in the solution to be treated, is higher than 0.1 g/L, more preferably higher than 0.5 g/L and still more preferably higher than 1 g/L. Preferably, the manganese concentration is lower than 50 g/L and still more preferably lower than 40 g/L to avoid the effects of entrainment which would reduce the purity of the end product.</p>
+<p id="p-0100" num="0099">To ensure a stable pH, a servo-control is carried out during the introduction of the peroxymonosulfate salt. The servo-control may be carried out with a base such as NaOH, Na<sub>2</sub>CO<sub>3 </sub>or NH<sub>4</sub>OH. The base may be introduced in a liquid or solid form. Advantageously, sodium carbonate in a solid form is selected to reduce the effluents.</p>
+<p id="p-0101" num="0100">To retrieve nickel, the pH is increased between 7 and 10, by addition of a base such as NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>, such that nickel is precipitated.</p>
+<p id="p-0102" num="0101">Preferably, the solution is an aqueous solution. It may also consist of an organic solution.</p>
+<p id="p-0103" num="0102">The treatment temperature may range from 20&#xb0; C. to 95&#xb0; C., preferably from 30&#xb0; C. to 90&#xb0; C., and still more preferably from 40&#xb0; C. to 80&#xb0; C. For example, a temperature in the vicinity of 50&#xb0; C. is selected.</p>
+<p id="p-0104" num="0103">Preferably, the pressure is room pressure (in the range of 1 bar).</p>
+<p id="p-0105" num="0104">The method may include another step during which another element present in the solution to be treated and having a high added value is advantageously recovered.</p>
+<p id="p-0106" num="0105">Illustrative and non-limiting example of one embodiment:</p>
+<p id="p-0107" num="0106">The battery waste (&#x201c;blackmass&#x201d;) is primarily composed of cobalt. The composition (in mass percentage) of this waste is provided in the following table:</p>
+<p id="p-0108" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="259pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Composition (%<sub>m</sub>)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Li</entry>
+<entry>Ni</entry>
+<entry>Mn</entry>
+<entry>Co</entry>
+<entry>Fe</entry>
+<entry>Al</entry>
+<entry>Cu</entry>
+<entry>Na</entry>
+<entry>K</entry>
+<entry>Ca</entry>
+<entry>Cd</entry>
+<entry>P</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>3.58</entry>
+<entry>4.29</entry>
+<entry>2.09</entry>
+<entry>19.32</entry>
+<entry>4.33</entry>
+<entry>2.66</entry>
+<entry>2.96</entry>
+<entry>0.15</entry>
+<entry>0.12</entry>
+<entry>0.24</entry>
+<entry>0.08</entry>
+<entry>2.87</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0109" num="0107">The remainder corresponds to carbon and oxygen.</p>
+<p id="p-0110" num="0108">During a first step, the waste is dissolved in a sulfuric acid solution with a solid-on-liquid ratio of 15%. The dissolution is carried out at room temperature in 5L of water. The pH is set at 2 thanks to a system for servo-controlling pH which continuously injects sulfuric acid. Afterwards, the medium is left under stirring for one hour. Stirring is ensured at a speed of 400 rpm by a &#x201c;4 winged&#x201d; type blade, equipped with a scraper to prevent particle agglomeration.</p>
+<p id="p-0111" num="0109">After dissolution, the pH is raised to 5 with solid sodium carbonate, then 0.35% by volume of hydrogen peroxide (30%) is added, which corresponds to stoichiometric equivalence with respect to iron remaining in the solution. After a stabilisation period of about 30 minutes, the mixture is filtered. A filtrate rich in Li, Ni, Mn and Co and a solid, rich in C, Cu, Fe and Al, are recovered.</p>
+<p id="p-0112" num="0110">The filtrate is then treated in order to selectively eliminate manganese. The considered reaction is an oxidising precipitation, which takes place by continuous addition of solid Oxone&#xae;. The oxidant flow rate is 1.5 g/min/L. The pH is continuously set at 0.9 by addition of solid sodium carbonate. Stirring is ensured at a speed of 400 rpm by a &#x201c;4 winged&#x201d; type blade. The system is at a temperature of 50&#xb0; C. The end of the reaction is defined by the duration of addition of Oxone&#xae;. The amount of reagent to be added is calculated in order to obtain a stoichiometric equivalence with respect to manganese present in the solution.</p>
+<p id="p-0113" num="0111">Throughout the experiment, breaks are scheduled ever 0.2 Oxone&#xae; equivalences: for 15 minutes, the reactant is no longer added in the medium in order to stabilise the system and reach chemical balance. Once the Oxone&#xae; total addition is completed, the mixture is filtered. Manganese is completely retrieved from the solution and a filtrate rich in Ni and Co and a manganese dioxide solid with a purity of more than 98% (dosage by an Inductively Coupled Plasma or ICP technique) are obtained.</p>
+<p id="p-0114" num="0112">The filtrate rich in Ni and Co is treated in order to selectively recover cobalt. The considered reaction is an oxidising precipitation, by addition of solid Oxone&#xae;, continuously dispensed at 50&#xb0; C., at a pH set at 3 by addition of solid sodium carbonate. The oxidant flow rate is 1.5 g/min/L. Stirring is ensured at a speed of 400 rpm by a &#x201c;4 winged&#x201d; type blade. The end of the reaction is defined by the duration of addition of Oxone&#xae;. The amount of reagent to be added is calculated in order to obtain a stoichiometric equivalence with respect to cobalt present in the solution. The ICP dosage of the solid indicates a purity of &#x3e;99% of the product.</p>
+<p id="p-0115" num="0113">Afterwards, the filtrate is treated in order to extract nickel. The considered reaction is a precipitation in a basic medium in the form of a carbonate. The pH is increased up to 9 by addition of solid sodium carbonate. The reaction takes place at room temperature. Stirring is ensured at a speed of 400 rpm by a &#x201c;4 winged&#x201d; type blade.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-01-10" num="01-10">
+<claim-text><b>1</b>.-<b>10</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A method for recycling a battery including the following steps:
+<claim-text>a) dissolution of a battery waste, including lithium and a metal selected from cobalt and manganese, such that a solution to be treated containing lithium ions and metal ions is formed,</claim-text>
+<claim-text>b) addition of a peroxymonosulfate salt to the solution to be treated, the solution to be treated being regulated at a pH ranging from 1 to 4 when the metal is cobalt or at a pH ranging from 0.1 to 2.5 when the metal is manganese, such that the metal ions are selectively precipitated in the form of metal oxyhydroxide,</claim-text>
+<claim-text>c) separation of the lithium ions from the solution to be treated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the battery waste includes both cobalt and manganese.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein step b) is repeated twice: one time to selectively make the manganese ions precipitate and the other time to selectively make the cobalt ions precipitate.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein it includes the following successive steps:
+<claim-text>step a),</claim-text>
+<claim-text>a step during which the pH of the solution to be treated in increased and set between 7 and 10, by addition of a base such as NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>, such that a precipitate comprising cobalt and manganese is formed,</claim-text>
+<claim-text>step c),</claim-text>
+<claim-text>dissolution of the precipitate comprising cobalt and manganese,</claim-text>
+<claim-text>implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 0.1 to 2.5 to selectively make the manganese ions precipitate in the form of manganese oxyhydroxide,</claim-text>
+<claim-text>implementation of step b) by addition of a peroxymonosulfate salt at a pH ranging from 1 to 4 to selectively make the cobalt ions precipitate in the form of cobalt oxyhydroxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the battery waste further includes nickel, the dissolution of the battery waste leading to the formation of nickel ions.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the method includes a step during which the pH is increased between 7 and 10, by addition of a base such as NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>, such that the nickel ions are precipitated.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the base is NaOH, NH<sub>4</sub>OH or Na<sub>2</sub>CO<sub>3</sub>.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the temperature ranges from 20&#xb0; C. to 95&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the temperature ranges from 40&#xb0; C. to 80&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the peroxymonosulfate salt is potassium peroxymonosulfate.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the peroxymonosulfate salt is potassium peroxymonosulfate triple salt.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein step c) is carried out by adding carbonate or with a resin.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the battery waste is a nickel-manganese-cobalt electrode.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the battery waste is an electrode.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

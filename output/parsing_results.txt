@@ -1,0 +1,225 @@
+[ 
+   { 
+      "measurement": "first plurality of sequence reads",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "second plurality of sequence reads",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "MAF",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "weighted mean of the first MAFs",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "weighted mean of the second MAFs",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "ratio of the weighted mean of the first MAFs and the weighted mean of the second MAFs",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "confidence interval",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "MAF ratio",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "weighted mean of the MAF ratios",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "classification discrepancy",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "Clonal Hematopoiesis of Indeterminate Potential (CHIP) variant",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "mutant allele fraction",
+      "unit": "NA",
+      "value": "NA"
+   },
+   { 
+      "measurement": "molecular response score",
+      "unit": "NA",
+      "value": "NA"
+   }
+]
+[{"measurement": "first mutant allele fraction", "unit": "NA", "value": "NA"},
+{"measurement": "second mutant allele fraction", "unit": "NA", "value": "NA"},
+{"measurement": "Molecular response score", "unit": "NA", "value": "NA"},
+{"measurement": "number of sequence reads", "unit": "NA", "value": "NA"},
+{"measurement": "Classified variants in first plurality of sequence reads", "unit": "NA", "value": "NA"},
+{"measurement": "Classified variants in second plurality of sequence reads", "unit": "NA", "value": "NA"},
+{"measurement": "Clonal Hematopoiesis of Indeterminate Potential (CHIP) variant", "unit": "NA", "value": "NA"},
+{"measurement": "weighted mean of the MAF ratios", "unit": "NA", "value": "NA"},
+{"measurement": "confidence interval associated with the weighted mean of the MAF ratios", "unit": "NA", "value": "NA"},
+{"measurement": "ratio of the weighted mean of the first MAFs and the weighted mean of the second MAFs", "unit": "NA", "value": "NA"},
+{"measurement": "central tendency measure", "unit": "NA", "value": "NA"}]
+[{"measurement": "MAF ratios", "unit": "NA", "value": "set of ratios"},
+{"measurement": "standard deviation", "unit": "NA", "value": "corresponding standard deviation"},
+{"measurement": "weighted mean", "unit": "NA", "value": "molecular response score"},
+{"measurement": "polypeptide concentration", "unit": "g/ml", "value": "1 to 9"},
+{"measurement": "tumor load changes", "unit": "NA", "value": "set of tumor load changes"},
+{"measurement": "clonal hematopoietic variants", "unit": "NA", "value": "identified clonal hematopoietic variants"},
+{"measurement": "probability density function", "unit": "NA", "value": "P(R) for each of a plurality of variants"},
+{"measurement": "fractional change", "unit": "NA", "value": "threshold value"},
+{"measurement": "mutant allele frequency (MAF)", "unit": "NA", "value": "MAF for a given variant"},
+{"measurement": "max MAF", "unit": "NA", "value": "maximum MAF of the sample"},
+{"measurement": "germline variants", "unit": "NA", "value": "identified germline variants"}]
+[
+  {
+    "measurement": "immunotherapies",
+    "unit": "NA",
+    "value": "1 or more"
+  },
+  {
+    "measurement": "molecular response score",
+    "unit": "NA",
+    "value": "NA"
+  },
+  {
+    "measurement": "prognostic biomarker and/or predictive biomarker",
+    "unit": "NA",
+    "value": "NA"
+  },
+  {
+    "measurement": "MAFs",
+    "unit": "NA",
+    "value": "plurality of variants"
+  },
+  {
+    "measurement": "germline and/or clonal hematopoietic variants",
+    "unit": "NA",
+    "value": "one or more (excluded)"
+  },
+  {
+    "measurement": "somatic nucleic acid variants",
+    "unit": "NA",
+    "value": "NA"
+  },
+  {
+    "measurement": "MAFs",
+    "unit": "%",
+    "value": "less than 0.1%, 0.2%, 0.3%, 0.4%, 0.5%, 0.6%, 0.7%, 0.8%, or 0.9%"
+  },
+  {
+    "measurement": "time points",
+    "unit": "NA",
+    "value": "first and second"
+  },
+  {
+    "measurement": "nucleic acid molecules",
+    "unit": "NA",
+    "value": "obtained from one or more tissues or cells"
+  },
+  {
+    "measurement": "cell-free nucleic acids (cfNAs)",
+    "unit": "NA",
+    "value": "in the samples obtained from the subject"
+  },
+  {
+    "measurement": "ctDNA",
+    "unit": "NA",
+    "value": "circulating tumor DNA"
+  },
+  {
+    "measurement": "MAF ratios",
+    "unit": "NA",
+    "value": "second MAF to the first MAF for each variant"
+  },
+  {
+    "measurement": "weighted mean",
+    "unit": "NA",
+    "value": "calculated using formula"
+  }
+]
+[ 
+{ "measurement": "ratio variance", "unit": null, "value": "1/sum[weights]" },
+{ "measurement": "SNV", "unit": null, "value": "one or more" },
+{ "measurement": "insertion/deletion mutations", "unit": null, "value": "one or more" },
+{ "measurement": "gene amplifications", "unit": null, "value": "one or more" },
+{ "measurement": "gene fusions", "unit": null, "value": "one or more" },
+{ "measurement": "additional genomic data sources", "unit": null, "value": "one or more" },
+{ "measurement": "coverage", "unit": null, "value": null },
+{ "measurement": "off-target coverage", "unit": null, "value": null },
+{ "measurement": "epigenetic signature", "unit": null, "value": null },
+{ "measurement": "microsatellite instability score", "unit": null, "value": null },
+{ "measurement": "cfNA fragment length", "unit": null, "value": null },
+{ "measurement": "position", "unit": null, "value": null },
+{ "measurement": "endpoint density distribution", "unit": null, "value": null },
+{ "measurement": "epigenetic state or status", "unit": null, "value": null },
+{ "measurement": "methylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "hydroxymethylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "acetylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "ubiquitylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "phosphorylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "sumoylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "ribosylation", "unit": null, "value": "presence or absence" },
+{ "measurement": "citrullination", "unit": null, "value": "presence or absence" },
+{ "measurement": "histone post-translational modification", "unit": null, "value": "presence or absence" },
+{ "measurement": "clonal hematopoietic variants", "unit": null, "value": "identifying" },
+{ "measurement": "germline variants", "unit": null, "value": "identifying" }
+]
+[
+    {
+        "measurement": "surface area",
+        "unit": "m^2/g",
+        "value": "5 and about 350"
+    },
+    {
+        "measurement": "support on the coated Substrate",
+        "unit": "g/in",
+        "value": "about 1.5 to about 7.0, for example between about 3 and 6 g/in"
+    },
+    {
+        "measurement": "alumina BET surface area",
+        "unit": "m/g",
+        "value": "about 200"
+    },
+    {
+        "measurement": "nitrogen oxide storage material surface area",
+        "unit": "m^2/g",
+        "value": "between about 30 and 80"
+    },
+    {
+        "measurement": "polypeptide concentration",
+        "unit": "g/ml",
+        "value": "1 to 9"
+    }
+]
+[ 
+{ "measurement": "allelic fractions", "unit": "", "value": "" }, 
+{ "measurement": "amplification products or amplicons", "unit": "", "value": "" }, 
+{ "measurement": "barcode sequences", "unit": "", "value": "" }, 
+{ "measurement": "Cancer Type", "unit": "", "value": "" }, 
+{ "measurement": "Cell-Free Nucleic Acid", "unit": "", "value": "" }, 
+{ "measurement": "classifier algorithm", "unit": "", "value": "" }, 
+{ "measurement": "clonal nucleotide sequences", "unit": "", "value": "" }, 
+{ "measurement": "clonal hematopoiesis of indeterminate potential", "unit": "", "value": "" }, 
+{ "measurement": "confidence interval", "unit": "", "value": "" }, 
+{ "measurement": "Copy Number Variant", "unit": "", "value": "" }, 
+{ "measurement": "coverage", "unit": "", "value": "" }, 
+{ "measurement": "Deoxyribonucleic Acid or Ribonucleic Acid", "unit": "", "value": "" } 
+]
+[{'measurement': 'surface area', 'unit': 'm^2/g', 'value': 'NA'}, {'measurement': 'concentration', 'unit': 'g/ml', 'value': '1 to 9'}, {'measurement': 'nucleic acid sequencing data', 'unit': 'NA', 'value': 'NA'}, {'measurement': 'detect', 'unit': 'NA', '... {'measurement': 'germline mutation', 'unit': 'NA', 'value': 'NA'}, {'measurement': 'immunotherapy', 'unit': 'NA', 'value': 'NA'}, {'measurement': 'indel', 'unit': 'NA', 'value': 'NA'}]

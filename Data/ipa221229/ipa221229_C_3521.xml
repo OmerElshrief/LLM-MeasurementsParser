@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411911A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411911</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17771568</doc-number>
+<date>20201029</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="international">
+<country>IB</country>
+<doc-number>PCT/IB2019/059255</doc-number>
+<date>20191029</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>2</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>2</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>2</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>2</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>40</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">A coated steel substrate</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>ArcelorMittal</orgname>
+<address>
+<city>Luxembourg</city>
+<country>LU</country>
+</address>
+</addressbook>
+<residence>
+<country>LU</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>VU</last-name>
+<first-name>Thi Tan</first-name>
+<address>
+<city>Oviedo</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>MEGIDO FERNANDEZ</last-name>
+<first-name>Laura</first-name>
+<address>
+<city>Gijon Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>DOMINGUEZ FERNANDEZ</last-name>
+<first-name>Carlota</first-name>
+<address>
+<city>Gijon Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>RODRIGUEZ GARCIA</last-name>
+<first-name>Jorge</first-name>
+<address>
+<city>Gijon Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>NORIEGA PEREZ</last-name>
+<first-name>David</first-name>
+<address>
+<city>Oviedo Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>SUAREZ SANCHEZ</last-name>
+<first-name>Roberto</first-name>
+<address>
+<city>Aviles Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>BLANCO ROLDAN</last-name>
+<first-name>Cristina</first-name>
+<address>
+<city>El Entrego Asturias</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2020/060138</doc-number>
+<date>20201029</date>
+</document-id>
+<us-371c12-date><date>20220425</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A coated stainless-steel substrate including a coating including nanographites and a binder being sodium silicate, wherein the stainless-steel substrate has the following composition in weight percent: C&#x2264;1.2%, Cr&#x2265;11.0%, Ni&#x2265;8.0% and on a purely optional basis, one or more elements such as Nb&#x2264;6.0%, B&#x2264;1.0%, Ti&#x2264;3.0%, Cu&#x2264;5.0%, Co&#x2264;3.0%, N&#x2264;1.0%, V&#x2264;3.0%, Si&#x2264;4.0%, Mn&#x2264;5.0%, P&#x2264;0.5%, S&#x2264;0.5%, Mo&#x2264;6.0%, Ce&#x2264;1.0%, the remainder of the composition being made of iron and inevitable impurities resulting from the elaboration. A method for the manufacture of this coated stainless-steel substrate is also provided.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="43.43mm" wi="80.69mm" file="US20220411911A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="51.73mm" wi="82.72mm" file="US20220411911A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The present invention relates to a coating intended for the protection, against molten metal corrosion, of stainless steel used as parts in the hot-dip coating process of steel strips. The present invention also relates to the method for the manufacture of the coated stainless steel thereof and to the process of hot dip coating with recourse to the coated stainless steel thereof.</p>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Usually, in the steel route production, steel strips are coated with a metallic coating deposited by hot-dip coating, i.e. hot-dip galvanizing or hot-dip aluminizing. This metallic coating contains elements typically selected notably among Zinc, Aluminium, Silicon, and Magnesium. These elements are melted in a bath through which the steel strip runs. To do so, some metallic devices or parts, such as the snout, the sink roll, the stabilizing rolls, pipelines or pumping elements are in direct contact with the molten bath.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">During such contact, a reaction takes place between the molten metal and the immersed part. In particular, Zn and/or Al form intermetallic compounds with the iron of the metallic device, which results in an embrittlement of the immersed part. To limit this corrosion induced by the molten metal, the metallic devices or parts to be used in contact with the molten metal are usually made of stainless steel. Despite the improvement of the resistance to molten metal corrosion, the stainless steel in contact with the molten metal keeps corroding, which leads to deformations, embrittlements and breakdowns. For example, the lower part of a snout made of stainless steel can be immerged during months in a molten bath. During this immersion, the molten metal attacks the snout, which results in a thinner snout wall thickness which together with high temperature condition causes the cracking of the tool. Because of the molten metal corrosion, the snout must often be inspected, maintained and replaced. These regular inspections, maintenances and replacements are done at the expense of line stops, which seriously impair the production of hot-dip coated steel strips.</p>
+<p id="p-0005" num="0004">The patent application CN201172680 discloses a snout for a cold-rolled steel strip galvanization bath including an upper and a lower frames, the upper frame being made of welded stainless steel plates and the lower frame being made of an aluminum oxide ceramic.</p>
+<p id="p-0006" num="0005">Nevertheless, this snout comprising two parts made of two materials, i.e. stainless steel and aluminum oxide ceramic, is difficult to produce. Indeed, the aluminum oxide ceramic is casted to form the lower part of the snout. The melting point of the aluminum oxide is very high, around 2000&#xb0; C. Thus, new equipment are needed to produce such part, which significantly impact the cost of such snout.</p>
+<p id="p-0007" num="0006">It is an object of the present invention to provide a stainless steel substrate well protected against molten metal corrosion so that inspections, maintenances and replacements are limited and so that embrittlement, deformation and breakdowns are further prevented. Moreover, a further alternate or additional object of the invention is to provide an easy-to-implement method for producing this stainless steel substrate without replacing the current equipment in the hot-dip galvanizing lines and hot-dip aluminizing lines.</p>
+<p id="p-0008" num="0007">The present invention provides a coated stainless-steel substrate comprising a coating comprising nanographites and a binder being sodium silicate, wherein the stainless-steel substrate has the following composition in weight percent:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0008">C&#x2264;1.2%,</li>
+        <li id="ul0002-0002" num="0009">Cr&#x2265;11.0%,</li>
+        <li id="ul0002-0003" num="0010">Ni&#x2265;8.0%</li>
+        <li id="ul0002-0004" num="0011">and on a purely optional basis, one or more elements such as</li>
+        <li id="ul0002-0005" num="0012">Nb&#x2264;6.0%,</li>
+        <li id="ul0002-0006" num="0013">B&#x2264;1.0%,</li>
+        <li id="ul0002-0007" num="0014">Ti&#x2264;3.0%,</li>
+        <li id="ul0002-0008" num="0015">Cu&#x2264;5.0%,</li>
+        <li id="ul0002-0009" num="0016">Co&#x2264;3.0%,</li>
+        <li id="ul0002-0010" num="0017">N&#x2264;1.0%,</li>
+        <li id="ul0002-0011" num="0018">V&#x2264;3.0%,</li>
+        <li id="ul0002-0012" num="0019">Si&#x2264;4.0%,</li>
+        <li id="ul0002-0013" num="0020">Mn&#x2264;5.0%,</li>
+        <li id="ul0002-0014" num="0021">P&#x2264;0.5%,</li>
+        <li id="ul0002-0015" num="0022">S&#x2264;0.5%,</li>
+        <li id="ul0002-0016" num="0023">Mo&#x2264;6.0%,</li>
+        <li id="ul0002-0017" num="0024">Ce&#x2264;1.0%,</li>
+        <li id="ul0002-0018" num="0025">the remainder of the composition being made of iron and inevitable impurities resulting from the elaboration.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0009" num="0026">The coated stainless-steel substrate according to the invention may also have the optional features listed below, considered individually or in combination:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0027">the lateral size of the nanographites is between 1 and 65 &#x3bc;m,</li>
+        <li id="ul0004-0002" num="0028">the width size of the nanographites is between 2 to 15 &#x3bc;m,</li>
+        <li id="ul0004-0003" num="0029">the thickness of the nanographites is between 1 to 100 nm,</li>
+        <li id="ul0004-0004" num="0030">the concentration of nanographites in the coating is between 5% and 70% by weight,</li>
+        <li id="ul0004-0005" num="0031">the concentration of sodium silicate in the coating is between 35% and 75% by weight,</li>
+        <li id="ul0004-0006" num="0032">the ratio in weight of nanographites with respect to the binder is between 0.05 and 0.9,</li>
+        <li id="ul0004-0007" num="0033">the thickness of the coating is between 10 and 250 &#x3bc;m,</li>
+        <li id="ul0004-0008" num="0034">the coating further comprises clay, silica, quartz, kaolin, aluminium oxide, magnesium oxide, silicon oxide, titanium oxide, Yttrium oxide, zinc oxide, aluminium titanate, carbides or mixtures thereof.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0010" num="0035">The present invention also provides a method for the manufacture of a coated stainless-steel substrate comprising the successive following steps:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0036">A. The provision of a stainless-steel substrate comprising in weight percent at most 1.2% C, at least 11.0% Cr and at least 8.0% Ni, the remainder of the composition being made of iron and inevitable impurities resulting from the elaboration,</li>
+        <li id="ul0006-0002" num="0037">B. The deposition on at least a part of the stainless-steel substrate of an aqueous mixture comprising nanographites and a binder being sodium silicate to form a coating,</li>
+        <li id="ul0006-0003" num="0038">C. Optionally, the drying of the coating obtained in step B).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0011" num="0039">The method for the manufacture of a coated stainless-steel substrate according to the invention may also have the optional features listed below, considered individually or in combination:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0040">in step B), the deposition of the coating is performed by spin coating, spray coating, dip coating or brush coating,</li>
+        <li id="ul0008-0002" num="0041">in step B), the aqueous mixture comprises from 40 to 110 g/L of nanographites and from 40 to 80 g/L of binder,</li>
+        <li id="ul0008-0003" num="0042">in step C), when a drying is applied, the drying is performed at a temperature between 50 and 150&#xb0; C.,</li>
+        <li id="ul0008-0004" num="0043">in step C), when a drying is applied, the drying is performed during 5 to 60 minutes.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0012" num="0044">The present invention also provides a process of hot dip coating a steel strip comprising a step of moving the steel strip through a molten metal bath comprising a piece of equipment at least partially immersed in the bath wherein at least a part of the piece of equipment is made of a coated stainless-steel substrate according to the invention.</p>
+<p id="p-0013" num="0045">The present invention further provides a hot dip coating facility comprising a molten metal bath comprising a piece of equipment at least partially immersed in the bath wherein at least a part of the piece of equipment is made of a coated stainless-steel substrate according to the invention.</p>
+<p id="p-0014" num="0046">The piece of equipment of the hot dip coating facility is optionally selected among a snout, an overflow, a sink roll, a stabilizing roll, a roll supporting arm, a roll flange, a pipeline and a pumping element.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0015" num="0047">To illustrate the invention, various embodiments and trials of non-limiting examples will be described, particularly with reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref> which illustrates the usual shape of a nanographite according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0016" num="0048">Other characteristics and advantages of the invention will become apparent from the following detailed description of the invention.</p>
+<p id="p-0017" num="0049">The following terms are defined:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0050">Nanographite refers to a carbon-based nanomaterial made of graphene nanoplatelets, i.e. stacks of a few graphene sheets having a platelet shape as illustrated on <figref idref="DRAWINGS">FIG. <b>1</b></figref>. On this FIGURE, the lateral size means the highest length of the nanoplatelet through the X axis and the thickness means the height of the nanoplatelet through the Z axis. The width of the nanoplatelet is illustrated through the Y axis.</li>
+        <li id="ul0010-0002" num="0051">Preferably, the lateral size of the nanographites is between 1 and 65 &#x3bc;m, advantageously between 2 and 15 &#x3bc;m and more preferably between 2 and 10 &#x3bc;m.</li>
+        <li id="ul0010-0003" num="0052">Preferably, the width size of the nanographites is between 2 and 15 &#x3bc;m.</li>
+        <li id="ul0010-0004" num="0053">Advantageously, the thickness of the nanographites is between 1 nm and 100 nm, more preferably between 1 and 50 nm, even more preferably between 1 and 10 nm.</li>
+        <li id="ul0010-0005" num="0054">Graphite nanoplatelet is a synonym of nanographite.</li>
+        <li id="ul0010-0006" num="0055">Substrate refers to a material which provides the surface on which something is deposited. This material is not limited in terms of size, dimensions and shapes. It can notably be in the form of a strip, a sheet, a piece, a part, an element, a device, an equipment. . . . It can be flat or shaped by any means.</li>
+        <li id="ul0010-0007" num="0056">&#x201c;coated&#x201d; means that the substrate is at least locally covered with the coating. The covering can be for example limited to the area of the substrate to be immersed in the molten metal bath. &#x201c;coated&#x201d; inclusively includes &#x201c;directly on&#x201d; (no intermediate materials, elements or space disposed therebetween) and &#x201c;indirectly on&#x201d; (intermediate materials, elements or space disposed therebetween). For example, coating the substrate can include applying the coating directly on the substrate with no intermediate materials/elements therebetween, as well as applying the coating indirectly on the substrate with one or more intermediate materials/elements therebetween.</li>
+        <li id="ul0010-0008" num="0057">Hot-dip coating process refers to the process of hot-dip galvanizing, when the coating is zinc-based, and to the process of hot-dip aluminizing, when the coating is aluminium-based.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0018" num="0058">Without willing to be bound by any theory, it seems that a coating comprising nanographites and a binder being sodium silicate on the stainless-steel substrate acts like a barrier to molten metal attack and prevents the formation of Zn&#x2014;Fe and/or Al&#x2014;Fe intermetallic compounds. Indeed, the coating according to the present invention is non-wetting with regard to the elements of the molten metal bath due to its graphitic content. In particular, it seems that nanographites are not wetted by liquid Zinc and/or Aluminium. The nanographites thus act as the non-wetting agent while sodium silicate acts as binder and adhesion promoter to the stainless steel surface. The non-adhesion of the molten metal elements to the stainless-steel surface leads to an increase of the corrosion resistance, a decrease of the deformation risk of the substrate and a longer lifetime of the substrate. Moreover, the coating comprising sodium silicate well adheres on the stainless-steel substrate so that the stainless-steel substrate is even more protected. It further prevents the risk of coating cracks and coating detachment, which would expose the stainless-steel substrate to molten metal attack and deformation.</p>
+<p id="p-0019" num="0059">These advantages of the coating according to the invention are provided in all kinds of molten bath compositions in use on hot-dip coating lines. The molten metal bath composition can be zinc-based. Examples of zinc-based baths and coatings are: zinc comprising 0.2% of Al and 0.02% of Fe (HDG coating), zinc alloy comprising 5 wt. % of aluminium (Galfan&#xae; coating), zinc alloy comprising 55 wt. % of aluminium, about 1.5 wt. % of silicon, the remainder consisting of zinc and inevitable impurities due to the processing (Aluzinc&#xae;, Galvalume&#xae; coatings), zinc alloy comprising 0.5 to 20% of aluminium, 0.5 to 10% of magnesium, the remainder consisting of zinc and inevitable impurities due to the processing, zinc alloys comprising aluminium, magnesium and silicon, the remainder consisting of zinc and inevitable impurities due to the processing.</p>
+<p id="p-0020" num="0060">The molten metal bath composition can be also aluminium-based. Examples of aluminium-based baths and coatings are: aluminium alloy comprising from 8 to 11 wt. % of silicon and from 2 to 4 wt. % of iron, the remainder consisting of aluminium and inevitable impurities due to the processing (Alusi&#xae; coating), aluminium (Alupur&#xae; coating), aluminium alloys comprising zinc, magnesium and silicon, the remainder consisting of aluminium and inevitable impurities due to the processing.</p>
+<p id="p-0021" num="0061">The stainless-steel substrate is an austenitic stainless steel. Accordingly, it comprises at most 1.2 wt % C, at least 11.0 wt % Cr and at least 8.0 wt % Ni.</p>
+<p id="p-0022" num="0062">Preferably, the amount of C is below or equal to 0.5% by weight and advantageously below or equal to 0.3% by weight.</p>
+<p id="p-0023" num="0063">Preferably, the amount of Cr is below or equal to 30% by weight and more preferably below or equal to 25% by weight.</p>
+<p id="p-0024" num="0064">Preferably, the amount of Ni is below or equal to 30% by weight and more preferably below or equal to 25% by weight.</p>
+<p id="p-0025" num="0065">Optionally, the amount of Nb is below or equal to 3.0% by weight, more preferably below or equal to 2.0% by weight.</p>
+<p id="p-0026" num="0066">Optionally, the amount of B is below or equal to 0.3% by weight.</p>
+<p id="p-0027" num="0067">Optionally, the amount of Ti is below or equal to 1.0% by weight.</p>
+<p id="p-0028" num="0068">Optionally, the amount of Cu is below or equal to 3.0% by weight, more preferably below or equal to 1.0% by weight.</p>
+<p id="p-0029" num="0069">Optionally, the amount of Co is below or equal to 1.0% by weight.</p>
+<p id="p-0030" num="0070">Optionally, the amount of N is below or equal to 0.5% by weight.</p>
+<p id="p-0031" num="0071">Optionally, the amount of V is below or equal to 1.0% by weight.</p>
+<p id="p-0032" num="0072">Optionally, the amount of Si is between 0.5 and 2.5% by weight.</p>
+<p id="p-0033" num="0073">Optionally, the amount of Mn is below or equal to 3.0% by weight, more preferably below or equal to 2.5% by weight.</p>
+<p id="p-0034" num="0074">Optionally, the amount of P is below or equal to 0.1% by weight.</p>
+<p id="p-0035" num="0075">Optionally, the amount of S is below or equal to 0.1% by weight.</p>
+<p id="p-0036" num="0076">Optionally, the amount of Mo is between 0.5 and 2.5% by weight.</p>
+<p id="p-0037" num="0077">Optionally, the amount of Ce is below or equal to 0.1% by weight.</p>
+<p id="p-0038" num="0078">The possible inevitable impurities resulting from the elaboration are mainly P, S and N in the amounts described above.</p>
+<p id="p-0039" num="0079">Examples of stainless-steel substrate are 316 and 253MA.</p>
+<p id="p-0040" num="0080">The stainless-steel substrate can be notably any piece or part to be immersed at least partially in a molten metal bath. Preferably, the stainless-steel substrate is a snout, an overflow, a sink roll, a stabilizing roll, a roll supporting arm, roll flanges, a pipeline or a pumping element or a part of these elements.</p>
+<p id="p-0041" num="0081">The stainless-steel substrate is at least partially coated with a coating comprising nanographites and a binder being sodium silicate.</p>
+<p id="p-0042" num="0082">The concentration of nanographites in the coating is preferably between 1 to 70% by weight of dry coating, more preferably between 5 and 70 wt %, even more preferably between 10 and 65 wt %. Such concentrations provide a good balance between non-adhesion of the molten metal elements on the coating and adhesion of the coating to the substrate.</p>
+<p id="p-0043" num="0083">Preferably, the nanographites contain more than 95% by weight of C and advantageously more than 99%.</p>
+<p id="p-0044" num="0084">The binder is sodium silicate. In other words, the binder is obtained from sodium silicate. This sodium silicate reacts during the drying phase so as to form rigid siloxane chains. It is believed that the siloxane chains get attached to the hydroxyl groups present on the surface of the stainless steel substrate. It is also believed that the sodium silicate dissolved in the aqueous mixture applied on the substrate will penetrate in all the crevices from the substrate surface and, after drying, will become tough and vitreous therefore anchoring the coating to the substrate.</p>
+<p id="p-0045" num="0085">Sodium silicate refers to any chemical compound with the formula Na<sub>2x</sub>Si<sub>y</sub>O<sub>2y+x </sub>or (Na<sub>2</sub>O)<sub>x</sub>.(SiO<sub>2</sub>)<sub>y</sub>. It can notably be sodium metasilicate Na<sub>2</sub>SiO<sub>3</sub>, sodium orthosilicate Na<sub>4</sub>SiO<sub>4</sub>, sodium pyrosilicate Na<sub>6</sub>Si<sub>2</sub>O<sub>7</sub>, Na<sub>2</sub>Si<sub>3</sub>O<sub>7</sub>.</p>
+<p id="p-0046" num="0086">The concentration of sodium silicate in the coating is preferably between 35% to 95% by weight of dry coating, more preferably between 35 and 75 wt %. Such concentrations provide a good balance between non-adhesion of the molten metal elements on the coating and adhesion of the coating to the substrate.</p>
+<p id="p-0047" num="0087">According to one variant of the invention, the coating further comprises additives, notably to improve its thermal stability and/or its abrasion resistance. Such additives can be selected among clay, silica, quartz, kaolin, aluminium oxide, magnesium oxide, silicon oxide, titanium oxide, Yttrium oxide, zinc oxide, aluminium titanate, carbides and mixtures thereof. Examples of clay are green montmorillonite and white kaolin clays. Examples of carbides are silicon carbide and tungsten carbide.</p>
+<p id="p-0048" num="0088">If additives are added, their concentration in the dry coating can be up to 40 wt % and is comprised preferably between 10 and 40 wt % and more preferably between 15 and 35 wt %. When green montmorillonite is added, the ratio between the graphene weight content and the green montmorillonite weight content is preferably comprised between 0.2 and 0.8.</p>
+<p id="p-0049" num="0089">According to one variant of the invention, the coating consists of nanographites, a binder based on sodium silicate and optional additives selected among clay, silica, quartz, kaolin, aluminium oxide, magnesium oxide, silicon oxide, titanium oxide, Yttrium oxide, zinc oxide, aluminium titanate, carbides and mixtures thereof.</p>
+<p id="p-0050" num="0090">Preferably, the dry thickness of the coating is between 10 and 250 &#x3bc;m. More preferably, it is between 110 and 150 &#x3bc;m. For example, the thickness of the coating is between 10 and 100 &#x3bc;m or between 100 and 250 &#x3bc;m.</p>
+<p id="p-0051" num="0091">Preferably, the coating does not comprise at least one element chosen from a surfactant, an alcohol, aluminum silicate, aluminum sulfate, aluminum hydroxide, aluminum fluoride, copper sulfate, lithium chloride and magnesium sulfate.</p>
+<p id="p-0052" num="0092">The invention also relates to a method for the manufacture of the coated stainless-steel substrate according to the present invention, comprising the successive following steps:
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0093">A. The provision of a stainless-steel substrate according to the present invention,</li>
+        <li id="ul0012-0002" num="0094">B. The deposition on at least a part of the stainless-steel substrate of an aqueous mixture comprising nanographites and a binder being sodium silicate to form the coating according to the present invention,</li>
+        <li id="ul0012-0003" num="0095">C. Optionally, the drying of the coated stainless-steel substrate obtained in step B).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0053" num="0096">In step A), the stainless-steel substrate can be provided in any size, dimensions and shapes. It can notably be in the form of a strip, a sheet, a piece, a part, an element, a device, an equipment. . . . It can be flat or shaped by any means.</p>
+<p id="p-0054" num="0097">Preferably, in step B), the deposition of the coating is performed by spin coating, spray coating, dip coating or brush coating.</p>
+<p id="p-0055" num="0098">Advantageously, in step B), the aqueous mixture comprises from 40 to 110 g/L of nanographites. More preferably, the aqueous mixture comprises from 40 to 60 g/L of nanographites.</p>
+<p id="p-0056" num="0099">Advantageously, in step B), the aqueous mixture comprises from 40 to 80 g/L of binder. Preferably, the aqueous mixture comprises from 50 to 70 g/L of binder.</p>
+<p id="p-0057" num="0100">Sodium silicate can be added to the aqueous mixture in the form of an aqueous solution. Sodium silicate may also be in a hydrated form, of general formula (Na<sub>2</sub>O)<sub>x</sub>(SiO<sub>2</sub>)<sub>y</sub>.zH<sub>2</sub>O, such as for example Na<sub>2</sub>SiO<sub>3 </sub>5H<sub>2</sub>O or Na<sub>2</sub>Si<sub>3</sub>O<sub>7 </sub>3H<sub>2</sub>O.</p>
+<p id="p-0058" num="0101">Advantageously, in step B), the ratio in weight of nanographites with respect to binder is between 0.05 and 0.9, preferably between 0.1 and 0.5.</p>
+<p id="p-0059" num="0102">According to one variant of the invention, the aqueous mixture of step B) further comprises additives, notably to improve the thermal stability and/or the abrasion resistance of the coating. Such additives can be selected among clay, silica, quartz, kaolin, aluminium oxide, magnesium oxide, silicon oxide, titanium oxide, Yttrium oxide, zinc oxide, aluminium titanate, carbides and mixtures thereof. Examples of clay are green montmorillonite and white kaolin clays. Examples of carbides are silicon carbide and tungsten carbide. Clays further help adapting the viscosity of the aqueous mixture to further facilitate its application. In this regard, when green montmorillonite is added, the ratio between the graphene weight content and the green montmorillonite weight content is preferably comprised between 0.2 and 0.8.</p>
+<p id="p-0060" num="0103">In a preferred embodiment, the coating is dried, i.e. is actively dried as opposed to a natural drying in the air, in a step C). It is believed that the drying step allows for an improvement of the coating adhesion since the removal of water is better controlled. In a preferred embodiment, in step C), the drying is performed at a temperature between 50 and 150&#xb0; C. and preferably between 80 and 120&#xb0; C. The drying can be performed with forced air.</p>
+<p id="p-0061" num="0104">Advantageously, in step C), when a drying is applied, the drying is performed during 5 to 60 minutes and for example, between 15 and 45 minutes.</p>
+<p id="p-0062" num="0105">In another embodiment, no drying step is performed. The coating is left to dry in the air.</p>
+<p id="p-0063" num="0106">The invention also relates to the use of a coated stainless steel according to the present invention for the manufacture of a snout, an overflow, a sink roll, a stabilizing roll, a roll supporting arm, a pipeline or a pumping element.</p>
+<p id="p-0064" num="0107">The invention also relates to a process of hot dip coating a steel strip comprising a step of moving the steel strip through a molten metal bath comprising a piece of equipment at least partially immersed in the bath wherein at least a part of the piece of equipment is made of a coated stainless steel substrate according to the invention.</p>
+<p id="p-0065" num="0108">The invention also relates to a hot dip coating facility comprising a molten metal bath comprising a piece of equipment at least partially immersed in the bath wherein at least a part of the piece of equipment is made of a coated stainless steel substrate according to the invention.</p>
+<p id="p-0066" num="0109">The invention will now be explained based on trials carried out for information only. They are not limiting.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<p id="p-0067" num="0110">In the examples, the steel substrates having the following composition in weight percent were used:</p>
+<p id="p-0068" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="14pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="14pt" align="center"/>
+<colspec colname="10" colwidth="14pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Steel</entry>
+<entry>C</entry>
+<entry>Mn</entry>
+<entry>Si</entry>
+<entry>P</entry>
+<entry>S</entry>
+<entry>Cr</entry>
+<entry>Ni</entry>
+<entry>Mo</entry>
+<entry>N</entry>
+<entry>Ce</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="14pt" align="center"/>
+<colspec colname="8" colwidth="14pt" align="center"/>
+<colspec colname="9" colwidth="14pt" align="center"/>
+<colspec colname="10" colwidth="14pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>0.08</entry>
+<entry>2</entry>
+<entry>0.75</entry>
+<entry>0.045</entry>
+<entry>0.03</entry>
+<entry>17</entry>
+<entry>12</entry>
+<entry>2.5</entry>
+<entry>0.1</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>0.08</entry>
+<entry>0.8</entry>
+<entry>1.8</entry>
+<entry>0.04</entry>
+<entry>0.03</entry>
+<entry>21</entry>
+<entry>11</entry>
+<entry>&#x2014;</entry>
+<entry>0.2</entry>
+<entry>0.06</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0069" num="0111">Steel 1 corresponds to 316 stainless steel and Steel 2 corresponds to 253MA&#xae; stainless steel.</p>
+<heading id="h-0006" level="1">Example 1: Coating Adhesion Test</heading>
+<p id="p-0070" num="0112">For Trials 1 and 2, stainless steels 1 and 2 were coated by brushing an aqueous mixture comprising 50 g/L of nanographites having a lateral size between 2 to 10 &#x3bc;m, a width between 2 to 15 &#x3bc;m and a thickness between 1 to 100 nm and 60 g/L of sodium silicate, as a binder, in the form of an aqueous solution comprising 25.6-27.6 wt % of SiO<sub>2 </sub>and 7.5-8.5 wt % of Na<sub>2</sub>O. Then, the coating was dried inside a furnace with hot air during 60 minutes at 75&#xb0; C. The coating was 130 &#x3bc;m thick and comprised 45 wt % of nanographites and 55 wt % of binder.</p>
+<p id="p-0071" num="0113">For Trials 3 and 4, stainless steels 1 and 2 were coated by brushing an aqueous mixture comprising 50 g/L of nanographites having a lateral size between 2 to 10 &#x3bc;m, a width between 2 to 15 &#x3bc;m and a thickness between 1 to 100 nm, 100 g/L of green montmorillonite clay and 60 g/L of sodium silicate, as a binder, in the form of an aqueous solution comprising 25.6-27.6 wt % of SiO<sub>2 </sub>and 7.5-8.5 wt % of Na<sub>2</sub>O. Then, the coating was dried inside a furnace with hot air during 60 minutes at 75&#xb0; C. The coating was 130 &#x3bc;m thick and comprised 11 wt % of nanographite, 69 wt % of binder and 20 wt % of green montmorillonite clay.</p>
+<p id="p-0072" num="0114">For Trials 5 and 6, stainless steels 1 and 2 were coated by brushing an aqueous mixture comprising 90 g/L of nanographites having a lateral size between 2 to 10 &#x3bc;m, a width between 2 to 15 &#x3bc;m and a thickness between 1 to 100 nm, and 60 g/L of sodium silicate, as a binder, in the form of an aqueous solution comprising 25.6-27.6 wt % of SiO<sub>2 </sub>and 7.5-8.5 wt % of Na<sub>2</sub>O. Then, the coating was dried inside a furnace with hot air during 60 minutes at 75&#xb0; C. The coating was 130 &#x3bc;m thick and comprised 60 wt % of nanographite, 40 wt % of binder.</p>
+<p id="p-0073" num="0115">For Trials 7 and 8, stainless steels 1 and 2 were coated by brushing an aqueous mixture comprising 50 g/L of reduced graphene oxide having a lateral size between 5 to 30 &#x3bc;m, a width between 5 to 30 &#x3bc;m and a thickness between 1 to 10 nm and 60 g/L of sodium silicate, as a binder, in the form of an aqueous solution comprising 25.6-27.6 wt % of SiO<sub>2 </sub>and 7.5-8.5 wt % of Na<sub>2</sub>O. Then, the coating was dried inside a furnace with hot air during 60 minutes at 75&#xb0; C. The coating was 130 &#x3bc;m thick and comprised 45 wt % of reduced graphene oxide and 55 wt % of binder.</p>
+<p id="p-0074" num="0116">To evaluate the coating adhesion, an adhesive tape was deposited on the Trials and then removed. The coating adhesion was evaluated by visual inspection on the Trials: 0 means that all the coating has remained on the stainless steel; 1 means that some parts of the coating has been removed and 2 means that almost all the coating has been removed.</p>
+<p id="p-0075" num="0117">The results are in the following Table 1:</p>
+<p id="p-0076" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="105pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Trials</entry>
+<entry>Steels</entry>
+<entry>Coating</entry>
+<entry>Adhesion</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>1*</entry>
+<entry>1</entry>
+<entry>nanographites and sodium silicate</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>2*</entry>
+<entry>2</entry>
+<entry>nanographites and sodium silicate</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>3*</entry>
+<entry>1</entry>
+<entry>Nanographites, montmorillonite</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>green clay and sodium silicate</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>4*</entry>
+<entry>2</entry>
+<entry>Nanographites, montmorillonite</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>green clay and sodium silicate</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>5*</entry>
+<entry>1</entry>
+<entry>nanographites and sodium silicate</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>6*</entry>
+<entry>2</entry>
+<entry>nanographites and sodium silicate</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry/>
+<entry>7</entry>
+<entry>1</entry>
+<entry>Reduced graphene oxide and</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>sodium silicate</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>8</entry>
+<entry>2</entry>
+<entry>Reduced graphene oxide and</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>sodium silicate</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="left" id="FOO-00001">*according to the present invention.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0077" num="0118">Trials according to the present invention show an excellent coating adhesion.</p>
+<heading id="h-0007" level="1">Example 2: Bath Immersion</heading>
+<p id="p-0078" num="0119">Trials 1 to 6 were immersed 2 weeks in a zinc-based bath comprising 0.2% of Al and 0.02% of Fe. After 2 weeks, a non-adherent zinc thin film was present on the Trials. The zinc film was easily peeled off from the Trials. The coating of the present invention was still present on all Trials. No attack of zinc appeared.</p>
+<p id="p-0079" num="0120">The Trials according of the present invention were well protected against zinc attack.</p>
+<p id="p-0080" num="0121">Trials 5 and 6 were also immersed 8 days in an aluminium-based bath comprising 10% of Si and 2.5% of Fe. After 8 days, a non-adherent metallic thin film was present on the Trials. The metallic film was easily peeled off from the Trials. The coating of the present invention was still present on both Trials. No attack of aluminium appeared.</p>
+<p id="p-0081" num="0122">The Trials according of the present invention were well protected against aluminium attack.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-17" num="01-17">
+<claim-text><b>1</b>-<b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A coated stainless-steel substrate comprising:
+<claim-text>a stainless-steel substrate; and</claim-text>
+<claim-text>a coating comprising nanographites and a binder being sodium silicate, wherein the stainless-steel substrate has the following composition in weight percent:
+<claim-text>C&#x2264;1.2%,</claim-text>
+<claim-text>Cr&#x2265;11.0%,</claim-text>
+<claim-text>Ni&#x2265;8.0%</claim-text>
+<claim-text>and on a purely optional basis, one or more elements such as</claim-text>
+<claim-text>Nb&#x2264;6.0%,</claim-text>
+<claim-text>B&#x2264;1.0%,</claim-text>
+<claim-text>Ti&#x2264;3.0%,</claim-text>
+<claim-text>Cu&#x2264;5.0%,</claim-text>
+<claim-text>Co&#x2264;3.0%,</claim-text>
+<claim-text>N&#x2264;1.0%,</claim-text>
+<claim-text>V&#x2264;3.0%,</claim-text>
+<claim-text>Si&#x2264;4.0%,</claim-text>
+<claim-text>Mn&#x2264;5.0%,</claim-text>
+<claim-text>P&#x2264;0.5%,</claim-text>
+<claim-text>S&#x2264;0.5%,</claim-text>
+<claim-text>Mo&#x2264;6.0%,</claim-text>
+<claim-text>Ce&#x2264;1.0%,</claim-text>
+</claim-text>
+<claim-text>a remainder of the composition being made of iron and inevitable impurities resulting from processing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a lateral size of the nanographites is between 1 and 65 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a width size of the nanographites is between 2 to 15 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a thickness of the nanographites is between 1 to 100 nm.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a concentration of nanographites in the coating is between 5% and 70% by weight.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a concentration of sodium silicate in the coating is between 35% and 75% by weight.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a ratio in weight of nanographites with respect to the binder is between 0.05 and 0.9.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein a thickness of the coating is between 10 and 250 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein the coating further comprises clay, silica, quartz, kaolin, aluminium oxide, magnesium oxide, silicon oxide, titanium oxide, Yttrium oxide, zinc oxide, aluminium titanate, carbides or mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. A method for the manufacture of a coated stainless-steel substrate comprising the successive following steps:
+<claim-text>A. Providing a stainless-steel substrate comprising in weight percent at most 1.2% C, at least 11.0% Cr and at least 8.0% Ni, a remainder of the composition being made of iron and inevitable impurities resulting from processing,</claim-text>
+<claim-text>B. depositing on at least a part of the stainless-steel substrate of an aqueous mixture comprising nanographites and a binder being sodium silicate to form a coating.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method as recited in <claim-ref idref="CLM-00027">claim 27</claim-ref> further comprising drying the coating obtained in step B).</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The method as recited in <claim-ref idref="CLM-00027">claim 27</claim-ref> wherein in step B), the aqueous mixture comprises from 40 to 110 g/L of nanographites and from 40 to 80 g/L of binder.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The method as recited in <claim-ref idref="CLM-00028">claim 28</claim-ref> wherein the drying is performed at a temperature between 50 and 150&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. A method for hot dip coating a steel strip comprising a step of moving the steel strip through a molten metal bath comprising a piece of equipment at least partially immersed in the bath, at least a part of the piece of equipment being made of a coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. A hot dip coating facility comprising a molten metal bath comprising a piece of equipment at least partially immersed in the bath, at least a part of the piece of equipment being made of a coated stainless-steel substrate as recited in <claim-ref idref="CLM-00018">claim 18</claim-ref></claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. A hot dip coating facility as recited in <claim-ref idref="CLM-00032">claim 32</claim-ref> wherein the piece of equipment is selected from the group consisting of a snout, an overflow, a sink roll, a stabilizing roll, a roll supporting arm, a roll flange, a pipeline and a pumping element.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

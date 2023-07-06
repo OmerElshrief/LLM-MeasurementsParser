@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411886A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411886</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17845629</doc-number>
+<date>20220621</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>70</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>701</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6869</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Methods and Systems for Detection of Covid Variants</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>63213110</doc-number>
+<date>20210621</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="obligated-assignee">
+<addressbook>
+<orgname>Laboratory Corporation of America Holdings</orgname>
+<address>
+<city>Burlington</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Williams</last-name>
+<first-name>Jonathan David</first-name>
+<address>
+<city>Hillsborough</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Krueger</last-name>
+<first-name>Brian</first-name>
+<address>
+<city>Burlington</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Norvell</last-name>
+<first-name>Brian Matthew</first-name>
+<address>
+<city>Liberty</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Parker</last-name>
+<first-name>Scott</first-name>
+<address>
+<city>Cary</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Iyer</last-name>
+<first-name>Lakshmanan K.</first-name>
+<address>
+<city>North Attleboro</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Brochu</last-name>
+<first-name>Hayden N.</first-name>
+<address>
+<city>Charlotte</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed are methods and systems for the detection of variants of the SARS-CoV-2 virus that cause COVID-19. For example, disclosed are methods for identifying and/or tracking variants of SARS-CoV-2 comprising: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence. Also disclosed are systems for performing any portion of the disclosed methods and computer-program products tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to perform any of the steps of the disclosed methods or run any portion of the disclosed systems.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="106.34mm" wi="141.31mm" file="US20220411886A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="243.50mm" wi="110.07mm" orientation="landscape" file="US20220411886A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="181.19mm" wi="125.90mm" orientation="landscape" file="US20220411886A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="251.12mm" wi="123.19mm" orientation="landscape" file="US20220411886A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="250.53mm" wi="128.35mm" orientation="landscape" file="US20220411886A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="241.64mm" wi="129.96mm" orientation="landscape" file="US20220411886A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="246.72mm" wi="135.97mm" orientation="landscape" file="US20220411886A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="229.79mm" wi="136.57mm" orientation="landscape" file="US20220411886A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="117.69mm" wi="126.32mm" orientation="landscape" file="US20220411886A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="203.03mm" wi="128.44mm" orientation="landscape" file="US20220411886A1-20221229-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="202.10mm" wi="123.44mm" orientation="landscape" file="US20220411886A1-20221229-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="184.23mm" wi="111.34mm" orientation="landscape" file="US20220411886A1-20221229-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="190.42mm" wi="114.38mm" orientation="landscape" file="US20220411886A1-20221229-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="168.74mm" wi="121.24mm" orientation="landscape" file="US20220411886A1-20221229-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="165.86mm" wi="126.49mm" orientation="landscape" file="US20220411886A1-20221229-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="187.45mm" wi="124.88mm" orientation="landscape" file="US20220411886A1-20221229-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Patent Application No. 63/213,110, filed Jun. 21, 2021. The disclosure of U.S. Provisional Patent Application No. 63/213,110 is incorporated by reference in its entirety herein.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">Disclosed are methods and systems for the detection of variants of the SARS-CoV-2 virus that cause COVID-19 and the geographic location of individuals infected with any strain of the variants.</p>
+<heading id="h-0003" level="1">INTRODUCTION</heading>
+<p id="p-0004" num="0003">SARS-CoV-2 is an enveloped, single-stranded RNA virus of the family Coronaviridae, genus Beta coronavirus. All coronaviruses share similarities in the organization and expression of their genome, which encodes 16 nonstructural. proteins and the 4 structural proteins: spike (S), envelope (E), membrane (M), and nucleocapsid (N). Viruses of this family are of zoonotic origin. They cause disease with symptoms ranging from those of a mild common cold to more severe ones such as the Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MFRS) and Coronavirus Disease 2019 (COVID-19). Other coronaviruses known to infect people include 229E, NL63, OC43 and HKU1, The latter are ubiquitous and infection typically causes common cold or flu-like symptoms.</p>
+<p id="p-0005" num="0004">The 2019 Novel Coronavirus (SARS-CoV-2) is a beta-coronavirus that first emerged as a pathogen with outbreak potential in Wuhan, China in December 2019. Initial reports suggested that limited person to person transmission occurred within China. However, in early 2020, additional cases of 2019-nCoV have been detected worldwide, indicating sustained person to person transmission. To date, the clinical spectrum of SARS-CoV-2 has ranged from mild, self-limiting upper respiratory tract infections to more serious lower respiratory tract illness leading to significant morbidity and mortality. As the SARS-CoV-2 pandemic has accelerated, more keen attention has been paid to diversity of viral genomic sequences, and how these variants may affect transmissibility of infection, severity of infection, or viral escape from natural or vaccine-induced immunity.</p>
+<p id="p-0006" num="0005">Viruses constantly change through mutation. Multiple variants of the virus that causes COVID-19 have been documented in the U.S. and globally. Some variants may emerge and disappear; other variants may persist and display increased infectivity or severity of symptoms. For example, as of June 2021 there were six notable variants in the United States. (1) B.1.1.7: this variant was first detected in the United States in December 2020. It was initially detected in the United Kingdom. (2) B.1.351: this variant was first detected in the United States at the end of January 2021 and was initially detected in South Africa in December 2020. (3) P.1: this variant was first detected in the United States in January 2021&#x2014;P.1 was initially identified in travelers from Brazil, who were tested during routine screening at an airport in Japan, in early January. (4) B.1.427 and (5) B.1.429: these two variants were first identified in California in February 2021. (6) B.1.617.2: this variant was first detected in the United States in March 2021. It was initially identified in India in December 2020. CDC.gov/coronavirus/2019-ncov/variants.</p>
+<p id="p-0007" num="0006">Thus, there is a need to identify and track new variants. There is further a need to track the geographic location of infected individuals to assist public health authorities in responding to the pandemic.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">Disclosed are methods and systems for identifying and tracking variants of SARS-CoV-2 that can cause COVID-19. The methods and systems may be embodied in a variety of ways.</p>
+<p id="p-0009" num="0008">In certain embodiments, the method may comprise a method for identifying and/or tracking variants of SARS-CoV-2 comprising the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0010" num="0009">In an embodiment, sequencing covers the majority of the viral genome. Thus, in certain embodiments, where the sample SARS-CoV-2 genome is amplified by RT-PCR, the resulting cDNA is then further amplified using tiled primers that bind at spaced intervals along the viral genome. In certain embodiments, the tiled primers are spaced such that adjacent primers are 600 bp apart from each other. In this way, the SARS-CoV-2 genome is amplified in a highly efficient manner regardless of the presence or absence of new variants. For example, in certain embodiments, the nucleic acid sequencing comprises sequencing at least 80%, or optionally at least 85%, or optionally at least 90%, or optionally at least 95% of the entire viral genome.</p>
+<p id="p-0011" num="0010">The amplified nucleic acid molecules may be labeled with molecular barcode identifying sequences. For example, in certain embodiments, the tiled primers are primers further comprise an adaptor for the addition of a barcode sequence and/or universal primer sites for nucleic acid sequencing.</p>
+<p id="p-0012" num="0011">Also disclosed are systems for performing any of the steps of the disclosed method steps as well as a computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to run any of the stations and/or components of the system and/or perform a step or steps of the methods of any of the disclosed embodiments.</p>
+<p id="p-0013" num="0012">Also disclosed are systems that include one or more data processors and a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform part or all of one or more methods disclosed herein, and computer program products tangibly embodied in a non-transitory machine-readable storage medium, and that include instructions configured to cause one or more data processors to perform part or all of one or more methods disclosed herein.</p>
+<p id="p-0014" num="0013">The sequencing described herein is advantageous for identifying variants. A variety of nucleic acid sequencing protocols may be used. In certain embodiments, the nucleic acid sequencing comprises RT-PCR. For example, in certain embodiments, a PacBio&#xae; sequencing protocol and or apparatus is used.</p>
+<p id="p-0015" num="0014">In further embodiments, disclosed are methods and systems for identifying the geographic location of individuals infected with a variant. For example, in certain embodiments, the barcode is linked to the individual's zip code or other geographic identifier. In addition, the disclosure provides methods and/or systems to track the prevalence of variants in a population of infected individuals and/or a general population. In either case, a geographic region may comprise the population. In a further embodiment, the disclosure provides methods and systems to correlate specific variants with infectivity (virus transmission) and disease severity.</p>
+<p id="p-0016" num="0015">Data generated by a method or system of the disclosure may be combined with other data of a similar type from other sources and/or other data of a different type in analysis. In certain embodiments, data may be deposited in a depository for analysis and/or combination with other data. In certain embodiments, the depository is a CDC database. Or, other government or university or private databases may be engaged.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">FIGURES</heading>
+<p id="p-0017" num="0016">The disclosure may be better understood by reference to the following non-limiting figures.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows a method for detection of SARS-CoV-2 variants in accordance with an embodiment of certain steps of the disclosure.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a method for preparing a sample-specific SARS-CoV-2 nucleic acid for sequencing in accordance with an embodiment of certain steps of the disclosure.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows a method for whole genome sequencing and variant identification in accordance with an embodiment of the disclosure.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows method steps for analysis of sequence data in accordance with an embodiment of the disclosure.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows method steps for variant identification and lineage assignment in accordance with an embodiment of the disclosure.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows method steps for revalidation of variant identification using in-house data and an external database in accordance with an embodiment of the disclosure.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a system for detection of SARS-CoV-2 variants in accordance with an embodiment of the disclosure.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a computing device for use with any of the methods or systems in accordance with an embodiment of the disclosure.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows a map of a 96 well plate used to distribute M13 forward (1001-1032) and M13 reverse primers (1049-1079, and 1082) into amplification reactions in accordance with an embodiment of the disclosure.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a map of a 96 well plate with combinations of M13 forward (1001-1032) and reverse (1049-1051) barcoded primers for use in amplification reactions in accordance with an embodiment of the disclosure.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a distribution of average read coverage (NTC average CCS read depth) in accordance with an embodiment of the disclosure.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows confirmed negative mucleic acid amplification (NAA) diagnostic samples' average CCS read count in accordance with an embodiment of the disclosure.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a distribution of strains in accordance with an embodiment of the disclosure.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>14</b></figref> shows the rate of 90% genome coverage by NAA CT value in accordance with an embodiment of the disclosure.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>15</b></figref> shows the average read count for inter-assay samples used in a stability study for three separate sequencing runs (PBT5073, PBT5075, and PBT5080) in accordance with an embodiment of the disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0033" num="0032">Definitions</p>
+<p id="p-0034" num="0033">The terms sample or patient sample or biological sample or specimen are used interchangeably herein. Samples may include upper and lower respiratory specimens. Such specimens (samples) may include nasopharyngeal or oropharyngeal swabs, sputum, lower respiratory tract aspirates, bronchoalveolar lavage, and nasopharyngeal washes/aspirates or nasal aspirates. Other non-limiting examples of samples include, a tissue sample (e.g., biopsies), blood or a blood product (e.g., serum, plasma, or the like), cell-free DNA, urine, a liquid biopsy sample, or combinations thereof. The term &#x201c;blood&#x201d; encompasses whole blood, blood product or any fraction of blood, such as serum, plasma, buffy coat, or the like as conventionally defined.</p>
+<p id="p-0035" num="0034">As used herein, the term subject or individual refers to a human or any non-human animal. A subject or individual can be a patient, which refers to a human presenting to a medical provider for diagnosis or treatment of a disease, and in some cases, wherein the disease may be any infection by a pathogen. Also, as used herein, the terms &#x201c;individual,&#x201d; &#x201c;subject&#x201d; or &#x201c;patient&#x201d; includes all warm-blooded animals.</p>
+<p id="p-0036" num="0035">As used herein SMRT refers to single-molecule real-time sequencing that uses a zero-mode waveguide (ZMW). A single DNA polymerase enzyme is affixed at the bottom of a ZMW with a single molecule of DNA as a template. The ZMW creates an illuminated observation volume that is small enough to observe only a single nucleotide being incorporated. Each of the four DNA bases is attached to one of four different fluorescent dyes. When a nucleotide is incorporated by the DNA polymerase, the fluorescent tag is cleaved off and diffuses out of the observation area of the ZMW where its fluorescence is no longer observable. A detector detects the fluorescent signal of the nucleotide incorporation, and the base call is made according to the corresponding fluorescence of the dye.</p>
+<p id="p-0037" num="0036">As used herein, CT or ct refers to cycle threshold, or the total number of cycles required to amplify and detect a viral (e.g., SARS-CoV-3) nucleic acid by RT-PCR.</p>
+<p id="p-0038" num="0037">As used herein loci loop capture is the process of using molecular inversion probes to bind to and amplify a region of interest within the viral genome.</p>
+<p id="p-0039" num="0038">As used herein, CCS or circular consensus sequencing reads are processed reads that have been corrected for errors in raw sequencing data by sequencing the length of a captured DNA fragment multiple times.</p>
+<p id="p-0040" num="0039">As used herein, repeatability (or intra-assay precision) describes the closeness of agreement between results of successive measurements of the same analyte and carried out under the same conditions of measurement. Intra-assay repeatability is the measurement of the variability when the same specimen is analyzed during one analytical run.</p>
+<p id="p-0041" num="0040">As used herein reproducibility (or inter-assay precision) describes the closeness of agreement between results of successive measurements of the same analyte and carried out under the same conditions of measurement. Inter-assay repeatability is a measurement of the variability when the same specimen is analyzed during more than one run.</p>
+<p id="p-0042" num="0041">As used herein, concordance measures the closeness of agreement between the measured value and the value that is accepted as a conventional true or accepted reference value. This can require a &#x201c;gold standard&#x201d; or an accepted method to which a new method can be compared.</p>
+<p id="p-0043" num="0042">As used herein, analytical validity requires establishing the probability that a test will be positive when a particular sequence (analyte) is present (analytical sensitivity) and the probability that the test will be negative when the sequence is absent (analytical specificity). In next generation sequencing (NGS), analytical sensitivity can be the likelihood that the assay will detect the targeted sequence variations, if present nucleic acid sequences derived from the assay and a reference sequence. For NGS, analytical specificity is defined as the probability that the assay will not detect a sequence variation when none are present (the false detection rate is a useful measurement for sequencing assays).</p>
+<p id="p-0044" num="0043">As used herein, specificity defines the ability of a measurement procedure to measure solely the analyte.</p>
+<p id="p-0045" num="0044">As used herein, the assay tolerance for nucleic acid input is the tolerance to variation in the amount of analyte added to the reactions.</p>
+<p id="p-0046" num="0045">As used herein, GISAID is a global science initiative and primary source established in 2008 that provides open access to genomic data of influenza and coronavirus (e.g., COVID-19) data. The database has become the world's largest repository for SARS-CoV-2 sequences. GISAID facilitates genomic epidemiology and real-time surveillance to monitor the emergence of new COVID-19 viral strains.</p>
+<p id="p-0047" num="0046">As used herein, when an action is &#x201c;based on&#x201d; something, this means the action is based at least in part on at least a part of the something.</p>
+<heading id="h-0007" level="2">Methods for NGS SARS-CoV-2 Strain Determination</heading>
+<p id="p-0048" num="0047">Disclosed are methods and systems for identifying and tracking variants of SARS-CoV-2 that can cause COVID-19. The methods and systems may be embodied in a variety of ways.</p>
+<p id="p-0049" num="0048">In certain embodiments, the method may comprise a method for identifying and/or tracking variants of SARS-CoV-2 comprising the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0050" num="0049">The method may utilize samples for which the COVID status is not known, or may use samples that have previously tested positive for COVID. In certain embodiments, the positive samples may be identified using an approved EUA approved COVID-19 RT-PCR Test (e.g., Labcorp EUA200011 and/or EUA203057). In this way, results are for the identification of the SARS-CoV-2 strain infecting an individual after detection of viral RNA in the sample.</p>
+<p id="p-0051" num="0050">In an embodiment, sequencing covers the majority of the viral genome. Thus, in certain embodiments, where the sample SARS-CoV-2 genome is amplified by RT-PCR, the resulting cDNA is then further amplified using tiled primers that bind at spaced intervals along the viral genome. In certain embodiments, the tiled primers are spaced such that adjacent primers are 600 bp apart from each other. In this way, the SARS-CoV-2 genome is amplified in a highly efficient manner regardless of the presence or absence of new variants. For example, in certain embodiments, the nucleic acid sequencing comprises sequencing at least 80%, or optionally at least 85%, or optionally at least 90%, or optionally at least 95% of the entire viral genome.</p>
+<p id="p-0052" num="0051">The amplified nucleic acid molecules may be labeled with molecular barcode identifying sequences. For example, in certain embodiments, the tiled primers are primers further comprise an adaptor for the addition of a barcode sequence and/or universal primer sites for nucleic acid sequencing.</p>
+<p id="p-0053" num="0052">In certain embodiments, the step of generating a sample-specific SARS-CoV-2 nucleic acid comprises using reverse transcriptase polymerase chain reaction (RT-PCR) to generate a sample-specific SARS-CoV-2 cDNA.</p>
+<p id="p-0054" num="0053">Also, in certain embodiments, the step of generating a sample-specific SARS-CoV-2 nucleic acid comprises using a targeted next-generation sequencing in combination with inverted molecular probes as a way to generate the sample-specific SARS-CoV-2 nucleic acid (e.g., Molecular Loop SARS-CoV-2 Sequencing Panel). For example, in certain embodiments the step of generating a sample-specific SARS-CoV-2 nucleic acid further comprises hybridizing one strand of the sample SARS-CoV-2 cDNA to a single-stranded probe DNA template comprising a pair of SARS-CoV-2 probes, wherein the first probe is positioned at the 3&#x2032; end of the probe DNA template and the second probe is positioned at the 5&#x2032; end of the probe DNA template. In this way, the 3&#x2032; probe functions as a forward primer and the 5&#x2032; probe functions as a reverse primer.</p>
+<p id="p-0055" num="0054">In certain embodiments, the probe sequences are selected as tiled probes that bind at spaced intervals along a SARS-CoV-2 genome. In an embodiment, the Wuhan-Hu-1 SARS-CoV-2 reference genome (NC_045512) (available at www.ncbi.nlm.nih.gov/nuccore/NC_045512) is used. Or, other known reference genomes may be used. For example, in alternate embodiments, the probes may be spaced by about 100, or 200, or 300, or 400, or 500, or 600, or 700, or 800, or 900 or more than 1,000 base pairs. Or, spacings within this range (e.g., 450, 550, 650 or 750) may be used. The probes may be tiled across greater than 99% (e.g., 99.6%) of the 30 kb SARS-CoV-2 viral genome. The probes may be tiled over and/or to provide a sequence on average for a given nucleotide 2X, 7X, 22X or more.</p>
+<p id="p-0056" num="0055">Also, in certain embodiments, the single-stranded probe DNA template further comprises universal sequencing primers (e.g., M13 primers) positioned adjacent to the probe sequences. These can allow for enrichment with matching universal primer sequences and unique sample specific barcoding for downstream bioinformatic analysis. Additionally, in certain embodiments, and as disclosed in more detail herein, the single-stranded probe DNA template further comprises an adaptor sequence for the addition of a barcode sequence used to correlate the SARS-CoV-2 sample-specific nucleic acid to a sample number. In some cases, the barcode may be correlated to the zip code from which the sample and/or patient originated. Also, the method may include filling in the sequence between the two probes to generate a circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA between the two probe sequences and then releasing the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA from the sample-specific SARS-CoV-2 DNA and digestion of the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA to generate a linear DNA used as a template for nucleic acid sequencing. In certain embodiments, the linear probe DNA template is then modified to add adaptors and then PCR amplified (enriched) for DNA sequencing. In certain embodiments, the step of enrichment comprises a purification step (e.g., bead purification). For example, in certain embodiments, the substrate for sequencing is generated by RT-PCR and then SARS-CoV-2 sequences identified using &#x2dc;1000 tiled Molecular Loop Inversion Probes (MIPS) designed to amplify RNA that has been reverse transcribed to cDNA from 99.6% of the SARS-CoV-2 genome with most bases covered by 22 MIPs. In certain embodiments, the product synthesized in-between the MIPS is enriched and has sample specific molecular barcodes added via amplification followed by sequencing.</p>
+<p id="p-0057" num="0056">In certain embodiments, the method employs whole genome sequencing. In certain embodiments, next generation sequencing (NGS) is used. Or, other types of sequencing such as but not limited to Sanger sequencing, shot gun sequencing, SMRT sequencing, pyrosequencing or nanopore sequencing may be used. For example, in certain embodiments the PacBio whole genome sequencing with the corresponding SMRT link 9 software and analysis tools may be used. For example, in one embodiment, the method may employ a PacBio whole genome sequencing test for SARS-CoV-2 strain identification using residual total nucleic acid extracts from positive samples. In certain embodiments, the nucleic acid sequencing comprises sequencing at least 80%, or optionally 85%, or optionally 90% or greater of the entire viral genome.</p>
+<p id="p-0058" num="0057">In certain embodiments, the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence comprises aligning the sample SAR-CoV-2 sequence to a SARS-CoV-2 reference genome to generate a sample-specific assembly and consensus sequence. Additionally, the method may comprise assessing the lineage for the sample. In certain embodiments, the method may include identifying the geographic location of the subject.</p>
+<p id="p-0059" num="0058">Additionally, as disclosed herein, in certain embodiments, the method may include uploading the results of the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence into a depository for further classification (e.g., lineage determination) if a variant is detected. The depository may be a CDC database. Or, other public depositories may be used.</p>
+<p id="p-0060" num="0059">The method may further include determining if an update to the depository has been made prior to the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0061" num="0060">The method may be automated at various steps in the procedure. In certain embodiments, the method may be used with Hamilton Star robots for sample plate setup. Additionally, and/or alternatively, Formulatrix Mantis Liquid Handlers or other automated devices may be used for mastermix distribution. Also, as disclosed herein the method may be computer implemented and/or include use of a computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to perform any of the steps of the method.</p>
+<p id="p-0062" num="0061">For example, in certain embodiments, residual total nucleic acid extract from SARS-CoV-2 positive RT-PCR diagnostic testing samples with Ct values &#x3c;31 are cherry picked, e.g., as disclosed in more detail herein, from RNA extraction plates into a 96 well plate containing only positive samples using Hamilton STARs. Samples may then be aliquoted into a sequencing run plate of 95 samples with one water non-template control (NTC). The method may be scaled as required. For example, in certain embodiments, eight plates, or 760 specimens, may be processed in one production batch.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an example of an embodiment of a method <b>100</b> of the disclosure. As illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a sample for testing, optionally positive for SARS-CoV-2, is obtained from a subject <b>102</b>. In an embodiment, SARS-CoV-2 cDNA sequences are generated by RT-PCT <b>104</b>. The SARS-CoV-2 cDNA may then be incubated with a set of tiled probes <b>106</b>. In certain embodiments, the tiled probes are relatively evenly spaced across the SARS-CoV-2 genome. After binding, the region in-between the two probes may be filled in with DNA polymerase and ligated to form a closed circular molecule having sample-specific SARS-CoV-2 nucleic acid sequences positioned between the two probe sequences (i.e., a circular probe template) <b>108</b>. Non-binding or incomplete loops remain linear molecules and may be removed with exonuclease digestion <b>110</b>. Also at this point, the circular probe template molecules may be released from the sample cDNA (i.e., during denaturation in the PCR amplification reaction) <b>110</b>. The probe may then be linearized, and enriched via amplification with a 3&#x2032; M13 universal sequence and 5&#x2032; sample specific barcodes <b>112</b>. Samples are then pooled by equal volume <b>114</b> and library prepped for sequencing <b>116</b>. At this point, samples are sequenced as disclosed herein and results analyzed <b>300</b> and reported <b>400</b>.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. <b>2</b></figref> provides an alternate illustration of the portion of the method for capturing SARS-CoV-2 specific sequences for sequence analysis. Thus, in certain embodiments, a custom Molecular Loop SARS-CoV-2 Capture Kit is used to prepare the samples to sequence. In certain embodiments, as disclosed herein, sequencing is performed using PacBio Sequel II sequencer. Thus, reverse transcriptase is used to synthesize cDNA from RNA. The SARS-CoV-2 cDNA is then used as a target for hybridization of molecular loop probes (<figref idref="DRAWINGS">FIG. <b>2</b></figref>, Step 1). Molecular loop probes may be tiled across greater than 99% (e.g., 99.6%) of the 30 kb SARS-CoV-2 viral genome and consist of two binding sites approximately 600 bp apart. After binding, the region in-between the two probes is synthesized with DNA polymerase and ligated to form a closed molecule (<figref idref="DRAWINGS">FIG. <b>2</b></figref>, Step 2). Non-binding or incomplete loops remain linear molecules and are removed with exonuclease digestion (<figref idref="DRAWINGS">FIG. <b>2</b></figref>, Step 3). Circular molecules are then released from the template cDNA (<figref idref="DRAWINGS">FIG. <b>2</b></figref>, Step 4) and then linearized (e.g., by digestion at X1) and enriched via amplification with a 3&#x2032; molecular loop specific M13 universal sequence and 5&#x2032; sample specific barcodes (<figref idref="DRAWINGS">FIG. <b>2</b></figref>, Step 5). P1 and P2 in <figref idref="DRAWINGS">FIG. <b>2</b></figref> are adaptors that may be used for barcode addition. Samples are then pooled by equal volume and library prepped for PacBio sequencing. Library preparation may entail DNA damage repair, ligation of sequencing adapters, non-ligated product removal by enzymatic digestion, and bead purification. Libraries may then sequenced on a PacBio Sequel II, e.g., with 15 hour movies.</p>
+<p id="p-0065" num="0064">As illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, at this point the steps of sequencing and data analysis may be performed <b>300</b>. Thus, in certain embodiments, the method may comprise computer-implemented steps for sequence analysis. In certain embodiments, whole genome sequencing is performed <b>302</b> In certain embodiments, the sequencing utilizes Single Molecule, Real-Time (SMRT) long-read sequencing technology. The circular template generated from library prep is bound with a polymerase and primer and loaded onto the SMRTCell (sequencing cell). A single molecular product diffuses into one of 8 million zero-mode waveguide (ZMWs) wells where the polymerase is immobilized at the bottom. Phospholinked nucleotides are then introduced to the ZMWs where the base can then be incorporated by the polymerase. When a given base pair is incorporated, its addition produces a nucleotide specific emission of light that is detected on a per well basis by a camera. This process is repeated for a given amount of time, or movie length, and the nucleotide order on a given well is analyzed and translated to the corresponding nucleotide in the long sequence read output.</p>
+<p id="p-0066" num="0065">Next, the data may be assembled as sequence files <b>303</b>. For example, in certain embodiments, PacBio SMRT LINK software and custom molecular loop processing scripts may be used to generate the FASTQ files for each sample. FASTQs may be analyzed using a genome analysis pipeline implemented using a CLC genomics server version 6.5.6. Or, other sequencing analysis systems may be used. At this point, the sequencing primer sequences can be removed <b>304</b> and the sequence aligned to a SARS-CoV-2 reference genome (e.g., NC_045512v2) to generate a bam file of alignment <b>306</b>. In certain embodiments, Minimap2 may be used to generate the alignment. Or, other alignment programs may be used. In an embodiment, samples meeting minimum coverage of 50% are then used as the input for calling variants and for generating a sample-specific genome assembly to generate a consensus sequence for each sample <b>308</b>. Or, other minimum coverage limits (e.g., 20, 30, 40, 60, 70, 80, 90 percent) may be used. In an embodiment, the consensus sequence may be generated using VCFcons (available at www.biorxiv.org/content/10.1101/2021.02.26.433111v1). Or, another algorithm may be used. In an embodiment, there is a defined threshold for generating the consensus sequence. For example, in certain embodiments, when VCFcons calls a nucleotide sequence for genome construction it must have at least 4 circular consensus sequencing (CCS) reads covering that base pair and an alternate allele frequency compared to the reference of &#x3e;50%. If a nucleotide has less than 4 reads it is reported as N (a non-defined nucleotide) in the consensus sequence.</p>
+<p id="p-0067" num="0066">Assignment of sample lineage may take into account certain experimental variables and/or controls <b>310</b>. For example, in certain embodiments, evaluation of an external no template control (NTC) is used to assess the validity of the results <b>310</b>. Additionally and/or alternatively, an external positive template control (PTC) may be added to verify adequate processing of the plate <b>310</b>. Further, in certain embodiments, unique strains (as available) from successful runs can be pooled by strain type and each unique pooled strain can be added to plates across a batch (e.g., a set of 8 sequencing plates) to ensure plate provenance across plate processing. An external non-template control (NTC) may be needed to ensure master mix contamination events are not present on the given amplification plate. The NTC may comprise water (e.g., molecular grade water) added to a defined position (e.g., the A1 position) of every 96 well positive plate before sample addition. Or, other NTCs (e.g., buffer) may be used. The NTC is may then be transferred along with positive samples to the sequencing run plate and taken through sequencing and (quality control) QC analysis.</p>
+<p id="p-0068" num="0067">In certain embodiments, after sequencing, the strain typing of a given plates positive control can be compared to the documented strain added before processing. Any discordance between a plates assigned strain typing can be further investigated to determine whether to proceed with the individual plate. For example, in certain embodiments, an inability to reconcile the positive control result can result in removal of all strains associated with a given control's plate. In other embodiments, a failed reaction of positive control will not necessarily lead to removal of results if the corresponding controls in other plates in the batch can rule out potential plate swaps.</p>
+<p id="p-0069" num="0068">In certain embodiments, after sequencing and NTC analysis the mean of medium CCS reads may be computationally analyzed for passing acceptance criteria of 10 CCS reads <b>310</b>. In certain embodiments, for a positive sample's results to be released for a given 96 well sequencing plate the NTC must return a mean of median of a defined level (e.g., &#x3c;10) CCS reads. If a plate's given NTC's mean of median CCS reads is greater than the defined level of CCS reads, all corresponding samples on the plate may be scheduled to be repeated.</p>
+<p id="p-0070" num="0069">At this point, lineages for individual samples may then be assigned using the consensus sequence <b>312</b>. In an embodiment, this is performed as input to the Pangolin analysis package. Or, other analyses may be used. In certain embodiments, strain lineage results are released for samples with 90% genome coverage and/or whose mean of median read coverage across the whole genome is &#x3e;10 circular consensus sequence (CCS) reads <b>314</b>. In an embodiment, the different CCS read metrics are based on the nucleotide level (4 CCS reads) and on the genome level (10 CCS reads).</p>
+<p id="p-0071" num="0070">In certain embodiments, assessment of the strain determination results are performed after NTC analysis and removal of any samples on a plate with a failed NTC. Individual sample results are then computationally investigated for mean of median CCS reads &#x3e;10 CCS and percent genome coverage is &#x3e;90%. In certain embodiments, test results may be reported to healthcare providers and relevant public health authorities in accordance with local, state, and federal requirements. In certain embodiments, samples not meeting these criteria fail analysis and strain typing is not reported. Additionally and/or alternatively, when only positive samples are tested, the method is not used for detection of SARS-CoV-2 infection status where infection status is not dictated by viral whole genome sequencing results.</p>
+<p id="p-0072" num="0071">Data Analysis</p>
+<p id="p-0073" num="0072">The analysis of the sequence data may, in certain embodiments, comprise a pre-processing (i.e., upstream) steps and post-processing (i.e., downstream) steps. In certain embodiments, at least some of these steps comprise computer-implemented steps for data analysis. The upstream analysis may comprise monitoring the sequencer runs for completion, demultiplexing to generate individual sample FASTQ files, and triggering the alignment of each to the SARS-CoV-2 reference genome to generate alignments and variant call. The downstream analysis for samples in each SMRTCell may be comprised of generating all the results including the lineage classifications for each sample.</p>
+<p id="p-0074" num="0073">Upstream Analysis</p>
+<p id="p-0075" num="0074">An example method for upstream analysis <b>400</b> of the sequencing data is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. Thus, in certain embodiments, for the analysis invocation, PacBio/Molecular Loop raw sequencing data may be deposited and a CCS BAM file created copied for demultiplexing. In an embodiment, samples that fail on the sequencer do not generate data files. These samples designated to be repeated do not continue with sequence analysis.</p>
+<p id="p-0076" num="0075">At this point, generation of individual sample FASTQ files may be performed. In an embodiment, the generation of CCS BAM files, demultiplexing and generation of FASTQ files is performed as disclosed in the Examples herein. Or, other methods may be used. Thus, in certain embodiments, preprocessing may comprise at least some of the steps of generating Circular Consensus Sequence (CCS) BAM files (<b>402</b>); merging the intermediate BAM files (<b>404</b>); demultiplexing using to generate individual BAM files corresponding to different barcode combinations (<b>406</b>); combining demultiplexed output by sample name and/or patient identifier (<b>408</b>); removing barcodes from sequences and generate individual sample FASTQ files (<b>410</b>); aligning sequences to barcodes and trimming the barcodes (<b>412</b>); converting BAM files to FASTQ files and copying FASTQ and CCS BAM files to final location (<b>414</b>); and triggering CLC Workflow (<b>416</b>).</p>
+<p id="p-0077" num="0076">The CLC Analysis workflow may be performed using the following steps. First, an NGS data analysis workflow may be executed on each sample using a current validated CLC Genomics Server version <b>418</b>. Next, for each sample's FASTQ file the following steps may be performed. First, reads may be filtered to retain reads of 250-5000 bp length <b>420</b>. Next, the reads are aligned to the SARS-CoV-2 reference genome (e.g., &#x201c;NC_045512v2&#x201d;) <b>422</b>. This alignment may be performed using minimap2 to generate a BAM file. Or other alignment methods may be used. At this point, local realignment may be performed and variant calls made <b>424</b>. This may be performed using the Low Frequency Variant Detection tool in CLC Genomics Server. Or, other methods may be used. At this point, both the assembly (BAM file) and detected variants (cf) are input into a downstream post-processing analysis <b>426</b>. A script detects CLC process completion, initiating the launch of downstream analysis for samples in each SMRTcell.</p>
+<p id="p-0078" num="0077">Downstream Analysis</p>
+<p id="p-0079" num="0078">An example flow-chart for downstream (post-processing) analysis <b>500</b> is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The steps for post-processing part 1 (<b>501</b>) may, in certain embodiments, be as follows. Using the appropriate reference file, VCFCons may be used to generate the consensus sequences based on sequence alignment and variant calls for each sample <b>502</b>. For this analysis, a minimum coverage of 4 CCS reads and minimum alternate frequency of 0.5 may be used to assign a base to each genomic position. Or, a different threshold may be applied. In an embodiment, positions that do not satisfy this criterion are assigned an ambiguous base &#x201c;N.&#x201d; Next, sequence base compositions may be generated <b>504</b>. In an embodiment, this may be used later to determine the percentage of non-ambiguous bases. In certain embodiments, this analysis may be performed with Seqtk or an alternate algorithm. At this point, any one or all of the following may optionally be generated using the consensus sequences as the input: (a) clade assignments; (b) mutation calling and (c) sample sequence quality check <b>506</b>. In an embodiment, Nextclade is used for this analysis. Or, in certain embodiments, other algorithms may be used. At this point, lineages are assigned <b>508</b>. In certain embodiments, Pangolin assigns lineages to the consensus sequence by generating the SARS-CoV-2 lineages, (known as the Pango nomenclature), then assigning a SARS-CoV-2 genome sequence lineage (Pango lineage). In an embodiment, Pangolin is set so as only to consider genomes that have at least 50% non-ambiguous bases. Finally, the coverage statistics may be generated <b>510</b>. In certain embodiments, SummaryStat compiles results from Nextclade, Pangolin, and Seqtk and generates coverage statistics needed for later QC, including mean of median amplicon coverage and percent genome coverage. Or, another algorithm may be used for the compilation. In certain embodiments, for this analysis, the median coverage of the bases in 29 overlapping 1.2 kb regions that span the entire SARS-CoV-2 genome are calculated for each of the samples. Or, other thresholds may be used. Statistics of the distribution of these coverage values (minimum, 1st quantile, mean, median, 3rd quantile and maximum) may then be calculated for each sample. Also, the percent genome coverage may be calculated as the number of non-ambiguous bases (A, T, C, G) divided by the total sequence length, and lineage classifications are aggregated and only samples that produce a Nextclade result and Pangolin lineage call are retained for further processing.</p>
+<p id="p-0080" num="0079">At this point post-processing part 2 (<b>503</b>) may be initiated. Thus, again using the appropriate reference file strain surveillance-specific metadata <b>509</b>, <b>510</b> (demographic data, percent genome coverage, and Ct values from the RT-PCR assay) QC is performed and the data added to the results <b>512</b>. In an embodiment, samples that are missing metadata are dropped from the result set <b>516</b>. Also, non-template QC is performed based on the no-template control (NTC) <b>516</b>. Also, in certain embodiments, if the mean of the median coverage of the 29 genomic regions is &#x3e;10 CCS reads, then all samples sequenced on the same plate are removed <b>516</b>. Finally, coverage QC is performed <b>516</b>. In an embodiment, samples with genome coverage &#x3e;=90% are retained in the results. Also, in an embodiment, and samples with mean of median coverage &#x3e;10 CCS reads were retained in the results. The results may then be transferred to a Report System location for generating patient reports with corresponding Pangolin lineages <b>514</b>. In an embodiment, samples that failed to produce a result are reported as: no lineage was able to be determined. SARS-CoV-2 virus detected; no lineage information can be reported.</p>
+<p id="p-0081" num="0080">In certain embodiments, the lineage calling criteria may be as follows. Inclusion criteria: (1) CT &#x3c;31; (2) corresponding metadata (strain surveillance); (3) &#x3e;90% genome coverage; (4) mean of median coverage &#x3e;10 CCS reads; (4) passing NTC control; and (5) Nextclade result and Pangolin lineage call. Exclusion criteria: (1) CT &#x3e;31; (2) missing metadata (strain surveillance); (3) &#x3c;90% genome coverage; (4) mean of median coverage &#x3c;10 CCS reads; and (4) failing NTC control.</p>
+<p id="p-0082" num="0081">Revalidation</p>
+<p id="p-0083" num="0082">In certain embodiments the assay is revalidated in response to the emergence of new variants. In certain embodiments, at least some of these steps comprise computer-implemented steps for revalidation analysis. In certain embodiments, revalidating the classification accuracy of the Virseq assay <b>600</b> in response to the emergence of new variants (i.e. lineages) of the SARS-CoV-2 virus and concomitant changes to the pangolin classification software may be performed as depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref> (see also Example 5). The analysis as depicted in <figref idref="DRAWINGS">FIG. <b>6</b></figref> is developed for pangolin, but may be applied to other databases for phylogenetic assignment of viruses. The pangolin software is distributed through Dockerhub (at hub.docker.com/r/staphb/pangolin). Thus, in certain embodiments, the pangolin site may be monitored <b>602</b> and checked by downloading and installing an updated docker container at regular intervals (e.g., weekly, bi-weekly, monthly) for updates <b>604</b>. In an embodiment, if there are no updates, no action is required <b>606</b>.</p>
+<p id="p-0084" num="0083">If there are updates, a regression analysis may be performed using in-house laboratory data <b>601</b>. In an embodiment, the new pangolin version may be used <b>610</b> to determine the lineage of in-house reference samples <b>608</b>. The reference sample set <b>608</b> may include data from various sets (e.g., based on date, of accrual and/or COVID types). For example, data sets may be defined to be primarily Delta variants and/or Omicron lineages. Or, other types may be analyzed. In an embodiment, each sample in the reference set includes its consensus sequence as well as the history of its lineage classifications made by previous pangolin versions. The reference sample set <b>608</b> may be updated periodically to include samples representing newer, more prevalent lineages as pangolin versions are updated.</p>
+<p id="p-0085" num="0084">Next, the format of the pangolin software output may be compared with that of the previous version to determine if there are changes in the pangolin output format <b>612</b>. If there are any changes these may be documented, and the laboratory pipeline modified to accommodate the change. The modified version may then be deployed to the QC environment for testing <b>614</b>. Next, any changes in lineage calls may be assessed and compared with those expected from the software update change notes <b>616</b>. For example, in certain embodiments, expected changes include reassignment among sublineages. If there are any unexpected changes in lineages (e.g., Delta sublineage changing to Alpha), these are investigated in detail and documented <b>618</b>.</p>
+<p id="p-0086" num="0085">At this point, a second regression test may be performed using publicly available (GISAID) sequences and their metadata <b>603</b>. Or other public databases may be used. For this analysis, the latest GISAID sequences may be downloaded and the metadata and pangolin lineages for all GISAID sequences obtained and the list of Variants of Concern (VOCs) (i.e., variants that are actively being tracked by the CDC and/or other health organizations) and Variants of Interest (VOIs) (i.e., variants being monitored by the CDC and/or other health organizations) updated based on WHO updates and the latest complete list of lineages <b>620</b>. Next, a data simulator may be used to model the coverage and error properties of the in-house assay <b>622</b>. In an embodiment, the simulator uses GISAID sequences as starting points and imposes simulated coverage and errors based on empirical coverage profiles and max-minor-allele frequencies from a collection of in-house samples. The resulting simulated samples are run through pangolin, and the lineage classifications are compared to those of the original GISAID sequences. Classification stability is defined as the rate at which mutated sequences maintain their expected lineage classifications. In an embodiment, two experiments in the regression are run to assess classification stability via simulation. Thus, the method may randomly sample up to 100 GISAID sequences for each VOC/VOI to assess the classification stability of these important lineages, regardless of their frequency in the sequencing data available <b>624</b>. Or, more or fewer GISAID sequences for each VOC/VOI (e.g., 50, 200, 400, 500 or more) may be sampled depending on the needs of the analysis. This can allow for assessing classification stability of emerging variants as well as new sublineages of existing ones. Additionally, the method may randomly sample 10,000 GISAID sequences from the database for a frequency-based retrospective analysis of lineage classification stability <b>626</b>. Or, more or fewer retrospective GISAID sequences may be sampled depending on the needs of the analysis. This may allow stability to be quantified relative to historical prevalence.</p>
+<p id="p-0087" num="0086">The output of the data simulator experiments is then reviewed, checking for unexpected changes in classification stabilities with respect to previous regression tests using GISAID data for the VOC/VOI data <b>628</b> and the retrospective data <b>630</b>. In certain embodiments, any unexpected instabilities are investigated and documented <b>632</b>. In certain embodiments, the upgrade is accepted upon satisfying certain parameters. In some cases, the upgrade is requested if the median VOC/VOI concordance between the simulated data and reference sequence is at least 90% <b>640</b>. In cases where these criteria are not met, additional investigation may be needed.</p>
+<p id="p-0088" num="0087">In certain embodiments, if the new discordant lineage(s) is/are novel the samples may be tested for confirmation. If the discordant variant(s) is/are not novel variant(s), the method may include a further investigation to find the root cause of discordance. This can involve looking at the coverage of the reference sequence as well as the simulated sequences to ensure that it is not an undesirable drop in base coverage in specific regions. Additionally, and/or alternatively this may involve rerunning the simulation with another seed to see if this discordance is reproduced. If it is, the upgrade may be halted.</p>
+<p id="p-0089" num="0088">At this point the novel variants may be assessed using the methods and systems disclosed herein <b>650</b>. For successful surveillance of emerging variants (lineages), it may be helpful to review the potential impact on the molecular loop inversion probe amplification by conducting an in silico analysis. Thus, the method may further include identifying the location of the individual sequence variants in the emerging lineages and the associated molecular loop probes to assess the potential for interference in probe binding. In an embodiment, a conservative estimate that the novel sequence variant overlapping with any probe will impact hybridization is used. Additionally, and/or alternatively, adjacent probes in the region may be reviewed to ensure coverage of the novel sequence variant. For any sequence variant that could result in a reduction of coverage within a particular region, the impacted probes within the pangolin lineage update validation summary are documented.</p>
+<heading id="h-0008" level="2">Systems for NGS SARS-CoV-2 Strain Determination</heading>
+<p id="p-0090" num="0089">Also disclosed are systems for performing the methods herein. For example, the system may comprise a station or component (or stations or components) for performing various steps of the methods. In certain embodiments, a station or component may comprise a robotic or computer-controlled station or component for performing a step or steps of the method. In certain embodiments, disclosed is a system for performing at least some of the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0091" num="0090">Thus, the system may comprise a station or component for obtaining samples for testing. The samples may be those for which the COVID status is not known, or samples that have previously tested positive for COVID. In certain embodiments, the positive samples may be identified using an approved EUA approved COVID-19 RT-PCR Test (e.g., Labcorp EUA200011 and/or EUA203057). In this way, results are for the identification of the SARS-CoV-2 strain infecting an individual after detection of viral RNA in the sample.</p>
+<p id="p-0092" num="0091">In certain embodiments, the system may comprise a station or component for performing the step of generating a sample-specific SARS-CoV-2 nucleic acid comprises using reverse transcriptase polymerase chain reaction (RT-PCR) to generate a sample-specific SARS-CoV-2 cDNA. The system may also comprise a station or component for hybridizing one strand of the sample SARS-CoV-2 cDNA to a single-stranded probe DNA template comprising a pair of SARS-CoV-2 probes, wherein the first probe is positioned at the 3&#x2032; end of the probe DNA template and the second probe is positioned at the 5&#x2032; end of the probe DNA template. In certain embodiments, the probe sequences are selected as tiled probes that bind at spaced intervals along a SARS-CoV-2 genome. For example, in alternate embodiments, the probes may be spaced by about 100, or 200, or 300, or 400, or 500, or 600, or 700, or 800, or 900 or more than 1,000 base pairs. Or, spacings within this range (e.g., 450, 550, 650 or 750) may be used. The probes may be tiled across greater than 99% (e.g., 99.6%) of the 30 kb SARS-CoV-2 viral genome. Also, in certain embodiments, the single-stranded probe DNA template further comprises universal sequencing primers (e.g., M13 primers) positioned internal to the probe sequences. Additionally, the single-stranded probe DNA template may further comprise an adaptor sequence for the addition of a barcode sequence used to correlate the SARS-CoV-2 sample-specific nucleic acid to a sample number. Also, the system may comprise a station and/or components for filling in the sequence between the two probes to generate a circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA between the two probe sequences and then releasing the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA from the sample-specific SARS-CoV-2 DNA and digestion of the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA to generate a linear DNA used as a template for nucleic acid sequencing. In certain embodiments, the system may comprise a station and/or components for modifying the linear probe DNA template to add adaptors and then amplifying the linear DNA template for DNA sequencing. In certain embodiments, the step of enrichment comprises purification step (e.g., bead purification).</p>
+<p id="p-0093" num="0092">The system may further comprise station(s) and/or components for DNA sequencing. In certain embodiments, the method employs whole genome sequencing. In certain embodiments, next generation sequencing (NGS) is used. Or, other types of sequencing such as but not limited to Sanger sequencing, shot gun sequencing, SMRT sequencing, pyrosequencing or nanopore sequencing. For example, in certain embodiments the PacBio whole genome sequencing with the corresponding SMRT link 9 software and analysis tools may be used.</p>
+<p id="p-0094" num="0093">The system may further comprise a station(s) and/or component(s) for data analysis. Thus, the system may comprise a station(s) and/or component(s) for determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence by aligning the sample SAR-CoV-2 sequence to a SARS-CoV-2 reference genome to generate a sample-specific assembly and consensus sequence and/or assessing the lineage for the sample. In certain embodiments, the system may include a station(s) and/or component(s) for identifying the geographic location of the subject.</p>
+<p id="p-0095" num="0094">Additionally, as disclosed herein, in certain embodiments, system may include a station(s) and/or component(s) may include uploading the results of the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence into a depository for further classification if a variant is detected. The depository may be a CDC database. Or, other public depositories may be used.</p>
+<p id="p-0096" num="0095">As disclosed herein system may include a station(s) and/or component(s) for determining if an update to the depository has been made prior to the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0097" num="0096">The system may include station(s) and/or component(s) for automating various steps in the procedure. In certain embodiments, Hamilton Star robots may be used for sample plate setup. Additionally and/or alternatively, Formulatrix Mantis Liquid Handlers or other automated devices may be used for mastermix distribution.</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. <b>7</b></figref> illustrates an embodiment of a system <b>700</b> for performing any of the method steps of the disclosure. As illustrated in <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the system may comprise a station or component for obtaining a sample for testing <b>702</b>. In certain embodiments, the sample is positive for SARS-CoV-2. In an embodiment, the system comprises a station of a component to generate SARS-CoV-2 cDNA sequences by RT-PCT <b>704</b>. The system may further comprise a station or component to incubate the SARS-CoV-2 cDNA with a set of tiled probes <b>706</b>. In certain embodiments, the tiled probes are relatively evenly spaced across the SARS-CoV-2 genome. For example, in alternate embodiments, the probes may be spaced by about 100, or 200, or 300, or 400, or 500, or 600, or 700, or 800, or 900 or more than 1,000 base pairs. Or, spacings within this range (e.g., 450, 550, 650 or 750) may be used. The probes may be tiled across greater than 99% (e.g., 99.6%) of the 30 kb SARS-CoV-2 viral genome. After binding, the region in-between the two probes may be filled in with DNA polymerase and ligated to form a closed molecule. This may occur at the same station as the steps of incubating with tiled probes or at a different station and using different components <b>708</b>. Non-binding or incomplete loops remain linear molecules and may be removed with exonuclease digestion. This may occur at the same station as the steps of incubating with tiled probes or at a different station and using different components. The system may further comprise a station for release of the circular molecules from the template cDNA and enrichment via amplification with a 3&#x2032; M13 universal sequence and 5&#x2032; sample specific barcodes <b>710</b>. The system may further comprise a station and/or components for pooling samples and library generation <b>712</b>.</p>
+<p id="p-0099" num="0098">The system may further comprise a station and/or components for sequencing the DNA <b>714</b> as well as a station(s) and/or component(s) for contig alignment and variant identification <b>716</b> using the methods disclosed herein. Also, the system may comprise a station(s) and/or component(s) to validate and report the results <b>718</b> as disclosed herein.</p>
+<p id="p-0100" num="0099">As illustrated herein, any of the method steps, stations or components may be automated, robotically controlled, and/or controlled at least in part by a computer <b>800</b> and/or programmable software. Thus, the system may comprise a computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to run the system or any part (e.g., station or component) of the system and/or perform a step or steps of the methods of any of the disclosed embodiments. In some embodiments, a system is provided that includes one or more data processors and a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform part or all of one or more methods or processes disclosed herein and/or run any of the parts of the systems disclosed herein.</p>
+<p id="p-0101" num="0100">For example, disclosed is a system comprising one or more data processors, and a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform actions to direct at least one of the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<p id="p-0102" num="0101">Also disclosed is a computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to run the systems and/or perform a step or steps of the methods of any of the disclosed embodiments. For example, in certain embodiments, the computer-program product tangibly embodied in a non-transitory machine-readable storage medium includes instructions configured to cause one or more data processors to perform actions to direct at least one of the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence. Additionally and/or alternatively, in certain embodiments, the computer-program product tangibly embodied in a non-transitory machine-readable storage medium includes instructions configured to cause one or more data processors to perform actions to direct at least one of the components and/or stations of the system for performing actions to direct at least one of the steps of: (a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2; (b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample; (c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and (d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence</p>
+<p id="p-0103" num="0102">The systems and computer products may perform any of the methods disclosed herein. One or more embodiments described herein can be implemented using programmatic modules, engines, or components. A programmatic module, engine, or component can include a program, a sub-routine, a portion of a program, a software component, or a hardware component capable of performing one or more stated tasks or functions. As used herein, a module or component can exist on a hardware component independently of other modules or components. Alternatively, a module or component can be a shared element or process of other modules, programs or machines.</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a block diagram of an analysis system <b>800</b> used for detection and/or quantification of a pathogen. As illustrated in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, modules, engines, or components (e.g., program, code, or instructions) executable by one or more processors may be used to implement the various subsystems of an analyzer system according to various embodiments. The modules, engines, or components may be stored on a non-transitory computer medium. As needed, one or more of the modules, engines, or components may be loaded into system memory (e.g., RAM) and executed by one or more processors of the analyzer system. In the example depicted in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, modules, engines, or components are shown for implementing the methods of the disclosure.</p>
+<p id="p-0105" num="0104">Thus, <figref idref="DRAWINGS">FIG. <b>8</b></figref> illustrates an example of a computing device <b>800</b> suitable for use with systems and methods according to this disclosure. The example of a computing device <b>800</b> includes a processor <b>805</b>, which is in communication with the memory <b>810</b> and other components of the computing device <b>800</b> using one or more communications buses <b>815</b>. The processor <b>805</b> is configured to execute processor-executable instructions stored in the memory <b>810</b> to perform one or more methods or operate one or more stations or components for detecting pathogen levels according to different examples, such as those illustrated in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>7</b></figref> or disclosed elsewhere herein. In this example, the memory <b>810</b> may store processor-executable instructions <b>825</b> that can analyze <b>820</b> results for sample or test unit confirmation as discussed herein.</p>
+<p id="p-0106" num="0105">The computing device <b>800</b> in this example may also include one or more user input devices <b>830</b>, such as a keyboard, mouse, touchscreen, microphone, etc., to accept user input. The computing device <b>800</b> may also include a display <b>835</b> to provide visual output to a user, such as a user interface. The computing device <b>800</b> may also include a communications interface <b>840</b>. In some examples, the communications interface <b>840</b> may enable communications using one or more networks, including a local area network (&#x201c;LAN&#x201d;); wide area network (&#x201c;WAN&#x201d;), such as the Internet; metropolitan area network (&#x201c;MAN&#x201d;); point-to-point or peer-to-peer connection; etc. Communication with other devices may be accomplished using any suitable networking protocol. For example, one suitable networking protocol may include the Internet Protocol (&#x201c;IP&#x201d;), Transmission Control Protocol (&#x201c;TCP&#x201d;), User Datagram Protocol (&#x201c;UDP&#x201d;), or combinations thereof, such as TCP/IP or UDP/IP.</p>
+<heading id="h-0009" level="1">EXAMPLES</heading>
+<p id="p-0107" num="0106">Certain embodiments of the method and systems of the disclosure are provided in more detail in the following Examples herein.</p>
+<heading id="h-0010" level="1">Example 1</heading>
+<heading id="h-0011" level="1">Overall Method and Analysis of Results</heading>
+<p id="p-0108" num="0107">Using next generation sequencing (NGS), surveillance testing can be performed on large numbers of samples and to generate an adequate number of viral genomes to track mutations and variants of concern as they arise. The overall test principle is as follows. First, cDNA is prepared from viral RNA using random priming for first strand synthesis. Next, inversion probes are annealed to target during a 16-hour hybridization. Next, gaps are filled in via polymerization and ligation. Next, non-reacted linear probes are removed and probe is released from target DNA. Next, captured target is enriched by PCR amplification using asymmetric barcodes. Next, PCR products are pooled, quantified, and SMRTbell hairpin adapters are ligated to amplicons and sequenced on the Pacific Biosciences Sequel II using a 15 hr movie.</p>
+<p id="p-0109" num="0108">At this point, lineage calls are made based on processing of the NGS sequence data. For this analysis, every condensed positive &#x2018;cherry picked&#x2019; (discussed in more detail herein) includes: No Template Control (NTC) (i.e., molecular grade water) in well Al of the 96-well condensed positive plate. NTC results are reviewed prior to generation of the result file for a given SMRTcell. If an NTC is found to be invalid, results for all patient samples on the affected plate are not reported. Upon completion of processing of the NGS results for a given sequence cell, a result file is generated and saved. At this point, PacBio SMRTLNK software and custom molecular loop processing scripts are used to generate the FASTQ files for each of the samples. FASTQ results are analyzed using a genome analysis pipeline implemented in CLC genomics server version 6.5.6. This workflow starts with a sample-level fastq file, trims the primers and then uses Minimap2 to align to the SARS-COVID19 reference genome (&#x201c;NC_045512v2&#x201d;) to generate a bam file of alignment. After coverage checking, the bam file is used as the input for calling variants and for generating a sample-specific genome assembly. A consensus sequence for each sample is generated using &#x201c;VCFcons&#x201d; requiring a coverage of 4 CCS reads and alternate allele frequency of 50% at each base. The lineages for individual samples are assigned using the Pangolin package.</p>
+<heading id="h-0012" level="1">Example 2</heading>
+<heading id="h-0013" level="1">Methods and Validation for VirSeq SARS-CoV-2 NGS Strain Determination</heading>
+<p id="p-0110" num="0109">Genomic sequencing of SARS-CoV-2, the virus that causes COVID-19, can determine the specific strain of SARS-CoV-2. The strain information can potentially provide valuable information to clinicians and epidemiologist to aid in the public health response to the virus or future clinical treatments. The determination of a given strain is based on a combination of multiple variations in the genome detected from comparison of DNA sequencing results to the original Wuhan reference strain. This approach allows the identification of any new and emerging strains of SARS-CoV-2 as the virus changes over time without revalidation. The intended use of this assay is to result SARS-CoV-2 lineage, or strain, calls with samples that yield at least 90% genome coverage.</p>
+<p id="p-0111" num="0110">The overall test principle is as follows. Residual total nucleic acid extract from residual SARS-CoV-2 NAA diagnostic testing positive samples was cherry picked from run plates into a condensed positive plate using Hamilton STARs, and aliquoted into a sequencing run plate of 96, with 8 plates or 768 specimens in one production batch. A Molecular Loop Viral RNA Target Capture on PacBio was then used to process samples until PacBio sequencing. First, a Loop kit specific Thermo Fisher VILO reverse transcriptase was used to synthesize cDNA from RNA. The SARS-CoV-2 cDNA was then used as a target to anneal molecular loop probes as outlined in Table 1. Molecular loop probes were tiled across the full 30 KB SARS-CoV-2 genome and comprise two binding sites approximately 600 bp apart.</p>
+<p id="p-0112" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="91pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Incubation</entry>
+<entry>Incubation</entry>
+</row>
+<row>
+<entry>Step</entry>
+<entry>Temperature &#xb0; C.</entry>
+<entry>Time</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="right"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>25</entry>
+<entry>10</entry>
+<entry>min</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>50</entry>
+<entry>50</entry>
+<entry>min</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>95</entry>
+<entry>1</entry>
+<entry>min</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>55</entry>
+<entry>16-24</entry>
+<entry>hours</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0113" num="0111">After binding, the approximately 600 bp regions in-between the two probes were synthesized with DNA polymerase and ligated to form a closed molecule using the hybridization conditions in Table 1 for an additional 60 minutes. Non-binding or incomplete loops remain linear molecules and were removed with exonuclease digestion (i.e., sample clean-up). Incubation times for clean-up are shown in Table 2. Samples were stored at &#x2212;20&#xb0; C. if not being used within about 2 hours for the next step.</p>
+<p id="p-0114" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Incubation</entry>
+<entry>Incubation</entry>
+</row>
+<row>
+<entry>Step</entry>
+<entry>Temperature &#xb0; C.</entry>
+<entry>Time</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="70pt" align="char" char="."/>
+<colspec colname="2" colwidth="63pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="right"/>
+<colspec colname="4" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>45</entry>
+<entry>1</entry>
+<entry>hr</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>95</entry>
+<entry>3</entry>
+<entry>min</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="70pt" align="char" char="."/>
+<colspec colname="2" colwidth="63pt" align="char" char="."/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>3</entry>
+<entry>4</entry>
+<entry>Hold</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0115" num="0112">The resulting circular molecules (containing sample specific SARS-CoV-2 nucleic acid inserted between the two probe sites) were then released from the template cDNA and PCR amplified with sample specific barcodes. Conditions used for PCR amplification are shown in Table 3. Seven hundred and sixty-eight (768) asymmetric barcode combinations are needed to process one batch (i.e., 768 samples and controls). To do this, a plate of M13 barcoded primers was prepared (<figref idref="DRAWINGS">FIG. <b>9</b></figref>) and then ten 96-well plates were created by adding 20 &#x3bc;L of M13 forward barcoded primer and 30 &#x3bc;L of M13 reverse barcoded primer (<figref idref="DRAWINGS">FIG. <b>10</b></figref>). As shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>, columns 1-4 were M13 forward primers tailed with barcode 1001-1032 and columns 7-10 were M13 reverse primers tailed with barcode 1049-1079 and 1082. Each of the 32 forward primers were combined with different reverse primers to create asymmetrically barcoded pairs as shown for one example plate in <figref idref="DRAWINGS">FIG. <b>10</b></figref>.</p>
+<p id="p-0116" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Incubation</entry>
+<entry/>
+</row>
+<row>
+<entry>Step</entry>
+<entry>Temperature &#xb0; C.</entry>
+<entry>Time</entry>
+<entry>Cycles</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="56pt" align="char" char="."/>
+<colspec colname="2" colwidth="56pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="right"/>
+<colspec colname="4" colwidth="21pt" align="left"/>
+<colspec colname="5" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>95</entry>
+<entry>3</entry>
+<entry>min</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>98</entry>
+<entry>15</entry>
+<entry>sec</entry>
+<entry>23</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>55</entry>
+<entry>15</entry>
+<entry>sec</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>72</entry>
+<entry>90</entry>
+<entry>sec</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="56pt" align="char" char="."/>
+<colspec colname="2" colwidth="56pt" align="char" char="."/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>5</entry>
+<entry>4</entry>
+<entry>Hold</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0117" num="0113">Next, samples were pooled (or stored at &#x2212;20&#xb0; C. until pooling was performed). For pooling, 8 reaction plates were retrieved from storage, spun down, and an aliquot (e.g., 5 &#x3bc;L) of each reaction was transferred into an 8 mL tube. Generally, 768 samples plus controls were pooled prior to sequencing.</p>
+<p id="p-0118" num="0114">At this point samples were purified using bead purification with AMPure PB beads. Using 500 &#x3bc;L of the pool, AMPure PB Bead (0.70&#xd7;) cleanup was performed by adding 350 &#x3bc;L of PB AMPure beads mixing, centrifuging to pellet the beads, incubating 5 min at room temperature, and centrifugation and magnetic separation to collect the beads. The supernatant was removed, the beads washed with 80% ethanol, and the DNA eluted from the beads with elution buffer and quantitated.</p>
+<p id="p-0119" num="0115">At this point the SMRTbell library was prepared using 1000 ng of the pooled DNA. The pooled DNA was mixed with buffer (DNA Prep Buffer), NAD, DNA Damage Repair Mix v.2, and incubated at 37&#xb0; C. for 30 minutes. After returning to 4&#xb0; C., end repair was performed by the addition of End Prep Mix, Reaction Mix 1 and incubating at 20&#xb0; C. for 30 minutes, at 65&#xb0; C. for 30 minutes, then returning the reaction to 4&#xb0; C. At this point adapters were added using Reaction Mix 2, Overhand Adapter v3, Ligation Mix, Ligation Additive and Ligation Enhancer and the samples incubated at 20&#xb0; C. for 60 minutes to ligate the probe construct, at 65&#xb0; C. for 10 minutes to inactivate the ligase, then returned to 4&#xb0; C. Enzyme clean-up was then performed and the sample purified with AMPure (0.6&#xd7;) beads above using 100 uL elution buffer. The AMPure bead clean-up was repeated using a smaller volume (20 uL) elution buffer and the DNA quantitated.</p>
+<p id="p-0120" num="0116">Samples were sequenced on a PacBio Sequel II. Each 96-well plate in the batch of ten requires a unique set of asymmetric barcodes. <figref idref="DRAWINGS">FIG. <b>10</b></figref> shows one example map for one plate. Other combinations were used for other plates such that 10 plates with unique combinations were used. For example, in a second plate wells A1-H4 would be a combination of M13 forward primers 1001-1032 with M13 reverse primer 1052, wells A5-H8 would be a combination of M13 forward primers 1001-1032 with M13 reverse primer 1053, and wells A9-H12 would be a combination of M13 forward primers 1001-1032 with M13 reverse primer 1054 and so forth for additional plates.</p>
+<p id="p-0121" num="0117">After sequencing, PacBio SMRTLNK software and custom molecular loop processing scripts were used to generate the FASTQ files for each sample. FASTQs were analyzed using a genome analysis pipeline implemented in the CLC genomics server version 6.5.6. This workflow started with a sample-level fastq file, primers were trimmed, and Minimap2 was used to align to the SARS-COVID19 reference genome (&#x201c;NC_045512v2&#x201d;) to generate a bam file of alignment. After coverage checking, this bam file was used as the input for calling variants and for generating a sample-specific genome assembly. A consensus sequence for each sample was generated using &#x201c;VCFcons&#x201d; requiring a coverage of 4 CCS reads and alternate allele frequency of 50% at each base. The lineages for individual samples were then assigned using the Pangolin package and resulted.</p>
+<p id="p-0122" num="0118">The following controls were included. A No Template Control (NTC) was included on each plate on a run for all steps to verify that there was no contamination across samples and reagents. This control was analyzed by sequencing. A failed NTC was a sample that produced a strain call with 90% genome coverage. A positive control was included on each plate of a run. For validation, a previously run sample was used as a positive control. Metrics to determine if a sample passed or failed included percent genome coverage, minimum depths of coverage, and resolution of strain lineage call.</p>
+<p id="p-0123" num="0119">Specimen requirements were as follows. Extracted Nucleic Acid derived from a sample with a positive result from an EUA approved SARS-CoV-2, NAA test with a CT of less than 26 for &#x2dc;90% success rate. Higher CTs or no-CT metadata samples were deemed to be acceptable but increased risk of inability to report a result.</p>
+<p id="p-0124" num="0120">Acceptable result metrics were as follows: &#x3e;90% genome coverage and a mean of median read coverage &#x3e;10 CCS reads.</p>
+<p id="p-0125" num="0121">A. Results</p>
+<p id="p-0126" num="0122">Precision (Repeatability): Intra-Assay</p>
+<p id="p-0127" num="0123">Intra-assay repeatability was assessed on 3 replicates of 11 nucleic acid samples of various assumed typings from current SARS-CoV-2 CDC surveillance testing. Samples ranged in CT value and a wide range of read counts in the original run. Further, samples were diluted 1:4 to allow ample total nucleic acid input to all intra and inter-assay experiments. The Acceptance Criteria was defined as &#x2265;95% repeatability for all strains reaching a reporting threshold of &#x2265;90% coverage of the SARS-CoV-2 genome.</p>
+<p id="p-0128" num="0124">The strain call, percent genome coverage (displayed in percent missing), and read count was compared (Table 4). All eleven sample's strain call was 100% concordant across the three replicates with all replicates meeting 90% genome coverage and ample read depth. Acceptance criteria of 95% accuracy of strains with 90% genome coverage was met.</p>
+<p id="p-0129" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="6" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Expected</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Specimen #</entry>
+<entry>Metric</entry>
+<entry>Lineage</entry>
+<entry>PBT5073A</entry>
+<entry>PBT5073B</entry>
+<entry>PBT5073C</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="42pt" align="char" char="."/>
+<colspec colname="2" colwidth="56pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1522917599</entry>
+<entry>lineage</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.74</entry>
+<entry>0.85</entry>
+<entry>0.84</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>58.1</entry>
+<entry>96.83</entry>
+<entry>52.34</entry>
+</row>
+<row>
+<entry>1523600378</entry>
+<entry>lineage</entry>
+<entry>B.1.628</entry>
+<entry>B.1.628</entry>
+<entry>B.1.628</entry>
+<entry>B.1.628</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.41</entry>
+<entry>0.41</entry>
+<entry>0.41</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>176.36</entry>
+<entry>156.59</entry>
+<entry>125.76</entry>
+</row>
+<row>
+<entry>1523600378</entry>
+<entry>lineage</entry>
+<entry>A.2.5</entry>
+<entry>A.2.5</entry>
+<entry>A.2.5</entry>
+<entry>A.2.5</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.74</entry>
+<entry>0.63</entry>
+<entry>0.52</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>211.69</entry>
+<entry>284.09</entry>
+<entry>309.79</entry>
+</row>
+<row>
+<entry>1535487742</entry>
+<entry>lineage</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.52</entry>
+<entry>0.84</entry>
+<entry>0.74</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>93.86</entry>
+<entry>48.53</entry>
+<entry>86.66</entry>
+</row>
+<row>
+<entry>1537276386</entry>
+<entry>lineage</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>1.45</entry>
+<entry>1.13</entry>
+<entry>0.78</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>31.22</entry>
+<entry>50.91</entry>
+<entry>52.21</entry>
+</row>
+<row>
+<entry>1538337948</entry>
+<entry>lineage</entry>
+<entry>C.37</entry>
+<entry>C.37</entry>
+<entry>C.37</entry>
+<entry>C.37</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.53</entry>
+<entry>0.63</entry>
+<entry>1.34</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>138.38</entry>
+<entry>133.74</entry>
+<entry>57.17</entry>
+</row>
+<row>
+<entry>1538338001</entry>
+<entry>lineage</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>1.04</entry>
+<entry>0.53</entry>
+<entry>2.16</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>30.41</entry>
+<entry>51.59</entry>
+<entry>13.55</entry>
+</row>
+<row>
+<entry>1544492013</entry>
+<entry>lineage</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.41</entry>
+<entry>0.41</entry>
+<entry>0.53</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>177.12</entry>
+<entry>294.67</entry>
+<entry>148.76</entry>
+</row>
+<row>
+<entry>1562914144</entry>
+<entry>lineage</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>0.63</entry>
+<entry>0.74</entry>
+<entry>0.73</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>338.03</entry>
+<entry>207.5</entry>
+<entry>100.93</entry>
+</row>
+<row>
+<entry>1568334279</entry>
+<entry>lineage</entry>
+<entry>B.1.617.2</entry>
+<entry>B.1.617.2</entry>
+<entry>B.1.617.2</entry>
+<entry>B.1.617.2</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>1.00</entry>
+<entry>0.74</entry>
+<entry>1.54</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>27.9</entry>
+<entry>46.84</entry>
+<entry>25.21</entry>
+</row>
+<row>
+<entry>1583805067</entry>
+<entry>lineage</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry/>
+<entry>1.25</entry>
+<entry>1.52</entry>
+<entry>0.67</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry/>
+<entry>22.86</entry>
+<entry>17.16</entry>
+<entry>28.72</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0130" num="0125">Precision (Reproducibility): Inter-Assay</p>
+<p id="p-0131" num="0126">Inter-assay repeatability was assessed on 3 replicates of ten nucleic acid samples of various assumed typings from current SARS-COV-2 CDC surveillance. Samples were identical to ones used in intra-assay experiments with one sample being dropped from unintentionally being excluded from the final run. Samples ranged in CT value and a wide range of read counts in the original run. Further, samples were diluted 1:4 to allow ample total nucleic acid input to all intra and inter-assay experiments. The Acceptance Criteria was defined as &#x2265;95% repeatability for all strains reaching a reporting threshold of &#x2265;90% coverage of the SARS-CoV-2 genome.</p>
+<p id="p-0132" num="0127">The strain call, percent genome coverage (displayed in percent missing), and read count was compared (Table 5). For all 10 replicates there were no discordant results. Nine samples produced expected linage calls across triplicates. One sample, purposely chosen for borderline read coverage, failed to produce a result every time due to lack of genome coverage. Overall, 93% of samples produced an identical strain typing, and 100% of samples released accurate results meeting acceptance criteria.</p>
+<p id="p-0133" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 5</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Specimen</entry>
+<entry>Metric</entry>
+<entry>PBT5073C</entry>
+<entry>PBT5075</entry>
+<entry>PBT5080</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="char" char="."/>
+<colspec colname="2" colwidth="63pt" align="left"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="49pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>1522917599</entry>
+<entry>lineage</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.84</entry>
+<entry>0.96</entry>
+<entry>0.84</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>52.34</entry>
+<entry>34.9</entry>
+<entry>17.06</entry>
+</row>
+<row>
+<entry>1523600378</entry>
+<entry>lineage</entry>
+<entry>B.1.628</entry>
+<entry>B.1.628</entry>
+<entry>B.1.628</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.41</entry>
+<entry>0.41</entry>
+<entry>0.41</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>125.76</entry>
+<entry>134.41</entry>
+<entry>130.71</entry>
+</row>
+<row>
+<entry>1523600378</entry>
+<entry>lineage</entry>
+<entry>A.2.5</entry>
+<entry>A.2.5</entry>
+<entry>A.2.5</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.52</entry>
+<entry>0.57</entry>
+<entry>0.32</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>309.79</entry>
+<entry>219.86</entry>
+<entry>588.37</entry>
+</row>
+<row>
+<entry>1537276386</entry>
+<entry>lineage</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+<entry>B.1.526</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.78</entry>
+<entry>1.32</entry>
+<entry>0.41</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>52.21</entry>
+<entry>43.03</entry>
+<entry>39.19</entry>
+</row>
+<row>
+<entry>1538337948</entry>
+<entry>lineage</entry>
+<entry>C.37</entry>
+<entry>C.37</entry>
+<entry>C.37</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>1.34</entry>
+<entry>1.13</entry>
+<entry>0.42</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>57.17</entry>
+<entry>60.21</entry>
+<entry>91.09</entry>
+</row>
+<row>
+<entry>1538338001</entry>
+<entry>lineage</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>2.16</entry>
+<entry>23.61</entry>
+<entry>0.73</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>13.55</entry>
+<entry>7.38</entry>
+<entry>13.88</entry>
+</row>
+<row>
+<entry>1544492013</entry>
+<entry>lineage</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+<entry>B.1.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.53</entry>
+<entry>0.41</entry>
+<entry>0.41</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>148.76</entry>
+<entry>226.22</entry>
+<entry>309.86</entry>
+</row>
+<row>
+<entry>1562914144</entry>
+<entry>lineage</entry>
+<entry>P.1</entry>
+<entry>P.1</entry>
+<entry>P.1.7</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.73</entry>
+<entry>0.64</entry>
+<entry>0.73</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>100.93</entry>
+<entry>318.59</entry>
+<entry>77.97</entry>
+</row>
+<row>
+<entry>1568334279</entry>
+<entry>lineage</entry>
+<entry>B.1.617.2</entry>
+<entry>B.1.617.2</entry>
+<entry>B.1.617.2</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>1.54</entry>
+<entry>1.97</entry>
+<entry>0.52</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>25.21</entry>
+<entry>17.31</entry>
+<entry>19.99</entry>
+</row>
+<row>
+<entry>1583805067</entry>
+<entry>lineage</entry>
+<entry>B.1.526</entry>
+<entry>None</entry>
+<entry>B.1</entry>
+</row>
+<row>
+<entry/>
+<entry>percent missing</entry>
+<entry>0.67</entry>
+<entry>67.10</entry>
+<entry>9.82</entry>
+</row>
+<row>
+<entry/>
+<entry>Avg Read depth</entry>
+<entry>28.72</entry>
+<entry>3.03</entry>
+<entry>2.86</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0134" num="0128">Concordance</p>
+<p id="p-0135" num="0129">The relative accuracy was established by direct comparison of results with those generated by alternate methods. There were two methods used for comparison of positives, Illumina Sequencing and Amplicon Pacbio Sequencing. While Pacbio is the validated sequencing technology, the Molecular Loop method is mechanistically distinct in pre-sequencing steps from traditional amplicon sequencing. Negatives were sequenced on Illumina only.</p>
+<p id="p-0136" num="0130">The individual comparison studies used are listed below.</p>
+<p id="p-0137" num="0131">Illumina Artic Sequencing
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0132">93 Negative NAA samples</li>
+        <li id="ul0002-0002" num="0133">72 SARS-CoV-2 samples sequenced in winter 2020</li>
+        <li id="ul0002-0003" num="0134">29 samples previously sequenced at CMBP on Molecular loop</li>
+        <li id="ul0002-0004" num="0135">50 samples previously sequenced at DNA Identification on Molecular loop.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0138" num="0136">Pacbio Amplicon Sequencing
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0137">122 samples amplicon sequenced at 90% coverage and ran in duplicate on Molecular loop.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0139" num="0138">To set up a baseline for minimum read coverage, 110 NTC's from the validation runs and current RUO strain surveillance ran during the validation timeline were used to set a minimum read coverage threshold set at 4 CCS reads. For Illumina concordance, 93 Negatives were randomly chosen from a CMBP NAA diagnostic production run and re-extracted after initial testing to ensure adequate volume. Seventy-two samples of strains circulating in the winter of 2020 and sequenced in January 2021 were resequenced on Molecular Loop. Further, seventy-nine samples from CMBP and DNA were chosen for Illumina parallel testing based on initial strain call, CT and read coverage to ensure diversity. Three hundred and eighty-two samples originally Amplicon sequenced on Pacbio were reprocessed on Molecular Loop in duplicate. The duplicates varied only slightly in their composition of Thermo Fisher VILO RT master mix that was previously shown to be comparable. In the initial amplicon sequencing run 122 of 382 samples produced &#x3e;90% genome coverage. Only samples with initial 90% coverage were used for further analysis of molecular loop results.</p>
+<p id="p-0140" num="0139">The Acceptance Criteria was &#x2265;95% accuracy for all strains reaching a reporting threshold of &#x2265;90% coverage of the SARS-CoV-2 genome.</p>
+<p id="p-0141" num="0140">Read coverage threshold: Average, minimum and maximum mean of median amplicon coverage, here referred to as average read coverage, was analyzed for validation runs and productions runs. A distribution of average read coverage is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. The minimum, maximum and average were 0.24, 9 and 1.7 CCS reads respectively. Typical thresholds are set by 3&#xd7; the standard deviation plus the average which for this analysis equaled 6.67. However, for rapid processing, the cutoff read coverage for a base pair to be used in strain typing was set at 10 CCS reads, or 10% plus the max NTC.</p>
+<p id="p-0142" num="0141">Illumina Artic Sequencing: 93 samples previously determined to be negative were sequenced in duplicate on Molecular Loop and on Illumina in parallel. There was 98.3% concordance between the two technologies with two samples resulting in reportable genomes on Illumina, and one on Molecular loop. Further investigation revealed both samples resulted on Illumina were indeed positive for nucleic acid amplification (NAA) and mistakenly included in the validation. The average read counts of the other 91 samples in duplicate further confirmed the conservative read depth threshold (<figref idref="DRAWINGS">FIG. <b>12</b></figref>).</p>
+<p id="p-0143" num="0142">72 samples previously sequenced on Illumina from strains circulating in January 2021 were resequenced on Molecular loop. To represent current strains in circulation, 79 samples previously sequenced on Molecular loop at CMBP and DNA Identification were resequenced on Molecular loop and Illumina in parallel. After removal of samples damaged in transit between testing sites or failed the comparative sequencing reaction, 123 successfully produced strain calls on both platforms were analyzed (<figref idref="DRAWINGS">FIG. <b>13</b></figref>).</p>
+<p id="p-0144" num="0143">Of the 72 samples, 51 met QC thresholds of 10 CCS read depth and 90% genome coverage for a 71% success rate. This reportable genome rate was similar to CDC strain surveillance reportable genome rate at DNA of 72.5% during the month of the validation. All strain results were 100% concordant out of the 51 reportable results (Table 6). Inclusion of results with less than 10 CCS read depth on average resulted in 10/13 (77%) matching strain results and a total concordance of 61/64, 95.3%. Analysis of samples below 90% genome coverage only had 2/7 identical strain results.</p>
+<p id="p-0145" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 6</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Winter 2020 Circulating Strain Accuracy</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>QC Metrics</entry>
+<entry>concordant</entry>
+<entry>total</entry>
+<entry>Accuracy</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>&#x3e;90% coverage &#x3e; 10 CCS reads</entry>
+<entry>51</entry>
+<entry>51</entry>
+<entry>100%&#x2002;</entry>
+</row>
+<row>
+<entry>&#x3e;90% coverage &#x3c; 10 CCS reads</entry>
+<entry>10</entry>
+<entry>13</entry>
+<entry>77%</entry>
+</row>
+<row>
+<entry>&#x3c;90% coverage</entry>
+<entry>2</entry>
+<entry>7</entry>
+<entry>29%</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0146" num="0144">Sixty-six of 72 samples originally sequenced on Molecular Loop at CMBP and DNA were successfully sequenced after dilution with adequate read depth on Illumina and Molecular loop. All 72 samples produced 90% coverage and a strain typing of which 71 were able to identical strain calls to the Illumina reference method. Overall, all reportable results were 100% concordant between parallel technologies (Table 7).</p>
+<p id="p-0147" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 7</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Summer 2021 Circulating Strain Accuracy</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>QC Metrics</entry>
+<entry>concordant</entry>
+<entry>total</entry>
+<entry>Accuracy</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="28pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>&#x3e;90% coverage &#x3e; 10 CCS reads</entry>
+<entry>66</entry>
+<entry>66</entry>
+<entry>100%</entry>
+</row>
+<row>
+<entry>&#x3e;90% coverage &#x3c; 10 CCS reads</entry>
+<entry>6</entry>
+<entry>6</entry>
+<entry>100%</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0148" num="0145">Amplicon Pacbio Sequencing: Out of the 122 samples with 90% coverage on amplicon sequencing, 116 were repeated at 90% coverage for both replicates. There was 100% concordance between the 116 molecular loop replicate strain typings. Overall, parallel testing between molecular loop and traditional amplicon sequencing were 98.2% concordant.</p>
+<p id="p-0149" num="0146">Analytical Sensitivity/Specificity</p>
+<p id="p-0150" num="0147">Heat-inactivated SARS-CoV-2 strains B.1.1.7 (VR-3326HK&#x2122;), Hong Kong/VM20001061 and Italy-INMI1 genomes are characterized by ATCC. For analytical sensitivity all variants were identified using the analysis pipeline and compare to the published ATCC strain variant datasets. Traditionally in human genome sequencing a variant of interest is analyzed and validated and a False Discovery Rate (FDR), which normalizes false positives (FP) to all positive calls (FP+TP where TP=true positive) rather than to all negatives. However, with Sars-Cov-2 there is a combination of a 4 to 20+ variants at defined positions for a given strain that lead to the strain call. Also, due to complete genome sequencing of viral RNA, there are multiple highly repetitive regions known to cause variation in sequencing data that are not relevant to current strain typings. Strain typing programs such as Nextclade can take this into account. Therefore, sensitivity was determined by the number of called variants documented for strain divided by the total variants. In addition to FDR, specificity was calculated by the total number of false variants called compared to accurately sequenced base pairs. The assembled genome was used as input in Pangolin which calls variants and outputs a strain typing. No variant calls, and only strains were output for further analysis. Therefore, sensitivity and specificity was calculated using variant calls from a separate genome variant caller, CLC, and Nextclade Sars-Cov-2 specific variant caller which takes into account repetitiveness and difficult to sequence viral regions when making a variant call. The Acceptance Criteria was as follows: (1) &#x2265;90% analytical sensitivity with control RNA for variants in segments that are above minimum coverage; and (2) &#x2265;90% analytical specificity with control RNA for variants in segments that are above minimum coverage. False Discovery Rate with control RNA for variants in segments that are above minimum coverage were documented but no acceptance criteria was set.</p>
+<p id="p-0151" num="0148">Both variant calling platforms were highly sensitive in their ability to detect variants with Nextclade at 96.23% and CLC at 98.11% sensitivity (Table 8). When comparing the overall specificity of determining a base pair across the genome both were &#x3e;99.9% specific. However, the ability of Nextclade to adjust for repetitive and difficult to sequence regions was obvious by the number of false variants detected at 3, compared to CLC with no adjustment process at 23. This lead to a discrepancy in false discovery rates of variants with 5.36 for Nextclade and 30.26 for CLC indicating false variant discovery is in hard to sequence repetitive viral regions; these regions are not relevant to current strain typing. Together, all acceptance criteria were met and the Molecular Loop process is highly sensitive and overall specific, with high FDR from viral regions not analyzed in current strain typing algorithms.</p>
+<p id="p-0152" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="294pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 8</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Sensitivity and specificity calculations of ATCC sequenced controls.</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>#</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Variant</entry>
+<entry>ATCC</entry>
+<entry># called</entry>
+<entry>Expected</entry>
+<entry># false</entry>
+<entry>BP</entry>
+</row>
+<row>
+<entry>Analysis</entry>
+<entry>strain</entry>
+<entry>expected</entry>
+<entry>variants</entry>
+<entry>var</entry>
+<entry>sequenced</entry>
+<entry>Sensitivity</entry>
+<entry>Specificity</entry>
+<entry>FDR</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Nextclade</entry>
+<entry>b1117</entry>
+<entry>37</entry>
+<entry>37</entry>
+<entry>2</entry>
+<entry>29683</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>HK</entry>
+<entry>11</entry>
+<entry>13</entry>
+<entry>0</entry>
+<entry>29780</entry>
+</row>
+<row>
+<entry/>
+<entry>ITLY</entry>
+<entry>3</entry>
+<entry>3</entry>
+<entry>1</entry>
+<entry>29979</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>51</entry>
+<entry>53</entry>
+<entry>3</entry>
+<entry>89442</entry>
+<entry>96.23%</entry>
+<entry>99.997%</entry>
+<entry>5.36%</entry>
+</row>
+<row>
+<entry>CLC</entry>
+<entry>b1117</entry>
+<entry>37</entry>
+<entry>37</entry>
+<entry>8</entry>
+<entry>29683</entry>
+</row>
+<row>
+<entry/>
+<entry>HK</entry>
+<entry>12</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>29780</entry>
+</row>
+<row>
+<entry/>
+<entry>ITLY</entry>
+<entry>3</entry>
+<entry>3</entry>
+<entry>6</entry>
+<entry>29979</entry>
+</row>
+<row>
+<entry/>
+<entry>Total</entry>
+<entry>52</entry>
+<entry>53</entry>
+<entry>23</entry>
+<entry>89442</entry>
+<entry>98.11%</entry>
+<entry>99.974%</entry>
+<entry>30.26%</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0153" num="0149">Assay Tolerance</p>
+<p id="p-0154" num="0150">The assay tolerance for nucleic acid input can be thought of as the tolerance to variation in the amount of analyte added to the reactions. While normally expressed in cp/&#x3bc;L, &#x2dc;80% of samples assayed will be from an EUA NAA SARS-CoV-2 test which provides each sample's corresponding cycle threshold (CT) value. As such, CT was used in place of cp/&#x3bc;L as the input metric for analysis and guidance. Sequencing viral genomes from residual NAA testing inherently has a high failure rate, which is directly related to the specimen's viral titer and RNA integrity and can vary dramatically between samples. While the failure rate is driven by RNA titer (CT), with a conservatively set background the increase in failures observed in higher CT samples will not lead to discrepant results, and only increase the cost of the assay. The aim of this validation's assay tolerance experiment was to set baselines for expected success rates at a given CT, but does not limit what samples are attempted to have genomes sequenced.</p>
+<p id="p-0155" num="0151">9,718 production results across 3 sites were analyzed for success rate to produce a result based on their nucleocapsid target #1 (N1) CT value. First, samples were binned by ability to produce a genome at 90%, and CT value at 1 integer increments rounded up to the nearest whole number. For example, 30.1 CT was calculated under the 31 bin. All samples with a CT of &#x3c;16 were included in the 16 bin. All samples missing CT metadata were removed from analysis. The Acceptance Criteria were: (1) the manufacturer recommendation for 10,000 copies of RNA for sequencing with acceptable variation in input concentration used meet the following acceptance criteria for analysis; and a CT group of at least 20 samples</p>
+<p id="p-0156" num="0152">Over 8815/9718 production samples had the corresponding CT metadata. There was no deterioration in ability to generate &#x2dc;90% genome coverage from &#x3c;16 to 24 CT analysis bins (<figref idref="DRAWINGS">FIG. <b>14</b></figref>). Starting at 25 CT, there was a precipitous decline in the ability of a sample at a given CT to generate a genome with 90% coverage, with 30.14&#x2192;31 CT bin only reporting 7.65% samples. It is recommended that if a CT cutoff for assay input is required, that samples must be at &#x3c;26 CT, which had a 78% genome yield rate.</p>
+<p id="p-0157" num="0153">Analyte Stability</p>
+<p id="p-0158" num="0154">Samples in this validation were stored for a minimum period of 4 weeks which exceeds the period of time over which the samples are tested in the clinical laboratory. Long-term stability should be determined by storing at least three aliquots under the same conditions as the study samples. The volume of samples should be sufficient for analysis on three separate occasions. The stability of the analyte in biological matrix at intended storage temperatures should be established.</p>
+<p id="p-0159" num="0155">The stability of the analyte under various storage conditions was established by measurement of concordance at various lengths of storage. After NAA diagnostic testing, extracted nucleic acid was shipped on dry ice to the testing laboratory and stored at &#x2212;20&#xb0; C. before sequencing. All samples used in validation were residual production samples and the stability experiments described below are in addition to the process of collecting and shipping samples to the sequencing laboratory. Analyte stability was measured in two separate experiments. In the first experiment, ten samples used in inter-assay precision were defrosted, assayed, and refrozen three times across a one-month time point. Samples represented various strains, CT values and original read coverage. In the second experiment, twelve samples comprising of Alpha, Beta and Delta Variants of Concerns (VOCs) with ranging original read sequence depth were resequenced after one month of &#x2212;20&#xb0; C. storage that entailed three freeze thaws. The Acceptance Criteria was defined as storage conditions were considered suitable if the sample yields the same strain detection after the defined length of storage and &#x2265;90% accuracy for reportable strain results.</p>
+<p id="p-0160" num="0156">Inter-assay results used in stability study are found above in Table 5. Only two replicates of one sample, 1583805067, failed to produce 90% coverage and 10 CCS reads for 90% reproducibility. Further, there was no observed reduction in sample specific read count on the final stability time point (PBT5080) for three separate sequencing runs (PBT5073 PBT5075 and PBT5080) (<figref idref="DRAWINGS">FIG. <b>15</b></figref>).</p>
+<p id="p-0161" num="0157">Reprocessing VOCs had 9/12 samples produce identical strain results. One sample produced a AY.3 while the original results was 1.617.2. Both AY.3 and 1.617.2 comprise the Delta VOC and since the original Week 24 result are now classified as distinct sub-strains of the Delta VOC. Further investigation revealed that the 38 CLC variants between the two results are identical and strain typing was due to differences in Pangolin strain caller versions. One sample was concordant, but lacked sufficient read depth to report a result. The only true discordant was originally reported a B.1.1.7 and upon repeat was B.1.621.1. As both original and stability sequencing resulted in ample read coverage with minimal shared variants called between runs, it is believed the discrepancy may have resulted from sample switch. The overall accuracy was 91.6% with the discrepant result not attributed to stability issues.</p>
+<heading id="h-0014" level="1">Example 3</heading>
+<heading id="h-0015" level="1">Cherry Picking</heading>
+<p id="p-0162" num="0158">Hamilton MicroLab STAR liquid handlers are used to transfer specimens from source plates containing both positive and negative patient samples into condensed PCR plates containing only positive samples for sequencing. Informally, this process is referred to as &#x201c;cherry picking&#x201d;. Specimens are extracted total nucleic acid from positive specimens with a CT &#x3c;31.</p>
+<heading id="h-0016" level="1">Example 4</heading>
+<heading id="h-0017" level="1">Analysis of Sequencing Data for SARS-CoV-2 Strain Determination</heading>
+<p id="p-0163" num="0159">The upstream analysis included monitoring the sequencer runs for completion, demultiplexing to generate individual sample FASTQ files, and triggering the alignment of each to the SARS-CoV-2 reference genome to generate alignments and variant calls. The downstream analysis for samples in each SMRTCell included generating all the results including the lineage classifications for each sample.</p>
+<p id="p-0164" num="0160">Upstream Analysis</p>
+<p id="p-0165" num="0161">An example flow-chart for upstream analysis is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. For the analysis invocation, PacBio/Molecular Loop raw data was deposited from the sequencer to the AWS drop directory. A script detected when a run completed file was created and copied the data to a ready-for-demultiplexing folder. Samples that failed on the sequencer did not generate data files. These samples were designated to be repeated not used for sequence analysis.</p>
+<p id="p-0166" num="0162">At this point, demultiplexing and generation of individual sample FASTQ files was performed using the following steps: (1) generation of Circular Consensus Sequence (CCS) BAM files using PacBio's SMRTLINK CCS program; (2) merging the intermediate BAM files using samtools; (3) demultiplexing using the PacBio lima program to generate individual BAM files corresponding to different barcode combinations in the run manifest; (4) combining demultiplexed output by sample name and/or patient identifier; (5) removing barcodes from sequences and generate individual sample FASTQ files; (6) aligning sequences to barcodes; trimming the barcodes (e.g., using a PacBio trim script; (7) converting BAM files to FASTQ files (e.g., using bamtools); (8) copying FASTQ and CCS BAM files to final location; (9) and copying FASTQ files and the corresponding run manifest to a drop location to trigger CLC Workflow.</p>
+<p id="p-0167" num="0163">The CLC Analysis workflow was performed using the following steps: (1) An NGS data analysis workflow is executed on each sample using a current validated CLC Genomics Server version; (2) For each sample's FASTQ file: (a) reads were filtered to retain reads of 250-5000 bp length; (b) reads were aligned to the SARS-CoV-2 reference genome (&#x201c;NC_045512v2&#x201d;) using minimap2 to generate a BAM file; (c) local realignment was performed and variant calls made using the Low Frequency Variant Detection tool in CLC Genomics Server; and (d) both the assembly (BAM file) and detected variants (cf) were input into a downstream post-processing analysis. A script detected CLC process completion, initiating the launch of downstream analysis for samples in each SMRTcell.</p>
+<p id="p-0168" num="0164">Downstream Analysis</p>
+<p id="p-0169" num="0165">An example flow-chart for downstream (post-processing) analysis is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Post-processing part 1 is represented in the first block in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The steps for post-processing part 1 were as follows. (1) Using the appropriate reference file VCFCons was used to generate the consensus sequences based on sequence alignment and variant calls for each sample. For this analysis, a minimum coverage of 4 CCS reads and minimum alternate frequency of 0.5 was required to assign a base to each genomic position and positions that did not satisfy this criterion were assigned an ambiguous base &#x201c;N.&#x201d; (2) Seqtk was used to generate the sequence base compositions, which was used later to determine the percentage of non-ambiguous bases. (3) Nextclade was used to generate the following using the consensus sequence as the input: (a) clade assignments; (b) mutation calling and (c) sample sequence quality check. (4) Pangolin was then used to assign lineages to the consensus sequence by generating the SARS-CoV-2 lineages, (known as the Pango nomenclature), then assigning a SARS-CoV-2 genome sequence lineage (Pango lineage). Pangolin only considers genomes that have at least 50% non-ambiguous bases. (5) SummaryStat was used to compile results from Nextclade, Pangolin, and Seqtk and generate coverage statistics needed for later QC, including mean of median amplicon coverage and percent genome coverage. For this analysis, the median coverage of the bases in 29 overlapping 1.2kb regions that span the entire SARS-CoV-2 genome were calculated for each of the samples. Statistics of the distribution of these coverage values (minimum, 1st quantile, mean, median, 3rd quantile and maximum) were calculated for each sample. Also, the percent genome coverage was calculated as the number of non-ambiguous bases (A, T, C, G) divided by the total sequence length, and lineage classifications are aggregated and only samples that produced a Nextclade result and Pangolin lineage call were retained for further processing.</p>
+<p id="p-0170" num="0166">At this point post-processing part 2 was initiated as shown for the &#x201c;Combine Patient Metadata&#x201d;, &#x201c;Quality checking&#x201d;, and &#x201c;Generate final report&#x201d; blocks in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Thus, again using the appropriate reference file strain surveillance-specific metadata (demographic data, percent genome coverage, and Ct values from the RT-PCR assay) QC was performed and the data added to the results. Samples that were missing metadata were dropped from the result set. Also, non-template QC was performed based on the non-template control. If the mean of the median coverage of the 29 genomic regions was &#x3e;10 CCS reads, then all samples sequenced on the same plate were removed. Finally, coverage QC was performed. Samples with genome coverage &#x3e;=90% were retained in the results, and samples with mean of median coverage &#x3e;10 CCS reads were retained in the results. The results were then transferred to a Report System location for generating patient reports with corresponding Pangolin lineages. Samples that failed to produce a result were reported as: no lineage was able to be determined. SARS-CoV-2 virus detected, no lineage information can be reported.</p>
+<p id="p-0171" num="0167">The lineage calling criteria were as follows. Inclusion criteria: (1) CT &#x3c;31; (2) corresponding metadata (strain surveillance); (3) &#x3e;90% genome coverage; (4) mean of median coverage &#x3e;10 CCS reads; (4) passing NTC control; and (5) Nextclade result and Pangolin lineage call. Exclusion criteria: (1) CT &#x3e;31; (2) missing metadata (strain surveillance); (3) &#x3c;90% genome coverage; (4) mean of median coverage &#x3c;10 CCS reads; and (4) failing NTC control.</p>
+<heading id="h-0018" level="1">Example 5</heading>
+<heading id="h-0019" level="1">Assessment of Potential New Variants and Classification</heading>
+<p id="p-0172" num="0168">Revalidating the classification accuracy of the Virseq assay in response to the emergence of new variants (i.e. lineages) of the SARS-CoV-2 virus and concomitant changes to the pangolin classification software was performed as outlined in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. The pangolin software is distributed through Dockerhub (at hub.docker.com/r/staphb/pangolin). The Pangolin site was monitored and checked by downloading and installing an updated docker container at regular intervals (e.g., weekly) for updates. If there were no updates, it was deemed that no action was required. The document docker container was updated in a change log along with the release notes. The updated docker files contained change notes and the latest versions of pangolin, pangoLEARN, pango-designation, scorpio, and constellations (see, github.com/cov-lineages).</p>
+<p id="p-0173" num="0169">If there were updates, a regression analysis was performed using in-house laboratory data. Essentially the steps were performed as follows. The new pangolin version was used to determine the lineage of samples contained within the reference set of historical Virseq sequences. The reference set included an initial SMRT cell from October 2021, predominantly composed of Delta lineages. It also contained two updates of Omicron lineages made in December 2021 and March 2022. Each sample in the reference set included its consensus sequence as well as the history of its lineage classifications made by previous pangolin versions. The reference set was updated periodically to include samples representing newer, more prevalent lineages as pangolin versions are updated.</p>
+<p id="p-0174" num="0170">Next, the format of the pangolin software output was compared with that of the previous version to determine if there are changes in the pangolin output format. If there were any changes to the CSV output (i.e. additional columns, changes in column names), these were documented and the laboratory Virseq pipeline modified as needed to accommodate the change. The modified version was then deployed to the QA environment for testing.</p>
+<p id="p-0175" num="0171">Next, any changes in lineage calls were assessed and compared with those expected from the software update change notes. Expected changes typically include reassignment among sublineages. If there were any unexpected changes in lineages (e.g. Delta sublineage to Alpha), these were investigated in detail and documented.</p>
+<p id="p-0176" num="0172">The acceptance criteria and action taken were as follows. Lineage classification disagreements are mostly due to the improvement of pangoLEARN/pango-designation definitions of the variants in the newer version. Most of these are sublineage reassignments but could also be due to changes in the model's defining variants. The sublineage reassignments were reviewed to ensure they are the expected changes under a parent lineage such as reassignment among AY in the parent Delta lineage. Another source of discordance could occur in samples with &#x3c;90% genomic coverage. Any discordances that could be explained by sublineage reassignments or genome coverage issues as described above were documented and further reviewed for approval. The GISAID regression test was then performed. When discordances could not be explained as above and no new pangolin lineages have been added in the upgrade, the upgrade was halted and production continued with the current version of pangolin. The discordances were documented and stored with the updates as described above. Discordances were further investigated as new information became available and documented, or initiation of this protocol for the next release of pangolin could resolve discordance.</p>
+<p id="p-0177" num="0173">At this point, a second regression test was performed using publicly available (GISAID) sequences and their metadata. The latest GISAID sequences were downloaded and the metadata and pangolin lineages for all GISAID sequences obtained and the list of VOCs and VOIs updated based on WHO updates and the latest complete list of lineages. Next, a data simulator was used to model the coverage and error properties of the Virseq assay. The simulator used GISAID sequences as starting points and imposed simulated coverage and errors based on empirical coverage profiles and max-minor-allele frequencies from a collection of Virseq samples. The resulting simulated samples were run through pangolin, and the lineage classifications were compared to those of the original GISAID sequences. Classification stability was defined as the rate at which mutated sequences maintain their expected lineage classifications. In this regression test, two experiments were run to assess classification stability via simulation. First, up to 100 GISAID sequences were randomly sampled for each VOC/VOI to assess the classification stability of these important lineages, regardless of their frequency in the sequencing data available. This allowed an assessment of classification stability of emerging variants as well as new sublineages of existing ones. Second, 10,000 GISAID sequences from the database were randomly sampled for a frequency-based retrospective analysis of lineage classification stability. This allowed stability to be quantified relative to historical prevalence.</p>
+<p id="p-0178" num="0174">At this point, the output of the data simulator experiments was reviewed, checking for unexpected changes in classification stabilities with respect to previous regression tests using GISAID data for all known VOC/VOIs and the retrospective GISAID data. Any unexpected instabilities were investigated and documented. The upgrade was then accepted upon satisfying certain parameters. In some cases, the upgrade was requested if the median VOC NOI concordance between the simulated data and reference sequence was at least 90%. In cases where these criteria were not met, additional investigation was indicated.</p>
+<p id="p-0179" num="0175">If the new discordant lineage(s) were novel, the novel lineage(s) were tested to determine if they were detected using the methods disclosed herein. If the discordant variant(s) were not novel variant(s), they were investigated to find the root cause of discordance. This involved looking at the coverage of the reference sequence as well as the simulated sequences to ensure there was not an undesirable drop in base coverage in specific regions. Also, the simulation was re-run with another seed to determine if the discordance was reproduced. If it was, the upgrade was halted.</p>
+<p id="p-0180" num="0176">At this point the novel variants were assessed using the methods disclosed herein. For successful surveillance of emerging variants (lineages), the potential impact on the molecular loop inversion probe amplification was reviewed by conducting an in silico analysis as for example by identifying the location of the individual sequence variants in the emerging lineages and the associated molecular loop probes to assess the potential for interference in probe binding. For example, a very conservative estimate that the novel sequence variant overlapping with any probe will impact hybridization would then be used. Also, all adjacent probes in the region were reviewed to ensure coverage of the novel sequence variant. For any sequence variant that could result in a reduction of coverage within a particular region, the impacted probes within the pangolin lineage update validation summary were documented.</p>
+<heading id="h-0020" level="1">Example 6</heading>
+<heading id="h-0021" level="1">Embodiments</heading>
+<p id="p-0181" num="0177">The disclosure may be better understood by reference to the following non-limiting embodiments.
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0178">A1. A method for identifying and/or tracking variants of SARS-CoV-2 comprising:</li>
+</ul>
+</p>
+<p id="p-0182" num="0179">(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</p>
+<p id="p-0183" num="0180">(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</p>
+<p id="p-0184" num="0181">(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</p>
+<p id="p-0185" num="0182">(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.
+<ul id="ul0006" list-style="none">
+    <li id="ul0006-0001" num="0183">A2. A method of any one of the previous or subsequent method embodiments, wherein generating a sample-specific SARS-CoV-2 nucleic acid comprises using reverse transcriptase polymerase chain reaction (RT-PCR) to generate a sample-specific SARS-CoV-2 cDNA.</li>
+    <li id="ul0006-0002" num="0184">A3. A method of any one of the previous or subsequent method embodiments, wherein the SARS-CoV-2 cDNA is then further amplified using tiled primers that bind at spaced intervals along the viral genome.</li>
+    <li id="ul0006-0003" num="0185">A4. A method of any one of the previous or subsequent method embodiments, wherein the tiled primers are spaced such that adjacent primers are approximately 600 bp apart from each other.</li>
+    <li id="ul0006-0004" num="0186">A4.1 A method of any one of the previous or subsequent method embodiments, wherein further comprises hybridizing one strand of the sample SARS-CoV-2 cDNA to a single-stranded probe DNA template comprising a pair of SARS-CoV-2 probes, wherein the first probe is positioned at the 3&#x2032; end of the probe DNA template to function as a forward primer and the second probe is positioned at the 5&#x2032; end of the probe DNA template to function as a reverse primer.</li>
+    <li id="ul0006-0005" num="0187">A4.2 A method of any one of the previous or subsequent method embodiments, wherein the SARS-CoV-2 genome is amplified in a highly efficient manner regardless of the presence or absence of new variants.</li>
+    <li id="ul0006-0006" num="0188">A4.3 A method of any one of the previous or subsequent method embodiments, wherein the tiled primers are primers further comprise an adaptor for the addition of a barcode sequence used to correlate the SARS-CoV-2 sample-specific nucleic acid to a sample number and/or universal primer sites for nucleic acid sequencing.</li>
+    <li id="ul0006-0007" num="0189">A5. A method of any one of the previous or subsequent method embodiments, wherein the single-stranded probe DNA template further comprises universal sequencing primers positioned internal to the probe sequences.</li>
+    <li id="ul0006-0008" num="0190">A6. A method of any one of the previous or subsequent method embodiments, wherein the single-stranded probe DNA template further comprises an adaptor sequence for the addition of a barcode sequence used to correlate the SARS-CoV-2 sample-specific nucleic acid to a sample number.</li>
+    <li id="ul0006-0009" num="0191">A7. A method of any one of the previous or subsequent method embodiments, further comprising filling in the sequence between the two probes to generate a circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA between the two probe sequences.</li>
+    <li id="ul0006-0010" num="0192">A8. A method of any one of the previous or subsequent method embodiments, further comprising releasing the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA from the sample-specific SARS-CoV-2 DNA.</li>
+    <li id="ul0006-0011" num="0193">A9. A method of any one of the previous or subsequent method embodiments, further comprising digestion of the circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA to generate a linear DNA used as a template for the step of performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid.</li>
+    <li id="ul0006-0012" num="0194">A10. A method of any one of the previous or subsequent method embodiments, further comprising uploading the results of the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence into a depository for further classification if a variant is detected.</li>
+    <li id="ul0006-0013" num="0195">A11. A method of any one of the previous or subsequent method embodiments, wherein the depository is a CDC database.</li>
+    <li id="ul0006-0014" num="0196">A12. A method of any one of the previous or subsequent method embodiments, wherein the nucleic acid sequencing comprises sequencing at least 80%, or optionally 85%, or optionally 90% of the entire viral genome.</li>
+    <li id="ul0006-0015" num="0197">A13. A method of any one of the previous or subsequent method embodiments, further comprising identifying the geographic location of the subject.</li>
+    <li id="ul0006-0016" num="0198">A14. A method of any one of the previous or subsequent method embodiments, wherein the nucleic acid sequencing comprises whole genome sequencing.</li>
+    <li id="ul0006-0017" num="0199">A15. A method of any one of the previous or subsequent method embodiments, wherein the determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence comprises aligning the sample SAR-CoV-2 sequence to a SARS-CoV-2 reference genome to generate a sample-specific assembly and consensus sequence.</li>
+    <li id="ul0006-0018" num="0200">A15.1 A method of any one of the previous or subsequent method embodiments, wherein a sample SAR-CoV-2 nucleic acid sequence having a minimum coverage of at least 50% is used as the input for calling variants and/or for generating a sample-specific genome assembly to generate a consensus sequence for each sample.</li>
+    <li id="ul0006-0019" num="0201">A15.2 A method of any one of the previous or subsequent method embodiments, wherein there is a defined threshold for generating the consensus sequence.</li>
+    <li id="ul0006-0020" num="0202">A15.3 A method of any one of the previous or subsequent method embodiments, wherein the defined threshold includes at least 4 circular consensus sequencing (CCS) reads covering an individual base pair and/or an alternate allele frequency compared to the reference of &#x3e;50%.</li>
+    <li id="ul0006-0021" num="0203">A15.4 A method of any one of the previous or subsequent method embodiments further comprising evaluation of an external no template control (NTC) and/or an external positive template control (PTC) to assess the validity of the results</li>
+    <li id="ul0006-0022" num="0204">A15.5 A method of any one of the previous or subsequent method embodiments, wherein the sample SAR-CoV-2 nucleic acid sequencing reads are filtered to retain reads of 250-5000 bp length.</li>
+    <li id="ul0006-0023" num="0205">A15.6 A method of any one of the previous or subsequent method embodiments, wherein the sample SAR-CoV-2 nucleic acid sequencing reads are aligned to the SARS-CoV-2 reference genome (NC_045512v2).</li>
+    <li id="ul0006-0024" num="0206">A15.7 A method of any one of the previous or subsequent method embodiments, wherein after the sample SAR-CoV-2 nucleic acid sequencing reads are aligned to the SARS-CoV-2 reference genome local realignment is performed and variant calls made.</li>
+    <li id="ul0006-0025" num="0207">A15.8 A method of any one of the previous or subsequent method embodiments, wherein a determination of the sample SAR-CoV-2 nucleic acid sequence base composition is generated to determine the percentage of non-ambiguous bases.</li>
+    <li id="ul0006-0026" num="0208">A15.9 A method of any one of the previous or subsequent method embodiments, wherein any one or all of the following may optionally be generated using the consensus sequences as the input: (a) a clade assignment; (b) a determination of a mutation and (c) a sample sequence quality check.</li>
+    <li id="ul0006-0027" num="0209">A16. A method of any one of the previous or subsequent method embodiments, wherein step (d) of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence further comprises assessing the lineage for the sample.</li>
+    <li id="ul0006-0028" num="0210">A.16.1 A method of any one of the previous or subsequent method embodiments, wherein lineages are assigned to the consensus sequence by generating the SARS-CoV-2 lineages, then assigning a SARS-CoV-2 genome sequence lineage.</li>
+    <li id="ul0006-0029" num="0211">A16.2 A method of any one of the previous or subsequent method embodiments, wherein lineage assignment is set so as only to consider genomes that have at least 50% non-ambiguous bases.</li>
+    <li id="ul0006-0030" num="0212">A16.3 A method of any one of the previous or subsequent method embodiments, wherein strain lineage results are released for samples with 90% genome coverage.</li>
+    <li id="ul0006-0031" num="0213">A16.4 A method of any one of the previous or subsequent method embodiments, wherein strain lineage results are released for samples having a mean of median read coverage across the whole genome is &#x3e;10 circular consensus sequence (CCS) reads.</li>
+    <li id="ul0006-0032" num="0214">A16.5 A method of any one of the previous or subsequent method embodiments, wherein the different CCS read metrics are based on the nucleotide level (4 CCS reads) and on the genome level (10 CCS reads).</li>
+    <li id="ul0006-0033" num="0215">A16.6 A method of any one of the previous or subsequent method embodiments, wherein Pangolin is used to assign lineages.</li>
+    <li id="ul0006-0034" num="0216">A16.7 A method of any one of the previous or subsequent method embodiments, further comprising generating coverage statistics.</li>
+    <li id="ul0006-0035" num="0217">A16.8 A method of any one of the previous or subsequent method embodiments, wherein the coverage statistics are generated using SummaryStat.</li>
+    <li id="ul0006-0036" num="0218">A16.9 A method of any one of the previous or subsequent method embodiments, wherein the median coverage of the bases in 29 overlapping 1.2 kb regions that span the entire SARS-CoV-2 genome are calculated for each of the samples</li>
+    <li id="ul0006-0037" num="0219">A16.10 A method of any one of the previous or subsequent method embodiments, wherein the mean of the median coverage of the 29 genomic regions is &#x3e;10 CCS reads.</li>
+    <li id="ul0006-0038" num="0220">A16.11 A method of any one of the previous or subsequent method embodiments, wherein samples with genome coverage &#x3e;=90% are retained in the results.</li>
+    <li id="ul0006-0039" num="0221">A16.12 A method of any one of the previous or subsequent method embodiments, wherein samples with mean of median coverage &#x3e;10 CCS reads are retained in the results.</li>
+    <li id="ul0006-0040" num="0222">A16.13 A method of any one of the previous or subsequent method embodiments, wherein using demographic data, percent genome coverage, and Ct values from the RT-PCR assay, QC is performed and the data added to the results.</li>
+    <li id="ul0006-0041" num="0223">A16.14 A method of any one of the previous or subsequent method embodiments, wherein the results are used to generate patient reports with corresponding lineages and/or geographic assignments.</li>
+    <li id="ul0006-0042" num="0224">A16.15 A method of any one of the previous or subsequent method embodiments, wherein inclusion criteria include: (1) CT &#x3c;31; (2) corresponding metadata (strain surveillance); (3) &#x3e;90% genome coverage; (4) mean of median coverage &#x3e;10 CCS reads; (4) passing NTC control; and (5) and lineage call.</li>
+    <li id="ul0006-0043" num="0225">A16.16 A method of any one of the previous or subsequent method embodiments, wherein exclusion criteria include: (1) CT &#x3e;31; (2) missing metadata (strain surveillance); (3) &#x3c;90% genome coverage; (4) mean of median coverage &#x3c;10 CCS reads; and (4) failing NTC control.</li>
+    <li id="ul0006-0044" num="0226">A17. A method of any one of the previous or subsequent method embodiments, further comprising revalidating the lineage assignments by determining if an update to the depository has been made</li>
+    <li id="ul0006-0045" num="0227">A17.1 A method of any one of the previous or subsequent method embodiments, wherein revalidating is performed prior to the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</li>
+    <li id="ul0006-0046" num="0228">A17.2 A method of any one of the previous or subsequent method embodiments, wherein the revalidation includes a regression analysis using in-house data to determine if a previously assigned lineage should be changed.</li>
+    <li id="ul0006-0047" num="0229">A17.3 A method of any one of the previous or subsequent method embodiments, wherein the in-house data comprises data sets defined by at least one of date of accrual, SARS-CoV-2 lineage, geographic origin of the sample, history of lineage classification, or updates to algorithm used for lineage classification.</li>
+    <li id="ul0006-0048" num="0230">A17.4 A method of any one of the previous or subsequent method embodiments, wherein the update includes a change to a lineage or sublineage for in-house data.</li>
+    <li id="ul0006-0049" num="0231">A17.5 A method of any one of the previous or subsequent method embodiments wherein the revalidation includes a regression analysis using data from a depository.</li>
+    <li id="ul0006-0050" num="0232">A17.6. A method of any one of the previous or subsequent method embodiments wherein the depository is GISAID.</li>
+    <li id="ul0006-0051" num="0233">A17.7 A method of any one of the previous or subsequent method embodiments, wherein GISAID sequences are downloaded and the metadata and lineages for all GISAID sequences obtained and the list of VOCs and VOIs updated based on WHO updates and the latest complete list of lineages.</li>
+    <li id="ul0006-0052" num="0234">A17.8 A method of any one of the previous or subsequent method embodiments further comprising using a data simulator to model the coverage and error properties of the in-house assay.</li>
+    <li id="ul0006-0053" num="0235">A17.9 A method of any one of the previous or subsequent method embodiments, wherein the simulator uses GISAID sequences as starting points and imposes simulated coverage and errors based on empirical coverage profiles and max-minor-allele frequencies from a collection of samples, the resulting simulated samples are run through the lineage algorithm, and the lineage classifications are compared to those of the original GISAID sequences.</li>
+    <li id="ul0006-0054" num="0236">A17.10 A method of any one of the previous or subsequent method embodiments, wherein classification stability is defined as the rate at which mutated sequences maintain their expected lineage classifications.</li>
+    <li id="ul0006-0055" num="0237">A17.11 A method of any one of the previous or subsequent method embodiments, wherein for the simulation 100 GISAID sequences are randomly sampled for each VOC and/or VOI.</li>
+    <li id="ul0006-0056" num="0238">A17.12 A method of any one of the previous or subsequent method embodiments, wherein for the simulation 10,000 GISAID sequences from the database are randomly sampled for a frequency-based retrospective analysis of lineage classification stability.</li>
+    <li id="ul0006-0057" num="0239">A17.13 A method of any one of the previous or subsequent method embodiments, wherein the upgrade is requested if the median VOC/VOI concordance between the simulated data and reference sequence is at least 90%</li>
+    <li id="ul0006-0058" num="0240">A18. A method of any one of the previous or subsequent method embodiments, wherein at least some of the steps are controlled by a computer and/or a computer-program product tangibly embodied in a non-transitory machine-readable storage medium,</li>
+    <li id="ul0006-0059" num="0241">A18.1 A method of any one of the previous or subsequent method embodiments, wherein at least some of the steps are controlled by:</li>
+</ul>
+</p>
+<p id="p-0186" num="0242">one or more data processors; and</p>
+<p id="p-0187" num="0243">a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform processing comprising any of the method steps.
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0244">B1. A system comprising at least one station or component for performing any of the previous or subsequent method embodiments.</li>
+    <li id="ul0007-0002" num="0245">B2. A system comprising at least one station or component for performing any of the previous or subsequent method embodiments comprising:</li>
+</ul>
+</p>
+<p id="p-0188" num="0246">(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</p>
+<p id="p-0189" num="0247">(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</p>
+<p id="p-0190" num="0248">(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</p>
+<p id="p-0191" num="0249">(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.
+<ul id="ul0008" list-style="none">
+    <li id="ul0008-0001" num="0250">B3. A system of any one of the previous or subsequent embodiments, wherein at least some of the steps are controlled by a computer and/or a computer-program product tangibly embodied in a non-transitory machine-readable storage medium.</li>
+    <li id="ul0008-0002" num="0251">B.4 A system of any one of the previous or subsequent method embodiments, wherein at least some of the steps are controlled by:</li>
+</ul>
+</p>
+<p id="p-0192" num="0252">one or more data processors; and</p>
+<p id="p-0193" num="0253">a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform processing comprising any of the method steps.
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0254">C1. A computer-program product tangibly embodied in a non-transitory machine-readable storage medium, when executed on the one or more data processors, cause the one or more data processors to perform processing comprising:</li>
+</ul>
+</p>
+<p id="p-0194" num="0255">(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</p>
+<p id="p-0195" num="0256">(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</p>
+<p id="p-0196" num="0257">(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</p>
+<p id="p-0197" num="0258">(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.
+<ul id="ul0010" list-style="none">
+    <li id="ul0010-0001" num="0259">D1. A computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to run at least one station or component of a system for performing any of the steps of:</li>
+</ul>
+</p>
+<p id="p-0198" num="0260">(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</p>
+<p id="p-0199" num="0261">(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</p>
+<p id="p-0200" num="0262">(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</p>
+<p id="p-0201" num="0263">(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>That which is claimed:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method for identifying and/or tracking variants of SARS-CoV-2 comprising:
+<claim-text>(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</claim-text>
+<claim-text>(b) generating a sample-specific SARS-CoV-2 cDNA from the sample;</claim-text>
+<claim-text>(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</claim-text>
+<claim-text>(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the SARS-CoV-2 cDNA is then further amplified using tiled primers that bind at spaced intervals along the viral genome.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the tiled primers are spaced such that adjacent primers are approximately 600 bp apart from each other.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein generating a sample-specific SARS-CoV-2 nucleic acid further comprises hybridizing one strand of the sample SARS-CoV-2 cDNA to a single-stranded probe DNA template comprising a pair of SARS-CoV-2 probes, wherein the first probe is positioned at the 3&#x2032; end of the probe DNA template to function as a forward primer and the second probe is positioned at the 5&#x2032; end of the probe DNA template to function as a reverse primer.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the single-stranded probe DNA template further comprises universal sequencing primers positioned adjacent to the probe sequences.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the single-stranded probe DNA template further comprises an adaptor sequence for the addition of a barcode sequence used to correlate the SARS-CoV-2 sample-specific nucleic acid to a sample number.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the barcode is linked to a zip code or other geographic identifier for the sample.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising filling in the sequence between the two probes to generate a circular single-stranded probe DNA template comprising sequence specific to the sample SARS-CoV-2 cDNA between the two probe sequences.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the nucleic acid sequencing comprises sequencing at least 90% of the entire viral genome.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the median coverage of bases in 29 overlapping 1.2 kb regions that span the entire SARS-CoV-2 genome are calculated for each of the samples.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising uploading the results of step (d) into a depository for further classification if a variant is detected.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the depository is a CDC database.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising identifying the geographic location of the subject.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence comprises aligning the sample SAR-CoV-2 sequence to a SARS-CoV-2 reference genome to generate a sample-specific assembly and consensus sequence.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein step (d) further comprises assessing the lineage for the sample.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein inclusion criteria for step (d) include: &#x3e;90% genome coverage, a mean of median coverage &#x3e;10 CCS reads; and lineage determination for the sample.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising determining if an update to the depository has been made prior to the step of determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least some of the steps are controlled by:
+<claim-text>one or more data processors; and</claim-text>
+<claim-text>a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform processing comprising any of the method steps.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. A system comprising:
+<claim-text>one or more data processors; and</claim-text>
+<claim-text>a non-transitory computer readable storage medium containing instructions which, when executed on the one or more data processors, cause the one or more data processors to perform processing comprising:</claim-text>
+<claim-text>(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</claim-text>
+<claim-text>(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</claim-text>
+<claim-text>(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</claim-text>
+<claim-text>(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A computer-program product tangibly embodied in a non-transitory machine-readable storage medium, including instructions configured to cause one or more data processors to perform processing comprising:
+<claim-text>(a) identifying a sample from a subject as positive for SARS-CoV-2 nucleic acid and/or antibodies to SARS-CoV-2;</claim-text>
+<claim-text>(b) generating a sample-specific SARS-CoV-2 nucleic acid from the sample;</claim-text>
+<claim-text>(c) performing nucleic acid sequencing on the sample-specific SARS-CoV-2 nucleic acid; and</claim-text>
+<claim-text>(d) determining whether the nucleic acid sequence comprises a SARS-CoV-2 variant sequence.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

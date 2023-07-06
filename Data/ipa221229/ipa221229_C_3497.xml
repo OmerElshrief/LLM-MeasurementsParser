@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411887A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411887</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17899644</doc-number>
+<date>20220831</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202110624586.9</doc-number>
+<date>20210604</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>14</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>14</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>14</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>14</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>14</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>14</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>003</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">TANNING AGENT-FREE LEATHER MAKING METHOD</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>PCT/CN2021/107531</doc-number>
+<date>20210721</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17899644</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SICHUAN UNIVERSITY</orgname>
+<address>
+<city>Chengdu</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>HUANG</last-name>
+<first-name>Xin</first-name>
+<address>
+<city>Chengdu</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>HUANG</last-name>
+<first-name>Yawen</first-name>
+<address>
+<city>Taixing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>SHI</last-name>
+<first-name>Bi</first-name>
+<address>
+<city>Chengdu</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SICHUAN UNIVERSITY</orgname>
+<role>03</role>
+<address>
+<city>Chengdu</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A tanning agent-free leather making method is provided. A raw hide is subjected to controllable dehydration with a molecular sieve-polar organic solvent composite dehydration media to achieve a dehydrated hide, and then a tanning agent-free leather is prepared by increasing the surface roughness of the dehydrated hide and reducing the surface energy of the dehydrated hide. The present disclosure does not use any metal or non-metal tanning agent, which is eco-friendly. The present disclosure breaks the balance of water distribution between the raw hide and the polar organic solvent, which realizes a multi-medium self-driven directional controllable dehydration of the raw hide, effectively solving the problems during dehydration of the raw hide only using polar organic solvent. The molecular sieve-polar organic solvent dehydration system is easy to recover and can be recycled for the controllable dehydration of the raw hide multiple times. Therefore, a brand-new clean leather making technology is provided.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="86.11mm" wi="60.54mm" file="US20220411887A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="165.95mm" wi="70.70mm" file="US20220411887A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="237.74mm" wi="70.10mm" file="US20220411887A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="228.43mm" wi="122.77mm" file="US20220411887A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="190.84mm" wi="123.70mm" file="US20220411887A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="198.29mm" wi="124.21mm" file="US20220411887A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="98.98mm" wi="62.57mm" file="US20220411887A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<p id="p-0002" num="0001">This application is a continuation application of the national phase entry of International Application No. PCT/CN2021/107531, filed on Jul. 21, 2021, which is based upon and claims priority to Chinese Patent Application No. 202110624586.9, filed on Jun. 4, 2021, the entire contents of which are incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates to the technical field of leather making, and in particular to a tanning agent-free leather making method.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Chrome tanning has always been the most commonly used method in the leather making (Yao Q, Chen H, Jiao Q, et al. Hydroxyl-Terminated Dendrimer Acting as a High Exhaustion Agent for Chrome Tanning[J]. <i>Chemistry Select, </i>2018, 3 (4): 1032-1039. Ding W, Cheng Y, Wang Y, et al. Chrome-reduced Combination Tanning for Cleaner Dyed Sheep Fur Processing[J]<i>. Journal of the American Leather Chemists Association, </i>2015, 110 (11): 363-371). However, during a chrome tanning process, a large amount of chromium salts, sulfates, and chlorides are needed. In addition, trivalent chromium Cr (III) has the risk of being oxidized into hexavalent chromium Cr (VI) during the post-tanning procedures such as neutralization, fatliquoring, and dyeing as well as the storage process (Tang Y, Zhou J, Zeng Y, et al. Effect of Leather Chemicals on Cr (III) Removal From Post Tanning Wastewater[J]<i>. Journal of the American Leather Chemists Association, </i>2018, 113 (3). Hedberg Y S, Liden C. Chromium (III) and Chromium (VI) Release From Leather During 8 Months of Simulated Use[J]. <i>Contact Dermatitis, </i>2016, 75 (2): 82-88), and the hexavalent chromium Cr (VI) is extremely harmful to the environment and human health. Therefore, it is necessary to develop an eco-friendly chrome-free tanning technology, so as to fundamentally eliminate the environmental risk of chrome tanning technology.</p>
+<p id="p-0005" num="0004">At present, a variety of chrome-free tanning agents have been developed for leather making, mainly including chrome-free metal tanning agents (such as titanium, zirconium, and aluminum tanning agents) and chrome-free non-metal tanning agents (such as vegetable tanning agents, aldehyde tanning agents, and synthetic tanning agents) (Liu B, Wei Z, Wang Y, et al. Preparation of Oxidized Poly (2-hydroxyethyl acrylate) with Multiple Aldehyde Groups by TEMPO-mediated Oxidation for Gelatin Crosslinking[J]<i>. Journal of the American Leather Chemists Association, </i>2019, 114 (5): 163-170). However, the property of chrome-free leather prepared by any one of the above-mentioned tanning agents is significantly inferior to that of chrome-tanned leather. For example, zirconium-tanned leather is stiff and has poor softness, aluminum-tanned leather is not washable, and aldehyde-tanned leather is not suitable for long-term storage and is prone to yellowing (Li K, Liao X, Zhou J, et al. Experimental Study on Tanning of Yellow Cowhide with Combination of Carboxyl-containing Aromatic Synthetic Tanning agent and Aluminum Sulfate [J]<i>. Journal of Leather Science and Engineering, </i>2017, 27 (3): 5-11. Shi B, Di Y, Song L, et al. Chemical Modification of Tanning Extract and Use of Product Thereof in Chrome-free or Chrome-less Tanning [J]. <i>China Leather, </i>2001, 30 (9): 3-8). In summary, the cross-linking theory-based chrome-free tanning methods currently developed still cannot replace the traditional chrome tanning method. Moreover, the above-mentioned chrome-free tanning technology also leads to a large amount of tanning wastewater and causes pollution.</p>
+<p id="p-0006" num="0005">Compared with a raw hide, leather has a significantly reduced water content and significantly improved dispersion degree of collagen fibers. Therefore, the tanning agent-free leather making method, where a raw hide is dehydrated to reduce the water content and disperse the collagen fibers, has become a new development direction of chrome free leather making. Polar organic solvents have a dehydration effect. Thus, it is an important tanning agent-free leather making method to directly dehydrate a raw hide by polar organic solvent, and then conduct a hydrophobic treatment by increasing the surface roughness of the dehydrated hide and reducing the surface energy of the dehydrated hide (Huang X, He X, Shi B. Preparation Method of Chrome-free Leather with Hydrophobic and Highly-dispersed Hide Fiber Structures [P]. Sichuan Province: CN109234476A; and Shi B, He X, Zhou J, Wang Y, Zeng Y. Preparation Method of Dehydrated Hide [P]. Sichuan Province: CN109385493A). However, when a polar organic solvent is used to dehydrate a raw hide, the dehydration performance of the polar organic solvent is significantly reduced after the water in the raw hide is gradually removed and enters the polar organic solvent. With the progress of dehydration, the water distribution between the polar organic solvent and the raw hide reaches a balance, and it is necessary to replace the used polar organic solvent with a fresh polar organic solvent to further remove the water remaining in the raw hide. Therefore, the dehydration of a raw hide by using a polar organic solvent requires the multi-replacement of the polar organic solvent to achieve a prominent dehydration effect. In addition, a polar organic solvent used in dehydration has a high water content and cannot be reused for dehydration of a raw hide, which causes the problems of low solvent utilization and solvent emission. Furthermore, in the existing tanning agent-free leather making technology, the surface roughness of a dehydrated hide is enhanced through in-situ hydrolysis to achieve a hydrophobic treatment, and the accurate control of a degree of the in-situ hydrolysis is required, which is not conducive to industrial scale-up. At present, there is an urgent need to solve the above-mentioned bottleneck problems of tanning agent-free leather making.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">In order to solve the problems in the background, the present disclosure provides a tanning agent-free leather making method.</p>
+<p id="p-0008" num="0007">A tanning agent-free leather making method is provided, including subjecting a raw hide to controllable dehydration with molecular sieve-polar organic solvent composite dehydration media.</p>
+<p id="p-0009" num="0008">Further, the polar organic solvent includes, but is not limited to, any one or a mixture of anhydrous ethanol and acetone.</p>
+<p id="p-0010" num="0009">Further, the raw hide includes, but is not limited to, cowhide and sheepskin.</p>
+<p id="p-0011" num="0010">Further, a weight of the polar organic solvent used is 2.0 to 8.0 times a weight of the raw hide, and a weight of the molecular sieve used is 2.0 to 8.0 times the weight of the raw hide.</p>
+<p id="p-0012" num="0011">Further, the molecular sieve and the polar organic solvent are added in the order as follows: adding the molecular sieve and the polar organic solvent together to dehydrate the raw hide; or adding the polar organic solvent first to dehydrate the raw hide, and then adding the molecular sieve to reach a combined dehydration action.</p>
+<p id="p-0013" num="0012">Further, after subjecting the raw hide to controllable dehydration, the method further includes the following steps:</p>
+<p id="p-0014" num="0013">drying a dehydrated hide obtained after the controllable dehydration to obtain a crust;</p>
+<p id="p-0015" num="0014">subjecting the crust to a hydrophobic treatment; and</p>
+<p id="p-0016" num="0015">drying a hide obtained after the hydrophobic treatment.</p>
+<p id="p-0017" num="0016">Further, a method of the hydrophobic treatment includes:</p>
+<p id="p-0018" num="0017">dispersing an oxide in a solvent to obtain a suspension, applying the suspension to a surface of the crust through suction filtration, drying the hide, and immersing the hide in a polydimethylsiloxane (PDMS) solution, where the oxide is any one selected from the group consisting of silicon dioxide, calcium oxide, aluminum oxide, zinc oxide, titanium dioxide, and magnesium oxide.</p>
+<p id="p-0019" num="0018">Further, a weight of the oxide is 8.0% to 20% of a weight of the crust; a weight of the solvent is 10 to 16 times the weight of the crust; and a weight of the PDMS is 5.0 to 12 times the weight of the crust.</p>
+<p id="p-0020" num="0019">Further, after subjecting the raw hide to controllable dehydration, the method further includes the following steps:</p>
+<p id="p-0021" num="0020">separating the molecular sieve from the polar organic solvent after the controllable dehydration;</p>
+<p id="p-0022" num="0021">subjecting the separated molecular sieve to a thermal treatment for activation; and</p>
+<p id="p-0023" num="0022">compositing the molecular sieve activated by the thermal treatment with the separated polar organic solvent.</p>
+<p id="p-0024" num="0023">Further, a product obtained by compositing the molecular sieve activated by the thermal treatment with the separated polar organic solvent is reused for the controllable dehydration of a raw hide.</p>
+<p id="p-0025" num="0024">The molecular sieve used in the present disclosure is a porous material, which has excellent water adsorption capacity and stable properties and is easy to recycle. The molecular sieve used in the dehydration of the raw hide can selectively remove the water entering the polar organic solvent, such that the balance between the water remaining in the raw hide and the water entering the dehydration solvent is broken and the water remaining in the raw hide can be continuously removed and transferred to the polar organic solvent, which achieves a one-step controllable dehydration of water in the raw hide without solvent replacement, and solves the problem that the dehydration by using only polar organic solvent requires the multi-replacement of the solvent. Moreover, the molecular sieve is easily separated and recovered from the polar organic solvent after being used for dehydration, and the recovered molecular sieve can be activated by a thermal treatment and then reused together with the separated and recovered polar organic solvent for raw hide dehydration, thereby realizing the recycling of the polar organic solvent and the molecular sieve for the controllable dehydration of the raw hide. In addition, the method for improving the surface roughness of the dehydrated hide by applying the oxide to the surface of the dehydrated hide through suction filtration has the advantages of convenience, high efficiency, and easy industrial scale-up.</p>
+<p id="p-0026" num="0025">Compared with the prior art, the present disclosure has the following advantages:</p>
+<p id="p-0027" num="0026">The method provided by the present disclosure does not use any metal or non-metal tanning agent, which is eco-friendly.</p>
+<p id="p-0028" num="0027">The controllable dehydration leather making method provided by the present disclosure breaks the balance of water distribution between the raw hide and the polar organic solvent, and realizes a multi-medium self-driven directional controllable dehydration of the raw hide where the water moves from the raw hide to the polar organic solvent and further into the molecular sieve, promoting the continuous and controllable dehydration of water in the raw hide, and effectively solving the problems during dehydration of the raw hide using a single polar organic solvent, namely, the dehydration efficiency is low, and the polar organic solvent needs to be changed multiple times for dehydration and is difficult to be recycled.</p>
+<p id="p-0029" num="0028">In the method provided by the present disclosure, the used solvent does not require purification, and can be directly reused with the molecular sieve activated by a thermal treatment for tanning agent-free leather making, which not only significantly reduces the leather making cost, but also greatly improves the cleanliness of the leather making process and the eco-friendliness of the leather product.</p>
+<p id="p-0030" num="0029">The leather making method provided by the present disclosure does not require traditional leather making procedures such as tanning and retaining, instead, the leather making method involves a simple operation and a short leather making time, which remarkably improves the leather making efficiency.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a picture of the tanning agent-free leather prepared in Example 1 of the present disclosure;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a picture of the tanning agent-free leather prepared in Example 2 of the present disclosure;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a picture of the tanning agent-free leather prepared in Example 8 of the present disclosure;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a picture of the control sample prepared in Comparative Example 2 of the present disclosure;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a picture of the control sample prepared in Comparative Example 3 of the present disclosure;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>6</b>A</figref> shows a water contact angle of a grain surface of the tanning agent-free leather prepared in Example 1 of the present disclosure;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. <b>6</b>B</figref> shows a water contact angle of a flesh surface of the tanning agent-free leather prepared in Example 1 of the present disclosure;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>7</b>A</figref> shows a water contact angle of a grain surface of the tanning agent-free leather prepared in Example 3 of the present disclosure;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. <b>7</b>B</figref> shows a water contact angle of a flesh surface of the tanning agent-free leather prepared in Example 3 of the present disclosure;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. <b>8</b>A</figref> shows a water contact angle of a grain surface of the tanning agent-free leather prepared in Example 4 of the present disclosure;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>8</b>B</figref> shows a water contact angle of a flesh surface of the tanning agent-free leather prepared in Example 4 of the present disclosure;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. <b>9</b>A</figref> shows a water contact angle of a grain surface of the tanning agent-free leather prepared in Example 5 of the present disclosure;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. <b>9</b>B</figref> shows a water contact angle of a flesh surface of the tanning agent-free leather prepared in Example 5 of the present disclosure;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a pore size distribution of the tanning agent-free leather prepared in Example 1 of the present disclosure;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows a pore size distribution of the control sample prepared in Comparative Example 1 of the present disclosure;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>12</b></figref> shows a pore size distribution of the control sample prepared in Comparative Example 2 of the present disclosure; and</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. <b>13</b></figref> shows a technical route of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0048" num="0047">The present disclosure will be described in detail below through the accompanying drawings and examples, and the technical solutions of the present disclosure are not limited to the specific implementations listed below. It should be noted that the examples are merely provided to further illustrate the present disclosure, rather than to limit the protection scope of the present disclosure. Some non-essential improvements and adjustments made to the present disclosure by technical engineers in the field according to the above contents of the present disclosure should be regarded as falling within the protection scope of the present disclosure.</p>
+<p id="p-0049" num="0048">The technical route adopted by the present disclosure is shown in <figref idref="DRAWINGS">FIG. <b>13</b></figref>.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EMBODIMENTS</heading>
+<heading id="h-0006" level="1">Example 1</heading>
+<p id="p-0050" num="0049">Tanning Agent-Free Leather Making</p>
+<p id="p-0051" num="0050">A raw hide (cowhide) was subjected to dehydration for 90 min in anhydrous ethanol (a weight of the anhydrous ethanol was 6.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.5 times the weight of the raw hide) was added to allow further dehydration for 120 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 2.95%.</p>
+<p id="p-0052" num="0051">The dehydrated hide was dried to obtain a crust, and the softness of the crust was determined to be 4.69 mm according to GB/T 39371-2020, as shown in Table 3.</p>
+<p id="p-0053" num="0052">Silicon dioxide (a weight of the silicon dioxide was 10% of a weight of the crust) was dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 10 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 8.0 times the weight of the crust) for 5.0 min to complete a hydrophobic treatment.</p>
+<p id="p-0054" num="0053">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather. A picture of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0055" num="0054">Recovery of the used molecular sieve and polar organic solvent:</p>
+<p id="p-0056" num="0055">A mixture of ethanol and the activated molecular sieve powder (3A) after being used for preparing the dehydrated hide in this example was subjected to separation to obtain a liquid at an upper layer and a solid at a lower layer, where the liquid was ethanol with a low water content of 0.97%, which could be directly reused for the tanning agent-free leather making of the present disclosure; and the solid was a 3A molecular sieve powder, which could be reused for the tanning agent-free leather making of the present disclosure after being activated at 300&#xb0; C.</p>
+<p id="p-0057" num="0056">A water contact angle of a grain surface of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>6</b>A</figref>, and a water contact angle of a flesh surface of the tanning agent-free leather is shown in <figref idref="DRAWINGS">FIG. <b>6</b>B</figref>, both of which indicate a superhydrophobic effect. The pore structure parameters of the tanning agent-free leather are shown in Table 1. The mechanical performance parameters of the tanning agent-free leather are shown in Table 2. According to Table 1, the tanning agent-free leather prepared in this example has a porosity of 45.82&#xb1;4.75%, an average pore size of 590.97&#xb1;174.12 nm, and a total pore area of 4.28&#xb1;1.11 m<sup>2</sup>/g. According to the pore size distribution in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, pore sizes of the tanning agent-free leather prepared in this example are mainly distributed in a range of 6,000 nm to 15,000 nm. According to Table 2, the tanning agent-free leather prepared in this example has a tear force of 179.77 N, a tensile strength of 28.50 N/mm<sup>2</sup>, and an elongation at break of 36.10% at 10 N/mm<sup>2</sup>. The above indexes all meet the requirements of QB/T 1873-2010.</p>
+<p id="p-0058" num="0057">Comparison with Comparative Example 1: The dehydrated hide prepared without the addition of a molecular sieve for dehydration in Comparative Example 1 has a water content of 9.56%. According to Table 3, the control sample prepared in Comparative Example 1 has a softness of 3.61 mm, which is stiff and has no potential for being used as leather.</p>
+<p id="p-0059" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Average pore</entry>
+<entry>Total pore</entry>
+</row>
+<row>
+<entry>Sample</entry>
+<entry>Porosity (%)</entry>
+<entry>size (nm)</entry>
+<entry>area (m<sup>2</sup>/g)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Example 1</entry>
+<entry>45.82 &#xb1; 4.75</entry>
+<entry>590.97 &#xb1; 174.12</entry>
+<entry>4.28 &#xb1; 1.11</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>28.67 &#xb1; 1.54</entry>
+<entry>599.91 &#xb1; 161.05</entry>
+<entry>2.45 &#xb1; 0.86</entry>
+</row>
+<row>
+<entry>Example 1</entry>
+</row>
+<row>
+<entry>Comparative</entry>
+<entry>17.10 &#xb1; 1.06</entry>
+<entry>202.49 &#xb1; 33.23&#x2002;</entry>
+<entry>2.64 &#xb1; 0.35</entry>
+</row>
+<row>
+<entry>Example 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Tensile</entry>
+<entry>Elongation</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Tear</entry>
+<entry>strength</entry>
+<entry>at break</entry>
+</row>
+<row>
+<entry/>
+<entry>Sample</entry>
+<entry>force (N)</entry>
+<entry>(N/mm<sup>2</sup>)</entry>
+<entry>(10 N/mm<sup>2</sup>)/%</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="63pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Example 1</entry>
+<entry>179.77</entry>
+<entry>28.50</entry>
+<entry>36.10</entry>
+</row>
+<row>
+<entry/>
+<entry>Example 2</entry>
+<entry>156.12</entry>
+<entry>31.80</entry>
+<entry>25.70</entry>
+</row>
+<row>
+<entry/>
+<entry>Example 3</entry>
+<entry>152.16</entry>
+<entry>30.44</entry>
+<entry>16.60</entry>
+</row>
+<row>
+<entry/>
+<entry>Example 5</entry>
+<entry>160.62</entry>
+<entry>24.21</entry>
+<entry>32.40</entry>
+</row>
+<row>
+<entry/>
+<entry>Example 13</entry>
+<entry>162.69</entry>
+<entry>27.69</entry>
+<entry>17.44</entry>
+</row>
+<row>
+<entry/>
+<entry>QB/T 1873-2010</entry>
+<entry>&#x2265;30</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2264;40</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0061" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="7" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Com-</entry>
+<entry>Com-</entry>
+</row>
+<row>
+<entry/>
+<entry>Example</entry>
+<entry>Example</entry>
+<entry>Example</entry>
+<entry>Example</entry>
+<entry>parative</entry>
+<entry>parative</entry>
+</row>
+<row>
+<entry>Sample</entry>
+<entry>1</entry>
+<entry>2</entry>
+<entry>4</entry>
+<entry>5</entry>
+<entry>Example 1</entry>
+<entry>Example 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Softness</entry>
+<entry>4.69</entry>
+<entry>4.52</entry>
+<entry>4.53</entry>
+<entry>4.57</entry>
+<entry>3.61</entry>
+<entry>3.23</entry>
+</row>
+<row>
+<entry>(mm)</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0007" level="1">Example 2</heading>
+<p id="p-0062" num="0058">The molecular sieve and ethanol recovered in Example 1 were reused as molecular sieve-polar organic solvent composite dehydration media for the tanning agent-free leather making in this example:</p>
+<p id="p-0063" num="0059">A raw hide (cowhide) was subjected to dehydration for 90 min in the recovered ethanol (a weight of the ethanol was 6.0 times a weight of the raw hide), then the recovered activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.5 times the weight of the raw hide) was added to allow further dehydration for 120 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.24%.</p>
+<p id="p-0064" num="0060">The dehydrated hide was dried to obtain a crust, and the softness of the crust was determined to be 4.52 mm, as shown in Table 3.</p>
+<p id="p-0065" num="0061">Silicon dioxide (a weight of the silicon dioxide was 10% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 10 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 8.0 times the weight of the crust) for 5.0 min to complete a hydrophobic treatment.</p>
+<p id="p-0066" num="0062">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather. A picture of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0067" num="0063">The mechanical performance parameters of the tanning agent-free leather prepared in this example are shown in Table 2. The tanning agent-free leather has a tear force of 156.12 N, a tensile strength of 31.80 N/mm<sup>2</sup>, and an elongation at break of 25.70% at 10 N/mm<sup>2</sup>. The above indexes all meet the requirements of QB/T 1873-2010.</p>
+<p id="p-0068" num="0064">Comparison with Example 1: The recovered ethanol and molecular sieve were reused for raw hide dehydration in this example, and the mechanical performance of the obtained tanning agent-free leather also met the requirements of QB/T 1873-2010, indicating that the molecular sieve-polar organic solvent composite dehydration media can be recovered and reused to prepare tanning agent-free leather, and the prepared tanning agent-free leather also has the service performance of leather.</p>
+<heading id="h-0008" level="1">Example 3</heading>
+<p id="p-0069" num="0065">A raw hide (cowhide) was subjected to dehydration for 60 min in anhydrous ethanol (a weight of the anhydrous ethanol was 4.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 2.0 times the weight of the raw hide) was added to allow further dehydration for 60 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.48%.</p>
+<p id="p-0070" num="0066">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0071" num="0067">Titanium dioxide (a weight of the titanium dioxide was 8.0% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 12 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 5.0 times the weight of the crust) for 30 min to complete a hydrophobic treatment. A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather. The mechanical performance parameters of the tanning agent-free leather prepared in this example are shown in Table 2. The tanning agent-free leather has a tear force of 152.16 N, a tensile strength of 30.44 N/mm<sup>2</sup>, and an elongation at break of 16.60% at 10 N/mm<sup>2</sup>. The above indexes all meet the requirements of QB/T 1873-2010.</p>
+<p id="p-0072" num="0068">A water contact angle of a grain surface of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>7</b>A</figref>, and a water contact angle of a flesh surface of the tanning agent-free leather is shown in <figref idref="DRAWINGS">FIG. <b>7</b>B</figref>, both of which indicate a superhydrophobic effect.</p>
+<heading id="h-0009" level="1">Example 4</heading>
+<p id="p-0073" num="0069">A raw hide (cowhide) was subjected to dehydration for 180 min in anhydrous ethanol (a weight of the anhydrous ethanol was 7.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 5.0 times the weight of the raw hide) was added to allow further dehydration for 180 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 2.78%.</p>
+<p id="p-0074" num="0070">The dehydrated hide was dried to obtain a crust, and the softness of the crust was determined to be 4.53 mm, as shown in Table 3.</p>
+<p id="p-0075" num="0071">Aluminum oxide (a weight of the aluminum oxide was 20% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 15 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 10 times the weight of the crust) for 60 min to complete a hydrophobic treatment.</p>
+<p id="p-0076" num="0072">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<p id="p-0077" num="0073">A water contact angle of a grain surface of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>8</b>A</figref>, and a water contact angle of a flesh surface of the tanning agent-free leather is shown in <figref idref="DRAWINGS">FIG. <b>8</b>B</figref>, both of which indicate a superhydrophobic effect.</p>
+<p id="p-0078" num="0074">Comparison with Comparative Example 3: The activated molecular sieve powder (3A) was used at a weight only 5.0 times the weight of the raw hide in Comparative Example 3, and a picture of the prepared control sample is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The control sample is stiff, curls into a lump and cannot be unfolded, and does not have the properties of leather.</p>
+<heading id="h-0010" level="1">Example 5</heading>
+<p id="p-0079" num="0075">A raw hide (cowhide) was subjected to dehydration for 180 min in a mixture of molecular sieve particles (3A) (a weight of the molecular sieve particles was 4.0 times a weight of the raw hide) and anhydrous ethanol (a weight of the anhydrous ethanol was 8.0 times the weight of the raw hide) to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.45%.</p>
+<p id="p-0080" num="0076">The dehydrated hide was dried to obtain a crust, and the softness of the crust was determined to be 4.57 mm, as shown in Table 3.</p>
+<p id="p-0081" num="0077">Calcium oxide (a weight of the calcium oxide was 15% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 16 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 6.0 times the weight of the crust) for 5.0 min to complete a hydrophobic treatment.</p>
+<p id="p-0082" num="0078">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<p id="p-0083" num="0079">A water contact angle of a grain surface of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>9</b>A</figref>, and a water contact angle of a flesh surface of the tanning agent-free leather is shown in <figref idref="DRAWINGS">FIG. <b>9</b>B</figref>, both of which indicate a superhydrophobic effect. The mechanical performance parameters of the tanning agent-free leather prepared in this example are shown in Table 2. The tanning agent-free leather has a tear force of 160.62 N, a tensile strength of 24.21 N/mm<sup>2</sup>, and an elongation at break of 32.40% at 10 N/mm<sup>2</sup>. The above indexes all meet the requirements of QB/T 1873-2010.</p>
+<p id="p-0084" num="0080">Comparison with Comparative Example 4: The dehydrated hide obtained from dehydration first with the molecular sieve and then with anhydrous ethanol in Comparative Example 4 has a water content of 4.80%, which is similar to the water content of the dehydrated hide obtained in this example. However, the control sample prepared in Comparative Example 4 is stiff, curls into a lump and cannot be unfolded, and does not have the properties of leather.</p>
+<heading id="h-0011" level="1">Example 6</heading>
+<p id="p-0085" num="0081">A raw hide (sheepskin) was subjected to dehydration for 90 min in anhydrous ethanol (a weight of the anhydrous ethanol was 6.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.0 times the weight of the raw hide) was added to allow further dehydration for 80 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.34%.</p>
+<p id="p-0086" num="0082">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0087" num="0083">Magnesium oxide (a weight of the magnesium oxide was 13% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 12 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 10 times the weight of the crust) for 35 min to complete a hydrophobic treatment.</p>
+<p id="p-0088" num="0084">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0012" level="1">Example 7</heading>
+<p id="p-0089" num="0085">A raw hide (cowhide) was subjected to dehydration for 200 min in a mixture of molecular sieve particles (3A) (a weight of the molecular sieve particles was 3.0 times a weight of the raw hide) and anhydrous ethanol (a weight of the anhydrous ethanol was 7.0 times the weight of the raw hide) to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.52%.</p>
+<p id="p-0090" num="0086">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0091" num="0087">Zinc oxide (a weight of the zinc oxide was 16% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 15 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 6.0 times the weight of the crust) for 20 min to complete a hydrophobic treatment.</p>
+<p id="p-0092" num="0088">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0013" level="1">Example 8</heading>
+<p id="p-0093" num="0089">A raw hide (cowhide) was subjected to dehydration for 90 min in acetone (a weight of the acetone was 6.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.5 times the weight of the raw hide) was added to allow further dehydration for 120 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 2.57%.</p>
+<p id="p-0094" num="0090">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0095" num="0091">Zinc oxide (a weight of the zinc oxide was 10% of a weight of the crust) was weighed and dispersed in acetone (a weight of the acetone was 13 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 6.0 times the weight of the crust) for 25 min to complete a hydrophobic treatment.</p>
+<p id="p-0096" num="0092">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather. A picture of the tanning agent-free leather prepared in this example is shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>.</p>
+<heading id="h-0014" level="1">Example 9</heading>
+<p id="p-0097" num="0093">A raw hide (sheepskin) was subjected to dehydration for 180 min in a mixture of acetone (a weight of the acetone was 7.0 times a weight of the raw hide) and molecular sieve particles (3A) (a weight of the molecular sieve particles was 3.0 times the weight of the raw hide) to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 8.27%.</p>
+<p id="p-0098" num="0094">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0099" num="0095">Silicon dioxide (a weight of the silicon dioxide was 8.0% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 10 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of PDMS was 7.0 times the weight of the crust) for 25 min to complete a hydrophobic treatment.</p>
+<p id="p-0100" num="0096">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0015" level="1">Example 10</heading>
+<p id="p-0101" num="0097">A raw hide (sheepskin) was subjected to dehydration for 20 min in acetone (a weight of the acetone was 2.0 times a weight of the raw hide), then anhydrous ethanol (a weight of the anhydrous ethanol was 4.0 times the weight of the raw hide) was added to allow further dehydration for 40 min, then molecular sieve particles (3A) (a weight of the molecular sieve particles was 3.0 times the weight of the raw hide) were added to allow further dehydration for 100 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 7.33%.</p>
+<p id="p-0102" num="0098">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0103" num="0099">Calcium oxide (a weight of the calcium oxide was 13% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 15 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 10 times the weight of the crust) for 50 min to complete a hydrophobic treatment.</p>
+<p id="p-0104" num="0100">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0016" level="1">Example 11</heading>
+<p id="p-0105" num="0101">A raw hide (cowhide) was subjected to dehydration for 30 min in a mixture of anhydrous ethanol (a weight of the anhydrous ethanol was 3.0 times a weight of the raw hide) and acetone (a weight of the acetone was 3.0 times the weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.0 times the weight of the raw hide) was added to allow further dehydration for 120 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.24%.</p>
+<p id="p-0106" num="0102">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0107" num="0103">Calcium oxide (a weight of the calcium oxide was 15% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 16 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 12 times the weight of the crust) for 60 min to complete a hydrophobic treatment.</p>
+<p id="p-0108" num="0104">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0017" level="1">Example 12</heading>
+<p id="p-0109" num="0105">A raw hide (cowhide) was subjected to dehydration for 30 min in anhydrous ethanol (a weight of the anhydrous ethanol was 3.0 times a weight of the raw hide), then acetone (a weight of the acetone was 3.0 times the weight of the raw hide) and an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 3.0 times the weight of the raw hide) were added to allow further dehydration for 120 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 3.76%.</p>
+<p id="p-0110" num="0106">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0111" num="0107">Calcium oxide (a weight of the calcium oxide was 15% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 16 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 12 times the weight of the crust) for 60 min to complete a hydrophobic treatment.</p>
+<p id="p-0112" num="0108">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0018" level="1">Example 13</heading>
+<p id="p-0113" num="0109">A raw hide (cowhide) was subjected to dehydration for 60 min in anhydrous ethanol (a weight of the anhydrous ethanol was 2.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 2.0 times the weight of the raw hide) was added to allow further dehydration for 60 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 4.84%.</p>
+<p id="p-0114" num="0110">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0115" num="0111">Titanium dioxide (a weight of the titanium dioxide was 8.0% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 12 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 5.0 times the weight of the crust) for 30 min to complete a hydrophobic treatment.</p>
+<p id="p-0116" num="0112">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather. The mechanical performance parameters of the tanning agent-free leather prepared in this example are shown in Table 2. The tanning agent-free leather has a tear force of 162.69 N, a tensile strength of 27.69 N/mm<sup>2</sup>, and an elongation at break of 17.44% at 10 N/mm<sup>2</sup>.</p>
+<p id="p-0117" num="0113">Comparison with Example 3: The tanning agent-free leather prepared by dehydrating a raw hide with anhydrous ethanol at a weight 2.0 times a weight of the raw hide in this example exhibits similar mechanical performance to the tanning agent-free leather prepared in Example 3, and the above indexes all meet the requirements of QB/T 1873-2010.</p>
+<heading id="h-0019" level="1">Example 14</heading>
+<p id="p-0118" num="0114">A raw hide (cowhide) was subjected to dehydration for 60 min in anhydrous ethanol (a weight of the anhydrous ethanol was 4.0 times a weight of the raw hide), then an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 8.0 times the weight of the raw hide) was added to allow further dehydration for 40 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 4.16%.</p>
+<p id="p-0119" num="0115">The dehydrated hide was dried to obtain a crust.</p>
+<p id="p-0120" num="0116">Zinc oxide (a weight of the zinc oxide was 10% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 13 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 6.0 times the weight of the crust) for 25 min to complete a hydrophobic treatment.</p>
+<p id="p-0121" num="0117">A hide obtained after the hydrophobic treatment was dried to obtain tanning agent-free leather.</p>
+<heading id="h-0020" level="1">Comparative Example 1</heading>
+<p id="p-0122" num="0118">A raw hide (cowhide) was subjected to dehydration for 210 min in anhydrous ethanol (a weight of the anhydrous ethanol was 6.0 times a weight of the raw hide) to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 9.56%.</p>
+<p id="p-0123" num="0119">The dehydrated hide was dried to obtain a crust, and the softness of the crust was determined to be 3.61 mm, as shown in Table 3.</p>
+<p id="p-0124" num="0120">Magnesium oxide (a weight of the magnesium oxide was 5.0% of a weight of the crust) was weighed and dispersed in anhydrous ethanol (a weight of the anhydrous ethanol was 20 times the weight of the crust) to obtain a suspension, then the suspension was applied to a surface of the crust through suction filtration, and then the hide was dried and soaked in a 10 wt % PDMS solution (a weight of the PDMS solution was 20 times the weight of the crust) for 5.0 min to complete a hydrophobic treatment.</p>
+<p id="p-0125" num="0121">A hide obtained after the hydrophobic treatment was dried to obtain a control sample. A pore size distribution of the control sample is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>.</p>
+<p id="p-0126" num="0122">According to Table 1, the control sample prepared in this comparative example has a porosity of 28.67&#xb1;1.54%, an average pore size of 599.91&#xb1;161.05 nm, and a total pore area of 2.45&#xb1;0.86 m<sup>2</sup>/g. Comparison with Example 1: The control sample has a low porosity and a pore size distribution mainly of 5.0 nm to 6,000 nm, which is caused by the adhesion of collagen fibers due to the high water content in the control sample.</p>
+<heading id="h-0021" level="1">Comparative Example 2</heading>
+<p id="p-0127" num="0123">A raw hide (cowhide) was toggled and dried to obtain a control sample. A pore size distribution of the control sample is shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref>.</p>
+<p id="p-0128" num="0124">A picture of the control sample is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, and it can be seen that a surface of the control sample is yellowish-brown; the pore structure parameters of the control sample are shown in Table 1; and the softness of the control sample is shown in Table 3. According to Table 1 and Table 3, the control sample has a porosity of 17.10&#xb1;1.06%, an average pore size of 202.49&#xb1;33.23 m<sup>2</sup>/g, and a softness of 3.23 mm. The control sample is stiff and does not have the properties of leather.</p>
+<heading id="h-0022" level="1">Comparative Example 3</heading>
+<p id="p-0129" num="0125">A raw hide (cowhide) was subjected to dehydration for 60 min in an activated molecular sieve powder (3A) (a weight of the activated molecular sieve powder was 5.0 times a weight of the raw hide) to obtain a control sample.</p>
+<p id="p-0130" num="0126">A picture of the control sample is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. The control sample is stiff, curls into a lump and cannot be unfolded, and does not have the properties of leather.</p>
+<heading id="h-0023" level="1">Comparative Example 4</heading>
+<p id="p-0131" num="0127">A raw hide (cowhide) was subjected to dehydration for 90 min in molecular sieve particles (3A) (a weight of the molecular sieve particles was 4.0 times a weight of the raw hide), then anhydrous ethanol (a weight of the anhydrous ethanol was 8.0 times the weight of the raw hide) was added to allow further dehydration for 90 min to obtain a dehydrated hide, and a water content of the dehydrated hide was determined by the Karl Fischer method to be 4.80%.</p>
+<p id="p-0132" num="0128">The dehydrated hide was dried to obtain a control sample. The control sample is stiff, curls into a lump and cannot be unfolded, and does not have the properties of leather.</p>
+<p id="p-0133" num="0129">According to the results of the above examples and comparative examples, the tanning agent-free leather making technology provided by the present disclosure does not use any metal or non-metal tanning agent, and conducts a multi-medium self-driven directional controllable dehydration of a raw hide with molecular sieve-polar organic solvent composite dehydration media, which achieves a one-step controllable dehydration of water in the raw hide, and solves the problems that the dehydration using a single polar organic solvent requires the multi-replacement of the solvent and the organic solvent after being used for dehydration is not easily recycled. The molecular sieve-polar organic solvent composite dehydration media of the present disclosure can be separated, recovered, and reused for raw hide dehydration, and does not lead to organic wastewater, which significantly reduces the leather making cost and ensures the cleanliness of a leather making process and the eco-friendliness of a leather product.</p>
+<p id="p-0134" num="0130">Finally, it should be noted that the above examples are merely intended to describe the technical solutions of the present disclosure, rather than to limit the present disclosure. Although the present disclosure is described in detail with reference to the above examples, those of ordinary skill in the art should understand that modifications may be made to the technical solutions described in the above examples or equivalent replacements may be made to some or all technical features thereof; and such modifications or replacements do not make the essence of a corresponding technical solution depart from the scope of the technical solutions in the examples of the present disclosure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A tanning agent-free leather making method, comprising a step of subjecting a raw hide to a controllable dehydration with molecular sieve-polar organic solvent composite dehydration media.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media comprises any one or a mixture of anhydrous ethanol and acetone.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the raw hide comprises cowhide and sheepskin.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a weight of a polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times a weight of the raw hide, and a weight of a molecular sieve of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times the weight of the raw hide.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a molecular sieve and a polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media are added in an order as follows: adding the molecular sieve and the polar organic solvent together to dehydrate the raw hide; or adding the polar organic solvent first to dehydrate the raw hide and then adding the molecular sieve to reach a combined dehydration action.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein after the step of subjecting the raw hide to the controllable dehydration, the tanning agent-free leather making method further comprises the following steps: drying a dehydrated hide obtained after the controllable dehydration to obtain a crust; subjecting the crust to a hydrophobic treatment; and drying a hide obtained after the hydrophobic treatment.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein a method of the hydrophobic treatment comprises: dispersing an oxide in a solvent to obtain a suspension, applying the suspension to a surface of the crust through a suction filtration, drying a hide applied with the suspension to obtain a treated hide, and immersing the treated hide in a polydimethylsiloxane (PDMS) solution, wherein the oxide is any one selected from the group consisting of silicon dioxide, calcium oxide, aluminum oxide, zinc oxide, titanium dioxide, and magnesium oxide.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein a weight of the oxide is 8.0% to 20% of a weight of the crust; a weight of the solvent is 10 to 16 times the weight of the crust; and a weight of the PDMS solution is 5.0 to 12 times the weight of the crust.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein after the step of subjecting the raw hide to the controllable dehydration, the method further comprises the following steps: separating a molecular sieve of the molecular sieve-polar organic solvent composite dehydration media from a polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media after the controllable dehydration to obtain a separated molecular sieve and a separated polar organic solvent; subjecting the separated molecular sieve to a thermal treatment for an activation; and compositing the molecular sieve activated by the thermal treatment with the separated polar organic solvent.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a product obtained by compositing the molecular sieve activated by the thermal treatment with the separated polar organic solvent is reused for the step of subjecting the raw hide to the controllable dehydration.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a weight of the polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times a weight of the raw hide, and a weight of a molecular sieve of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times the weight of the raw hide.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The tanning agent-free leather making method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein a weight of a polar organic solvent of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times a weight of the raw hide, and a weight of a molecular sieve of the molecular sieve-polar organic solvent composite dehydration media is 2.0 to 8.0 times the weight of the raw hide.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

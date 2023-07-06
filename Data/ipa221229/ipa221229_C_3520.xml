@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411910A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411910</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17848519</doc-number>
+<date>20220624</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2021-107924</doc-number>
+<date>20210629</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">METHOD OF MANUFACTURING STRESS REFERENCE PIECE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SINTOKOGIO, LTD.</orgname>
+<address>
+<city>Nagoya-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>SAITO</last-name>
+<first-name>Yuta</first-name>
+<address>
+<city>Nagoya-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>AOKI</last-name>
+<first-name>Kan</first-name>
+<address>
+<city>Nagoya-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SINTOKOGIO, LTD.</orgname>
+<role>03</role>
+<address>
+<city>Nagoya-shi, Aichi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of manufacturing a stress reference piece includes the following steps (1) to (3):</p>
+<p id="p-0002" num="0000">(1) preparing an aluminum alloy member containing an element that generates a &#x3b2; phase;
+<br/>
+(2) performing a shot peening treatment on the aluminum alloy member; and
+<br/>
+(3) performing a tempering treatment on the aluminum alloy member after the shot peening treatment, the tempering treatment accelerating generation of the &#x3b2; phase.
+</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="96.01mm" wi="107.53mm" file="US20220411910A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="133.69mm" wi="131.83mm" file="US20220411910A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="132.33mm" wi="149.44mm" file="US20220411910A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="136.40mm" wi="148.67mm" file="US20220411910A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="132.50mm" wi="149.27mm" file="US20220411910A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="130.30mm" wi="150.96mm" file="US20220411910A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="130.30mm" wi="151.89mm" file="US20220411910A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.69mm" wi="156.38mm" orientation="landscape" file="US20220411910A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="218.69mm" wi="155.28mm" orientation="landscape" file="US20220411910A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0001">The present disclosure relates to a method of manufacturing a stress reference piece. This application is based upon and claims the benefit of priority from Japanese Patent Application No. 2021407924, filed on Jun. 29, 2021, the entire content of which is incorporated in this specification by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0002">In the X-ray residual stress measurement, it is recommended to measure a reference piece using strain-free iron powder in order to confirm an operation of the measurement device (The Society of Materials Science, Japan., &#x201c;Standard fir X-ray Stress Measurement (2002 edition)&#x2014;Iron and Steel Edition&#x2014;&#x201d;, p. 73). The strain-free iron powder is an object obtained by solidifying powder of sufficiently annealed iron close to pure iron with an adhesive or the like. By using such the reference piece and confirming that the vicinity of the 0 MPa (stress-free) is measured, it is possible to confirm that the measurement device Operates normally.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0005" num="0003">When an X-ray residual stress measurement device is used in the industrial field, there is a potential need to construct the reference piece from material used for manufacture.</p>
+<p id="p-0006" num="0004">The present disclosure provides a method of manufacturing a stress reference piece that can manufacture a stress reference piece made of an aluminum alloy.</p>
+<p id="p-0007" num="0005">A method of manufacturing a stress reference piece according to one aspect of the present disclosure includes the following steps (1) to (3):</p>
+<p id="p-0008" num="0000">(1) preparing an aluminum alloy member containing an element that generates a &#x3b2; phase;
+<br/>
+(2) performing a shot peening treatment on the aluminum alloy member; and
+<br/>
+(3) performing a tempering treatment on the aluminum alloy member after the shot peening treatment, the tempering treatment accelerating generation of the &#x3b2; phase.
+</p>
+<p id="p-0009" num="0006">In the method of manufacturing the stress reference piece, the crystal grains in the surface layer of the aluminum alloy member can be refined by the shot peening treatment. Therefore, a certain number or more of crystal grains can be present in the measurement range of the X-ray residual stress measurement, and the detected Debye ring can be a continuous ring. For the reliability of the X-ray residual stress measurement, it is desirable that the peak intensity is constant, that is, the Debye ring is continuous. Therefore, a reliable measurement result can be obtained in the X-ray residual stress measurement. Strain is introduced into the surface layer of the aluminum alloy member by the shot peening treatment, and as a result, residual stress (compressive residual stress) is imparted thereto. The residual stress generated by the shot peening treatment is relaxed when the &#x3b2; phase is formed on the strain. Since the aluminum alloy member contains an element that generates a &#x3b2; phase, the residual stress value changes with time. In this manufacturing method, since the formation of the &#x3b2; phase is accelerated while the refinement of the crystal grains is maintained by the tempering treatment, a temporal change of the residual stress after the tempering treatment can be suppressed. As described above, the stress reference piece made of an aluminum alloy in which a reliable measurement result can be obtained and the temporal change of the residual stress value is suppressed can be manufactured.</p>
+<p id="p-0010" num="0007">In one embodiment of the present disclosure, the tempering treatment may be a treatment of holding the aluminum alloy member at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less for 6 hours or more. In this case, while suppressing recrystallization of the aluminum alloy, it is possible to reliably make the aluminum alloy member stress-free and suppress a temporal change in the residual stress after the tempering treatment. In the present specification, the term &#x201c;stress-free&#x201d; means that the residual stresses approach the 0 MPa as much as possible.</p>
+<p id="p-0011" num="0008">In one embodiment of the present disclosure, a time for which the aluminum alloy member is held at a temperature of 125&#xb0; C. or more and 17 &#xb0; C. or less by the tempering treatment may be 72 hours or less. In this case, recrystallization of the aluminum alloy can be more reliably suppressed.</p>
+<p id="p-0012" num="0009">In one embodiment of the present disclosure, the element may be Mg, Cu, or Mn. Since any of these elements forms a &#x3b2; phase, it is effective to perform a tempering treatment.</p>
+<p id="p-0013" num="0010">In one embodiment of the present disclosure, the shot peening treatment may be performed using a shot medium made of zirconia, glass, or steel at an injection pressure of 0.1 MPa or more and 0.5 MPa or less. In this case, the crystal grains in the surface layer of the aluminum alloy member can be reliably refined, and reliable measurement results can be obtained.</p>
+<p id="p-0014" num="0011">In one embodiment of the present disclosure, the tempering treatment may be performed such that a half-width of the diffraction X-ray peak of the aluminum alloy member changes by 0.1 deg or more. In this case, it is possible to reliably suppress a temporal change in the residual stress.</p>
+<p id="p-0015" num="0012">In one embodiment of the present disclosure, the tempering treatment may be performed such that a difference between residual stress of the aluminum alloy member at 24 hours from the tempering treatment and past 2.4 hours from the tempering treatment is 50 MPa or less. In this case, it is possible to reliably suppress a temporal change of the residual stress.</p>
+<p id="p-0016" num="0013">In one embodiment of the present disclosure, the aluminum alloy member may be a bulk body. In this case, a stress reference piece of the bulk body can be obtained.</p>
+<p id="p-0017" num="0014">A method of manufacturing a stress reference piece according to another aspect of the present disclosure includes the following steps (1) to (3):</p>
+<p id="p-0018" num="0000">(1) preparing an aluminum alloy member containing an element that generates a &#x3b2; phase;
+<br/>
+(2) performing a shot peening treatment on the aluminum alloy member; and
+<br/>
+(3) holding the aluminum alloy member after the shot peening treatment at 125&#xb0; C. or more and 170&#xb0; C or less for 6 hours or more.
+</p>
+<p id="p-0019" num="0015">In the method of manufacturing the stress reference piece, the crystal grains in the surface layer of the aluminum alloy member can be refined by the shot peening treatment. Therefore, a certain number or more of crystal grains can be present in the measurement range of the X-ray residual stress measurement, and the detected Debye ring can be a continuous ring. For the reliability of the X-ray residual stress measurement, it is desirable that the peak intensity is constant, that is, the Debye ring is continuous. Therefore, a reliable measurement result can be obtained in the X-ray residual stress measurement. Strain is introduced into the surface layer of the aluminum alloy member by the shot peening treatment, and as a result, residual stress (compressive residual stress) is imparted thereto. The residual stress generated by the shot peening treatment is relaxed when the &#x3b2; phase is formed on the strain. Since the aluminum alloy member contains an element that generates a &#x3b2; phase, the residual stress value changes with time. In this manufacturing method, since the aluminum alloy member is held at 125&#xb0; C. or more and 170&#xb0; C. or less for 6 hours or more, the formation of the &#x3b2; phase can be accelerated while suppressing recrystallization of the aluminum alloy. By accelerating the formation of the &#x3b2; phase, a temporal change in the residual stress after the tempering treatment can be suppressed. As described above, the stress reference piece made of an aluminum alloy in which a reliable measurement result can be obtained and the temporal change in the residual stress value is suppressed can be manufactured.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0016"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a flowchart showing a method of manufacturing a stress reference piece according to the present embodiment.</p>
+<p id="p-0021" num="0017"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a graph showing a temporal change in residual stress of the stress reference piece according to the example.</p>
+<p id="p-0022" num="0018"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a graph showing a temporal change in the half-width of the stress reference piece according to the example.</p>
+<p id="p-0023" num="0019"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a graph showing a temporal change in residual stress of the stress reference piece according to the comparative example.</p>
+<p id="p-0024" num="0020"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a graph showing a relationship between the holding time and the residual stress.</p>
+<p id="p-0025" num="0021"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a graph showing a relationship between the holding time and the residual stress.</p>
+<p id="p-0026" num="0022"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a graph showing a relationship between peak intensity and &#x3b1; angle.</p>
+<p id="p-0027" num="0023"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a graph showing a relationship between peak intensity and &#x3b1; angle.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0028" num="0024">Hereinafter, with reference to the accompanying drawings, an embodiment will be described in detail. In the description, the same reference signs are used for the same elements or elements having the same function, and duplicate description thereof will be omitted.</p>
+<p id="p-0029" num="0025">The stress reference piece manufactured by the manufacturing method according to the present embodiment is a bulk body made of an aluminum alloy containing an element that generates a &#x3b2; phase. The element that forms the &#x3b2; phase is, for example, Mg, Cu, or Mn. The stress reference piece contains at least one or more kinds of elements generating the &#x3b2; phase. In the aging step in an isothermal state, a plate-like stable phase precipitate (&#x3b2; phase) is precipitated through a supersaturated solid solution, an acicular zone, and a rod-like precipitate in this order. The total volume of the precipitated &#x3b2; phase is reduced from that of the supersaturated solid solution. When the generated energy due to the reduction of the total volume is E and the energy for the precipitation of the &#x3b2; phase, that is, the generation of a new phase is G, G&#x3e;E is obtained. Originally, G=E+H is obtained by adding thermal energy H. By using the strain energy &#x394;G in the material as a substitute for H, the &#x3b2; phase is precipitated even in a normal temperature state.</p>
+<p id="p-0030" num="0026">When the content (total content) of Mg, Cu, and Mn is at least 0.2% or more, the &#x3b2; phase is generated. The stress reference piece is an extremely low stress (stress-free) aluminum alloy member having a residual stress infinitely close to 0. The residual stress value of the stress-reference piece is, for example, &#x2212;25 MPa or more and 25 MPa or less, and preferably &#x2212;10 MPa or more and 10 MPa or less. Minus indicates compressive residual stress and plus indicates tensile residual stress.</p>
+<p id="p-0031" num="0027">The stress reference piece is used to verify the condition of the stress measurement device. A predetermined compressive residual stress is imparted to the stress reference piece by combining a shot peening treatment and a heat treatment included in a conventional manufacturing process in the automobile and aircraft industries. in the stress reference piece, the following three points are needed.</p>
+<p id="p-0032" num="0000">(1) The detected Debye rings are continuous. That is, the crystal grains are sufficiently fine.
+<br/>
+(2) A predetermined residual stress value set in advance is measured.
+<br/>
+(3) The residual stress value does not change with time.
+</p>
+<p id="p-0033" num="0028">The above (1) is solved by refining the crystal by shot peening treatment. However, compressive residual stress is applied to the surface layer by performing the shot peening treatment with energy sufficient to enable the refinement. In addition, the relaxation of the residual stress causes a temporal change in the residual stress value. The above described elements added to the aluminum alloy are related to this temporal change. The above described elements form a &#x3b2; phase compound on the strain introduced by the shot peening treatment. At this time, the residual stress imparted by the shot peening treatment is relaxed.</p>
+<p id="p-0034" num="0029">The residual-stress value in the above (2) is in the vicinity of the 0 MPa (stress-free). Actually, since the 0 MPa is not calculated in the calculation when the measurement value is acquired, a certain degree of variation in the numerical value is allowed. The above (3) is solved by performing a heat treatment. However, the refined crystal grains are recrystallized and coarsened by the heat treatment. Therefore, in the analysis of the residual stress, the number of crystals from which data can be acquired decreases, and the Debye ring becomes discontinuous.</p>
+<p id="p-0035" num="0030"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a flowchart showing a method of manufacturing a stress reference piece according to the present embodiment. As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the manufacturing method of the stress-reference piece includes steps S<b>1</b> to S<b>3</b>. Hereinafter, each step will be described.</p>
+<p id="p-0036" num="0031">The step S<b>1</b> is a step of preparing an aluminum alloy member containing the element that generates the &#x3b2; phase. The aluminum alloy member is a starting material for manufacturing the stress reference piece. The aluminum alloy member is a bulk body subjected to a predetermined tempering treatment (heat treatment). The aluminum alloy member is made of, for example, a wrought aluminum alloy or a cast aluminum alloy.</p>
+<p id="p-0037" num="0032">The step S<b>2</b> is a step of performing a shot peening treatment on the surface layer of the aluminum alloy member prepared in the step S<b>1</b> using a shot peening apparatus. According to the step S<b>2</b>, the crystal grains in the surface layer of the aluminum alloy member can be refined. Therefore, a certain number or more of crystal grains can be present in the measurement range of the X-ray residual stress measurement, and the detected Debye ring can be a continuous ring. As a result, a reliable measurement result can be obtained in the X-ray residual stress measurement.</p>
+<p id="p-0038" num="0033">The shot peening treatment is performed by an air method using a shot medium made of zirconia, glass, or steel, for example. Therefore, the crystal grains in the surface layer of the aluminum alloy member can be reliably refined. The air pressure (projection pressure) is, for example, 0.1 MPa or more and 0.5 MPa or less. The particle diameter of the shot medium is, for example, 0.05 mm or more and 0.6 mm or less. The hardness of the shot medium is, for example, 250 HV or more and 700 HV or less. These shot peening conditions are set according to the type of the aluminum alloy member.</p>
+<p id="p-0039" num="0034">The shot peening treatment refines (nanocrystallizes) the crystal grains in the surface layer of the aluminum alloy member. This increases the number of crystals from which data can be acquired in the analysis of residual stress. Therefore, the Debye ring can be a continuous ring to improve the reliability of the measurement result. The grain size of the refined crystal grains is, fir example, 5 nm or more and 50 nm or less, and more preferably Sum or more and 20 nm or less. The refined crystal grains are present, for example, in a depth range of 50 &#x3bc;m or less from the surface of the aluminum alloy member.</p>
+<p id="p-0040" num="0035">The step S<b>3</b> is a step of performing tempering treatment on the aluminum alloy member after the shot peening treatment. The tempering treatment is a treatment in which the aluminum alloy member is held at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less for one hour or more, and then cooled to a normal temperature state. The formation of the &#x3b2; phase compound is accelerated by heating in a temperature range of 125&#xb0; C. or more. Therefore, according to the process S<b>3</b>, it is possible to suppress the temporal change of the residual stress after the tempering treatment. The recrystallization temperature of the aluminum alloy having low purity is 180&#xb0; C. or more. Therefore, recrystallization can be suppressed by heating in a temperature range of 170&#xb0; C. or less.</p>
+<p id="p-0041" num="0036">The time (heat treatment time) for which the aluminum alloy member is held at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less by the tempering treatment is at least 1 hour or more, and preferably 6 hours or more. As a result, it is possible to reliably make the aluminum alloy member per stress-free and suppress the temporal change in residual stress after tempering treatment while suppressing recrystallization of the aluminum alloy. The heat treatment time is 72 hours or less, preferably 48 hours or less, and more preferably 24 hours or less. By setting the heat treatment time to 72 hours or less, recrystallization of the aluminum alloy can be more reliably suppressed, and productivity can be improved.</p>
+<p id="p-0042" num="0037">The step S<b>3</b> is performed using an apparatus capable of maintaining a constant temperature at a temperature higher than room temperature, such as a drying oven or a muffle oven. This makes it possible to obtain a more reliable measurement result in the X-ray residual stress measurement. The tempering treatment is performed such that the half-width of the diffraction X-ray peak of the aluminum alloy member changes by 0.1 deg or more, preferably 0.2 deg or more by the tempering treatment. The tempering treatment is performed such that a difference (absolute value) between residual stress of the aluminum alloy member at 24 hours from the tempering treatment and past 24 hours from the tempering treatment is 50 MPa or less. As a result, the temporal change of the residual stress is suppressed. The process S<b>3</b> is performed, for example, without delay after the process S<b>2</b>. In this case, productivity is improved. The step S<b>3</b> may be performed at an interval after the step S<b>2</b>.</p>
+<p id="p-0043" num="0038">According to the steps S<b>1</b> to S<b>3</b> described above, it is possible to obtain a reliable measurement result and manufacture the stress reference piece made of an aluminum alloy in which a temporal change in the residual-stress value is suppressed.</p>
+<p id="p-0044" num="0039">The present invention is not necessarily limited to the above-described embodiment, and various modifications can be made without departing from the scope of the present invention.</p>
+<heading id="h-0006" level="1">EXAMPLE</heading>
+<p id="p-0045" num="0040">Hereinafter, the present disclosure will be described in more detail with reference to examples, but the present disclosure is not limited to these examples.</p>
+<p id="p-0046" num="0041">The stress reference piece according to the example was manufactured as follows. First, test materials made of A7075 and A2014 were prepared as starting materials. A7075 and A2014 are wrought aluminum alloys specified by JIS. Next, these test materials were subjected to a shot peening treatment. As the shot media, zircon beads B-205 (particle diameter: 0.05 mm) manufactured by Saint-Gobain Co., Ltd. was used. The projection pressure was 0.3 MPa, a stage moving speed was 10 mm/s, and the arc height was 0.090 mmN. Subsequently, as the tempering treatment, the test materials after the shot peening treatment were held at 150&#xb0; C. for 6 hours, and then cooled to room temperature. As a result, the stress reference pieces according to the example were obtained.</p>
+<p id="p-0047" num="0042"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a graph showing a temporal change in residual stress of the stress reference piece according to the example. <figref idref="DRAWINGS">FIG. <b>3</b></figref> is a graph showing a temporal change in the half-width of the stress reference piece according to the example. The horizontal axis in <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> represents the aging time. The vertical axis of <figref idref="DRAWINGS">FIG. <b>2</b></figref> represents the residual stress. The vertical axis in <figref idref="DRAWINGS">FIG. <b>3</b></figref> represents the half-width. The residual stress and the half-width were measured by the cos a method using an X-ray residual stress measurement device &#x3bc;-X360s manufactured by Pulstec Industrial Co., Ltd. A Cr bulb was used, the irradiation radius was &#x3c6;3.0 mm, the collimator radius was &#x3c6;1.0 mm, and the measurement angle was 25 deg.</p>
+<p id="p-0048" num="0043">The residual stress and the half-width were measured at aging times of 0.25 days, 1 day, 5 days. 10 days, 20 days. and 30 days, respectively, with the starting point of the tempering treatment as the starting point of the aging time. The data for the aging time of 0.25 days (that is, 6 hours) are measured immediately after the tempering treatment. The residual stress and the half-width at the aging time of 0 are measured values after the shot peening treatment and immediately before the tempering treatment.</p>
+<p id="p-0049" num="0044">As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the residual stress of the A7075 was &#x2212;147 MPa immediately after the shot peening treatment, but was &#x2212;16 MPa immediately after the tempering treatment because the residual stress became stress-free by the tempering treatment. Thereafter, the change was small, and the residual stress was &#x2212;5 MPa at the aging time of 30 days. A difference (absolute value) between residual stress at 24 hours from the tempering treatment and past 24 hours from the tempering treatment was 20 MPa or less. The residual stress of the A2014 showed &#x2212;89 MPa immediately after the shot peening treatment, but &#x2212;11 MPa immediately after the tempering treatment because the residual stress became stress-free by the tempering treatment. Thereafter, the change was small, and the residual stress was &#x2212;1 MPa at an aging time of 30 days. A difference (absolute value) between residual stress at 24 hours from the tempering treatment and past 24 hours from the tempering treatment was 20 MPa or less.</p>
+<p id="p-0050" num="0045">As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the half-width of A7075 was 2.12 deg immediately after the shot peening treatment, but decreased by 0.37 deg by the tempering treatment, and was 1.75 deg immediately after the tempering treatment. Thereafter, there was almost no change, and the half-width was 1.76 deg at the aging time of 30 days. The half-width of A2014 was 1.96 deg immediately after the shot peening treatment, but decreased by 0.26 deg by the tempering treatment, and was 1.70 deg immediately after the tempering treatment. Thereafter, there was almost no change, and the half-width was 1.68 deg at the aging time of 30 days.</p>
+<p id="p-0051" num="0046">The residual stress and full width at half-width of the A7075 did not change from 30 days to 100 days of the aging time. In addition, as illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, even in the case where the holding time of the tempering treatment was 24 hours, 48 hours, and 72 hours, the results were comparable to the results in the case of 6 hours. Similarly, the residual stress and the MI width at half-width of the A2014 did not change from 30 days to 100 days of the aging time. Further, as illustrated in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, even in the case where the holding time of the tempering treatment was 24 hours, 48 hours, and 72 hours, the results were comparable to the results in the case of 6 hours.</p>
+<p id="p-0052" num="0047"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a graph showing a temporal change in residual stress of the stress reference piece according to the comparative example. The stress reference pieces according to the comparative examples were manufactured in the same manner as in the examples except that the tempering treatment was not performed, and the residual stress was measured in the same manner as in the example. As shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the residual stress in the A7075 was &#x2212;146 MPa immediately after the shot peening treatment, but continued to change thereafter, and was &#x2212;80 MPa at the aging time of 30 days. The residual stress in the A2014 was &#x2212;88 MPa immediately after the shot peening treatment, but continued to change thereafter and was &#x2212;44 MPa at the aging time of 30 days.</p>
+<p id="p-0053" num="0048"><figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> are graphs showing the relationship between the holding time and the residual stress. The horizontal axis in each of <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> represents the holding time. The vertical axis in each of <figref idref="DRAWINGS">FIGS. <b>5</b> and <b>6</b></figref> represents the residual stress. Here, the holding time of the tempering treatment after the shot peening treatment was set to 0, 30 minutes, 1 hour, 6 hours, 24 hours, 48 hours, and 72 hours, and the residual stress was measured immediately after the tempering treatment. The case where the holding time is 6 hours corresponds to the case of the above-described embodiment. The case where the holding time was 0 corresponds to the case of the above-described comparative example in which the tempering treatment was not performed, and the value of the residual stress measured immediately after the shot peening treatment was used.</p>
+<p id="p-0054" num="0049"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows a case where the test material made of A7075 was used. As shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the residual stress was &#x2212;80 MPa at the holding time of 30 minutes and &#x2212;70 MPa at the holding time of 1 hour. These values were larger on the compression side than that at the holding time of 6 hours or more. When the holding time was 6 hours or more, there was no large difference in the residual stress. <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows a case where the test material made of A2014 was used. As shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the residual stress was &#x2212;38 MPa at the holding time of 30 minutes and &#x2212;21 MPa at the holding time of 1 hour. These values were luger on the compression side than that at the holding time of 6 hours or more. When the holding time was 6 hours or more, there was no large difference in the residual stress.</p>
+<p id="p-0055" num="0050"><figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref> are graphs showing the relationship between the peak intensity and the &#x3b1; angle. The &#x3b1; angle is a rotation angle of the Debye ring, and is indicated from 0 deg to 360 deg. Here, the shot peening treatment was performed under the same conditions as in the above example, and X-ray diffraction images were obtained before and after the shot peening treatment. Further, X-ray diffraction images were obtained in the same manner for the cases where the tempering treatment was performed with the holding time of 6 hours, 24 hours, 48 hours, and 72 hours. For the Debye ring near 139 deg of the diffraction angle (2&#x3b8;) in each of the obtained X-ray diffraction images, the peak intensity was plotted against the &#x3b1; angle.</p>
+<p id="p-0056" num="0051"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a case where the test material made of A7075 was used. <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a case where the test material made of A2014 was used. As shown in <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>, in the case of using any of the test materials, projected peaks are observed at two points (two &#x3b1; angles) on the Debye ring before the shot peening treatment. When the shot peening treatment is performed, the phenomenon is suppressed, and the peak intensity is constant, that is, the Debye ring becomes continuous. As a result, it was confirmed that the shot peening improves the reliability of the X-ray stress measurement.</p>
+<p id="p-0057" num="0052">Even when the tempering treatment was performed, the Debye rings were continuous. There was no significant difference depending on the holding time in the peak intensity of the Debye ring after tempering treatment. In particular, when the test material made of A7075 was used, the peak intensity of the Debye ring after the tempering treatment was substantially the same regardless of the holding time. Therefore, in consideration of the productivity, the holding time of 6 hours is considered to be optimal.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method of manufacturing a stress reference piece comprising:
+<claim-text>preparing an aluminum alloy member containing an element that generates a &#x3b2; phase;</claim-text>
+<claim-text>performing a shot peening treatment on the aluminum alloy member; and</claim-text>
+<claim-text>performing a tempering treatment on the aluminum alloy member after the shot peening treatment, the tempering treatment accelerating generation of the &#x3b2; phase.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tempering treatment is a treatment of holding the aluminum alloy member at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less for 6 hours or more.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a time for which the aluminum alloy member is held at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less by the tempering treatment is 72 hours or less. . The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the element is Mg, Cu, or Mn.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shot peening treatment is performed using a shot medium made of zirconia, glass, or steel at an injection pressure of 0.1 MPa or more and 0.5 MPa or less.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tempering treatment is performed such that a half-width of a diffraction X-ray peak of the aluminum alloy member changes by 0.1. deg or more.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the tempering treatment is performed such that a difference between residual stress of the aluminum alloy member at 24 hours from the tempering treatment and past 24 hours from the tempering treatment is 50 MPa or less.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the aluminum alloy member is a bulk body.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A method of manufacturing a stress reference piece comprising:
+<claim-text>preparing an aluminum alloy member containing an element that generates a &#x3b2; phase;</claim-text>
+<claim-text>performing a shot peening treatment on the aluminum alloy member; and</claim-text>
+<claim-text>holding the aluminum alloy member after the shot peening treatment at 125&#xb0; C. or more and 170&#xb0; C. or less for 6 hours or more.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a content of the element in the aluminum alloy member is 0.2% or more.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a residual stress value of the stress reference piece is &#x2212;25 MPa or more and 25 MPa or less,</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a residual stress value of the stress reference piece is &#x2212;10 MPa or more and 10 MPa or less.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method according to claim wherein the aluminum alloy member is made of a wrought aluminum alloy or a cast aluminum alloy.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the shot peening treatment refines crystal grains in a depth range of 50 &#x3bc;m or less from surface of the aluminum alloy member to a grain size of 5 nm or more and 50 nm or less.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein a time for which the aluminum alloy member is held at a temperature of 125&#xb0; C. or more and 170&#xb0; C. or less by the tempering treatment is 24 hours or less.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

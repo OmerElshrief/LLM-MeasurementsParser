@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411892A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411892</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17901153</doc-number>
+<date>20220901</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10 2010 036 401.0</doc-number>
+<date>20100714</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>52</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>112</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>8</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>45</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>52</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>0611</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>0682</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>112</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>8</main-group>
+<subgroup>0205</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>45</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20150115</date></cpc-version-indicator>
+<section>Y</section>
+<class>10</class>
+<subclass>T</subclass>
+<main-group>428</main-group>
+<subgroup>12993</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20150115</date></cpc-version-indicator>
+<section>Y</section>
+<class>10</class>
+<subclass>T</subclass>
+<main-group>428</main-group>
+<subgroup>24355</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>2201</main-group>
+<subgroup>03</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>2200</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>2200</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">DEVICE AND METHOD FOR THE PRODUCTION OF A METALLIC STRIP</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16743235</doc-number>
+<date>20200115</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11459635</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17901153</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>15591604</doc-number>
+<date>20170510</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10584397</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16743235</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>13182013</doc-number>
+<date>20110713</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>9700937</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>15591604</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Vacuumschmelze GmbH &#x26; Co. KG</orgname>
+<address>
+<city>Hanau</city>
+<country>DE</country>
+</address>
+</addressbook>
+<residence>
+<country>DE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Schulz</last-name>
+<first-name>Robert</first-name>
+<address>
+<city>Frankfurt am Main</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A device for the production of a metallic strip using a rapid solidification technology is provided. The device includes a movable heat sink with an external surface onto which a melt is poured and on which the melt solidifies to produce the strip, and which device includes a rolling device which can be pressed against the external surface of the movable heat sink while the heat sink is in motion.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="115.49mm" wi="98.47mm" file="US20220411892A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="87.97mm" wi="52.75mm" file="US20220411892A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="76.45mm" wi="40.39mm" file="US20220411892A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="77.81mm" wi="103.97mm" orientation="landscape" file="US20220411892A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="69.68mm" wi="87.71mm" file="US20220411892A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="109.81mm" wi="98.04mm" orientation="landscape" file="US20220411892A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="91.78mm" wi="84.50mm" orientation="landscape" file="US20220411892A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="91.78mm" wi="84.24mm" orientation="landscape" file="US20220411892A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="91.86mm" wi="83.65mm" orientation="landscape" file="US20220411892A1-20221229-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="88.22mm" wi="83.65mm" orientation="landscape" file="US20220411892A1-20221229-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="87.38mm" wi="83.23mm" orientation="landscape" file="US20220411892A1-20221229-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="91.78mm" wi="84.16mm" orientation="landscape" file="US20220411892A1-20221229-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="91.78mm" wi="83.99mm" orientation="landscape" file="US20220411892A1-20221229-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO PRIOR APPLICATIONS</heading>
+<p id="p-0002" num="0001">This United States patent application is a division of U.S. patent application Ser. No. 16/743,235, filed Jan. 15, 2020, which is a continuation of U.S. patent application Ser. No. 15/591,604, filed May 10, 2017, and issued on Mar. 10, 2020 as U.S. Pat. No. 10,584,397, which is a divisional of U.S. patent application Ser. No. 13/182,013, filed on Jul. 13, 2011, and issued on Jul. 11, 2017 as U.S. Pat. No. 9,700,937, which claims priority to German Application No. DE 10 2010 036 401.0, filed on Jul. 14, 2010. The entire disclosure of each of the above applications is incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<heading id="h-0003" level="1">1. Field</heading>
+<p id="p-0003" num="0002">Disclosed herein is a device and to a method for the production of a metallic strip, in particular using a rapid solidification technology.</p>
+<heading id="h-0004" level="1">2. Description of Related Art</heading>
+<p id="p-0004" num="0003">In a rapid solidification technology, a melt is poured onto a fast-moving heat sink, and the melt solidifies on the heat sink owing to the thermal conductivity of the latter. If the melt is continuously poured onto the moving heat sink, a strip is produced.</p>
+<p id="p-0005" num="0004">U.S. Pat. No. 4,793,400 discloses a device of this type for the production of a metallic strip. The device comprises two rotatable brushes which are used for cleaning the surface of the heat sink before the melt is applied to the heat sink. These brushes are used for removing dust, rubble and melt residues from the surface. The aim of this arrangement was to produce very few faults in the rapidly solidified strip and to produce a more homogeneous strip. The device further comprises a vacuum source which picks up the removed objects, ensuring that they are removed reliably and not returned to the surface.</p>
+<p id="p-0006" num="0005">Further improvements are, however, desirable if the quality of the strip, for example its homogeneity, is to be improved.</p>
+<heading id="h-0005" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">An embodiment disclosed herein provides a device for the production of a metallic strip by means of a rapid solidification technology, which device comprises a movable heat sink with an external surface and a rolling device. A melt is poured onto the external surface and there solidifies while a strip is produced. The rolling device can be pressed against the external surface of the movable heat sink while the heat sink is in motion.</p>
+<p id="p-0008" num="0007">In embodiments of the device disclosed herein, the external surface is therefore contacted by the rolling device while the heat sink is in motion. The rolling device is used for repeatedly preparing the external surface before the melt solidifies thereon. The external surface can be roller-burnished with the rolling device and therefore worked, so that the external surface is smoothed. In this context, the term &#x201c;work&#x201d; should be understood to mean a redistribution of material. The removal of material from the external surface, which can be achieved by means of a brush, is not an object of the use of the rolling device. No chips are produced, and there is hardly any debris or dust which could have a negative effect on the production process.</p>
+<p id="p-0009" num="0008">The pressure required for working the external surface depends on the material and the condition of the heat sink or of the external surface of the heat sink. A lower pressure is used for a soft material such as copper than for a hard material such as steel.</p>
+<p id="p-0010" num="0009">The rolling device is in particular pressed against a point of the external surface of the movable heat sink which lies between the point where the strip separates from the heat sink and the pouring surface, i.e. the point of the heat sink where the melt hits the heat sink. The external surface can therefore be worked by means of the rolling device after the strip has solidified thereon and before the next contact with the melt.</p>
+<p id="p-0011" num="0010">In one embodiment, the rolling device is pressed against the external surface of the movable heat sink in such a way that the external surface is smoothed by the rolling device. As a result, the external surface is less rough after the contact with or the working by the rolling device than before the contact with the rolling device. This has the advantage that the roughness of the strip and in particular the roughness of the surface of the strip, which is generated by the solidification of the strip on the external surface of the movable heat sink, can be kept low. As a result, the homogeneity of the strip is ensured over longer sections.</p>
+<p id="p-0012" num="0011">This allows for a longer casting process and reduces production costs. In addition, a low roughness can improve various properties of the strip which is produced. The surface roughness of some magnetic alloys, for example, affects their magnetic properties. By producing a long strip with a homogeneous and low surface roughness, several magnet cores having homogeneous properties can be produced in one casting process. This reduces manufacturing costs, because there are fewer losses.</p>
+<p id="p-0013" num="0012">In one embodiment, the rolling device is designed such that that it continuously contacts the external surface of the movable heat sink while the melt is poured onto the external surface of the movable heat sink. In this arrangement, the surface on which the melt solidifies can be worked before it once again meets the melt. This results in a more homogeneous external surface and therefore in rapidly solidified strips.</p>
+<p id="p-0014" num="0013">In another embodiment, the rolling device is designed such that that it reduces the roughness of the external surface of the movable heat sink by working the external surface while the melt is poured onto the external surface of the movable heat sink. The working of the external surface therefore results in a reduced surface roughness.</p>
+<p id="p-0015" num="0014">In one embodiment, the movable heat sink is rotatable about an axis of rotation, i.e. the movement is a rotation. In order to achieve a desired cooling rate and a desired strip thickness, the peripheral speed of the heat sink is set accordingly. As the peripheral speed increases, the strip thickness is reduced more and more. A typical cooling rate is more than 10<sup>5 </sup>K/s. The peripheral speed may be 10 m/s to 50 m/s.</p>
+<p id="p-0016" num="0015">The heat sink may have the shape of a wheel or a roller, the melt being applied to the peripheral surface of the wheel or roller respectively. The axis of rotation is therefore perpendicular to the centre of the circular end of the wheel.</p>
+<p id="p-0017" num="0016">In one embodiment, the rolling device is movable parallel to the axis of rotation of the movable heat sink. In this arrangement, the rolling device can be brought into contact with different regions of the width of the heat sink, for example with only a part of the peripheral surface of the wheel. This can be advantageous if there are several casting tracks on a heat sink. One casting track can be worked by the rolling device after another casting track, so that several casts can be made with one and the same heat sink but with different casting tracks, without having to exchange the heat sink. This may reduce production times and therefore production costs.</p>
+<p id="p-0018" num="0017">The rolling device may alternatively be movable at right angles to the external surface of the movable heat sink. If the external surface moves in the z-direction, the rolling device may be movable in the x-direction and/or in the y-direction. Movement in the x-direction may for example allow different strip-shaped regions of the external surface to be worked. Movement in the y-direction can be used for adjusting the pressure with which the rolling device can be pressed against the external surface.</p>
+<p id="p-0019" num="0018">In one embodiment, the rolling device comprises a roller which can be rotatably pressed onto the external surface of the movable heat sink. The roller of the rolling device therefore contacts the external surface of the movable heat sink in order to prepare the said external surface repeatedly. The rolling device will further comprise a holder for the roller, so that the roller is rotatably mounted and movable with respect to the external surface, for example parallel to the axis of rotation of the movable heat sink and/or parallel to the external surface of the movable heat sink.</p>
+<p id="p-0020" num="0019">In one embodiment, the rolling device can be pressed onto the external surface of the movable heat sink with a profiled or spherical roller having a diameter of less than 100 mm and with a contact force up to 1000 N. The contact force or surface pressure is typically less than the yield strength of the heat sink material to avoid a macroscopic, i.e. large-surface, displacement or deformation of the material. As stated above, the pressure which results in an adequate working of the external surface is determined by the material of the external surface as well as by the geometry of the rolling device or roller.</p>
+<p id="p-0021" num="0020">In one embodiment, the roller is provided with a separate control for setting the speed of the roller. In this way, the speed of the roller of the rolling device can be adjusted independently of the speed of the heat sink.</p>
+<p id="p-0022" num="0021">In a further embodiment, the device is designed such that the roller of the rolling device can be pressed against the external surface of the movable heat sink, so that it is driven by the movement of the heat sink. In this case, the roller does not have its own drive. The surface of the rotating roller is however pressed against the external surface of the rotating heat sink with a pressure which ensures that it works the external surface of the heat sink.</p>
+<p id="p-0023" num="0022">In one embodiment, the roller of the rolling device has a first direction of rotation and the heat sink has a second direction of rotation, the first direction of rotation being opposed to the second direction of rotation. With this arrangement, the external surface of the movable heat sink is prepared in a rolling or roller-burnishing process.</p>
+<p id="p-0024" num="0023">In one embodiment, the roller of the rolling device is movable across the external surface parallel to the second axis of rotation of the heat sink. With a movement in a direction which is parallel to the second axis of rotation, the external surface can be contacted and worked spirally. This offers the advantage that the external surface is not bent, so that the thickness of the strip remains the same across its width.</p>
+<p id="p-0025" num="0024">In one embodiment, the device is further provided with a container for the melt to be poured. This container may be the container of a nozzle located immediately adjacent to the external surface, so that an opening from which the melt to be poured flows is arranged at a small distance from the external surface.</p>
+<p id="p-0026" num="0025">The container or the device respectively may further comprise heating means to melt the melt material and/or to keep it in the molten state.</p>
+<p id="p-0027" num="0026">The device may further comprise a receiving device for receiving the solidified strip. This receiving device may for example be a reel.</p>
+<p id="p-0028" num="0027">A method for the production of a strip using a rapid solidification technology is also specified. A melt and a movable heat sink with an external surface are provided. The melt is poured onto the moving external surface of the moving heat sink and solidifies on the external surface while forming a strip. A rolling device is pressed against the external surface of the heat sink while the heat sink is in motion.</p>
+<p id="p-0029" num="0028">The method is based on a rapid solidification technology in which the melt of a metal or alloy rapidly solidifies on contacting the external surface of the heat sink, while the heat sink and thus the external surface move fast. The melt is poured onto the external surface in a stream, so that a long strip is formed from the solidified metal or alloy owing to the movement of the heat sink.</p>
+<p id="p-0030" num="0029">The external surface of the heat sink is roller-burnished by means of the rolling device while the heat sink and thus the external surface are in motion. This roller-burnishing can be carried out such that the external surface is worked while being smoothed.</p>
+<p id="p-0031" num="0030">Roughness and irregularities in the external surface can be produced by the contact between the melt and the external surface. As the external surface repeatedly comes into contact with the melt, its quality is increasingly reduced as casting time increases.</p>
+<p id="p-0032" num="0031">These irregularities can be smoothed with the rolling device, so that a smooth external surface is once again brought under the melt. As a result, the surface roughness of the bottom surface of the strip, which is formed as the melt solidifies on the external surface, can be kept more homogeneous over the length of the strip.</p>
+<p id="p-0033" num="0032">In one embodiment, the rolling device is pressed against the external surface of the heat sink, so that it continuously contacts and works the external surface while the melt is poured onto the external surface of the heat sink. In this way, the surface on which the melt solidifies can be worked or smoothed.</p>
+<p id="p-0034" num="0033">Owing to the working of the external surface, the roughness of the external surface is reduced after the contact with the rolling device compared to the roughness of the external surface before the contact with the rolling device. The rolling device is pressed against the moving external surface of the moving heat sink before the melt is poured onto the external surface. The rolling device is therefore placed downstream of the point where the melt hits the external contact surface. This enhances the uniformity of the external surface as well as of the underside of the rapidly solidified strip.</p>
+<p id="p-0035" num="0034">In one embodiment, the rolling device comprises a rotatably mounted roller.</p>
+<p id="p-0036" num="0035">The heat sink may be provided in the form of a rotatable wheel, the melt being poured onto the rim of the wheel. The roller of the rolling device may be arranged such that, together with the rim, it forms a rolling mill which works and smoothes the surface of the rim.</p>
+<p id="p-0037" num="0036">If a rotatable roller is provided as a rolling device, this roller can be driven in a first direction of rotation, while the heat sink is driven in a second direction of rotation, the first direction of rotation being opposed to the second direction of rotation. Owing to the friction between the roller and the heat sink, the heat sink may drive the roller. This results in two opposed directions of rotation. As an alternative, the roller may be driven independently under its own control, and the device may include a separate control for setting the speed of the rotatable roller.</p>
+<p id="p-0038" num="0037">In one embodiment, the roller is moved over the external surface parallel to the second axis of rotation of the heat sink while the heat sink is in motion, so that the external surface is contacted and worked spirally. This embodiment can be used in order to reduce irregularities across the overall width of the external surface.</p>
+<p id="p-0039" num="0038">As an alternative, the roller may be moved parallel to the second axis of rotation of the heat sink, enabling it to contact a wider region of the external surface. This method can be used if the heat sink is designed such that two or more casting tracks are provided on the external surface.</p>
+<p id="p-0040" num="0039">After the strip has been produced by rapid solidification on the external surface of the heat sink, it separates from the external surface owing to the shrinkage of the solidified melt and the movement of the external surface. This strip can be taken up continuously on a reel in order to avoid cracks and kinks in the strip.</p>
+<p id="p-0041" num="0040">A metallic strip having a length of at least 30 km is specified as well. This strip has at least one surface with a surface roughness R<sub>a </sub>of 0&#x3c;R<sub>a</sub>&#x3c;0.6 &#x3bc;m at a point at least 20 km before an end of the strip, R<sub>a </sub>being the centre-line average height.</p>
+<p id="p-0042" num="0041">In further embodiments, the lowest possible surface roughness is not the object of the invention. For a good strip quality, the surface roughness, which can be adjusted by means of the contact pressure of the rolling device, is held nearly constant over a long production process. Over a length of at least 20 km, the surface roughness can be held within a range of 0.2&#x3c;R<sub>a</sub>&#x3c;0.6 &#x3bc;m+/&#x2212;0.2 &#x3bc;m, preferably +/&#x2212;0.15 &#x3bc;m.</p>
+<p id="p-0043" num="0042">This strip be produced with the device and the method disclosed herein, so that this low surface roughness can be obtained after a long casting time and therefore at a point which lies at least 20 km away from the end of the strip, in particular from the beginning of the strip.</p>
+<p id="p-0044" num="0043">In one embodiment, the metallic strip is ductile and amorphous or ductile and nanocrystalline. The crystallisation or the degree of crystallisation of the strip can be set by means of the cooling rate and/or the composition of the strip.</p>
+<p id="p-0045" num="0044">The metallic strip may have numerous different compositions, for example T<sub>a</sub>M<sub>b</sub>, wherein 70 atomic %&#x2264;a&#x2264;85 atomic % and 15 atomic %&#x2264;b&#x2264;30 atomic %, T being one or more transition metals, such as Fe, Co, Ni, Mn, Cu, Nb, Mo, Cr, Zn, Sn and Zr, and M being one or more metalloids, such as B, Si, C and P.</p>
+<p id="p-0046" num="0045">Nanocrystalline strip may consist of Fe<sub>a</sub>Cu<sub>b</sub>M<sub>c</sub>M&#x2032;<sub>d</sub>M&#x2033;<sub>e</sub>Si<sub>f</sub>B<sub>g</sub>, M being one or more of the elements from the group of the IVa, Va, VIa elements or the transition metals, M&#x2032; being one or more of the elements Mn, Al, Ge and the platinum group elements, and M&#x2033; being Co and/or Ni, wherein a+b+c+d+e+f+g=100 atomic % and 0.01&#x2264;b&#x2264;8, 0.01&#x2264;c&#x2264;10, 0&#x2264;d&#x2264;10, 0&#x2264;e&#x2264;20, 10&#x2264;f&#x2264;25, 3&#x2264;g&#x2264;12 and 17&#x2264;f+g&#x2264;30.</p>
+<p id="p-0047" num="0046">The device may be used for the production of a metallic strip from T<sub>a</sub>M<sub>b</sub>, wherein 70 atomic %&#x2264;a&#x2264;85 atomic % and 15 atomic %&#x2264;b&#x2264;30 atomic %, T being one or more transition metals, such as Fe, Co, Ni, Mn, Cu, Nb, Mo, Cr, Zn, Sn and Zr, and M being one or more metalloids, such as B, Si, C and P, or from Fe<sub>a</sub>Cu<sub>b</sub>M<sub>c</sub>M&#x2032;<sub>d</sub>M&#x2033;<sub>e</sub>Si<sub>f</sub>B<sub>g</sub>, M being one or more of the elements from the group of the IVa, Va, VIa elements or the transition metals, M&#x2032; being one or more of the elements Mn, Al, Ge and the platinum group elements, and M&#x2033; being Co and/or Ni, wherein a+b+c+d+e+f+g=100 atomic % and 0.01&#x2264;b&#x2264;8, 0.01&#x2264;c&#x2264;10, 0&#x2264;d&#x2264;10, 0&#x2264;e&#x2264;20, 10&#x2264;f&#x2264;25, 3&#x2264;g&#x2264;12 and 17&#x2264;f+g&#x2264;30.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0048" num="0047">Embodiments are explained in greater detail below with reference to the drawings.</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a first diagrammatic view of an embodiment of a device with a rolling device for the production of a metallic strip using a rapid solidification technology;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a second diagrammatic view of the device from <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a third diagrammatic view of the device from <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a detailed view of the rolling device from <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. <b>5</b><i>a </i></figref>shows the surface roughness of a strip underside facing the heat sink, as produced by means of the device from <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. <b>5</b><i>b </i></figref>shows the surface roughness of an underside of a comparative strip;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a graph showing the strip thicknesses as determined by weighing as a function of track length;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a graph showing a comparison of the surface parameter (centre-line average heights R<sub>a</sub>) of the strip undersides for a strip produced on a casting track which has not been roller-burnished and for a strip produced on a casting track which has been roller-burnished as a function of track length;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a graph showing a comparison of the surface parameter (peak-to-valley heights R<sub>z</sub>) of the strip undersides for a strip produced on a casting track which has not been roller-burnished and for a strip produced on a casting track which has been roller-burnished as a function of track length;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a graph comparing the fill factors of measuring cores wound from a strip produced on a casting track which has not been roller-burnished and from a strip produced on a casting track which has been roller-burnished as a function of track length;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a graph that shows the development of the permeability of a strip produced on a continuously worked casting track as a function of track length;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a graph that shows the development of the permeability of a strip produced on a casting track which is not continuously worked as a function of track length;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a graph that compares the &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratios at H=15 mA for a strip cast on a roller-burnished casting track and a casting track which has not been roller-burnished as a function of track length; and</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a graph that compares the normalised permeability &#x3bc;<sub>80 </sub>for these strips.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF SPECIFIC EMBODIMENTS</heading>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIGS. <b>1</b> to <b>3</b></figref> are various diagrammatic representations of a device <b>1</b> for the production of a metallic strip <b>2</b> using a rapid solidification technology.</p>
+<p id="p-0064" num="0063">The device <b>1</b> comprises a heat sink <b>3</b> in the form of a wheel <b>4</b> which rotates clockwise about an axis of rotation <b>5</b> as indicated by arrow <b>19</b>. The wheel <b>4</b> has a rim <b>6</b> with an external surface <b>7</b> onto which a melt <b>8</b> is poured. The melt <b>8</b> consists of a metal or an alloy which is stored in a container <b>9</b>. The embodiment of device <b>1</b> further comprises a heater (such as, e.g., an induction heater) for producing the melt <b>8</b> from the metal or alloy.</p>
+<p id="p-0065" num="0064">The device <b>1</b> further comprises a rolling device <b>11</b> with a roller <b>12</b>. The roller <b>12</b> rotates on an axis of rotation <b>13</b> and is arranged such that it can be pressed against the external surface <b>7</b> of the rim <b>6</b> of the heat sink <b>3</b> under pressure as indicated by arrow <b>21</b>. The roller <b>12</b> rotates anticlockwise and therefore in a direction opposed to the direction of rotation of the wheel <b>4</b> (i.e., where the roller <b>12</b> contacts external surface <b>7</b> of rotating wheel <b>4</b>, the surfaces move in a parallel direction). Together with the rotating wheel <b>4</b>, the roller <b>12</b> forms a rolling mill which is used to roller-burnish and thus smooth the external surface <b>7</b> of the rim during the casting process.</p>
+<p id="p-0066" num="0065">The roller <b>12</b> is so arranged on the wheel <b>4</b> that it works the external surface <b>7</b> at a point <b>14</b> which is upstream (with respect to the direction of rotation of wheel <b>4</b>) of the point <b>15</b> where the melt <b>8</b> first contacts the external surface <b>7</b>. The melt <b>8</b> is therefore poured onto a smooth external surface <b>7</b> and solidifies on this roller-burnished and smoothed surface. Owing to the rotating wheel <b>4</b> and the stream of melt <b>8</b>, a long strip <b>2</b> is produced as the melt <b>8</b> solidifies. As a result of the volume shrinkage of the solidifying melt <b>8</b> and the rotating wheel <b>4</b>, the strip <b>2</b> separates from the external surface <b>7</b> and can be wound onto a reel (not shown in the drawing).</p>
+<p id="p-0067" num="0066">The underside <b>16</b> of the strip <b>2</b> approximately adopts the contour of the external surface <b>7</b>. The surface of the underside <b>16</b> of the strip <b>2</b> can be kept uniform if the roller <b>12</b> continuously works the external surface <b>7</b> during the casting process. This permits the production of a long strip <b>2</b> with a surface roughness which worsens only slightly from the beginning to the end. The top side <b>17</b> of the strip <b>2</b> solidifies freely and therefore does not reflect the contour of the external surface <b>7</b>. In addition, cleaning brushes for removal of debris from the surface of heat sink <b>3</b> may also be included, or these may be absent.</p>
+<p id="p-0068" num="0067">As <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref> show, the roller <b>12</b> of the rolling device <b>11</b> may be moved in directions parallel to the axis of rotation <b>5</b> of the heat sink <b>3</b> as indicated by the arrow <b>18</b>.</p>
+<p id="p-0069" num="0068">The roller <b>12</b> may be arranged such that it works different tracks on the rim. The roller <b>12</b> may be moved parallel to the axis of rotation of the heat sink while being in contact with the rotating heat sink <b>3</b>. In this embodiment, the rim <b>6</b> or the external surface <b>7</b> can be worked and smoothed spirally.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a diagrammatic representation of the working effect of the rolling device <b>11</b> with the roller <b>12</b> in contact with the external surface <b>7</b> of the heat sink <b>3</b>.</p>
+<p id="p-0071" num="0070">The rotation of the heat sink <b>3</b> is in <figref idref="DRAWINGS">FIG. <b>4</b></figref> illustrated graphically by the arrow <b>19</b>, while the counter-rotation of the roller <b>12</b> is illustrated by the arrow <b>20</b>. In the Figure, both arrows can be illustrated as rotating toward the viewer, out of the plane of the paper, or both rotating away from the viewer toward the plane of the paper. The pressure applied by the roller <b>12</b> on the external surface <b>7</b> is graphically illustrated by the arrow <b>21</b>. In this embodiment, the roller is moved across the external surface parallel to the axis of rotation of heat sink <b>3</b>. This is illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref> by the arrow <b>22</b>.</p>
+<p id="p-0072" num="0071">On the left-hand side of the roller <b>12</b>, the figure shows the external surface <b>7</b> of the heat sink after the strip has been formed on this external surface <b>7</b>. On the right-hand side of the roller, we see the external surface after roller-burnishing with the roller <b>12</b>, the roughness of the external surface <b>7</b> having been reduced by roller-burnishing. This method can also be used continuously during the casting and production of the strip. As a result, the melt <b>8</b> always meets a smooth external surface <b>7</b>, so that the underside <b>16</b> of the solidified strip <b>2</b> has a smooth surface along its entire length.</p>
+<p id="p-0073" num="0072">To explain the effect of working a heat sink surface <b>7</b> during a casting process, an experiment is carried out which permits a direct comparison between a worked surface and a surface which has not been worked.</p>
+<p id="p-0074" num="0073">For these experiments, the alloy Fe<sub>R</sub>Cu<sub>1</sub>Nb<sub>3</sub>Si<sub>15.5</sub>B<sub>7</sub>, which is generally used for inductive cores, is chosen. In addition to a comparison of geometrical data, this permits the evaluation of magnetic properties using measuring cores. The chosen strip width is 25 mm, so that the strip did not have to be slit, for example by cutting, in order to produce the measuring cores.</p>
+<p id="p-0075" num="0074">To avoid the effects of unintentional parameter variations on the results, the whole experiment is carried out in one casting, i.e. all results are based on the same melt, the same heat sink including preparation and the same casting parameters. The only aspect which is changed is the position of the casting track.</p>
+<p id="p-0076" num="0075">To work the surface of the heat sink, a specific further development of &#x201c;roller-burnishing&#x201d; or &#x201c;planishing&#x201d; is chosen, which is adapted to the parameters of the casting process for rapidly solidified strip. The equipment comprises a resiliently mounted rolling head with a special roller, which moves parallel to the axis of the heat sink at a low feed rate. The working is carried out by the roller <b>12</b> which is pressed against the surface <b>7</b> of the heat sink <b>3</b> with a defined force as shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0077" num="0076">In the first phase of the experiment, approximately 50 000 m of a 25 mm wide strip were poured onto a casting track which was worked continuously as described above.</p>
+<p id="p-0078" num="0077">In the next phase, another 50 000 m were to be poured onto a parallel track which had not been worked, in order to produce a strip for comparison. This process was, however, aborted after about 30 000 m for reasons of quality, as the state of the surface had deteriorated excessively.</p>
+<p id="p-0079" num="0078">The strips produced in this way were then evaluated and compared using geometrical and magnetic criteria. For the geometrical evaluation, the samples were left in the &#x201c;as cast&#x201d; state. For the evaluation of the magnetic properties, the wound cores were subjected to a heat treatment in order to obtain the magnetically relevant nanocrystalline material state.</p>
+<p id="p-0080" num="0079">The surface parameters R<sub>a </sub>and R<sub>z </sub>and the fill factor of the measuring cores were chosen as comparative variables, R<sub>a </sub>being the centre-line average height and R<sub>z </sub>being the averaged peak-to-valley height.</p>
+<p id="p-0081" num="0080">The surface parameters were determined on the side of the strip which faces the heat sink and largely reflect wear-related changes on the heat sink surface, while the fill factor is an essential quality criterion in magnetic cores.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. <b>5</b><i>a </i></figref>illustrates the roughness values of the underside of the strip, i.e. the side facing the heat sink, of a casting track which has been worked after ca. 39 800 m.</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. <b>5</b><i>b </i></figref>illustrates the roughness values of the underside of the strip (facing the heat sink) of a comparison strip of a casting track which has not been worked after ca. 23 000 m.</p>
+<p id="p-0084" num="0083">The comparability of the investigated variables is at its best if, in addition to the casting parameters, the strip thickness is similar as well. This is because the fill factor change of the tested cores is greatly influenced by the relationship between roughness and strip thickness.</p>
+<p id="p-0085" num="0084">The strip thickness was determined by weighing in order to avoid errors caused by roughness in feeler measurements. Strip thickness values obtained by weighing are illustrated in the diagram of <figref idref="DRAWINGS">FIG. <b>6</b></figref>. <figref idref="DRAWINGS">FIG. <b>6</b></figref> shows that the strip thickness values agree in both cases very well along the entire cast.</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows a comparison of the centre-line average heights R<sub>a </sub>of the strip undersides, approximately in the middle of the width of the strip, for a strip produced on a casting track which has not been roller-burnished and for a strip produced on a casting track which has been roller-burnished.</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows a comparison of the peak-to-valley height R<sub>z </sub>of the strip undersides, approximately in the middle of the width of the strip, for a strip produced on a casting track which has not been roller-burnished and for a strip produced on a casting track which has been roller-burnished.</p>
+<p id="p-0088" num="0087">In the diagrams of <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>, the development of the surface parameters R<sub>a </sub>and R<sub>z </sub>is plotted along the lengths of the worked and the non-worked casting track.</p>
+<p id="p-0089" num="0088">The comparison shows that the working of the heat sink surface can maintain and sometimes even improve the quality of the initial preparation over a very long casting process. In contrast, the surface of casting tracks which have not been worked deteriorates very rapidly.</p>
+<p id="p-0090" num="0089">Such differences are also found if we consider the fill factor of the measuring cores as a comparative variable. The diagram of <figref idref="DRAWINGS">FIG. <b>9</b></figref> compares the fill factors of measuring cores (diameter 24.3/13&#xd7;25 mm) wound from a strip produced on a casting track which has not been roller-burnished and from a strip produced on a casting track which has been roller-burnished.</p>
+<p id="p-0091" num="0090">The fill factors of the two groups noticeably drift away from each other after a relatively short run, illustrating that even small changes in the surface quality of the heat sink result in significant quality differences in the finished product.</p>
+<p id="p-0092" num="0091">The surface formation of the strips can affect their magnetic properties. It for example significantly affects the shape of the hysteresis loop and the remagnetisation processes in alternating fields.</p>
+<p id="p-0093" num="0092">The three characteristics &#x3bc;<sub>sin </sub>at H=15 mA/cm, &#x3bc;<sub>dyn </sub>at H=15 mA/cm and the &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratio are measured and evaluated. These values are mainly related to the requirements of current transformer cores for earth leakage circuit breakers at 50 Hz.</p>
+<p id="p-0094" num="0093">The aim is high permeability accompanied by a high ratio. Empirical data permit comparisons between different permeability values and ratios. The normalised value is &#x3bc;<sub>80 </sub>(=&#x3bc;<sub>dyn </sub>at H=15 mA/cm and &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin</sub>=0.8).</p>
+<p id="p-0095" num="0094">In the diagrams of <figref idref="DRAWINGS">FIGS. <b>10</b> and <b>11</b></figref>, the permeability developments are initially shown separately for worked and non-worked casting tracks. The permeability &#x3bc;<sub>sin </sub>should remain largely constant, because it is theoretically determined only by the alloy and the heat treatment.</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows the development of the permeability of a strip produced on a continuously worked casting track. The permeability changes only slightly over a length of 50 000 m.</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. <b>11</b></figref> shows the development of the permeability of a comparative strip produced on a casting track which has not been worked. In contrast to <figref idref="DRAWINGS">FIG. <b>10</b></figref>, &#x3bc;<sub>sin </sub>can be seen to have decreased considerably. This indicates significant disturbing influences after a relatively short track length.</p>
+<p id="p-0098" num="0097">As the permeability &#x3bc;<sub>dyn </sub>reacts even more strongly to changes than &#x3bc;<sub>sin</sub>, the &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratio and the normalised &#x3bc;<sub>80 </sub>decrease particularly strongly, which indicates a significant deterioration of linearity.</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. <b>12</b></figref> compares the &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratios at H=15 mA/cm for a strip cast on a roller-burnished casting track and a casting track which has not been roller-burnished, and <figref idref="DRAWINGS">FIG. <b>13</b></figref> compares the normalised permeability &#x3bc;<sub>80 </sub>for these strips. Both values are reduced more for a strip cast on a casting track which has not been roller-burnished than for a strip cast on a roller-burnished casting track.</p>
+<p id="p-0100" num="0099">On the basis of the results of the first experiments, it seems possible to achieve with this method and this alloy reliably and repeatably, at permeability values of &#x3bc;<sub>sin </sub>&#x3e;200 000, a &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratio &#x3e;0.80, possibly even &#x3e;0.85.</p>
+<p id="p-0101" num="0100">On the basis of various geometrical variables (R<sub>a</sub>, R<sub>z </sub>and fill factor) and magnetic variables (&#x3bc;<sub>sin</sub>, &#x3bc;<sub>dyn </sub>and the &#x3bc;<sub>dyn</sub>/&#x3bc;<sub>sin </sub>ratio), it can be shown that the uniformity of product quality and the efficiency of the production method can be improved by the continuous working of the heat sink surface during the casting process.</p>
+<p id="p-0102" num="0101">The invention having been described herein with respect to certain of its specific embodiments and examples, it will be understood that these do not limit the scope of the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A metallic strip having a nickel-based composition and having a length of at least 20 km and at least one surface with a surface roughness R<sub>a</sub>, measured as center-line average heights, of less than 0.6 &#x3bc;m at a point at least 10 km before an end of the strip.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the surface with a surface roughness R<sub>a </sub>of less than 0.6 &#x3bc;m at a point at least 10 km before an end of the strip is a surface solidified at an external surface of a movable heat sink.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metallic strip is amorphous.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metallic strip is nanocrystalline.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the metallic strip consists of T<sub>a</sub>M<sub>b</sub>, wherein 70 atomic %&#x2264;a&#x2264;85 atomic % and 15 atomic %&#x2264;b&#x2264;30 atomic %, T being Ni and one or more of the elements Fe, Co, Mn, Cu, Nb, Mo, Cr, Zn, Sn and Zr, and M being one or more of the elements B, Si, C and P.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the surface roughness R<sub>a </sub>has a value between 0.2 &#x3bc;m and 0.6 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the surface roughness R<sub>a </sub>varies by less than +/&#x2212;0.2 &#x3bc;m over a length of at least 10 km.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The metallic strip according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the strip is produced by a process comprising:
+<claim-text>providing a melt,</claim-text>
+<claim-text>providing a movable heat sink with an external surface,</claim-text>
+<claim-text>pouring the melt onto the moving external surface of the moving heat sink, the melt solidifying on the external surface to form a strip,</claim-text>
+<claim-text>pressing a rolling device against the external surface of the heat sink while the heat sink is in motion, wherein the pressing of the rolling device against the external surface of the heat sink smooths the external surface of the heat sink.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. A metallic strip having a nickel-based composition and having at least one surface with a surface roughness R<sub>a</sub>, measured as center-line average heights, of greater than 0.2 and less than 0.6 &#x3bc;m at a point which lies at least 20 km away from the beginning of the strip, wherein the surface with a surface roughness R<sub>a </sub>of less than 0.6 &#x3bc;m is a surface solidified at an external surface of a movable heat sink.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The metallic strip according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the metallic strip is amorphous.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The metallic strip according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the metallic strip is nanocrystalline.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The metallic strip according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the metallic strip consists of T<sub>a</sub>M<sub>b</sub>, wherein 70 atomic %&#x2264;a&#x2264;85 atomic % and 15 atomic %&#x2264;b&#x2264;30 atomic %, T being Ni and one or more of the elements Fe, Co, Mn, Cu, Nb, Mo, Cr, Zn, Sn and Zr, and M being one or more of the elements B, Si, C and P.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411908A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411908</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17757126</doc-number>
+<date>20210108</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-003010</doc-number>
+<date>20200110</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>48</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>8</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>54</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>48</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>8</main-group>
+<subgroup>0205</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>54</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>2211</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">AUSTENITIC STAINLESS STEEL MATERIAL</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NIPPON STEEL CORPORATION</orgname>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>OSUKI</last-name>
+<first-name>Takahiro</first-name>
+<address>
+<city>Chiyoda-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>KURIHARA</last-name>
+<first-name>Shinnosuke</first-name>
+<address>
+<city>Chiyoda-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>JOTOKU</last-name>
+<first-name>Kana</first-name>
+<address>
+<city>Chiyoda-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>SUZUKI</last-name>
+<first-name>Yuhei</first-name>
+<address>
+<city>Chiyoda-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>AOTA</last-name>
+<first-name>Shohgo</first-name>
+<address>
+<city>Chiyoda-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/000448</doc-number>
+<date>20210108</date>
+</document-id>
+<us-371c12-date><date>20220609</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An austenitic stainless steel material is provided that has high creep strength even when used at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input, and furthermore, has excellent stress relaxation cracking resistance even after use for a long time period at the average operation temperature after welding with higher heat input. The steel material has a chemical composition which consists of, in mass %, C: 0.030% or less, Si: 1.50% or less, Mn: 2.00% or less, P: 0.045% or less, S: 0.0300% or less, Cr: 15.00 to 25.00%, Ni: 8.00 to 20.00%, N: 0.050 to 0.250%, Nb: 0.10 to 1.00%, Mo: 0.05 to 5.00%, and B: 0.0005 to 0.0100%, with the balance being Fe and impurities, and a ratio of the dissolved N amount (mass %) with respect to the content of N (mass %) in the steel material is 0.40 to 0.90.</p>
+</abstract>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure relates to a steel material, and more specifically relates to an austenitic stainless steel material.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">A steel material that is used in chemical plant facilities such as oil refinery plants and petrochemical plants is required to have high temperature strength. An austenitic stainless steel material is used as a steel material for use in these chemical plant facilities.</p>
+<p id="p-0004" num="0003">A chemical plant facility includes a plurality of apparatuses. The respective apparatuses included in a chemical plant facility are, for example, a vacuum distillation unit, a desulfurization unit, and a catalytic reforming unit. These apparatuses include a heating furnace pipe, a reactor, a tank, a heat exchanger, piping and the like. The average temperatures during operation of the respective apparatuses differ from each other. Hereinafter, the average temperature during operation is referred to as an &#x201c;average operation temperature&#x201d;. The operation temperature varies significantly depending on the raw material and products processed at the chemical plant facility. Further, the apparatuses in a chemical plant facility also include multiple apparatuses that operate at an average operation temperature of more than 600 to 750&#xb0; C.</p>
+<p id="p-0005" num="0004">An apparatus that operates at an average operation temperature of more than 600 to 750&#xb0; C. needs to have high creep strength.</p>
+<p id="p-0006" num="0005">International Application Publication No. WO2018/043565 (Patent Literature 1) discloses improving the creep strength of an austenitic stainless steel material to be used in a high-temperature region. An austenitic stainless steel disclosed in Patent Literature 1 has a chemical composition which consists of, in mass %, C: 0.030% or less, Si: 0.10 to 1.00%, Mn: 0.20 to 2.00%, P: 0.040% or less, S: 0.010% or less, Cr: 16.0 to 25.0%, Ni: 10.0 to 30.0%, Mo: 0.1 to 5.0%, Nb: 0.20 to 1.00%, N: 0.050 to 0.300%, sol. Al: 0.0005 to 0.100%, B: 0.0010 to 0.0080%, Cu: 0 to 5.0%, W: 0 to 5.0%, Co: 0 to 1.0%, V: 0 to 1.00%, Ta: 0 to 0.2%, Hf: 0 to 0.20%, Ca: 0 to 0.010%, Mg: 0 to 0.010%, and rare earth metal: 0 to 0.10%, with the balance being Fe and impurities, and which satisfies Formula (1). Here, Formula (1) is as follows:</p>
+<p id="p-0007" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>B+0.004&#x2212;0.9C+0.017Mo<sup>2</sup>&#x2265;0.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literature</heading>
+<p id="p-0008" num="0006">Patent Literature 1: International Application Publication No. WO2018/043565</p>
+<heading id="h-0005" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0006" level="1">Technical Problem</heading>
+<p id="p-0009" num="0007">In this connection, when newly constructing a chemical plant facility or repairing a chemical plant facility, the steel material used for the apparatuses in the chemical plant facility is welded at the site where the chemical plant is located. In recent welding work, in order to reduce the number of welding passes, there are many cases in which welding with higher heat input for which the heat input is made large is adopted.</p>
+<p id="p-0010" num="0008">As described above, a steel material to be used at an average operation temperature of more than 600&#xb0; C. is required to be excellent in high temperature strength. Consequently, the steel material tends to be thick-walled and/or larger in size. When such kind of steel material is welded, a large amount of residual stress is generated in a heat affected zone (hereinafter, also referred to as a &#x201c;HAZ&#x201d;). When such kind of steel material is used at an average operation temperature of more than 600&#xb0; C., a stress relaxation process occurs in which the residual stress in the heat affected zone relaxes. In the stress relaxation process, carbides form within grains during the course of the recovery of residual stress in the heat affected zones, and secondary induced precipitation hardening occurs. A difference between the hardness within grains and the hardness at grain boundaries increases due to the secondary induced precipitation hardening. As a result, in some cases stress relaxation cracking occurs at the grain boundaries. Therefore, in a steel material to be used for a long time period at an average operation temperature of more than 600 to 750&#xb0; C., it is desirable not only that the creep strength is high, but also that stress relaxation cracking can be suppressed, that is, that the stress relaxation cracking resistance is high.</p>
+<p id="p-0011" num="0009">The austenitic stainless steel proposed in Patent Literature 1 exhibits excellent creep strength. However, in Patent Literature 1, stress relaxation cracking resistance is not investigated.</p>
+<p id="p-0012" num="0010">An objective of the present disclosure is to provide an austenitic stainless steel material that has high creep strength even when used at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input, and furthermore, has excellent stress relaxation cracking resistance even after use for a long time period at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input.</p>
+<heading id="h-0007" level="1">Solution to Problem</heading>
+<p id="p-0013" num="0011">An austenitic stainless steel material having:</p>
+<p id="p-0014" num="0012">a chemical composition consisting of, in mass %,</p>
+<p id="p-0015" num="0013">C: 0.030% or less,</p>
+<p id="p-0016" num="0014">Si: 1.50% or less,</p>
+<p id="p-0017" num="0015">Mn: 2.00% or less,</p>
+<p id="p-0018" num="0016">P: 0.045% or less,</p>
+<p id="p-0019" num="0017">S: 0.0300% or less,</p>
+<p id="p-0020" num="0018">Cr: 15.00 to 25.00%,</p>
+<p id="p-0021" num="0019">Ni: 8.00 to 20.00%.</p>
+<p id="p-0022" num="0020">N: 0.050 to 0.250%,</p>
+<p id="p-0023" num="0021">Nb: 0.10 to 1.00%,</p>
+<p id="p-0024" num="0022">Mo: 0.05 to 5.00%,</p>
+<p id="p-0025" num="0023">B: 0.0005 to 0.0100%,</p>
+<p id="p-0026" num="0024">Ti: 0 to 0.50%,</p>
+<p id="p-0027" num="0025">Ta: 0 to 0.50%,</p>
+<p id="p-0028" num="0026">V: 0 to 1.00%,</p>
+<p id="p-0029" num="0027">Zr: 0 to 0.10%,</p>
+<p id="p-0030" num="0028">Hf: 0 to 0.10%,</p>
+<p id="p-0031" num="0029">Cu: 0 to 4.00%,</p>
+<p id="p-0032" num="0030">W: 0 to 5.00%,</p>
+<p id="p-0033" num="0031">Co: 0 to 1.00%,</p>
+<p id="p-0034" num="0032">sol. Al: 0 to 0.100%,</p>
+<p id="p-0035" num="0033">Ca: 0 to 0.0200%,</p>
+<p id="p-0036" num="0034">Mg: 0 to 0.0200%,</p>
+<p id="p-0037" num="0035">rare earth metal: 0 to 0.100%,</p>
+<p id="p-0038" num="0036">Sn: 0 to 0.010%,</p>
+<p id="p-0039" num="0037">As: 0 to 0.010%,</p>
+<p id="p-0040" num="0038">Zn: 0 to 0.010%,</p>
+<p id="p-0041" num="0039">Pb: 0 to 0.010%, and</p>
+<p id="p-0042" num="0040">Sb: 0 to 0.010%,</p>
+<p id="p-0043" num="0041">with the balance being Fe and impurities,</p>
+<p id="p-0044" num="0042">wherein</p>
+<p id="p-0045" num="0043">a ratio of a dissolved N amount (mass %) in the austenitic stainless steel material with respect to a content of N (mass %) in the austenitic stainless steel material is 0.40 to 0.90.</p>
+<heading id="h-0008" level="1">Advantageous Effects of Invention</heading>
+<p id="p-0046" num="0044">The austenitic stainless steel material of the present disclosure has high creep strength even when used at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input, and furthermore, has excellent stress relaxation cracking resistance even after use for a long time period at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0009" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0047" num="0045">The present inventors conducted studies regarding an austenitic stainless steel material that has high creep strength even when used at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input, and furthermore, has excellent stress relaxation cracking resistance even after use for a long time period at an average operation temperature of more than 600 to 750&#xb0; C. after welding with higher heat input. Hereinafter, an environment in which an average operation temperature ranges from more than 600 to 750&#xb0; C. is also referred to as a &#x201c;high temperature environment&#x201d;.</p>
+<p id="p-0048" num="0046">The present inventors initially conducted studies relating to stress relaxation cracking resistance. It is considered that stress relaxation cracking occurs as a result of the following mechanism. In a high temperature environment, Cr carbides form at grain boundaries in the steel material. Consequently, Cr depleted zones (decarburized zones) are formed along grain boundaries. Cr depleted zones are soft. Therefore, a strength difference between the inside of grains that underwent secondary induced precipitation hardening and the Cr depleted zones along grain boundaries increases. As a result, stress relaxation cracking occurs.</p>
+<p id="p-0049" num="0047">Therefore, in order to increase stress relaxation cracking resistance, it is effective to suppress formation of Cr depleted zones along grain boundaries. In order to suppress formation of Cr depleted zones, it is necessary to suppress formation of Cr carbides in the steel material. To suppress formation of Cr carbides, it is effective to reduce the content of C, and furthermore, to contain Nb in the steel material to cause C in the steel material to combine with Nb as NbC in order to thereby inhibit C in the steel material from combining with Cr.</p>
+<p id="p-0050" num="0048">The present inventors conducted studies regarding chemical compositions for a steel material while taking into account the matters described above. As a result, the present inventors considered that if an austenitic stainless steel material has a chemical composition consisting of, in mass %, C: 0.030% or less, Si: 1.50% or less, Mn: 2.00% or less, P: 0.045% or less, S: 0.0300% or less, Cr: 15.00 to 25.00%, Ni: 8.00 to 20.00%, N: 0.050 to 0.250%, Nb: 0.10 to 1.00%, Mo: 0.05 to 5.00%, B: 0.0005 to 0.0100%, Ti: 0 to 0.50%, Ta: 0 to 0.50%, V: 0 to 1.00%, Zr: 0 to 0.10%, Hf: 0 to 0.10%, Cu: 0 to 4.00%, W: 0 to 5.00%, Co: 0 to 1.00%, sol. Al: 0 to 0.100%, Ca: 0 to 0.0200%, Mg: 0 to 0.0200%, rare earth metal: 0 to 0.100%, Sn: 0 to 0.010%, As: 0 to 0.010%, Zn: 0 to 0.010%, Pb: 0 to 0.010%, and Sb: 0 to 0.010%, with the balance being Fe and impurities, stress relaxation cracking resistance can be increased while also increasing creep strength.</p>
+<p id="p-0051" num="0049">With the aforementioned chemical composition, formation of Cr depleted zones can be suppressed. However, even with the aforementioned chemical composition, because C and Cr are contained, formation of Cr depleted zones will still occur. Therefore, the present inventors investigated suppressing stress relaxation cracking by means based on a different concept to the conventional means. The present inventors conducted studies regarding a method which keeps the content of C to 0.030% or less to thereby suppress the occurrence of Cr depleted zones to a minimum and, in addition, even if Cr depleted zones occur, strengthens the Cr depleted zones.</p>
+<p id="p-0052" num="0050">Because a Cr depleted zone is a decarburized zone, precipitation strengthening by carbides cannot be used in a Cr depleted zone. Therefore, the present inventors considered causing nitrides to precipitate in the steel material when used in a high temperature environment. Because C is not used in the formation of nitrides, Cr depleted zones (decarburized zones) do not become larger. During use in a high temperature environment, if nitrides precipitate in Cr depleted zones formed near grain boundaries, softening near grain boundaries can be suppressed by precipitation strengthening. Therefore, a strength difference between the inside of the grains that underwent secondary induced precipitation hardening and the Cr depleted zones formed along the grain boundaries can be reduced, and stress relaxation cracking resistance can be increased. In addition, by strengthening the Cr depleted zones, creep strength also increases.</p>
+<p id="p-0053" num="0051">In addition, in order to exhibit the aforementioned stress relaxation cracking suppression effect and high creep strength together, during use in a high temperature environment, it is important that, in addition to securing a dissolved N amount for forming nitrides which act to perform precipitation strengthening of Cr depleted zones and the inside of grains, nitrides are caused to precipitate in advance in the steel material prior to use. By forming nitrides in the steel material prior to use, a pinning effect of the nitrides occurs and the grains can be refined. If the grains can be refined, the amount (coverage) of Cr carbides precipitating at the grain boundaries will be low, and in addition, the amount of grain-boundary segregation of phosphorus (P) and sulfur (S) will be small. In such a case, a decrease in the hardness of grain boundaries and near grain boundaries can be suppressed, and a strength difference between the inside of the grains and the grain boundaries and Cr depleted zones can be reduced. Therefore, the stress relaxation cracking resistance of the steel material will increase.</p>
+<p id="p-0054" num="0052">As described above, the present inventors considered that by forming nitrides and refining grains by the pinning effect in a steel material prior to use in a high temperature environment, and also forming nitrides in the steel material to strengthen Cr depleted zones during use in a high temperature environment, stress relaxation cracking resistance can be increased. Further, as the result of taking into consideration the compatibility between the creep strength and the stress relaxation cracking resistance, the present inventors discovered that if a steel material has the aforementioned chemical composition and, furthermore, the ratio of the dissolved N amount in the steel material to the content of N in the steel material is 0.40 to 0.90, it is possible to achieve compatibility between the creep strength and the stress relaxation cracking resistance.</p>
+<p id="p-0055" num="0053">The austenitic stainless steel material of the present embodiment that has been completed based on the above findings is as follows.</p>
+<p id="p-0056" num="0054">[1]</p>
+<p id="p-0057" num="0055">An austenitic stainless steel material, having:</p>
+<p id="p-0058" num="0056">a chemical composition consisting of, in mass %,</p>
+<p id="p-0059" num="0057">C: 0.030% or less,</p>
+<p id="p-0060" num="0058">Si: 1.50% or less,</p>
+<p id="p-0061" num="0059">Mn: 2.00% or less,</p>
+<p id="p-0062" num="0060">P: 0.045% or less,</p>
+<p id="p-0063" num="0061">5: 0.0300% or less,</p>
+<p id="p-0064" num="0062">Cr: 15.00 to 25.00%,</p>
+<p id="p-0065" num="0063">Ni: 8.00 to 20.00%,</p>
+<p id="p-0066" num="0064">N: 0.050 to 0.250%,</p>
+<p id="p-0067" num="0065">Nb: 0.10 to 1.00%,</p>
+<p id="p-0068" num="0066">Mo: 0.05 to 5.00%,</p>
+<p id="p-0069" num="0067">B: 0.0005 to 0.0100%,</p>
+<p id="p-0070" num="0068">Ti: 0 to 0.50%,</p>
+<p id="p-0071" num="0069">Ta: 0 to 0.50%,</p>
+<p id="p-0072" num="0070">V: 0 to 1.00%,</p>
+<p id="p-0073" num="0071">Zr: 0 to 0.10%,</p>
+<p id="p-0074" num="0072">Hf: 0 to 0.10%,</p>
+<p id="p-0075" num="0073">Cu: 0 to 4.00%,</p>
+<p id="p-0076" num="0074">W: 0 to 5.00%,</p>
+<p id="p-0077" num="0075">Co: 0 to 1.00%,</p>
+<p id="p-0078" num="0076">sol. Al: 0 to 0.100%,</p>
+<p id="p-0079" num="0077">Ca: 0 to 0.0200%,</p>
+<p id="p-0080" num="0078">Mg: 0 to 0.0200%,</p>
+<p id="p-0081" num="0079">rare earth metal: 0 to 0.100%,</p>
+<p id="p-0082" num="0080">Sn: 0 to 0.010%,</p>
+<p id="p-0083" num="0081">As: 0 to 0.010%,</p>
+<p id="p-0084" num="0082">Zn: 0 to 0.010%,</p>
+<p id="p-0085" num="0083">Pb: 0 to 0.010%, and</p>
+<p id="p-0086" num="0084">Sb: 0 to 0.010%,</p>
+<p id="p-0087" num="0085">with the balance being Fe and impurities,</p>
+<p id="p-0088" num="0086">wherein</p>
+<p id="p-0089" num="0087">a ratio of a dissolved N amount (mass %) in the austenitic stainless steel material with respect to a content of N (mass %) in the austenitic stainless steel material is 0.40 to 0.90.</p>
+<p id="p-0090" num="0088">[2]</p>
+<p id="p-0091" num="0089">The austenitic stainless steel material according to [1], wherein</p>
+<p id="p-0092" num="0090">the chemical composition contains at least one or more elements belonging to any group among a first group to a fourth group:</p>
+<p id="p-0093" num="0091">first group:</p>
+<p id="p-0094" num="0092">Ti: 0.01 to 0.50%,</p>
+<p id="p-0095" num="0093">Ta: 0.01 to 0.50%,</p>
+<p id="p-0096" num="0094">V: 0.01 to 1.00%,</p>
+<p id="p-0097" num="0095">Zr: 0.01 to 0.10%, and</p>
+<p id="p-0098" num="0096">Hf: 0.01 to 0.10%;</p>
+<p id="p-0099" num="0097">second group:</p>
+<p id="p-0100" num="0098">Cu: 0.01 to 4.00%,</p>
+<p id="p-0101" num="0099">W: 0.01 to 5.00%, and</p>
+<p id="p-0102" num="0100">Co: 0.01 to 1.00%;</p>
+<p id="p-0103" num="0101">third group:</p>
+<p id="p-0104" num="0102">sol. Al: 0.001 to 0.100%;</p>
+<p id="p-0105" num="0103">fourth group:</p>
+<p id="p-0106" num="0104">Ca: 0.0001 to 0.0200%,</p>
+<p id="p-0107" num="0105">Mg: 0.0001 to 0.0200%, and</p>
+<p id="p-0108" num="0106">rare earth metal: 0.001 to 0.100%.</p>
+<p id="p-0109" num="0107">Hereunder, the austenitic stainless steel material of the present embodiment are described in detail. The symbol &#x201c;%&#x201d; in relation to an element means &#x201c;mass %&#x201d; unless specifically stated otherwise.</p>
+<p id="p-0110" num="0108">[Regarding Chemical Composition]</p>
+<p id="p-0111" num="0109">The chemical composition of the austenitic stainless steel material of the present embodiment contains the following elements.</p>
+<p id="p-0112" num="0110">C: 0.030% or Less</p>
+<p id="p-0113" num="0111">Carbon (C) is unavoidably contained. In other words, the content of C is more than 0%. C forms M<sub>23</sub>C<sub>6</sub>-type carbides at grain boundaries. In this case, Cr depleted zones form at grain boundaries, and the stress relaxation cracking resistance of the steel material decreases. If the content of C is more than 0.030%, even if the contents of other elements are within the range of the present embodiment, the stress relaxation cracking resistance of the steel material will markedly decrease. Therefore, the content of C is 0.030% or less. A preferable upper limit of the content of C is 0.026%, more preferably is 0.024%, further preferably is 0.022%, further preferably is 0.020%, and further preferably is 0.018%. The content of C is preferably as low as possible. However, if the content of C is excessively reduced, the production cost will increase. Therefore, for industrial production, a preferable lower limit of the content of C is 0.001%, and further preferably is 0.002%.</p>
+<p id="p-0114" num="0112">Si: 1.50% or Less</p>
+<p id="p-0115" num="0113">Silicone (Si) is unavoidably contained. In other words, the content of Si is more than 0%. Si deoxidizes the steel in the steel making process. In addition, when the steel material is used in a high temperature environment (an average operation temperature of more than 600 to 750&#xb0; C.), Si increases the oxidation resistance and steam oxidation resistance of the steel material. If even a small amount of Si is contained, the aforementioned effects are obtained to a certain extent. However, if the content of Si is more than 1.50%, even if the contents of other elements are within the range of the present embodiment, weld cracking susceptibility will markedly increase. In addition, sigma phase (&#x3c3; phase) will form in the steel material due to use for a long time period in a high temperature environment. The &#x3c3; phase will reduce the toughness of the steel material. Therefore, the content of Si is 1.50% or less. A preferable lower limit of the content of Si is 0.01%, more preferably is 0.05%, further preferably is 0.10%, further preferably is 0.15%, and further preferably is 0.18%. A preferable upper limit of the content of Si is 1.40%, more preferably is 1.20%, further preferably is 1.00%, further preferably is 0.80%, further preferably is 0.70%, further preferably is 0.60%, and further preferably is 0.50%.</p>
+<p id="p-0116" num="0114">Mn: 2.00% or Less</p>
+<p id="p-0117" num="0115">Manganese (Mn) is unavoidably contained. In other words, the content of Mn is more than 0%. Mn combines with S in the steel material to form MnS, and thereby increases the hot workability of the steel material. Mn also deoxidizes the weld zone of the steel material during welding. If even a small amount of Mn is contained, the aforementioned effects are obtained to a certain extent. However, if the content of Mn is more than 2.00%, even if the contents of other elements are within the range of the present embodiment, sigma phase (&#x3c3; phase) will easily form during use in a high temperature environment. The &#x3c3; phase will reduce the toughness of the steel material during use in a high temperature environment. Therefore, the content of Mn is 2.00% or less. A preferable lower limit of the content of Mn is 0.01%, more preferably is 0.10%, further preferably is 0.40%, further preferably is 0.50%, and further preferably is 0.60%. A preferable upper limit of the content of Mn is 1.80%, more preferably is 1.60%, further preferably is 1.50%, further preferably is 1.30%, further preferably is 1.10%, and further preferably is 0.95%.</p>
+<p id="p-0118" num="0116">P: 0.045% or Less</p>
+<p id="p-0119" num="0117">Phosphorus (P) is unavoidably contained. In other words, the content of P is more than 0%. During welding with higher heat input, P segregates at grain boundaries of the steel material. As a result, the stress relaxation cracking resistance decreases. If the content of P is more than 0.045%, even if the contents of other elements are within the range of the present embodiment, the stress relaxation cracking resistance will decrease. Therefore, the content of P is 0.045% or less. A preferable upper limit of the content of P is 0.035%, and more preferably is 0.030%. The content of P is preferably as low as possible. However, excessively reducing the content of P will raise the production cost of the steel material. Therefore, when taking into consideration normal industrial production, a preferable lower limit of the content of P is 0.001%, and more preferably is 0.002%.</p>
+<p id="p-0120" num="0118">S: 0.0300% or Less</p>
+<p id="p-0121" num="0119">Sulfur (S) is unavoidably contained. In other words, the content of S is more than 0%. During welding with higher heat input, S segregates at grain boundaries of the steel material. As a result, the stress relaxation cracking resistance decreases. If the content of S is more than 0.0300%, even if the contents of other elements are within the range of the present embodiment, the stress relaxation cracking resistance will decrease. Therefore, the content of S is 0.0300% or less. A preferable upper limit of the content of S is 0.0150%, more preferably is 0.0100%, further preferably is 0.0050%, and further preferably is 0.0030%. The content of S is preferably as low as possible. However, excessively reducing the content of S will raise the production cost of the steel material. Therefore, when taking into consideration normal industrial production, a preferable lower limit of the content of S is 0.0001%, and more preferably is 0.0002%.</p>
+<p id="p-0122" num="0120">Cr: 15.00 to 25.00%</p>
+<p id="p-0123" num="0121">Chromium (Cr) increases the oxidation resistance and corrosion resistance of the steel material during use of the steel material in a high temperature environment. If the content of Cr is less than 15.00%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effect will not be sufficiently obtained. On the other hand, if the content of Cr is more than 25.00%, even if the contents of other elements are within the range of the present embodiment, the stability of austenite in the steel material in a high temperature environment will decrease. In this case, the creep strength of the steel material will decrease. Therefore, the content of Cr is 15.00 to 25.00%. A preferable lower limit of the content of Cr is 16.00%, more preferably is 16.20%, and further preferably is 16.40%. A preferable upper limit of the content of Cr is 24.00%, more preferably is 23.00%, further preferably is 22.00%, further preferably is 21.00%, further preferably is 20.00%, and further preferably is 19.00%.</p>
+<p id="p-0124" num="0122">Ni: 8.00 to 20.00%</p>
+<p id="p-0125" num="0123">Nickel (Ni) stabilizes austenite and increases the creep strength of the steel material in a high temperature environment. If the content of Ni is less than 8.00%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effect will not be sufficiently obtained. On the other hand, if the content of Ni is more than 20.00%, the aforementioned effect will be saturated and, furthermore, the production cost will increase. Therefore, the content of Ni is 8.00 to 20.00%. A preferable lower limit of the content of Ni is 8.50%, more preferably is 9.00%, further preferably is 9.20%, and further preferably is 9.40%. A preferable upper limit of the content of Ni is 18.00%, more preferably is 16.00%, further preferably is 15.00%, and further preferably is 14.00%.</p>
+<p id="p-0126" num="0124">N: 0.050 to 0.250%</p>
+<p id="p-0127" num="0125">Nitrogen (N) dissolves in the matrix (parent phase) and stabilizes austenite. In addition, the dissolved N forms fine nitrides in the steel material during use in a high temperature environment. Because the fine nitrides strengthen Cr depleted zones, the stress relaxation cracking resistance of the steel material increases. The fine nitrides formed during use in a high temperature environment also increase the creep strength by precipitation strengthening. If the content of N is less than 0.050%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effects will not be sufficiently obtained. On the other hand, if the content of N is more than 0.250%, even if the contents of other elements are within the range of the present embodiment, Cr nitrides (Cr<sub>2</sub>N) will form at grain boundaries. In such a case, the amount of nitrides precipitated near grain boundaries will decrease. Consequently, the strength near grain boundaries will decrease. As a result, a difference between the strength within the grains and the strength at the grain boundaries will increase, and the stress relaxation cracking resistance will decrease. Therefore, the content of N is 0.050 to 0.250%. A preferable lower limit of the content of N is 0.052%, more preferably is 0.055%, and further preferably is 0.060%. A preferable upper limit of the content of N is 0.200%, more preferably is 0.150%, and further preferably is 0.120%.</p>
+<p id="p-0128" num="0126">Nb: 0.10 to 1.00%</p>
+<p id="p-0129" num="0127">Niobium (Nb), together with N, forms fine nitrides in the steel material during use in a high temperature environment. Because the fine nitrides strengthen Cr depleted zones, the stress relaxation cracking resistance of the steel material increases. The fine nitrides formed during use in a high temperature environment also increase the creep strength by precipitation strengthening. Nb also combines with C to form MX-type Nb carbides. When Nb carbides form and fix C, the amount of dissolved C in the steel material decreases. By this means, during use of the steel material in a high temperature environment, formation of Cr carbides at grain boundaries is suppressed and the stress relaxation cracking resistance of the steel material increases. If the content of Nb is less than 0.10%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effects will not be sufficiently obtained. On the other hand, if the content of Nb is more than 1.00%, even if the contents of other elements are within the range of the present embodiment, nitrides and carbides will excessively form. In this case, the strength within the grains will become excessively high, and a strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will decrease. Therefore, the content of Nb is 0.10 to 1.00%. A preferable lower limit of the content of Nb is 0.20%, more preferably is 0.23%, further preferably is 0.25%, further preferably is 0.30%, and further preferably is 0.35%. A preferable upper limit of the content of Nb is 0.80%, more preferably is 0.60%, and further preferably is 0.50%.</p>
+<p id="p-0130" num="0128">Mo: 0.05 to 5.00%</p>
+<p id="p-0131" num="0129">Molybdenum (Mo) suppresses formation and growth of M<sub>23</sub>C<sub>6</sub>-type Cr carbides at grain boundaries during use of the steel material in a high temperature environment. As a result, the stress relaxation cracking resistance of the steel material increases. In addition, as a solid-solution strengthening element, Mo increases the creep strength of the steel material in a high temperature environment. If the content of Mo is less than 0.05%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effects will not be sufficiently obtained. On the other hand, if the content of Mo is more than 5.00%, even if the contents of other elements are within the range of the present embodiment, formation of intermetallic compounds such as Laves phases within grains will be markedly promoted. In such a case, the strength within the grains will be excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will decrease. Therefore, the content of Mo is 0.05 to 5.00%. A preferable lower limit of the content of Mo is 0.06%, more preferably is 0.10%, further preferably is 0.15%, further preferably is 0.20%, further preferably is 0.24%, further preferably is 0.28%, and further preferably is 0.32%. A preferable upper limit of the content of Mo is 4.00%, more preferably is 3.00%, further preferably is 2.00%, further preferably is 1.50%, and further preferably is 1.00%.</p>
+<p id="p-0132" num="0130">B: 0.0005 to 0.0100%</p>
+<p id="p-0133" num="0131">Boron (B) segregates at grain boundaries during use of the steel material in a high temperature environment, and thereby increases the grain boundary strength. Therefore, B increases the stress relaxation cracking resistance of the steel material. If the content of B is less than 0.0005%, even if the contents of other elements are within the range of the present embodiment, the aforementioned effect will not be sufficiently obtained. On the other hand, if the content of B is more than 0.0100%, even if the contents of other elements are within the range of the present embodiment, formation of Cr carbides at the grain boundaries will be promoted. In such a case, the stress relaxation cracking resistance of the steel material will decrease. Therefore, the content of B is 0.0005 to 0.0100%. A preferable lower limit of the content of B is 0.0012%, more preferably is 0.0014%, further preferably is 0.0016%, further preferably is 0.0018%, and further preferably is 0.0020%. A preferable upper limit of the content of B is 0.0080%, more preferably is 0.0060%, further preferably is 0.0050%, further preferably is 0.0040%, further preferably is 0.0035%, and further preferably is 0.0030%.</p>
+<p id="p-0134" num="0132">The balance in the chemical composition of the austenitic stainless steel material according to the present embodiment is Fe and impurities. Here, the term &#x201c;impurities&#x201d; refers to elements which, during industrial production of the austenitic stainless steel material, are mixed in from ore or scrap that is used as a raw material, or from the production environment or the like, and which are allowed within a range that does not adversely affect the austenitic stainless steel material of the present embodiment.</p>
+<p id="p-0135" num="0133">Among the impurities, the respective contents of Sn, As, Zn, Pb and Sb are as follows.</p>
+<p id="p-0136" num="0134">Sn: 0 to 0.010%</p>
+<p id="p-0137" num="0135">As: 0 to 0.010%</p>
+<p id="p-0138" num="0136">Zn: 0 to 0.010%</p>
+<p id="p-0139" num="0137">Pb: 0 to 0.010%</p>
+<p id="p-0140" num="0138">Sb: 0 to 0.010%</p>
+<p id="p-0141" num="0139">Tin (Sn), arsenic (As), zinc (Zn), lead (Pb) and antimony (Sb) are each an impurity. The content of Sn may be 0%. Similarly, the content of As may be 0%. The content of Zn may be 0%. The content of Pb may be 0%. The content of Sb may be 0%. If contained, each of these elements segregates at grain boundaries and lowers the fusing point of the grain boundaries, and reduces the bonding strength of the grain boundaries. If the content of Sn is more than 0.010%, even if the contents of other elements are within the range of the present embodiment, the hot workability and weldability of the steel material will decrease. Similarly, if the content of As is more than 0.010%, even if the contents of other elements are within the range of the present embodiment, the hot workability and weldability of the steel material will decrease. If the content of Zn is more than 0.010%, even if the contents of other elements are within the range of the present embodiment, the hot workability and weldability of the steel material will decrease. If the content of Pb is more than 0.010%, even if the contents of other elements are within the range of the present embodiment, the hot workability and weldability of the steel material will decrease. If the content of Sb is more than 0.010%, even if the contents of other elements are within the range of the present embodiment, the hot workability and weldability of the steel material will decrease. Therefore, the content of Sn is 0 to 0.010%. The content of As is 0 to 0.010%. The content of Zn is 0 to 0.010%. The content of Pb is 0 to 0.010%. The content of Sb is 0 to 0.010%.</p>
+<p id="p-0142" num="0140">[Regarding Optional Elements]</p>
+<p id="p-0143" num="0141">[First Group of Optional Elements]</p>
+<p id="p-0144" num="0142">The chemical composition of the austenitic stainless steel material according to the present embodiment may also contain one or more elements selected from the group consisting of Ti, Ta, V, Zr and Hf in lieu of a part of Fe. These elements each combine with C to form a carbide and thereby reduce the amount of dissolved C, and in this way these elements further increase the stress relaxation cracking resistance of the steel material.</p>
+<p id="p-0145" num="0143">Ti: 0 to 0.50%</p>
+<p id="p-0146" num="0144">Titanium (Ti) is an optional element, and need not be contained. In other words, the content of Ti may be 0%. When contained, Ti combines with C in the steel material to form carbides. By this means, the formation of Cr carbides is suppressed, and the stress relaxation cracking resistance of the steel material further increases. If even a small amount of Ti is contained, the aforementioned effect is obtained to a certain extent. However, if the content of Ti is more than 0.50%, even if the contents of other elements are within the range of the present embodiment, carbides will excessively precipitate in the grains. In such a case, the strength within the grains will become excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will, on the contrary, decrease. Therefore, the content of Ti is 0 to 0.50%. A preferable lower limit of the content of Ti is more than 0%, more preferably is 0.01%, further preferably is 0.02%, and further preferably is 0.03%. A preferable upper limit of the content of Ti is 0.45%, more preferably is 0.40%, further preferably is 0.35%, and further preferably is 0.30%.</p>
+<p id="p-0147" num="0145">Ta: 0 to 0.50%</p>
+<p id="p-0148" num="0146">Tantalum (Ta) is an optional element, and need not be contained. In other words, the content of Ta may be 0%. When contained, Ta combines with C to form carbides. By this means, the formation of Cr carbides is suppressed, and the stress relaxation cracking resistance of the steel material further increases. If even a small amount of Ta is contained, the aforementioned effect is obtained to a certain extent. However, if the content of Ta is more than 0.50%, even if the contents of other elements are within the range of the present embodiment, carbides will excessively precipitate in the grains. In such a case, the strength within the grains will become excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will, on the contrary, decrease. Therefore, the content of Ta is 0 to 0.50%. A preferable lower limit of the content of Ta is more than 0%, more preferably is 0.01%, further preferably is 0.02%, further preferably is 0.03%, and further preferably is 0.05%. A preferable upper limit of the content of Ta is 0.45%, more preferably is 0.40%, further preferably is 0.35%, and further preferably is 0.30%.</p>
+<p id="p-0149" num="0147">V: 0 to 1.00%</p>
+<p id="p-0150" num="0148">Vanadium (V) is an optional element, and need not be contained. In other words, the content of V may be 0%. When contained, V combines with C to form carbides. By this means, the formation of Cr carbides is suppressed, and the stress relaxation cracking resistance of the steel material further increases. If even a small amount of V is contained, the aforementioned effect is obtained to a certain extent. However, if the content of V is more than 1.00%, even if the contents of other elements are within the range of the present embodiment, carbides will excessively precipitate in the grains. In such a case, the strength within the grains will become excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will, on the contrary, decrease. Therefore, the content of V is 0 to 1.00%. A preferable lower limit of the content of V is more than 0%, more preferably is 0.01%, further preferably is 0.02%, further preferably is 0.04%, and further preferably is 0.06%. A preferable upper limit of the content of V is 0.50%, more preferably is 0.40%, further preferably is 0.35%, and further preferably is 0.30%.</p>
+<p id="p-0151" num="0149">Zr: 0 to 0.10%</p>
+<p id="p-0152" num="0150">Zirconium (Zr) is an optional element, and need not be contained. In other words, the content of Zr may be 0%. When contained, Zr combines with C to form carbides. By this means, the formation of Cr carbides is suppressed, and the stress relaxation cracking resistance of the steel material further increases. If even a small amount of Zr is contained, the aforementioned effect is obtained to a certain extent. However, if the content of Zr is more than 0.10%, even if the contents of other elements are within the range of the present embodiment, carbides will excessively precipitate in the grains. In such a case, the strength within the grains will become excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will, on the contrary, decrease. Therefore, the content of Zr is 0 to 0.10%. A preferable lower limit of the content of Zr is more than 0%, more preferably is 0.01%, and further preferably is 0.02%. A preferable upper limit of the content of Zr is 0.09%, more preferably is 0.08%, further preferably is 0.07%, and further preferably is 0.06.</p>
+<p id="p-0153" num="0151">Hf: 0 to 0.10%</p>
+<p id="p-0154" num="0152">Hafnium (Hf) is an optional element, and need not be contained. In other words, the content of Hf may be 0%. When contained, Hf combines with C to form carbides. By this means, the formation of Cr carbides is suppressed, and the stress relaxation cracking resistance of the steel material further increases. If even a small amount of Hf is contained, the aforementioned effect is obtained to a certain extent. However, if the content of Hf is more than 0.10%, even if the contents of other elements are within the range of the present embodiment, carbides will excessively precipitate in the grains. In such a case, the strength within the grains will become excessively high, and the strength difference between the inside of the grains and the grain boundaries will be large. Consequently, stress concentration will occur at grain boundary interfaces, and the stress relaxation cracking resistance will, on the contrary, decrease. Therefore, the content of Hf is 0 to 0.10%. A preferable lower limit of the content of Hf is more than 0%, more preferably is 0.01%, and further preferably is 0.02%. A preferable upper limit of the content of Hf is 0.09%, more preferably is 0.08%, further preferably is 0.07%, and further preferably is 0.06%.</p>
+<p id="p-0155" num="0153">[Second Group of Optional Elements]</p>
+<p id="p-0156" num="0154">The chemical composition of the austenitic stainless steel material according to the present embodiment may also contain one or more elements selected from the group consisting of Cu, W and Co in lieu of a part of Fe. Each of these elements further increases the creep strength of the steel material at an average operation temperature of more than 600 to 750&#xb0; C.</p>
+<p id="p-0157" num="0155">Cu: 0 to 4.00%</p>
+<p id="p-0158" num="0156">Copper (Cu) is an optional element, and need not be contained. In other words, the content of Cu may be 0%. When contained, during use of the steel material in a high temperature environment, Cu precipitates as a Cu phase in the grains, and further increases the creep strength of the steel material by precipitation strengthening. If even a small amount of Cu is contained, the aforementioned effect is obtained to a certain extent. However, if the content of Cu is more than 4.00%, during use in a high temperature environment, in some cases the precipitation amount of Cu phase will increase and the creep ductility will decrease. Therefore, the content of Cu is 0 to 4.00%. A preferable lower limit of the content of Cu is more than 0%, more preferably is 0.01%, further preferably is 0.05%, further preferably is 0.10%, further preferably is 0.20%, and further preferably is 0.30%. A preferable upper limit of the content of Cu is 3.50%, more preferably is 3.00%, further preferably is 2.50%, and further preferably is 2.00%.</p>
+<p id="p-0159" num="0157">W: 0 to 5.00%</p>
+<p id="p-0160" num="0158">Tungsten (W) is an optional element, and need not be contained. In other words, the content of W may be 0%. When contained, during use of the steel material in a high temperature environment, W further increases the creep strength of the steel material by solid-solution strengthening. If even a small amount of W is contained, the aforementioned effect is obtained to a certain extent. However, if the content of W is more than 5.00%, even if the contents of other elements are within the range of the present embodiment, the stability of austenite will decrease and the toughness will decrease. Therefore, the content of W is 0 to 5.00%. A preferable lower limit of the content of W is more than 0%, more preferably is 0.01%, further preferably is 0.10%, further preferably is 0.20%, further preferably is 0.25%, and further preferably is 0.30%. A preferable upper limit of the content of W is 4.00%, more preferably is 3.00%, further preferably is 2.50%, further preferably is 2.00%, and further preferably is 1.50%.</p>
+<p id="p-0161" num="0159">Co: 0 to 1.00%</p>
+<p id="p-0162" num="0160">Cobalt (Co) is an optional element, and need not be contained. In other words, the content of Co may be 0%. When contained, Co stabilizes austenite and further increases the creep strength of the steel material at an average operation temperature of more than 600 to 750&#xb0; C. If even a small amount of Co is contained, the aforementioned effects are obtained to a certain extent. However, if the content of Co is more than 1.00%, even if the contents of other elements are within the range of the present embodiment, the raw material cost will increase. Therefore, the content of Co is 0 to 1.00%. A preferable lower limit of the content of Co is more than 0%, more preferably is 0.01%, further preferably is 0.04%, and further preferably is 0.10%. A preferable upper limit of the content of Co is 0.90%, more preferably is 0.80%, further preferably is 0.70%, and further preferably is 0.60%.</p>
+<p id="p-0163" num="0161">[Third Group of Optional Elements]</p>
+<p id="p-0164" num="0162">The chemical composition of the austenitic stainless steel material according to the present embodiment may, in addition, contain Al in lieu of a part of Fe. Al deoxidizes the steel in the steel making process.</p>
+<p id="p-0165" num="0163">Sol. Al: 0 to 0.100%</p>
+<p id="p-0166" num="0164">Aluminum (Al) is an optional element, and need not be contained. In other words, the content of Al may be 0%. When contained, Al deoxidizes the steel in the steel making process. If even a small amount of Al is contained, the aforementioned effect is obtained to a certain extent. However, if the content of sol. Al is more than 0.100%, even if the contents of other elements are within the range of the present embodiment, the workability and ductility of the steel material will decrease. Therefore, the content of sol. Al is 0 to 0.100%. A preferable lower limit of the content of sol. Al is more than 0%, more preferably is 0.001%, further preferably is 0.005%, and further preferably is 0.010%. A preferable upper limit of the content of Al is 0.080%, more preferably is 0.060%, and further preferably is 0.040%. In the present embodiment, the content of sol. Al means the content of acid-soluble Al (sol. Al).</p>
+<p id="p-0167" num="0165">[Fourth Group of Optional Elements]</p>
+<p id="p-0168" num="0166">The chemical composition of the austenitic stainless steel material according to the present embodiment may also contain one or more elements selected from the group consisting of Ca, Mg and rare earth metal (REM) in lieu of a part of Fe. Each of these elements increases the hot workability of the steel material.</p>
+<p id="p-0169" num="0167">Ca: 0 to 0.0200%</p>
+<p id="p-0170" num="0168">Calcium (Ca) is an optional element, and need not be contained. In other words, the content of Ca may be 0%. When contained, Ca fixes O (oxygen) and S (sulfur) as inclusions, and thereby increases the hot workability of the steel material. Ca also fixes S, and thereby suppresses grain-boundary segregation of S. By this means, embrittlement cracks in the HAZ during welding are reduced. If even a small amount of Ca is contained, the aforementioned effects are obtained to a certain extent. However, if the content of Ca is more than 0.0200%, even if the contents of other elements are within the range of the present embodiment, the cleanliness of the steel material will decrease, and the hot workability of the steel material will, on the contrary, decrease. Therefore, the content of Ca is 0 to 0.0200%. A preferable lower limit of the content of Ca is more than 0%, more preferably is 0.0001%, further preferably is 0.0002%, and further preferably is 0.0005%. A preferable upper limit of the content of Ca is 0.0150%, more preferably is 0.0100%, further preferably is 0.0080%, further preferably is 0.0050%, and further preferably is 0.0040%.</p>
+<p id="p-0171" num="0169">Mg: 0 to 0.0200%</p>
+<p id="p-0172" num="0170">Magnesium (Mg) is an optional element, and need not be contained. In other words, the content of Mg may be 0%. When contained, Mg fixes O (oxygen) and S (sulfur) as inclusions, and thereby increases the hot workability of the steel material. Mg also fixes S, and thereby suppresses grain-boundary segregation of S. By this means, embrittlement cracks in the HAZ during welding are reduced. If even a small amount of Mg is contained, the aforementioned effects are obtained to a certain extent. However, if the content of Mg is more than 0.0200%, even if the contents of other elements are within the range of the present embodiment, the cleanliness of the steel material will decrease, and the hot workability of the steel material will, on the contrary, decrease. Therefore, the content of Mg is 0 to 0.0200%. A preferable lower limit of the content of Mg is more than 0%, more preferably is 0.0001%, further preferably is 0.0002%, and further preferably is 0.0005%. A preferable upper limit of the content of Mg is 0.0150%, more preferably is 0.0100%, further preferably is 0.0080%, further preferably is 0.0050%, and further preferably is 0.0040%.</p>
+<p id="p-0173" num="0171">Rare Earth Metal: 0 to 0.100%</p>
+<p id="p-0174" num="0172">Rare earth metal (REM) is an optional element, and need not be contained. In other words, the content of REM may be 0%. When contained, REM fixes O (oxygen) and S (sulfur) as inclusions, and thereby increases the hot workability of the steel material. However, if the content of REM is too high, even if the contents of other elements are within the range of the present embodiment, the hot workability of the steel material will decrease. Therefore, the content of REM is 0 to 0.100%. A preferable lower limit of the content of REM is more than 0%, more preferably is 0.001%, and further preferably is 0.002%. A preferable upper limit of the content of REM is 0.080%, and further preferably is 0.060%.</p>
+<p id="p-0175" num="0173">In the present description, the term &#x201c;REM&#x201d; includes at least one or more elements among Sc, Y, and lanthanoids (elements from La with atomic number 57 through Lu with atomic number 71), and the term &#x201c;content of REM&#x201d; means the total content of these elements.</p>
+<p id="p-0176" num="0174">[Method for Analyzing Chemical Composition of Austenitic Stainless Steel Material]</p>
+<p id="p-0177" num="0175">The chemical composition of the austenitic stainless steel material of the present embodiment can be determined by a well-known component analysis method. Specifically, when the austenitic stainless steel material is a steel pipe, a drill with a diameter of 5 mm is used to perform piercing at a center position of the wall thickness to generate machined chips, and the machined chips are collected. In a case where the austenitic stainless steel material is a steel plate, a drill with a diameter of 5 mm is used to perform piercing at the center position of the plate width and also at the center position of the plate thickness to generate machined chips, and the machined chips are collected. In a case where the austenitic stainless steel material is a steel bar, a drill with a diameter of 5 mm is used to perform piercing at an R/2 position to generate machined chips, and the machined chips are collected. Here, the term &#x201c;R/2 position&#x201d; means the center position of a radius R in a cross section perpendicular to the longitudinal direction of the steel bar.</p>
+<p id="p-0178" num="0176">The collected machined chips are dissolved in acid to obtain a liquid solution. The liquid solution is subjected to ICP-AES (Inductively Coupled Plasma Atomic Emission Spectrometry), and elementary analysis of the chemical composition is performed. The content of C and the content of S are determined by a well-known high-frequency combustion method (combustion-infrared absorption method). The content of N is determined using a well-known inert gas fusion-thermal conductivity method.</p>
+<p id="p-0179" num="0177">[Regarding Dissolved N Ratio]</p>
+<p id="p-0180" num="0178">The ratio of the dissolved N amount (mass %) in the austenitic stainless steel material of the present embodiment with respect to the content of N (mass %) in the steel material is defined as the &#x201c;dissolved N ratio&#x201d;. That is, the dissolved N ratio is represented by the following formula.</p>
+<p id="p-0181" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Dissolved N ratio=dissolved N amount (mass %) in steel material/content of N (mass %) in steel material<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0182" num="0179">In the austenitic stainless steel material of the present embodiment, the dissolved N ratio is 0.40 to 0.90.</p>
+<p id="p-0183" num="0180">If the dissolved N ratio is less than 0.40, there will be too many nitrides in the austenitic stainless steel material. In this case, because the dissolved N amount in the steel material will be insufficient, fine nitrides will not sufficiently precipitate in Cr depleted zones during use in a high temperature environment. Therefore, the stress relaxation cracking resistance and the creep strength of the steel material in a high temperature environment will decrease. On the other hand, if the dissolved N ratio is more than 0.90, there will be too few nitrides in the austenitic stainless steel material. In this case, grain refining by nitrides will be insufficient. As a result, the strength of the grain boundaries will decrease and the stress relaxation cracking resistance will decrease.</p>
+<p id="p-0184" num="0181">If the dissolved N ratio is from 0.40 to 0.90, in the austenitic stainless steel material, a sufficient dissolved N amount for forming nitrides during use in a high temperature environment will be present, and a sufficient amount of nitrides for refining grains will also be present. Therefore, in the austenitic stainless steel material in a high temperature environment, sufficient stress relaxation cracking resistance and creep strength will be obtained. A preferable lower limit of the dissolved N ratio is 0.45, more preferably is 0.48, further preferably is 0.50, further preferably is 0.55, further preferably is 0.58, further preferably is 0.60 and further preferably is 0.63. A preferable upper limit of the dissolved N ratio is 0.88, more preferably is 0.86, further preferably is 0.85, further preferably is 0.83, further preferably is 0.80, further preferably is 0.78, and further preferably is 0.75.</p>
+<p id="p-0185" num="0182">[Method for Measuring Dissolved N Ratio]</p>
+<p id="p-0186" num="0183">The dissolved N ratio can be measured by the following method. Specifically, the content of N in the steel material (hereinafter, referred to as a &#x201c;total content of N&#x201d;) is determined by the aforementioned method of chemical analysis. Further, the N amount contained in the residue (hereinafter, referred to as a &#x201c;residue N amount&#x201d;) is determined by an electrolytic extraction residue method. The obtained total content of N and residue N amount are used to determine the dissolved N ratio by the following formula.</p>
+<p id="p-0187" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Dissolved N ratio=(1&#x2212;residue N amount/total content of N)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0188" num="0184">More specifically, the dissolved N ratio is determined by the following method.</p>
+<p id="p-0189" num="0185">A test specimen is taken from the austenitic stainless steel material. A cross section perpendicular to the longitudinal direction of the test specimen may be circular or may be rectangular. If the austenitic stainless steel material is a steel pipe, the test specimen is taken in a manner so that the center of a cross section perpendicular to the longitudinal direction of the test specimen is the center position of the wall thickness, and the longitudinal direction of the test specimen coincides with the longitudinal direction of the steel pipe. If the austenitic stainless steel material is a steel plate, the test specimen is taken in a manner so that the center of a cross section perpendicular to the longitudinal direction of the test specimen is the center position of the plate thickness, and the longitudinal direction of the test specimen coincides with the longitudinal direction of the steel plate. If the austenitic stainless steel material is a steel bar, the test specimen is taken in a manner so that the center of a cross section perpendicular to the longitudinal direction of the test specimen is the R/2 position of the steel bar, and the longitudinal direction of the test specimen coincides with the longitudinal direction of the steel bar.</p>
+<p id="p-0190" num="0186">The surface of the taken test specimen is polished to remove about 50 &#x3bc;m by preliminary electropolishing to obtain a newly formed surface. The electropolished test specimen is subjected to electrolyzation using an electrolyte solution (10% acetylacetone+1% tetra-ammonium+methanol). The electrolyte solution after electrolyzation is passed through a 0.2 &#x3bc;m filter to capture residue. The obtained residue is subjected to acid decomposition, and the mass of N in the residue is determined by ICP (inductively coupled plasma) emission spectrometry. In addition, the mass of the test specimen before the main electrolyzation and the mass of the test specimen after the main electrolyzation are measured. Then, a value obtained by subtracting the mass of the test specimen after the main electrolyzation from the mass of the test specimen before the main electrolyzation is defined as the base metal mass mainly electrolyzed. The N mass in the residue is divided by the base metal mass mainly electrolyzed to determine the residue N amount (mass %). In other words, the residue N amount (mass %) is determined based on the following formula.</p>
+<p id="p-0191" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Residue N amount=N mass in residue/base metal mass&#xd7;100<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0192" num="0187">The total content of N (mass %) in the steel material is determined by the aforementioned well-known component analysis method. The determined total content of N and residue N amount are used to determine the dissolved N ratio by the following formula.</p>
+<p id="p-0193" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Dissolved N ratio=(1&#x2212;residue N amount/total content of N)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0194" num="0188">[Shape of Austenitic Stainless Steel Material of Present Embodiment]</p>
+<p id="p-0195" num="0189">The shape of the austenitic stainless steel material of the present embodiment is not particularly limited. The austenitic stainless steel material of the present embodiment may be a steel pipe, may be a steel plate, or may be a steel bar. Further, the austenitic stainless steel material of the present embodiment may be a forged product.</p>
+<p id="p-0196" num="0190">[Regarding Uses of Austenitic Stainless Steel Material of Present Embodiment]</p>
+<p id="p-0197" num="0191">The austenitic stainless steel material of the present embodiment is suitable for use for apparatuses which are used at an average operation temperature of more than 600 to 750&#xb0; C. (in other words, in a high temperature environment). The austenitic stainless steel material of the present embodiment is, in addition, suitable for use for apparatuses which are used for a long time period at an average operation temperature of more than 600 to 750&#xb0; C. after being subjected to welding with higher heat input. Even in a case where the average operation temperature is in the range of more than 600 to 750&#xb0; C. and the operation temperature temporarily becomes more than 750&#xb0; C., as long as the average operation temperature is more than 600 to 750&#xb0; C., it is suitable for use of the austenitic stainless steel material of the present embodiment. The highest temperature reached by these apparatuses may be higher than 750&#xb0; C. Such apparatuses are, for example, apparatuses in chemical plant facilities that are typified by oil refining facilities and petrochemical facilities. These apparatuses are equipped with, for example, a heating furnace pipe, a tank, and piping.</p>
+<p id="p-0198" num="0192">Note that, the austenitic stainless steel material of the present embodiment can also of course be used for facilities other than chemical plant facilities. Examples of such facilities other than chemical plant facilities include thermal power generation boiler facilities (for example, boiler tubes) for which use at an average operation temperature of around more than 600 to 750&#xb0; C. is envisioned, similarly to chemical plant facilities.</p>
+<p id="p-0199" num="0193">[Method for Producing Austenitic Stainless Steel Material of Present Embodiment]</p>
+<p id="p-0200" num="0194">A method for producing the austenitic stainless steel material of the present embodiment is described hereinafter. The method for producing an austenitic stainless steel material described hereinafter is one example of a method for producing the austenitic stainless steel material of the present embodiment. Accordingly, an austenitic stainless steel material having the structure described above may be produced by another production method than the production method described hereinafter. However, the production method described hereinafter is a preferable example of a method for producing the austenitic stainless steel material of the present embodiment.</p>
+<p id="p-0201" num="0195">The method for producing the austenitic stainless steel material of the present embodiment includes: a process of preparing a starting material (preparation process); a process of performing hot working on the starting material to produce an intermediate steel material (hot working process); as required, a process of performing cold working after performing a pickling treatment on the intermediate steel material after the hot working process (cold working process); and process of performing a solution treatment on the intermediate steel material after the cold working process (solution treatment process). Hereunder, each of these processes is described.</p>
+<p id="p-0202" num="0196">[Preparation Process]</p>
+<p id="p-0203" num="0197">In the preparation process, a starting material having the aforementioned chemical composition is prepared. The starting material may be supplied by a third party or may be produced. The starting material may be an ingot, a slab, a bloom, or a billet. In the case of producing the starting material, the starting material is produced by the following method. Molten steel having the aforementioned chemical composition is produced. The produced molten steel is used to produce an ingot by an ingot-making process. The produced molten steel may also be used to produce a slab, a bloom, or a billet (cylindrical starting material) by a continuous casting process. Hot working may be performed on the produced ingot, slab, or bloom to produce a billet. For example, hot forging may be performed on the ingot to produce a cylindrical billet, and the billet may be used as a starting material (cylindrical starting material). In such a case, the temperature of the starting material immediately before the start of the hot forging is not particularly limited, and for example is 1000 to 1300&#xb0; C. The method of cooling the starting material after the hot forging is not particularly limited.</p>
+<p id="p-0204" num="0198">[Hot Working Process]</p>
+<p id="p-0205" num="0199">In the hot working process, hot working is performed on the starting material prepared in the preparation process to produce an intermediate steel material. The intermediate steel material, for example, may be a steel pipe, may be a steel plate, or may be a steel bar.</p>
+<p id="p-0206" num="0200">When the intermediate steel material is a steel pipe, the following working is performed in the hot working process. First, a cylindrical starting material is prepared. A through-hole is formed in the cylindrical starting material along the central axis thereof by machining. Hot extrusion, which is typified by the Ugine-Sejournet process, is performed on the cylindrical starting material in which the through-hole has been formed, to thereby produce an intermediate steel material (steel pipe). The temperature of the starting material immediately before performing the hot extrusion is not particularly limited. The temperature of the starting material immediately before performing the hot extrusion is, for example, 1000 to 1300&#xb0; C. Instead of the hot extrusion process, a hot hollow forging process may be performed.</p>
+<p id="p-0207" num="0201">Instead of the hot extrusion, a steel pipe may be produced by performing piercing-rolling according to the Mannesmann process. In such a case, a round billet is pierced and rolled with a piercing machine. In the case of performing piercing-rolling, whilst the piercing ratio is not particularly limited, for example the piercing ratio is 1.0 to 4.0. The pierced and rolled round billet is further subjected to hot rolling with a mandrel mill, a reducer, a sizing mill or the like to produce a hollow shell. Whilst the cumulative reduction ratio of area in the hot working process is not particularly limited, for example, the reduction ratio of area is 20 to 80%.</p>
+<p id="p-0208" num="0202">When the intermediate steel material is a steel plate, for example, one or a plurality of rolling machines equipped with a pair of work rolls is used in the hot working process. Hot rolling is performed on the starting material, such as a slab, using the rolling machine to produce a steel plate. The starting material is heated before the hot rolling. The hot rolling is performed on the heated starting material. The temperature of the starting material immediately before the hot rolling is, for example, 1000 to 1300&#xb0; C.</p>
+<p id="p-0209" num="0203">When the intermediate steel material is a steel bar, the hot working process includes, for example, a rough rolling process and a finish rolling process. In the rough rolling process, hot working is performed on the starting material to produce a billet. In the rough rolling process, for example, a blooming machine is used. The blooming machine is used to subject the starting material to blooming to produce a billet. If a continuous mill is arranged downstream of the blooming machine, the continuous mill may be used to further perform hot rolling on the billet obtained after performing the blooming, to thereby produce a billet of an even smaller size. In the continuous mill, for example, horizontal stands having a pair of horizontal rolls and vertical stands having a pair of vertical rolls are alternately arranged in a row. In the rough rolling process, a billet is produced from the starting material, such as a bloom. Whilst the starting material temperature immediately before the rough rolling process is not particularly limited, for example, the starting material temperature is 1000 to 1300&#xb0; C. In the finish rolling process, the billet is first heated. Hot rolling is performed on the heated billet using the continuous mill to produce a steel bar. Whilst the heating temperature in the heating furnace in the finish rolling process is not particularly limited, for example, the heating temperature is 1000 to 1300&#xb0; C.</p>
+<p id="p-0210" num="0204">The intermediate steel material after hot working is allowed to cool for a certain time period, and thereafter is rapidly cooled. The conditions for the rapid cooling are as follows.</p>
+<p id="p-0211" num="0205">Time t1 from completion of hot working until start of rapid cooling: 0.50 min to 5.00 min</p>
+<p id="p-0212" num="0206">Intermediate steel material temperature T1 at start of rapid cooling: 700&#xb0; C. or more</p>
+<p id="p-0213" num="0207">Cooling rate CR1 from completion of hot working until start of rapid cooling: 15&#xb0; C./min or more</p>
+<p id="p-0214" num="0208">[Time t1 from Completion of Hot Working Until Start of Rapid Cooling]</p>
+<p id="p-0215" num="0209">The time t1 (min) from completion of hot working until the start of rapid cooling will be referred to herein as &#x201c;standing time&#x201d; t1. In the case of rapidly cooling the intermediate steel material after hot working, a water cooler is used. The intermediate steel material is rapidly cooled (water-cooled) by the water cooler. During the period from completion of hot working until the start of rapid cooling, the intermediate steel material is, intentionally, left to stand for a certain time period. By this means, formation of nitrides is promoted. If the standing time t1 is shorter than 0.50 minutes, rapid cooling will be started in a state in which nitrides have not sufficiently formed. In this case, even if the other conditions of the hot working process as well as conditions of the solution treatment process to be described later are satisfied, the dissolved N ratio will be more than 0.90, and the nitrides will be insufficient. Consequently, the pinning effect will not be sufficiently obtained, grains will coarsen, and the stress relaxation cracking resistance of the steel material will decrease. On the other hand, if the standing time t1 is longer than 5.00 minutes, a large amount of nitrides will form in the intermediate steel material during the standing time t1. In this case, even if the other conditions of the hot working process as well as conditions of the solution treatment process to be described later are satisfied, the dissolved N ratio will be less than 0.40%, and the dissolved N amount will be insufficient. In this case, during use in a high temperature environment, fine nitrides will not sufficiently precipitate in Cr depleted zones. Consequently, the stress relaxation cracking resistance of the steel material and the creep strength will decrease. If the standing time t1 is within the range of 0.50 minutes to 5.00 minutes, on the premise that the other production conditions are satisfied, the dissolved N ratio will be 0.40 to 0.90 and excellent stress relaxation cracking resistance and creep strength will be obtained. A preferable upper limit of the standing time t1 is 4.50 minutes, more preferably is 4.00 minutes, and further preferably is 3.50 minutes.</p>
+<p id="p-0216" num="0210">[Temperature T1 of Intermediate Steel Material at Start of Rapid Cooling]</p>
+<p id="p-0217" num="0211">The temperature T1 (&#xb0; C.) of the intermediate steel material at the start of rapid cooling is referred to herein as &#x201c;rapid cooling starting temperature&#x201d; T1. If the rapid cooling starting temperature T1 is less than 700&#xb0; C., coarse nitrides will form in the intermediate steel material during the standing time t1. Further, Cr carbides will form at the grain boundaries. In this case, during the standing time t1, coarse growth of nitrides will occur in the intermediate steel material, and Cr carbides at the grain boundaries will coarsen. In this case, the dissolved N ratio will be less than 0.40, and the stress relaxation cracking resistance and creep strength will decrease. If the rapid cooling starting temperature T1 is 700&#xb0; C. or more, in the intermediate steel material during the standing time t1, the pinning effect produced by fine nitrides will also act, and coarsening of grains will be suppressed. Therefore, the grains of the intermediate steel material after the rapid cooling will be kept fine. As a result, on the premise that the other production conditions are satisfied, the dissolved N ratio will be 0.40 to 0.90 and excellent stress relaxation cracking resistance and creep strength will be obtained. A preferable lower limit of the rapid cooling starting temperature T1 is 750&#xb0; C., more preferably is 780&#xb0; C., further preferably is more than 790&#xb0; C., and further preferably is 800&#xb0; C.</p>
+<p id="p-0218" num="0212">[Cooling Rate CR1 from Completion of Hot Working Until Start of Rapid Cooling]</p>
+<p id="p-0219" num="0213">If a cooling rate CR1 (&#xb0; C./min) from completion of the hot working until the start of rapid cooling is less than 15&#xb0; C./min, coarse nitrides will form in the intermediate steel material during the standing time t1. Further, Cr carbides will form at the grain boundaries. In this case, the dissolved N ratio will be less than 0.40, and the stress relaxation cracking resistance and creep strength will decrease. If the cooling rate CR1 is 15&#xb0; C./min or more, on the premise that the other production conditions are satisfied, the dissolved N ratio will be 0.40 to 0.90 and excellent stress relaxation cracking resistance and creep strength will be obtained. A preferable lower limit of the cooling rate CR1 is 18&#xb0; C./min, and more preferably is 20&#xb0; C./min Note that, the cooling rate CR1 is a value obtained by dividing a difference between the surface temperature of the intermediate steel material immediately after the completion of hot working and the surface temperature of the intermediate steel material immediately before the start of rapid cooling by the standing time t1.</p>
+<p id="p-0220" num="0214">[Cold Working Process]</p>
+<p id="p-0221" num="0215">A cold working process is performed as required. In other words, a cold working process need not be performed. In the case of performing a cold working process, cold working is performed after performing a pickling treatment on the intermediate steel material. When the intermediate steel material is a steel pipe or a steel bar, the cold working is, for example, cold drawing. When the intermediate steel material is a steel plate, the cold working is, for example, cold rolling. By performing the cold working process, strain is imparted to the intermediate steel material before the solution treatment process. This allows the development of recrystallization and formation of uniform grains to occur during the solution treatment process. Whilst the reduction ratio of area in the cold working process is not particularly limited, for example, the reduction ratio of area is 10 to 90%.</p>
+<p id="p-0222" num="0216">[Solution Treatment Process]</p>
+<p id="p-0223" num="0217">In the solution treatment process, the intermediate steel material after the hot working process or after the cold working process is subjected to a solution treatment. The solution treatment is performed by the following method. The intermediate steel material is charged into a heat treatment furnace in which the atmosphere inside the furnace is an atmosphere. Here, the term &#x201c;atmosphere&#x201d; means an atmosphere containing 78% or more by volume of nitrogen and 20% or more by volume of oxygen, which are gases that constitute the atmosphere. Inside the furnace with the atmosphere, the intermediate steel material is held at a solution treatment temperature, and thereafter is rapidly cooled at a cooling rate to be described later. By controlling a solution treatment temperature T2 in the solution treatment and a cooling rate CR2 in the following manner, the dissolved N ratio can be made 0.4 to 0.9 in the austenitic stainless steel material having the chemical composition described above.</p>
+<p id="p-0224" num="0218">Solution treatment temperature T2: 1020 to 1350&#xb0; C.</p>
+<p id="p-0225" num="0219">Cooling rate CR2: 5&#xb0; C./sec or more</p>
+<p id="p-0226" num="0220">[Solution Treatment Temperature T2: 1020 to 1350&#xb0; C.]</p>
+<p id="p-0227" num="0221">If the solution treatment temperature T2 is less than 1020&#xb0; C., in some cases Cr carbides or CrN will not dissolve sufficiently. In this case, the dissolved N ratio in the steel material will be low, and will be less than 0.40. On the other hand, if the solution treatment temperature T2 is more than 1350&#xb0; C., nitrides in the steel material will dissolve, and the dissolved N ratio will be more than 0.90.</p>
+<p id="p-0228" num="0222">If the solution treatment temperature T2 is 1020 to 1350&#xb0; C., on the premise that the other conditions are also satisfied, the dissolved N ratio will fall within the range of 0.40 to 0.90. A preferable lower limit of the solution treatment temperature T2 is 1030&#xb0; C. A preferable upper limit of the solution treatment temperature T2 is 1300&#xb0; C., and more preferably is 1250&#xb0; C. Note that, a holding time at the solution treatment temperature T2 is not particularly limited. The holding time at the solution treatment temperature T2 is, for example, two minutes or more. Although the upper limit of the holding time is not particularly limited, for example, the upper limit is 500 minutes.</p>
+<p id="p-0229" num="0223">[Cooling Rate CR2: 5&#xb0; C./Sec or More]</p>
+<p id="p-0230" num="0224">After being held at the solution treatment temperature T2, the steel material is cooled at the cooling rate CR2 of 5&#xb0; C./sec or more at least when the steel material temperature is in the temperature range of 1000 to 600&#xb0; C. Here, the term &#x201c;cooling rate CR2&#x201d; means the average cooling rate (&#xb0; C./sec) when the steel material temperature is in the temperature range of 1000 to 600&#xb0; C. In a case where the cooling rate CR2 is less than 5&#xb0; C./sec, an excessively large amount of coarse nitrides will precipitate during cooling. As a result, the dissolved N ratio will be less than 0.40.</p>
+<p id="p-0231" num="0225">If the cooling rate CR2 is 5&#xb0; C./sec or more, during cooling in the temperature range of 1000 to 600&#xb0; C., formation of an excessively large amount of nitrides in the steel material can be suppressed. As a result, on the premise that the other conditions are also satisfied, the dissolved N ratio will fall within the range of 0.40 to 0.90. A preferable lower limit of the cooling rate CR2 is 6&#xb0; C./sec, and further preferably is 7&#xb0; C./sec. The rapid cooling method may be water cooling or may be oil cooling.</p>
+<p id="p-0232" num="0226">The austenitic stainless steel material of the present embodiment can be produced by the processes described above. The production method described above is one example of a method for producing the austenitic stainless steel material of the present embodiment. Therefore, a method for producing the austenitic stainless steel material of the present embodiment is not limited to the production method described above. As long as the austenitic stainless steel material of the present embodiment has the aforementioned chemical composition and the dissolved N ratio is 0.40 to 0.90, a method for producing the austenitic stainless steel material of the present embodiment is not limited to the production method described above.</p>
+<p id="p-0233" num="0227">As described above, in the austenitic stainless steel material of the present embodiment, the content of each element in the chemical composition is within the aforementioned numerical value range, and the dissolved N ratio is 0.40 to 0.90. Therefore, the austenitic stainless steel material of the present embodiment has high creep strength and also has excellent stress relaxation cracking resistance even when, after welding with higher heat input, the austenitic stainless steel material is used for a long time period at an average operation temperature of more than 600 to 750&#xb0; C.</p>
+<p id="p-0234" num="0228">Note that, in a case where the austenitic stainless steel material of the present embodiment is welded to make a welded joint, the welded joint is produced by the following method.</p>
+<p id="p-0235" num="0229">The austenitic stainless steel material of the present embodiment is prepared as a base metal. A bevel is then formed in the prepared base metal. Specifically, a bevel is formed in an end of the base metal by a well-known processing method. The bevel shape may be a V shape, may be a U shape, may be an X shape, or may be a shape other than a V shape, a U shape or an X shape.</p>
+<p id="p-0236" num="0230">Welding is performed on the prepared base metal to produce a welded joint. Specifically, two base metals in which a bevel has been formed are prepared. The bevels of the prepared base metals are butted together. Welding using the aforementioned welding consumable is then performed on the portion where the pair of bevels are butted together, to thereby form a weld metal having the aforementioned chemical composition.</p>
+<p id="p-0237" num="0231">The welding method may be single pass welding or may be multi pass welding. The welding methods include, for example, gas tungsten arc welding (GTAW), shielded metal arc welding (SHAW), flux cored arc welding (FCAW), gas metal arc welding (GMAW), and submerged arc welding (SAW). A welded joint in which the austenitic stainless steel material of the present embodiment is used can be produced by the production process described above.</p>
+<heading id="h-0010" level="1">Example</heading>
+<p id="p-0238" num="0232">[Production of Austenitic Stainless Steel Material]</p>
+<p id="p-0239" num="0233">Molten steels having the chemical compositions shown in Table 1 were produced.</p>
+<p id="p-0240" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="287pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Chemical Composition (unit is mass %; balance is Fe and impurities)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="245pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Test</entry>
+<entry>Essential Elements</entry>
+<entry>Optional</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="13">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="28pt" align="center"/>
+<colspec colname="13" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Number</entry>
+<entry>C</entry>
+<entry>Si</entry>
+<entry>Mn</entry>
+<entry>P</entry>
+<entry>S</entry>
+<entry>Cr</entry>
+<entry>Ni</entry>
+<entry>N</entry>
+<entry>Nb</entry>
+<entry>Mo</entry>
+<entry>B</entry>
+<entry>Elements</entry>
+</row>
+<row>
+<entry namest="1" nameend="13" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="13">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="28pt" align="center"/>
+<colspec colname="13" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>A1</entry>
+<entry>0.011</entry>
+<entry>0.28</entry>
+<entry>1.34</entry>
+<entry>0.023</entry>
+<entry>0.0005</entry>
+<entry>17.00</entry>
+<entry>9.93</entry>
+<entry>0.083</entry>
+<entry>0.38</entry>
+<entry>0.38</entry>
+<entry>0.0018</entry>
+<entry/>
+</row>
+<row>
+<entry>A2</entry>
+<entry>0.023</entry>
+<entry>0.48</entry>
+<entry>1.27</entry>
+<entry>0.016</entry>
+<entry>0.0005</entry>
+<entry>17.13</entry>
+<entry>10.21</entry>
+<entry>0.086</entry>
+<entry>0.38</entry>
+<entry>0.46</entry>
+<entry>0.0028</entry>
+</row>
+<row>
+<entry>A3</entry>
+<entry>0.011</entry>
+<entry>0.37</entry>
+<entry>1.44</entry>
+<entry>0.023</entry>
+<entry>0.0005</entry>
+<entry>17.06</entry>
+<entry>10.03</entry>
+<entry>0.087</entry>
+<entry>0.39</entry>
+<entry>0.36</entry>
+<entry>0.0015</entry>
+</row>
+<row>
+<entry>A4</entry>
+<entry>0.012</entry>
+<entry>0.31</entry>
+<entry>1.41</entry>
+<entry>0.026</entry>
+<entry>0.0005</entry>
+<entry>17.15</entry>
+<entry>9.88</entry>
+<entry>0.090</entry>
+<entry>0.37</entry>
+<entry>0.42</entry>
+<entry>0.0015</entry>
+<entry>Ti: 0.06</entry>
+</row>
+<row>
+<entry>A5</entry>
+<entry>0.008</entry>
+<entry>0.35</entry>
+<entry>1.37</entry>
+<entry>0.022</entry>
+<entry>0.0005</entry>
+<entry>17.04</entry>
+<entry>9.87</entry>
+<entry>0.078</entry>
+<entry>0.36</entry>
+<entry>0.36</entry>
+<entry>0.0017</entry>
+<entry>Ta: 0.05</entry>
+</row>
+<row>
+<entry>A6</entry>
+<entry>0.011</entry>
+<entry>0.36</entry>
+<entry>1.44</entry>
+<entry>0.025</entry>
+<entry>0.0005</entry>
+<entry>17.10</entry>
+<entry>9.92</entry>
+<entry>0.081</entry>
+<entry>0.47</entry>
+<entry>0.37</entry>
+<entry>0.0018</entry>
+<entry>W: 0.22</entry>
+</row>
+<row>
+<entry>A7</entry>
+<entry>0.012</entry>
+<entry>0.33</entry>
+<entry>1.38</entry>
+<entry>0.028</entry>
+<entry>0.0005</entry>
+<entry>17.22</entry>
+<entry>9.86</entry>
+<entry>0.088</entry>
+<entry>0.38</entry>
+<entry>0.32</entry>
+<entry>0.0017</entry>
+<entry>Cu: 0.38</entry>
+</row>
+<row>
+<entry>A8</entry>
+<entry>0.010</entry>
+<entry>0.41</entry>
+<entry>1.38</entry>
+<entry>0.024</entry>
+<entry>0.0005</entry>
+<entry>17.27</entry>
+<entry>9.89</entry>
+<entry>0.091</entry>
+<entry>0.37</entry>
+<entry>0.24</entry>
+<entry>0.0017</entry>
+<entry>Al: 0.022</entry>
+</row>
+<row>
+<entry>A9</entry>
+<entry>0.008</entry>
+<entry>0.41</entry>
+<entry>1.62</entry>
+<entry>0.026</entry>
+<entry>0.0006</entry>
+<entry>17.14</entry>
+<entry>9.92</entry>
+<entry>0.087</entry>
+<entry>0.43</entry>
+<entry>0.31</entry>
+<entry>0.0019</entry>
+<entry>Ca: 0.0023</entry>
+</row>
+<row>
+<entry>A10</entry>
+<entry>0.023</entry>
+<entry>0.48</entry>
+<entry>1.27</entry>
+<entry>0.016</entry>
+<entry>0.0005</entry>
+<entry>17.13</entry>
+<entry>10.21</entry>
+<entry>0.086</entry>
+<entry>0.38</entry>
+<entry>0.46</entry>
+<entry>0.0028</entry>
+<entry>REM: 0.002</entry>
+</row>
+<row>
+<entry>A11</entry>
+<entry>0.009</entry>
+<entry>0.32</entry>
+<entry>1.41</entry>
+<entry>0.021</entry>
+<entry>0.0005</entry>
+<entry>17.37</entry>
+<entry>9.91</entry>
+<entry>0.089</entry>
+<entry>0.41</entry>
+<entry>0.24</entry>
+<entry>0.0014</entry>
+<entry>Sn: 0.006</entry>
+</row>
+<row>
+<entry>A12</entry>
+<entry>0.011</entry>
+<entry>0.45</entry>
+<entry>1.38</entry>
+<entry>0.023</entry>
+<entry>0.0005</entry>
+<entry>17.16</entry>
+<entry>10.01</entry>
+<entry>0.087</entry>
+<entry>0.43</entry>
+<entry>0.32</entry>
+<entry>0.0016</entry>
+<entry>Zn: 0.003</entry>
+</row>
+<row>
+<entry>A13</entry>
+<entry>0.009</entry>
+<entry>0.34</entry>
+<entry>1.47</entry>
+<entry>0.021</entry>
+<entry>0.0005</entry>
+<entry>17.21</entry>
+<entry>9.81</entry>
+<entry>0.092</entry>
+<entry>0.42</entry>
+<entry>0.44</entry>
+<entry>0.0022</entry>
+<entry>V: 0.14,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>W: 0.40,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Al: 0.018,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ca: 0.0019</entry>
+</row>
+<row>
+<entry>A14</entry>
+<entry>0.013</entry>
+<entry>0.29</entry>
+<entry>1.35</entry>
+<entry>0.024</entry>
+<entry>0.0005</entry>
+<entry>17.24</entry>
+<entry>10.12</entry>
+<entry>0.096</entry>
+<entry>0.39</entry>
+<entry>0.35</entry>
+<entry>0.0016</entry>
+<entry>Ti: 0.04.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Al: 0.035</entry>
+</row>
+<row>
+<entry>A15</entry>
+<entry>0.008</entry>
+<entry>0.22</entry>
+<entry>0.46</entry>
+<entry>0.018</entry>
+<entry>0.0006</entry>
+<entry>17.18</entry>
+<entry>13.15</entry>
+<entry>0.098</entry>
+<entry>0.33</entry>
+<entry>1.08</entry>
+<entry>0.0028</entry>
+<entry>V: 0.23,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Cu: 1.95,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Co: 0.18,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Al: 0.032,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ca: 0.0020.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Mg: 0.0018,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Pb: 0.001</entry>
+</row>
+<row>
+<entry>A16</entry>
+<entry>0.009</entry>
+<entry>0.24</entry>
+<entry>0.66</entry>
+<entry>0.017</entry>
+<entry>0.0005</entry>
+<entry>17.21</entry>
+<entry>12.18</entry>
+<entry>0.112</entry>
+<entry>0.34</entry>
+<entry>0.77</entry>
+<entry>0.0032</entry>
+<entry>Cu: 3.11</entry>
+</row>
+<row>
+<entry>A17</entry>
+<entry>0.010</entry>
+<entry>0.31</entry>
+<entry>1.14</entry>
+<entry>0.020</entry>
+<entry>0.0005</entry>
+<entry>17.05</entry>
+<entry>13.86</entry>
+<entry>0.105</entry>
+<entry>0.35</entry>
+<entry>3.12</entry>
+<entry>0.0012</entry>
+</row>
+<row>
+<entry>B1</entry>
+<entry>0.037</entry>
+<entry>0.38</entry>
+<entry>1.48</entry>
+<entry>0.031</entry>
+<entry>0.0006</entry>
+<entry>18.02</entry>
+<entry>10.51</entry>
+<entry>0.062</entry>
+<entry>0.47</entry>
+<entry>0.08</entry>
+<entry>0.0006</entry>
+</row>
+<row>
+<entry>B2</entry>
+<entry>0.008</entry>
+<entry>0.32</entry>
+<entry>1.49</entry>
+<entry>0.024</entry>
+<entry>0.0005</entry>
+<entry>17.43</entry>
+<entry>9.93</entry>
+<entry>0.062</entry>
+<entry/>
+<entry>0.28</entry>
+<entry>0.0012</entry>
+</row>
+<row>
+<entry>B3</entry>
+<entry>0.028</entry>
+<entry>0.33</entry>
+<entry>1.42</entry>
+<entry>0.026</entry>
+<entry>0.0016</entry>
+<entry>17.28</entry>
+<entry>9.98</entry>
+<entry>0.005</entry>
+<entry>0.48</entry>
+<entry>0.07</entry>
+<entry>0.0007</entry>
+</row>
+<row>
+<entry>B4</entry>
+<entry>0.029</entry>
+<entry>0.29</entry>
+<entry>1.46</entry>
+<entry>0.022</entry>
+<entry>0.0006</entry>
+<entry>17 02</entry>
+<entry>10.06</entry>
+<entry>0.096</entry>
+<entry>0.47</entry>
+<entry/>
+<entry>0.0007</entry>
+</row>
+<row>
+<entry>B5</entry>
+<entry>0.027</entry>
+<entry>0.28</entry>
+<entry>1.51</entry>
+<entry>0.029</entry>
+<entry>0.0005</entry>
+<entry>17.92</entry>
+<entry>10.61</entry>
+<entry>0.060</entry>
+<entry>0.24</entry>
+<entry>0.10</entry>
+</row>
+<row>
+<entry>B6</entry>
+<entry>0.028</entry>
+<entry>0.39</entry>
+<entry>1.35</entry>
+<entry>0.021</entry>
+<entry>0.0005</entry>
+<entry>17.18</entry>
+<entry>10.04</entry>
+<entry>0.086</entry>
+<entry>0.47</entry>
+<entry>0.07</entry>
+<entry>0.0007</entry>
+</row>
+<row>
+<entry>B7</entry>
+<entry>0.022</entry>
+<entry>0.41</entry>
+<entry>1.42</entry>
+<entry>0.024</entry>
+<entry>0.0006</entry>
+<entry>17.25</entry>
+<entry>9.89</entry>
+<entry>0.094</entry>
+<entry>0.46</entry>
+<entry>0.11</entry>
+<entry>0.0008</entry>
+</row>
+<row>
+<entry>B8</entry>
+<entry>0.021</entry>
+<entry>0.33</entry>
+<entry>1.47</entry>
+<entry>0.021</entry>
+<entry>0.0007</entry>
+<entry>17.17</entry>
+<entry>10.05</entry>
+<entry>0.096</entry>
+<entry>0.45</entry>
+<entry>0.08</entry>
+<entry>0.0008</entry>
+</row>
+<row>
+<entry>B9</entry>
+<entry>0.023</entry>
+<entry>0.37</entry>
+<entry>1.38</entry>
+<entry>0.019</entry>
+<entry>0.0005</entry>
+<entry>17.19</entry>
+<entry>10.27</entry>
+<entry>0.092</entry>
+<entry>0.48</entry>
+<entry>0.12</entry>
+<entry>0.0007</entry>
+</row>
+<row>
+<entry>B10</entry>
+<entry>0.025</entry>
+<entry>0.44</entry>
+<entry>1.29</entry>
+<entry>0.023</entry>
+<entry>0.0007</entry>
+<entry>17.36</entry>
+<entry>9.77</entry>
+<entry>0.074</entry>
+<entry>0.22</entry>
+<entry>0.05</entry>
+<entry>0.0006</entry>
+</row>
+<row>
+<entry>B11</entry>
+<entry>0.028</entry>
+<entry>0.41</entry>
+<entry>1.46</entry>
+<entry>0.026</entry>
+<entry>0.0005</entry>
+<entry>17.09</entry>
+<entry>10.12</entry>
+<entry>0.066</entry>
+<entry>0.23</entry>
+<entry>0.06</entry>
+<entry>0.0007</entry>
+</row>
+<row>
+<entry namest="1" nameend="13" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0241" num="0234">In Table 1, a blank space indicates that the content of the corresponding element was less than the detection limit. When the content was less than the detection limit, the relevant element was regarded as not being contained in the chemical composition.</p>
+<p id="p-0242" num="0235">Ingots which had an outer diameter of 120 mm and a weight of 30 kg were produced using molten steel. Each ingot was subjected to hot forging to produce a starting material having a thickness of 30 mm. The temperature of the ingot before the hot forging was 1250&#xb0; C. In addition, the starting material was subjected to hot rolling, and the steel material after hot rolling was rapidly cooled (water-cooled) to produce an intermediate steel material (steel plate) having a thickness of 15 mm. At that time, the starting material temperature before hot working (hot rolling) was varied within the range of 1050 to 1250&#xb0; C. In addition, the standing time t1 (min) from after the completion of hot working until starting rapid cooling (water-cooling), the rapid cooling starting temperature T1 (&#xb0; C.), and the cooling rate CR1 (&#xb0; C./min) from completion of hot working until the start of rapid cooling were varied. The standing time t1 in Test Numbers A1 to A17, B1 to B5, B7 to B9, and B11 was 0.50 to 5.00 minutes. On the other hand, the standing time t1 in Test Number B6 was 6.00 to 7.00 minutes. The standing time t1 in Test Number B10 was 0.25 minutes. Further, the rapid cooling starting temperature T1 in Test Numbers A1 to A17, B1 to B6, and B8 to B11 was 700&#xb0; C. or more. On the other hand, the rapid cooling starting temperature T1 in Test Number B7 was 600 to 650&#xb0; C. Further, the cooling rate CR1 in Test Numbers A1 to A17, B1 to B7, and B10 to B11 was 15&#xb0; C./min or more. On the other hand, the cooling rate CR1 in Test Numbers B8 and B9 was 10&#xb0; C./min or less.</p>
+<p id="p-0243" num="0236">The intermediate steel material after hot rolling was subjected to a solution treatment. The solution treatment temperature T2 in the solution treatment was within the range of 1050 to 1250&#xb0; C., and the holding time at the solution treatment temperature T2 was 10 minutes for each test number. Further, the cooling rate CR2 was 10 to 20&#xb0; C./sec for each test number. Note that, the intermediate steel material of Test Number B11 was not subjected to the solution treatment. The austenitic stainless steel material of each test number was produced by the above process.</p>
+<p id="p-0244" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Test</entry>
+<entry>Dissolved N</entry>
+<entry>SR Cracking</entry>
+<entry>Creep</entry>
+</row>
+<row>
+<entry/>
+<entry>Number</entry>
+<entry>Ratio</entry>
+<entry>Test</entry>
+<entry>Strength</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>A1</entry>
+<entry>0.72</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A2</entry>
+<entry>0.72</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A3</entry>
+<entry>0.71</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A4</entry>
+<entry>0.74</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A5</entry>
+<entry>0.70</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A6</entry>
+<entry>0.68</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A7</entry>
+<entry>0.71</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A8</entry>
+<entry>0.73</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A9</entry>
+<entry>0.72</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A10</entry>
+<entry>0.74</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A11</entry>
+<entry>0.75</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A12</entry>
+<entry>0.75</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A13</entry>
+<entry>0.76</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A14</entry>
+<entry>0.79</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A15</entry>
+<entry>0.73</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A16</entry>
+<entry>0.74</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>A17</entry>
+<entry>0.77</entry>
+<entry>E</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>B1</entry>
+<entry>0.58</entry>
+<entry>B</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>B2</entry>
+<entry>0.98</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B3</entry>
+<entry>0.95</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B4</entry>
+<entry>0.87</entry>
+<entry>B</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>B5</entry>
+<entry>0.86</entry>
+<entry>B</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>B6</entry>
+<entry>0.37</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B7</entry>
+<entry>0.39</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B8</entry>
+<entry>0.38</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B9</entry>
+<entry>0.38</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry>B10</entry>
+<entry>0.94</entry>
+<entry>B</entry>
+<entry>E</entry>
+</row>
+<row>
+<entry/>
+<entry>B11</entry>
+<entry>0.31</entry>
+<entry>B</entry>
+<entry>B</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0245" num="0237">[Analysis of Chemical Composition of Steel Material]</p>
+<p id="p-0246" num="0238">The chemical composition of the austenitic stainless steel material of each test number was determined by the following method. A drill with a diameter of 5 mm was used to perform piercing at the center position of the plate width and also at the center position of the plate thickness of the steel material (steel plate) to generate machined chips, and the machined chips were collected. The collected machined chips were dissolved in acid to obtain a liquid solution. The liquid solution was subjected to ICP-AES, and elementary analysis of the chemical composition was performed. The content of C and the content of S were determined by a well-known high-frequency combustion method (combustion-infrared absorption method). The content of N was determined using a well-known inert gas fusion-thermal conductivity method. Table 1 shows the chemical compositions of the steel materials of the respective test numbers that were determined as a result.</p>
+<p id="p-0247" num="0239">[Measurement of Dissolved N Ratio]</p>
+<p id="p-0248" num="0240">The dissolved N ratio of the austenitic stainless steel material of each test number was determined by the following method. A test specimen was taken from the austenitic stainless steel material (steel plate). Specifically, the test specimen was taken in a manner so that the center of the cross section perpendicular to the longitudinal direction of the test specimen was the center position of the plate thickness, and the longitudinal direction of the test specimen coincided with the longitudinal direction of the steel plate.</p>
+<p id="p-0249" num="0241">The surface of the taken test specimen was polished to remove about 50 &#x3bc;m by preliminary electropolishing to obtain a newly formed surface. The electropolished test specimen was subjected to electrolyzation using an electrolyte solution (10% acetylacetone+1% tetra-ammonium+methanol). The electrolyte solution after electrolyzation was passed through a 0.2 &#x3bc;m filter to capture residue. The obtained residue was subjected to acid decomposition, and the mass of N in the residue was determined by ICP (inductively coupled plasma) emission spectrometry. In addition, the mass of the test specimen before the main electrolyzation and the mass of the test specimen after the main electrolyzation were measured. Then, a value obtained by subtracting the mass of the test specimen after the main electrolyzation from the mass of the test specimen before the main electrolyzation was defined as the base metal mass mainly electrolyzed. The N mass in the residue was divided by the base metal mass mainly electrolyzed to determine the residue N amount (mass %). In other words, the residue N amount (mass %) was determined based on the following formula.</p>
+<p id="p-0250" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Residue N amount=N mass in residue/base metal mass&#xd7;100<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0251" num="0242">The dissolved N ratio was determined by the following formula using the content of N (total content of N (mass %)) in the steel material and the residue N amount (mass %) which were obtained by the above analysis of the chemical composition of the steel material.</p>
+<p id="p-0252" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Dissolved N ratio=(1&#x2212;residue N amount/total content of N)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0253" num="0243">The dissolved N ratio of each test number is shown in Table 2.</p>
+<p id="p-0254" num="0244">[Preparation of Test Specimen Simulated Big Heat Input Welding]</p>
+<p id="p-0255" num="0245">Test specimens simulated big heat input welding which simulated welding with higher heat input were prepared by the following method using the produced austenitic stainless steel materials.</p>
+<p id="p-0256" num="0246">For each test number, a square type test specimen was taken that included the center position of the plate width and the center position of the plate thickness of the austenitic stainless steel material. The longitudinal direction of the square type test specimen was parallel with the longitudinal direction of the austenitic stainless steel material. The length of the square type test specimen was 100 mm. A cross section (transverse cross-section) perpendicular to the longitudinal direction of the square type test specimen was a rectangle with dimensions of 10 mm&#xd7;10 mm. The center position of the transverse cross-section of the square type test specimen approximately coincided with the center position of the plate width and the center position of the plate thickness of the austenitic stainless steel material.</p>
+<p id="p-0257" num="0247">A high frequency heat cycle apparatus was used to apply the following heat history to the square type test specimen. The square type test specimen was raised from normal temperature to 1400&#xb0; C. at a rate of 70&#xb0; C./sec in the atmosphere. In addition, the temperature was held at 1400&#xb0; C. for 10 seconds. Thereafter, the square type test specimen was cooled to normal temperature at a cooling rate of 20&#xb0; C./sec. A test specimen simulated big heat input welding was prepared by applying the heat history described above to the square type test specimen.</p>
+<p id="p-0258" num="0248">[Stress Relaxation Cracking Resistance Evaluation Test (SR Cracking Evaluation Test)]</p>
+<p id="p-0259" num="0249">A stress relaxation cracking resistance test conforming to ASTM E328-02 was performed using a test specimen simulated big heat input welding. A test specimen for an SR cracking evaluation test was prepared from the test specimen simulated big heat input welding. The test specimen was formed into a flanged creep test specimen having a length of 80 mm and a GL of 30 mm. A test jig for deflection displacement loading was used to apply a cold strain of 10% at room temperature in the heating furnace to the test specimen. The test specimen in the heating furnace was heated to 650&#xb0; C., and a further strain of 10% was applied to the test specimen at 650&#xb0; C., and the test specimen was then held for 1000 hours.</p>
+<p id="p-0260" num="0250">After 1000 hours had passed, the test specimen was allowed to cool to room temperature. If the test specimen after being allowed to cool was ruptured, it was determined that the stress relaxation cracking resistance was low (described as &#x201c;B&#x201d; (Bad) in the &#x201c;SR Cracking Test&#x201d; column in Table 2). Further, if the test specimen after 1000 hours had passed was not ruptured, microstructure observation of the cross section perpendicular to the longitudinal direction of the test specimen was conducted using a scanning electron microscope (SEM). At that time, the magnification was set to &#xd7;2000. If the result of the microstructure observation indicated that cracking had occurred at grain boundaries or that creep voids had occurred, it was determined that the stress relaxation cracking resistance was low (described as &#x201c;B&#x201d; (Bad) in the &#x201c;SR Cracking Test&#x201d; column in Table 2). On the other hand, if the occurrence of cracking at grain boundaries could not be confirmed and the occurrence of creep voids could also not be confirmed in the microstructure observation using the SEM, it was determined that the stress relaxation cracking resistance was high (described as &#x201c;E&#x201d; (Excellent) in the &#x201c;SR Cracking Test&#x201d; column in Table 2).</p>
+<p id="p-0261" num="0251">[Creep Strength Evaluation Test (Creep Rupture Test)]</p>
+<p id="p-0262" num="0252">The aforementioned test specimen simulated big heat input welding was processed to prepare a creep rupture test specimen conforming to JIS Z2271 (2010). The cross section perpendicular to the axial direction of the creep rupture test specimen was circular, the outer diameter of the creep rupture test specimen was 6 mm, and the parallel portion was 30 mm.</p>
+<p id="p-0263" num="0253">A creep rupture test conforming to JIS Z2271 (2010) was conducted using the prepared creep rupture test specimen. Specifically, after heating the creep rupture test specimen at 650&#xb0; C., the creep rupture test was conducted. The test stress was set to 118 MPa, and the creep-rupture time (hours) was determined.</p>
+<p id="p-0264" num="0254">With regard to the creep strength, if the creep-rupture time was 6000 hours or more, it was determined that the creep strength of the steel material was excellent in a high temperature environment (described as &#x201c;E&#x201d; (Excellent) in the &#x201c;Creep Strength&#x201d; column in Table 2). If the creep-rupture time was less than 6000 hours, it was determined that the creep strength of the steel material was low in a high temperature environment of more than 600&#xb0; C. (described as &#x201c;B&#x201d; (Bad) in the &#x201c;Creep Strength&#x201d; column in Table 2).</p>
+<p id="p-0265" num="0255">[Test Results]</p>
+<p id="p-0266" num="0256">The test results are shown in Table 2. Referring to Table 1 and Table 2, in each of Test Numbers A1 to A17, the content of each element in the chemical composition was appropriate and the dissolved N ratio was within the range of 0.40 to 0.90. Therefore, high creep strength was obtained and the stress relaxation cracking resistance was high.</p>
+<p id="p-0267" num="0257">On the other hand, in Test Number B1 the content of C was too high. Consequently, the stress relaxation cracking resistance was low.</p>
+<p id="p-0268" num="0258">In Test Number B2, the content of Nb was low. Consequently, the stress relaxation cracking resistance and the creep strength were low.</p>
+<p id="p-0269" num="0259">In Test Number B3, the content of N was low. Consequently, the stress relaxation cracking resistance and the creep strength were low.</p>
+<p id="p-0270" num="0260">In Test Number B4, the content of Mo was low. Consequently, the stress relaxation cracking resistance was low.</p>
+<p id="p-0271" num="0261">In Test Number B5, the content of B was low. Consequently, the stress relaxation cracking resistance was low.</p>
+<p id="p-0272" num="0262">In Test Number B6, the standing time t1 in the hot working process was too long. Consequently; the dissolved N ratio was less than 0.40. As a result, the stress relaxation cracking resistance and the creep strength were low.</p>
+<p id="p-0273" num="0263">In Test Number B7, the rapid cooling starting temperature T1 in the hot working process was too low. Consequently, the dissolved N ratio was less than 0.40. As a result, the stress relaxation cracking resistance and the creep strength were low.</p>
+<p id="p-0274" num="0264">In Test Numbers B8 and B9, the cooling rate CR1 from the completion of hot working to the start of rapid cooling was too slow. Consequently, the dissolved N ratio was less than 0.40. As a result, the stress relaxation cracking resistance and the creep strength were too low.</p>
+<p id="p-0275" num="0265">In Test Number B10, the standing time t1 from the completion of hot working to the start of rapid cooling was too short. Consequently, the dissolved N ratio was more than 0.90. As a result, the stress relaxation cracking resistance was low.</p>
+<p id="p-0276" num="0266">In Test Number B11, a solution treatment was not performed. Consequently, the dissolved N ratio was less than 0.40. As a result, the stress relaxation cracking resistance and the creep strength were low.</p>
+<p id="p-0277" num="0267">Embodiment of the present invention have been described above. However, the foregoing embodiments are merely examples for implementing the present invention. Accordingly, the present invention is not limited to the above embodiments, and the above embodiments can be appropriately modified and implemented within a range that does not deviate from the gist of the present invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An austenitic stainless steel material, comprising:
+<claim-text>a chemical composition consisting of, in mass %,</claim-text>
+<claim-text>C: 0.030% or less,</claim-text>
+<claim-text>Si: 1.50% or less,</claim-text>
+<claim-text>Mn: 2.00% or less,</claim-text>
+<claim-text>P: 0.045% or less,</claim-text>
+<claim-text>S: 0.0300% or less,</claim-text>
+<claim-text>Cr: 15.00 to 25.00%,</claim-text>
+<claim-text>Ni: 8.00 to 20.00%,</claim-text>
+<claim-text>N: 0.050 to 0.250%,</claim-text>
+<claim-text>Nb: 0.10 to 1.00%,</claim-text>
+<claim-text>Mo: 0.05 to 5.00%,</claim-text>
+<claim-text>B: 0.0005 to 0.0100%,</claim-text>
+<claim-text>Ti: 0 to 0.50%,</claim-text>
+<claim-text>Ta: 0 to 0.50%,</claim-text>
+<claim-text>V: 0 to 1.00%,</claim-text>
+<claim-text>Zr: 0 to 0.10%,</claim-text>
+<claim-text>Hf: 0 to 0.10%,</claim-text>
+<claim-text>Cu: 0 to 4.00%,</claim-text>
+<claim-text>W: 0 to 5.00%,</claim-text>
+<claim-text>Co: 0 to 1.00%,</claim-text>
+<claim-text>sol. Al: 0 to 0.100%,</claim-text>
+<claim-text>Ca: 0 to 0.0200%,</claim-text>
+<claim-text>Mg: 0 to 0.0200%,</claim-text>
+<claim-text>rare earth metal: 0 to 0.100%,</claim-text>
+<claim-text>Sn: 0 to 0.010%,</claim-text>
+<claim-text>As: 0 to 0.010%,</claim-text>
+<claim-text>Zn: 0 to 0.010%,</claim-text>
+<claim-text>Pb: 0 to 0.010%, and</claim-text>
+<claim-text>Sb: 0 to 0.010%,</claim-text>
+<claim-text>with the balance being Fe and impurities,</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>a ratio of a dissolved N amount (mass %) in the austenitic stainless steel material with respect to a content of N (mass %) in the austenitic stainless steel material is 0.40 to 0.90.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The austenitic stainless steel material according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the chemical composition contains at least one or more elements belonging to any group among a first group to a fourth group:</claim-text>
+<claim-text>first group:</claim-text>
+<claim-text>Ti: 0.01 to 0.50%,</claim-text>
+<claim-text>Ta: 0.01 to 0.50%,</claim-text>
+<claim-text>V: 0.01 to 1.00%,</claim-text>
+<claim-text>Zr: 0.01 to 0.10%, and</claim-text>
+<claim-text>Hf: 0.01 to 0.10%;</claim-text>
+<claim-text>second group:</claim-text>
+<claim-text>Cu: 0.01 to 4.00%,</claim-text>
+<claim-text>W: 0.01 to 5.00%, and</claim-text>
+<claim-text>Co: 0.01 to 1.00%:</claim-text>
+<claim-text>third group:</claim-text>
+<claim-text>sol. Al: 0.001 to 0.100%;</claim-text>
+<claim-text>fourth group:</claim-text>
+<claim-text>Ca: 0.0001 to 0.0200%,</claim-text>
+<claim-text>Mg: 0.0001 to 0.0200%, and</claim-text>
+<claim-text>rare earth metal: 0.001 to 0.100%.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

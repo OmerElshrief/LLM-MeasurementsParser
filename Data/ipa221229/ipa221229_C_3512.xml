@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411902A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411902</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17764861</doc-number>
+<date>20190930</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>28</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>057</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>055</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>28</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>0571</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>0551</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">RARE-EARTH HIGH ENTROPY ALLOYS AND TRANSITION METAL HIGH ENTROPY ALLOYS AS BUILDING BLOCKS FOR THE SYNTHESIS OF NEW MAGNETIC PHASES FOR PERMANENT MAGNETS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NIARCHOS, Dimitrios</orgname>
+<address>
+<city>Athens</city>
+<country>GR</country>
+</address>
+</addressbook>
+<residence>
+<country>GR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>NIARCHOS</last-name>
+<first-name>Dimitrios</first-name>
+<address>
+<city>Athens</city>
+<country>GR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2019/076449</doc-number>
+<date>20190930</date>
+</document-id>
+<us-371c12-date><date>20220329</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention relates to high entropy alloy of rare earth elements (RE-HEAs) including at least four and up to twelve elements selected form rare earth elements R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub>, R<sub>9</sub>, R<sub>10</sub>, R<sub>11</sub>, R<sub>12</sub>, which rare earth elements R<sub>1 </sub>to R<sub>12 </sub>each represents one of elements 57 to 60, 62 to 70, 39 and 40 of the periodic system and to high entropy alloy of transition elements (TM-HEAs) including at least 3 and up to 12 elements selected from transitional elements TM<sub>1</sub>, TM<sub>2</sub>, TM<sub>3</sub>, TM<sub>4</sub>, TM<sub>5</sub>, TM<sub>6</sub>, TM<sub>7</sub>, TM<sub>8</sub>, TM<sub>9</sub>, TM<sub>10</sub>, TM<sub>11</sub>, TM<sub>12</sub>, which transitional elements TM<sub>1 </sub>to TM<sub>12 </sub>each represent at least one of elements 21 to 30, 41 to 48 and 72 to 79 of the periodic system. Such RE-HEAs and/or TM-HEAs can be used as building blocks in magnetic high entropy composite alloys, e.g. of the type (RE-HEAs)<sub>x</sub>(TM-HEAs)<sub>y</sub>T<sub>z</sub>, for the manufacture of magnetic devices and permanent magnets.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="114.13mm" wi="106.76mm" file="US20220411902A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="108.80mm" wi="124.71mm" file="US20220411902A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="101.18mm" wi="100.16mm" orientation="landscape" file="US20220411902A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="93.64mm" wi="104.56mm" orientation="landscape" file="US20220411902A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The technical field to which the invention refers is that of high entropy magnetic alloys, simple and complex, based on the periodic table of chemical elements, with exceptional magnetic and mechanical properties, as well as their use as new building blocks for the replacement of rare earth elements and cobalt in magnetic phases and the technical field of permanent magnets made with them.</p>
+<p id="p-0003" num="0002">As used here, the term &#x201c;rare earth elements&#x201d; includes lanthanide elements that have atomic numbers from 57 to 70, except Pm with atomic number 61, as well as yttrium with atomic number 39 and zirconium with atomic number 40, which are usually found in rare earth ores and have similar chemical properties. The term &#x201c;rare earth elements heavy element&#x201d; (HRE) is used here to refer to these elements of lanthanide series which have atomic numbers from 63 to 71, and the term &#x201c;rare earth elements light element&#x201d; (LHR) data with atomic numbers 57 to 62, except Pm with atomic number 61.</p>
+<p id="p-0004" num="0003">As the term &#x201c;transition elements&#x201d; is used here, it is understood to include elements belonging to the Periodic System from groups 3 to 12 with atomic numbers 21 to 30, 41 to 48 and 72 to 79. The most representative are the elements with atomic numbers such manganese (25), iron (26), cobalt (27) and nickel (28) and various alloys containing one or more of these metals. Added elements for the creation of magnetic alloys are also considered boron (5), aluminum (13), gallium (31) and indium (49).</p>
+<p id="p-0005" num="0004">Ferromagnetic metals and permanent magnets have the characteristic status of magnetic hysteresis. Magnetic hysteresis is the property of magnetic bodies in which their magnetic induction depends not only on the intensity of the magnetic field but also on the previous magnetic state (hysteresis loop). Points in the hysterisis loop of particular interest to this invention are within the second quadrant, or &#x2018;demagnetizing curve&#x2019;, since most apparatuses using permanent magnets operate under the influence of a demagnetizing field and are given in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0006" num="0005">The basis for the manufacture of permanent magnets is the existence of magnetic alloys with interesting properties, such as (a) a crystalline structure with a symmetry lower than cubic, e.g. tetragonal, (b) high magnetocrystalline anisotropy (&#x3e;1*107 J/m3) and (c) high Curie point (the temperature where magnetization becomes zero in a magnetic alloy) which must be greater than or equal to &#x3e;50% of the predicted maximum working temperature of the permanent magnet. Since the magnetic alloy has high magnetocrystalline anisotropy, another very interesting property is the coercive field Hc defined as the value of the magnetic field that the magnetization is reversed as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0007" num="0006">Permanent magnets (permanent ferromagnetism materials) based on the above magnetic compounds have found huge applications in energy generation and conversion, micro-large electrical devices, health and the environment, with a market of more than $20B for 2020. There are many applications for magnets, such as headphones in speakers, electric motors, generators, counters, and multiform scientific devices. Research in the sector has usually been directed towards the development of permanent magnets with materials that have constantly better properties, especially in recent years, where the reduction in size of devices based on permanent magnets has become the main prerequisite for expanding their applications, such as for computer equipment, mobile phones, headphones and many other devices. Today, there are three large families of permanent magnets produced by sintering and powder metallurgy, by alloys of rare earth metals and transition elements, as described above.</p>
+<p id="p-0008" num="0007">The first category is the samarium-cobalt type (Samarium-Cobalt) with stoichiometry (1:5 and 2:17):</p>
+<p id="p-0009" num="0008">Most popular is an alloy containing samarium and cobalt with a chemical formula of SmCo5 (1:5) <figref idref="DRAWINGS">FIG. <b>2</b></figref>, or Sm(Co(balance)FexCu0.1Zr0.03)7.5-8.5 (x=0.09-0.21), developed in the late 1960s and early 1970s. These magnets usually contain small amounts of other elements to help to modify their magnetic properties mentioned above. Samarium-cobalt magnets, however, are quite expensive, due to the relative scarcity&#x2014;mainly of samarium&#x2014;and the high price of cobalt. This factor has reduced the usefulness of magnets in large volume applications, such as electric motors, and research has been encouraged to develop permanent magnets with materials that are more abundant than the metals of rare earth metals and cobalt, which are less costly. Samarium-cobalt magnets are the only ones that can be used at high temperatures of up to 500&#xb0; C., the Curie point is greater than 750&#xb0; C., making them preferred, although not so large in energy product, ranging from 16-33 MGOe (128-264 KJ/m3 close to the theoretical upper limit of 34 MGOe or 270 KJ/m3 (1 MGOe&#x2dc;7.95 KJ/m3).</p>
+<p id="p-0010" num="0009">The second family of permanent magnets is type Nd2Fe14B:</p>
+<p id="p-0011" num="0010">Research efforts by M. Sagawa in 1984 resulted in the discovery of new magnetic alloys containing neodymium that is more abundant in ores containing rare earth elements than samarium, iron that is far cheaper than cobalt and boron in various proportions (see J. Appl. Phys. Vol 55, pages 2083-2087 (1984)). The chemical formula for the new magnetic materials is R2Fe14B (where R is a light rare earth, e.g. neodymium (Nd), praseodymium (Pr) or cerium (Ce) (see A L Robinson, Science, Vol. 223, pages 920-922 (1984). Further guidance on the production of rare earth-iron-boron magnets is disclosed by M. Sagawa, S. Fujimura, and Y. Matsuura in European Patent Applications No. 83 106 573.5 and 83 107 351.5, which were filed on 5 Jul. 1983 and 26 Jul. 1983, respectively. The energy product for neodymium-iron-boron magnets is of the order of 52 MGOe or approximately 420 KJ/m3, which makes these magnets the strongest to date. Due to the low Curie point of the magnetic phase Nd2Fe14B, which is approximately 310&#xb0; C., the use of these magnets is limited to temperatures up to 130-150&#xb0; C. Addition of Heavy Rare Earth (HRE) like Dysprosium (Dy) or Terbium (Tb) improves both the energy product and the operating temperature up to 180-200&#xb0; C.</p>
+<p id="p-0012" num="0011">The third category of magnets is type RFe12-xTx:</p>
+<p id="p-0013" num="0012">This category was discovered at the end of the 1980s by Buschow (IEEE, Trans. Magn. MAG-24 (1988), 1611) and by Ohashi ((IEEE). Trans. Magn. MAG-23 (1987) 3101), the main characteristic being the lowest percentage of Light Rare Earth (LRE) elements (LRE, e.g. Nd, Pr, Sm) at approximately 7.8%, a Curie temperature at approximately 300&#xb0; C., high magnetization and relatively high magnetic anisotropy. Although the phase has been known since the end of the 1980s, it has only recently been possible to manufacture permanent magnets with interesting properties, as can be seen from the patent application US2017/0178772 A1, 22 Jun. 2017 with a beneficiary of Toyota. The above phase becomes more attractive for applications as all magnetic properties are improved by the nitrogen absorption in the crystalline lattice, as recently demonstrated by Hirayama (Scr. Mater. 95(2015) 70). Since nitrogen escapes from an alloy at temperatures above approximately 500&#xb0; C., new techniques are required for the sintering of magnetic powders below 500&#xb0; C., or new direct casting techniques for permanent magnets. Magnets of this category, although theoretically they have a higher energy product than the previous magnets, are expected to cover the intermediate category with an energy product of 100-250 KJ/m3 due to a lower magnetocrystalline anisotropy.</p>
+<p id="p-0014" num="0013">All three categories reported, in addition to their respective costs, energy product and maximum temperature that can be used, have poor mechanical properties, and due to the way they are made from metal powders of appropriate magnetic alloys and by sintering, they are fragile and require great care and attention in their use.</p>
+<p id="p-0015" num="0014">In addition, there are:</p>
+<p id="p-0016" num="0015">High Entropy Alloys (HEAs):</p>
+<p id="p-0017" num="0016">A significant interest has been shown in recent years in exploring new alloys using the concept of high entropy alloy design (HEA). High entropy alloys (HEAs) have been defined since 2004 (Yeh, Advance Engineering, Vol 6, Issue 5, 299-303, 2004) as alloys having at least four main elements in equimolar concentration, which each has an individual rate between 5% and 35% depending on the number of elements used and are shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>.</p>
+<p id="p-0018" num="0017">The HEA alloy design approach has broadened the scope of composition design and new types of HEAs and high entropy materials have been developed, such as high entropy hyperalloys, high density entropy alloys, large metal long entropy glasses, high entropy carbides, high entropy nitrides, high entropy oxides high entropy composite materials.</p>
+<p id="p-0019" num="0018">High entropy alloys (HEAs) currently have a high research interest in material science and engineering. Unlike conventional alloys, which contain one and usually two elements of base, HEAs include multiple key elements in equimolar concentration, with the possible number of HEA compositions expanding significantly more than conventional alloys. Most importantly, these HEAs can be constructed and processed using similar procedures as conventional materials. Conventional material characterization techniques for HEA may also be used. Combinations of compositions in the field of HEAs and treatment pathways can potentially lead to a wide range of novel micro-structures and properties. Many preliminary studies have demonstrated their potential to replace conventional materials for industrial applications.</p>
+<p id="p-0020" num="0019">The main characteristics of the HEAs are:</p>
+<p id="p-0021" num="0020">(i) The high formation entropy of HEA solids has a dominant effect on the Gibbs energy formation of an alloy phase, thus stabilizing solid solutions in relation to the bimetallic phases normally formed, (ii) The HEAs lattice structure is distorted, due to the mismatch of atomic size between allotment elements. This has a number of different effects on the physical and mechanical properties of HEAs, (iii) HEAs have smaller atomic diffusion constants because individual atoms diffusion is more difficult through solid solutions with high concentrations of many elements, mainly due to variations in the lattice structure, (iv) The complexity of HEA formulations causes a so-called &#x2018;cocktail effect&#x2019; where interactions between elements cause unusual behavior. In the area of alloy design, we know from previous experience that adding more alloy elements usually leads to the formation of bimetallic compounds, which have poor mechanical properties.</p>
+<p id="p-0022" num="0021">Due to the interesting properties, for example, the high entropy phenomenon can reduce the number of phases of ingredients in an alloy and facilitate the design of the preferred micro structure. The limited diffusion effect may reduce the phase transformation rate and stabilize different microstructures at high temperatures. Significant aid may be provided by lattice distortions. And, the cocktail effect allows designing materials with custom properties by selecting the right alloy components. With appropriate alloy design and heat treatment, excellent mechanical properties such as durability, hardness, resistance to wear and corrosion are achieved.</p>
+<p id="p-0023" num="0022">Meanwhile, the HEAs have also attracted attention, showing interesting physical properties such as magnetic properties, electrical resistance and superconductivity. New soft magnetic materials are needed in transformers, motors, electromagnets, etc., but the poor mechanical properties of existing materials always limit their performance mainly due to the precipitation of fragile binary compounds. Recently, some high entropy alloys based on FeCoNi&#x2014;X have been prepared with attractive soft magnetic properties. However, an optimal balance of mechanical and magnetic properties has not yet been found.</p>
+<p id="p-0024" num="0023">In assessing these claims on the basis of existing experimental data in literature, as well as the classical metallurgical understanding, it is concluded that the use of high entropy alloys (HEAs) as building blocks for the casting of new phases is one of the most promising and exciting opportunities. HEAs therefore represent one of the most exploratory and promising research areas in materials science at the moment.</p>
+<heading id="h-0001" level="1">Problems Resolved with this Invention</heading>
+<p id="p-0025" num="0024">This invention solves four key problems that coexist in the magnetic phases and the magnets that are made from them.</p>
+<p id="p-0026" num="0025">The first problem is economic and concerns the volatility of the price of the components needed for the manufacture of permanent magnets. The price of rare earth elements is controlled by more than 90% from China, the price of cobalt has tripled over the last three years and is expected to increase further due to increased demand for applications for lithium ion batteries, and in addition more than 50% is supplied by the Democratic Republic of Congo. Also, the price of Nd&#x2014;Pr, which is a component of the best magnets at present, is now tending to increase because of the high demand of magnets for electric cars, for wind power and for a variety of other applications.</p>
+<p id="p-0027" num="0026">Depending on the category of magnetic phases used in the manufacture of the three groups of permanent magnets, it is possible to save up to 30-40% on the cost of rare earth elements if replaced with the appropriate HEAs based on rare earth elements (RE-HEAs) and up to 50-60% on cobalt if replaced with the corresponding HEAs based on transitional elements (TM-HEAs) with high magnetization. For alloys of the type (RE-HEAs)-(TM-HEAs), the savings that can be made on total alloy costs can reach 50% compared to those currently used.</p>
+<p id="p-0028" num="0027">The second problem concerns the scarcity of some rare earth elements, e.g. Dy and Tb, and therefore the possibility of replacing them with a mixture of rare earth elements that are now abundant, e.g. La or Ce, to enable the manufacture of new high entropy alloys with comparable properties to those currently used, namely samarium, neodymium praseodymium.</p>
+<p id="p-0029" num="0028">The third problem is that of replacing cobalt which has a magnetic moment of about 1.6 T (Tesla) with corresponding high entropy alloys based on transition metal elements such as cobalt, iron, nickel, manganese and other additives with approximately the same magnetic moment.</p>
+<p id="p-0030" num="0029">It is worth mentioning a fourth problem concerning the mechanical properties of permanent magnets and their fragility due to the way in which they are produced.</p>
+<heading id="h-0002" level="1">Methods to Resolve these Problems</heading>
+<p id="p-0031" num="0030">In order to solve the objects outlined above, the present invention provides in a first aspect high entropy alloys of rare earth elements (RE-HEAS) including at least four and up to twelve elements selected form rare earth elements R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub>, R<sub>9</sub>, R<sub>10</sub>, R<sub>11</sub>, R<sub>12</sub>, which rare earth elements R<sub>1 </sub>to R<sub>12 </sub>each represents one of elements from the periodic table with atomic numbers 57 to 71 except Pm with atomic number 61 of the periodic system, including yttrium numbered 39 and zirconium numbered 40, due to their chemical affinity for rare earth elements</p>
+<p id="p-0032" num="0031">This first basic approach to solving the above problems is with the use for the first time of high entropy alloys based on rare earth elements with individual numbers from 57 to 71 (except Pm 61) including Yttrium numbered 39 and zirconium numbered 40, due to their chemical affinity for rare earth elements (RE-HEAs). The present RE-HEAs allow to replace especially costly or not abundantly available rare earth metals like samarium, neodymium and/or praseodymium at least partly in their current applications. In some instances it is possible to replace at least half of the amounts of such commonly used high-cost rare earth metals by more abundantly available elements, like La and Ce and thus to considerably reduce the costs involved with providing permanent magnets the demand for which is ever increasing.</p>
+<p id="p-0033" num="0032">Preferred examples, but not exhaustive, of inventive RE-HEAs include LaCePrNd, YLaCePrNd, YCePrNdDy, YLaCePrNdGd or LaCePrNdGdHo and optionally additional elements as defined above. However, also other combinations of rare earth elements including Zr and Y can advantageously replace current high-cost or not readily available rare earth materials. In a preferred embodiment of the invention, such rare earth elements are included in the RE-HEAs in approximately equal proportions.</p>
+<p id="p-0034" num="0033">In a second aspect, the invention provides high entropy alloys of transition metal elements (TM-HEAs) including at least 3 and up to 12 elements selected from transitional elements TM<sub>1</sub>, TM<sub>2</sub>, TM<sub>3</sub>, TM<sub>4</sub>, TM<sub>5</sub>, TM<sub>6</sub>, TM<sub>7</sub>, TM<sub>8</sub>, TM<sub>9</sub>, TM<sub>10</sub>, TM<sub>11</sub>, TM<sub>12 </sub>which transitional elements TM<sub>1 </sub>to TM<sub>12 </sub>each represent at least one of elements, with atomic numbers 21 to 30, 41 to 48 and 72 to 79 of the periodic system.</p>
+<p id="p-0035" num="0034">In a preferred embodiment of this aspect of the present invention, TM<sub>1 </sub>is defined as including the three elements Fe, Co and Ni. In such embodiment, up to 9 additional elements can be included in the alloy, however, also a lower number of 3 or 5 alloy constituents is suitable when considering the envisioned application within applications like permanent magnets.</p>
+<p id="p-0036" num="0035">This second approach to solving the above mentioned problems is based on the replacement of all or parts of the high-cost element cobalt in respective materials within high entropy alloys based on the elements in the periodic table belonging to groups 3 to 12 with individual numbers from 21 to 30, 40 to 48 and 72 to 79 and by group 13. Optionally, also boron (5), aluminum (13), gallium (31) and indium (49) can be included as one of the at least 3 and up to 12 elements. These alloys will be hereinafter referred to as TM-HEAs.</p>
+<p id="p-0037" num="0036">Some especially preferred embodiments of this aspect of the invention include TM-HEAs with the compositions consisting of or comprising FeCoNi, FeCoNiMn, FeCoNiCu, FeCoNiMnAl or FeCoNiMnCuAl.</p>
+<p id="p-0038" num="0037">A further aspect of the present invention is the use of the RE-HEAs and/or TM-HEAs as mentioned above and throughout this specification as building blocks in magnetic high entropy composite alloys for the manufacture of magnetic devices and permanent magnets. As apparent from the foregoing and the following disclosure provided herein, in some aspects all or certain rare earth metals contained in magnetic alloys can be replaced by the RE-HEAs of the present invention and/or all or part of other elements contained in magnetic alloys can be replaced by the TM-HEAs of the present invention. Furthermore, it is also possible to combine both RE-HEAs and TM-HEAs of the present invention as a new high entropy magnetic alloy, optionally including additional materials as defined below.</p>
+<p id="p-0039" num="0038">Thus, another aspect of the present invention relates to high entropy composite alloys of the type</p>
+<p id="p-0040" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)<sub>x</sub>(TM-HEAs)<sub>y</sub>T<sub>z </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0041" num="0000">wherein
+<br/>
+x=1, 2 y=2, 3, 5, 12, 14, 17, z=0.5-3, and
+</p>
+<heading id="h-0003" level="2">T=Mo, Ti, V, Si, N and B</heading>
+<p id="p-0042" num="0039">and RE-HEAs and TM-HEAs are as defined above.</p>
+<p id="p-0043" num="0040">When used as building blocks to replace respective parts of currently used magnetic alloys, it is preferable that the ratios of the various alloy components are maintained. Consequently, in preferred embodiments of the invention, in the high entropy composite alloys RE-HEAs are present in the same ratio as rare-earth metals in the respective alloys for which a replacement of costly or not readily available elements is desired. The same applies with regard to the TM-HEAs which also replace other elements as desired. Finally, the same applies with regard to composite alloys as stated above, in which both the hitherto used rare earth elements and other elements like cobalt are replaced by TM-HEAs.</p>
+<p id="p-0044" num="0041">In a further aspect, the invention provides magnetic alloys in accordance with the samarium cobalt type as described above and, especially, with stoichiometries 1:5 and 2:17. In such high entropy composite alloy of the type</p>
+<p id="p-0045" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Sm<sub>x</sub>CO<sub>y </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0046" num="0000">Sm is replaced by RE-HEAs as defined above
+<br/>
+Co is replaced by TM-HEAs as defined above,
+<br/>
+x=1 or 2 and
+<br/>
+y=5, 17.
+</p>
+<p id="p-0047" num="0042">For magnets of type 1:5, the preferred new composite alloys are represented by:</p>
+<p id="p-0048" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Sm-(TM-HEAs)<sub>5 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0049" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)-Co<sub>5</sub>.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0050" num="0043">More generally, also alloys of the type</p>
+<p id="p-0051" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)-(TM-HEAs)<sub>5 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0052" num="0000">are included within the context of the present invention.</p>
+<p id="p-0053" num="0044">For corresponding magnets of type 2:17 the corresponding replacements lead to alloys represented by</p>
+<p id="p-0054" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Sm-(TM-HEAs)<sub>7.5-8.5 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0055" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)-(Co<sub>balance</sub>Fe<i>x</i>Cu<sub>0.1</sub>Zr<sub>0.03</sub>) with <i>x</i>=0.09-0.21.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0056" num="0045">For magnets of type 2:14:1, another preferred embodiment of the invention is represented by</p>
+<p id="p-0057" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)<sub>2</sub>Fe<sub>14</sub>B.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0058" num="0046">For magnets type 1:12, a still further preferred embodiment of the invention is represented by</p>
+<p id="p-0059" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)Fe<sub>12-x</sub>T<sub>x</sub>, T=Mo, Ti, V, Si, N and <i>x</i>=0.5-2<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0060" num="0047">As mentioned above, in these formulae for the various magnet types the above definitions apply according to which RE-HEAs=high entropy alloy based on rare earth types</p>
+<p id="p-0061" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>R<sub>1</sub>R<sub>2</sub>R<sub>3</sub>R<sub>4 </sub>. . . R<sub>12 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0062" num="0048">R=rare earth elements of La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb and Y, Zr and</p>
+<p id="p-0063" num="0000">TM-HEAs=high entropy alloy based on type transition elements (TMs)</p>
+<p id="p-0064" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>TM<sub>1</sub>TM<sub>2</sub>TM<sub>3</sub>TM<sub>4 </sub>. . . TM<sub>12 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0065" num="0000">with preferably TM<sub>1</sub>=(Fe,Co,Ni)
+<br/>
+and TM<sub>2</sub>TM<sub>3</sub>TM<sub>4 </sub>. . . TM<sub>12 </sub>selected from other transitional elements plus B, Al, Ga and In.
+</p>
+<p id="p-0066" num="0049">For the manufacture of the above alloys (RE-HEAs), (TM-HEAs) and the preparation of magnetic phases based thereon as described in detail above and also for the manufacture of alloys of the type</p>
+<p id="p-0067" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)-(TM-HEAs)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0068" num="0000">which are the raw materials for the manufacture of permanent magnets, the manufacturing techniques are conventional techniques for the manufacture of alloys, especially
+<br/>
+a) arc-melting or
+<br/>
+b) RF melting
+<br/>
+powders from the recommended materials and with a solid state reaction (reaction) either in an electric resistance oven or in a microwave oven.
+</p>
+<p id="p-0069" num="0050">Conventional crystallography techniques, Curie point measurement and magnetic hysteresis loop are used to characterize the alloys above, as well as a change in magnetization with temperature.</p>
+<p id="p-0070" num="0051">It is noteworthy that casting (RE-HEAs) without any impediment leads to phases mainly with a hexagonal structure in most cases.</p>
+<p id="p-0071" num="0052">Also noteworthy is the fact that casting (TM-HEAs), without any annealing leads to phases with cubic symmetry either FCC or BCC characteristic of high entropy alloys.</p>
+<p id="p-0072" num="0053">The most important achievement of this invention is that while the normal magnetic phases used to date for the manufacture of magnets require after casting time-consuming and complex thermal treatment, using high-entropy alloys, it is usually and preferably not necessary to anneal magnetic phases after casting.</p>
+<p id="p-0073" num="0054">Due to the exceptional anti-corrosive properties of high entropy alloys (RE-HEAs) and (TM-HEAs), they remain unoxidized for a long time compared to the components of rare earth elements that are rapidly oxidized with air exposure.</p>
+<p id="p-0074" num="0055">Also due to exceptional mechanical properties of (RE-HEAs) and (TTM-HEAs) and that slow diffusion leads to a different micro structure, potentially desirable for the development of a large coercive field, this invention covers the possibility of casting rather than sintering magnets.</p>
+<p id="p-0075" num="0056">The main advantage of this invention is also to achieve large savings in the cost of raw materials for the manufacture of magnets.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">FIGURE DESCRIPTION</heading>
+<p id="p-0076" num="0057">The above and other features of this invention, nature and various advantages, are presented in conjunction with the schemes that accompany it.</p>
+<p id="p-0077" num="0058"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows the hysteresis loop of a magnetic material, showing the parameters that are of interest for applications. Point 10 is the saturation magnetization of the material; point 20 is the residual magnetization and point 30 is the coercive field. The area of the hysteresis loop is proportional to the energy product of the material.</p>
+<p id="p-0078" num="0059"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows the structure of the SmCo5 material by replacing the samarium with the equivalent (RE-HEAs) and replacing the cobalt with the corresponding (TM-HEAs). 10 is one (RE-HEAs) and 20 is one (TM-HEAs).</p>
+<p id="p-0079" num="0060"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows the structure of an alloy with five elements of the periodic system and the small deformation of the lattice due to the difference in individual atomic radii. 10 could be TM<sub>1</sub>, 20 TM<sub>2</sub>, 30 TM<sub>3</sub>, 40 TM<sub>4 </sub>and 50 TM<sub>5</sub>, as stated in the text on TM-HEAs. It could also be 10 to R<sub>1</sub>, 20 to R<sub>2</sub>, 30 to R<sub>3</sub>, 40 to R<sub>4 </sub>and 50 to R<sub>5 </sub>in the case of RE-HEAs.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<heading id="h-0006" level="1">Example 1: Type Phase 1:5 SmCo5</heading>
+<p id="p-0080" num="0061">At this stage it is possible to replace either rare earth Sm with (RE-HEAs), or cobalt with equivalent (TM-HEAs) or rare earth and cobalt simultaneously and on production of</p>
+<p id="p-0081" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)(TM-HEAs))<sub>5</sub>.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0082" num="0062">(RE-HEAs) means rare earth alloys with at least four and up to 12 elements in approximately equal proportions, e.g. with four LaCePrNd elements, five YLaCePrNd elements, or six LaCePrNdGdHo elements, etc.</p>
+<p id="p-0083" num="0063">These alloys are prepared by mixing rare earth metals of a purity of at least 99.9 at % and by melting by techniques such as arc melting, or with high-frequency currents in an inert atmosphere e.g. to avoid any oxidation. In addition to rare earth elements yttrium and zirconium can be used as elements too.</p>
+<p id="p-0084" num="0064">(TM-HEAs) define alloys with at least three and up to 12 elements in approximately equiatomic proportions and based on the three magnetic materials at room temperature from the periodic table such as iron, cobalt and nickel, e.g. with three FeCoNi components, four FeCoNiMn components, five FeCoNiMnAl components, six FeCoNiMnCuAl components, etc.</p>
+<p id="p-0085" num="0065">These alloys are prepared by mixing transition metals from the periodic table of at least 99.9 at % and by melting by techniques such as arc melting, or high-frequency currents in an inert atmosphere e.g. to avoid oxidation. In addition to the transition elements, elements such as boron, aluminum, gallium and indium can be used.</p>
+<p id="p-0086" num="0066">Magnetic phases leading to appropriate type processing (RE-HEAs)(TM-HEAs)<sub>5 </sub>are made by selecting the corresponding (RE-HEAs) with the desired (TM-HEAs) in the 1:5 ratio and using the same techniques as described for the manufacture of RE-HEAs and TM-HEAs. No further processing is required and phase 1:5 is formed with very good properties.</p>
+<p id="p-0087" num="0067">Such a phase is (Y,Ce,Pr,Nd,Dy)Co<sub>5 </sub>with a magnetization of &#x2dc;75 emu/g, magnetocrystalline anisotropy field &#x2dc;12 T, Curie point &#x3e;500&#xb0; C. and a theoretical energy product of 80-130 KJ/m<sup>3</sup>.</p>
+<p id="p-0088" num="0068">A corresponding phase is Sm&#x2014;(Fe,Co,Ni,Cu)<sub>5 </sub>with a theoretical energy product of the order of 70-100 KJ/m<sup>3</sup>, but with a material cost much lower, as cobalt present in the structure is &#x2155; compared to SmCo5. There are too many combinations, but in category 1:5 it is the cobalt replacement that can bring the greatest economic benefits. Greater benefits are in the Sm(Cobalt (balance)Fe<sub>x</sub>Cu<sub>0.1</sub>Zr<sub>0.03</sub>)<sub>7.5-5.5 </sub>series (x=0.09-0.21) as the Co/Sm ratio is even greater.</p>
+<heading id="h-0007" level="1">Example 2: Type Phase Nd2Fei4B</heading>
+<p id="p-0089" num="0069">At this stage savings are only achieved by replacing the expensive neodymium (or Nd&#x2014;Pr, as, in industry, neodymium-praseodymium alloy is used) with RE-HEAs which are both more abundant and cheaper, such as (Y,La,Ce,Nd&#x2014;Pr,Gd,Ho, . . . ). It is not in any way in the interests of replacing iron which the more abundant and economic material in nature. If the alloy (Y,La,Ce,Pr,Nd)<sub>2</sub>Fe<sub>14</sub>B is produced, it has slightly inferior magnetic properties as Nd2Fei4B, but at a lower cost of 45% and for the alloy (Y,La,Ce,Pr,Nd,Gd)<sub>2</sub>Fe<sub>14</sub>B the savings can reach 40%. This phase has a magnetization of about 1000 emu/g, Curie point around 300&#xb0; C. and an anisotropy of 20% less than the initial phase Nd<sub>2</sub>Fe<sub>14</sub>B. We can achieve an energy product in the range 30-40 MGOe (240-320 KJ/m<sup>3</sup>).</p>
+<heading id="h-0008" level="1">Example 3: Type Phase NdFe<sub>12-x</sub>Ti<sub>x </sub></heading>
+<p id="p-0090" num="0070">At this stage savings are only achieved by replacing the expensive neodymium (in industry, neodymium-praseodymium alloy is used) with RE-HEAs which are both more abundant and cheaper, such as (Y,La,Ce,Nd&#x2014;Pr,Gd, Ho, . . . ). It is not in any way in the interests of replacing iron, which is the most abundant and economic material in nature. For the alloy (Y,La,Ce,Pr,Nd)Fe<sub>12-x</sub>Ti<sub>x </sub>almost the same magnetic properties as NdFe<sub>12-x</sub>Ti<sub>x </sub>and twice the anisotropy field are obtained, but at a cost of 45% and for the alloy (Y,La,Ce, Pr,Nd, Gd)Fe<sub>12-x</sub>Ti<sub>x </sub>savings may be as high as 40%.</p>
+<p id="p-0091" num="0071">There are too many combinations that highlight the value of using high entropy alloys either on the basis of rare earth elements or the transition metal elements or the combination of both in the above magnetic compounds, which by itself and by a more simpler process than has been the case to date for the manufacture of permanent magnets. This invention not only results in the saving of material and resources but also because of the properties of high entropy alloys leads to fewer stages in the preparation of alloys, but also because of mechanical properties in the production capacity of permanent magnets by casting and because of low diffusion, we can manipulate the microstructure to achieve desirable coercivity necessary for the fabrication of permanent magnets. Also, the materials of the present invention can be cast in any shape and under suitable microstructure conditions to be permanent magnets with highly desirable properties.</p>
+<p id="p-0092" num="0072">High entropy alloys of rare earths and transition metals as building blocks for novel magnetic phases for permanent magnets:</p>
+<p id="p-0093" num="0073">The technical field referred to in the invention is that of simple and complex high-entropy magnetic alloys based on the periodic table of chemical elements with excellent magnetic and mechanical properties as new building blocks for the replacement of rare earths and cobalt in magnetic phases and in the technical field of permanent magnets prepared therewith.</p>
+<p id="p-0094" num="0074">The high cost and limitation on the supply of raw materials, such as rare earths and cobalt, which are the main ingredients in magnetic alloys for the manufacture of high quality permanent magnets, are successfully dealt with the creation of high entropy alloys based on rare earths and transition elements, which also offer better mechanical properties. With this approach we achieve a cost reduction of raw materials of over 40% without greatly altering the magnetic properties of the new phases and with better mechanical properties for better permanent magnets.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. High entropy alloy of rare earth elements (RE-HEAs) including at least four and up to twelve elements selected form rare earth elements R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, R<sub>4</sub>, R<sub>5</sub>, R<sub>6</sub>, R<sub>7</sub>, R<sub>8</sub>, R<sub>9</sub>, R<sub>10</sub>, R<sub>11</sub>, R<sub>12</sub>, which rare earth elements R<sub>1 </sub>to R<sub>12 </sub>each represents one of elements 57 to 60, 62 to 70, 39 and 40 of the periodic system.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. RE-HEAs according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least four to up to twelve rare earth elements are present in approximately equal proportions.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. RE-HEAs according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the alloy includes at least one member selected from the group consisting of LaCePrNd, YLaCePrNd, YCePrNdDy, YLaCePrNdGd and LaCePrNdGdHo.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. High entropy alloy of transition elements (TM-HEAs) including at least 3 and up to 12 elements selected from transitional elements TM<sub>1</sub>, TM<sub>2</sub>, TM<sub>3</sub>, TM<sub>4</sub>, TM<sub>5</sub>, TM<sub>6</sub>, TM<sub>7</sub>, TM<sub>8</sub>, TM<sub>9</sub>, TM<sub>10</sub>, TM<sub>11</sub>, TM<sub>12</sub>, which transitional elements TM<sub>1 </sub>to TM<sub>12 </sub>each represent at least one of elements 21 to 30, 41 to 48 and 72 to 79 of the periodic system.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. TM-HEAs according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein TM<sub>1 </sub>comprises the three elements Fe, Co and Ni.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. TM-HEAs according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising at least one member selected from the group consisting of B, Al, Ga and In.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. TM-HEAs according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, comprising at least one member selected from the group consisting of FeCoNi, FeCoNiMn, FeCoNiCu, FeCoNiMnAl and FeCoNiMnCuAl.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A magnetic high entropy composite alloy for the manufacture of magnetic devices and permanent magnets comprising the Use of RE-HEAs according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)<sub>x</sub>(TM-HEAs)<sub>y</sub>T<sub>z </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>x=1, 2 y=2, 3, 5, 12, 14, 17, z=0.5-3, and</claim-text>
+<claim-text>T=Mo, Ti, V, Si, N and B,</claim-text>
+<claim-text>and the RE-HEAs of <claim-ref idref="CLM-00001">claim 1</claim-ref> and a high entropy alloy of transition elements (TM-HEAs) including at least 3 and up to 12 elements selected from transitional elements TM<sub>1</sub>, TM<sub>2</sub>, TM<sub>3</sub>, TM<sub>4</sub>, TM<sub>5</sub>, TM<sub>6</sub>, TM<sub>7</sub>, TM<sub>8</sub>, TM<sub>9</sub>, TM<sub>10</sub>, TM<sub>11</sub>, TM<sub>12</sub>, which transitional elements TM<sub>1 </sub>to TM<sub>12 </sub>each represent at least one of elements 21 to 30, 41 to 48 and 72 to 79 of the periodic system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Sm<sub>x</sub>CO<sub>y </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>Sm is replaced by RE-HEAs as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref> and/or</claim-text>
+<claim-text>Co is replaced by a high entropy alloy of transition elements (TM-HEAs) including at least 3 and up to 12 elements selected from transitional elements TM<sub>1</sub>, TM<sub>2</sub>, TM<sub>3</sub>, TM<sub>4</sub>, TM<sub>5</sub>, TM<sub>6</sub>, TM<sub>7</sub>, TM<sub>8</sub>, TM<sub>9</sub>, TM<sub>10</sub>, TM<sub>11</sub>, TM<sub>12</sub>, which transitional elements TM<sub>1 </sub>to TM<sub>12 </sub>each represent at least one of elements 21 to 30, 41 to 48 and 72 to 79 of the periodic system,</claim-text>
+<claim-text>x=1 or 2 and</claim-text>
+<claim-text>y=5, 17.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>(RE-HEAs)<sub>2</sub>Fe<sub>14</sub>B<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein (RE-HEAs) is defined as in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>((RE-HEAs)Fe<sub>12-x</sub>T<sub>x</sub>,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein the RE-HEAs is the RE-HEAs of <claim-ref idref="CLM-00001">claim 1</claim-ref>,</claim-text>
+<claim-text>T=Mo, Ti, V, Si, N, and</claim-text>
+<claim-text>x=0.5-2.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. Method of manufacture of high entropy alloys according to <claim-ref idref="CLM-00001">claim 1</claim-ref> comprising mixing powders comprising the elements of RE-HEAs and/or the elements of TM-REAs, melting the powders and casting the alloys into appropriate shape.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. Method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, in which melting is achieved via arc-melting or RF-melting in an electric resistance over or a microwave oven, preferably in an inert atmosphere.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A permanent magnet comprising a high entropy composite alloy according to <claim-ref idref="CLM-00009">claim 9</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A magnetic high entropy composite alloys for the manufacture of magnetic devices and permanent magnets comprising the RE-HEAs according to <claim-ref idref="CLM-00004">claim 4</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. Method of manufacture of high entropy composite alloys according to <claim-ref idref="CLM-00009">claim 9</claim-ref> comprising mixing powders comprising the elements of RE-HEAs and/or the elements of TM-REAs, melting the powders and casting the alloys into appropriate shape.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>((RE-HEAs)Fe<sub>12-x</sub>T<sub>x</sub>,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein the RE-HEAs comprise the RE-HEAs of <claim-ref idref="CLM-00002">claim 2</claim-ref>,</claim-text>
+<claim-text>T=Mo, Ti, V, Si, N, and</claim-text>
+<claim-text>x=0.5-2.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. High entropy composite alloy of the formula
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>((RE-HEAs)Fe<sub>12-x</sub>T<sub>x</sub>,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>wherein the RE-HEAs comprise the RE-HEAs of <claim-ref idref="CLM-00003">claim 3</claim-ref>,</claim-text>
+<claim-text>T=Mo, Ti, V, Si, N, and</claim-text>
+<claim-text>x=0.5-2.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. Method of manufacture of high entropy alloys according to <claim-ref idref="CLM-00002">claim 2</claim-ref> comprising mixing powders comprising the elements of RE-HEAs and/or the elements of TM-REAs, melting the powders and casting the alloys into appropriate shape.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

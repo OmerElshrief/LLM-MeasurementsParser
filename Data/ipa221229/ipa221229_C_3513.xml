@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411903A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411903</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17771695</doc-number>
+<date>20201124</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>1917349.1</doc-number>
+<date>20191128</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>067</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>051</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>15</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">MICROSTRUCTURE OF NBC-BASED CEMENTED CARBIDE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>HYPERION MATERIALS &#x26; TECHNOLOGIES ( SWEDEN) AB</orgname>
+<address>
+<city>Stockholm</city>
+<country>SE</country>
+</address>
+</addressbook>
+<residence>
+<country>SE</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>LAVIGNE</last-name>
+<first-name>Olivier</first-name>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>GARCIA</last-name>
+<first-name>Luis Fernando</first-name>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>FURIO BADIA</last-name>
+<first-name>Cristina</first-name>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>SANDOVAL</last-name>
+<first-name>Daniela</first-name>
+<address>
+<city>Barcelona</city>
+<country>ES</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/IB2020/061096</doc-number>
+<date>20201124</date>
+</document-id>
+<us-371c12-date><date>20220425</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Provided are niobium carbide-based cemented carbides and methods of manufacturing the same. The niobium carbide-based cemented carbides may be free of WC. Additionally, or alternatively, the niobium carbide-based cemented carbides may have a hard phase in which NbC in present in an amount greater than any other element of the hard phase. The niobium carbide-based cemented carbide may also have a binder phase devoid of Co.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="207.09mm" wi="118.87mm" file="US20220411903A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="229.19mm" wi="133.10mm" file="US20220411903A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="223.44mm" wi="125.90mm" file="US20220411903A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="223.94mm" wi="127.85mm" file="US20220411903A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="241.64mm" wi="135.81mm" file="US20220411903A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="257.13mm" wi="163.75mm" file="US20220411903A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE DISCLOSURE</heading>
+<p id="p-0002" num="0001">The present subject matter relates to a niobium carbide-based cemented carbide and method of manufacturing the same and in particular, although not exclusively, to a cemented carbide having a specific microstructure and desired mechanical properties for use in metal forming applications, such as wire drawing and can tooling, as well as metal cutting applications.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Cemented carbides are hard materials that include a hard phase, which is typically hexagonal WC based, along with a ductile metallic binder, which is typically Co-based. Such carbides are commonly referred to as WC-Co based or WC-Co cemented carbides.</p>
+<p id="p-0004" num="0003">WC-Co based cemented carbides are widely used hard materials for a broad range of applications such as metal cutting and metal forming due to their excellent hardness, toughness and strength, which yields a favorable Transverse Rupture Strength (TRS) value. To improve the mechanical properties and refine the WC grain size, transition metal carbides may be added in small quantities.</p>
+<p id="p-0005" num="0004">However, recently, cobalt and tungsten oxides have been identified as having mutagenic, carcinogenic and reproductive toxicity. These oxides may be present as secondary products during WC-Co cemented carbide production. Accordingly, work has been done to identify alternative materials that may be used as a substitute for WC-Co cemented carbides.</p>
+<p id="p-0006" num="0005">Cermets, for example, have been explored as a substitute for WC-Co cemented carbides. In high demanding applications, such as the metal cutting industry, cermets are defined as a composite material typically designed TiC&#x2014; or Ti(C,N)-based composites with an fcc hard phase and a Co, Ni or Co/Ni-based binder phase. Like cemented carbides, cermets may also include transition metal carbides, usually in higher quantities compared to WC-Co cemented carbides. However, cermets' sintering cycle is more complicated than that of cemented carbides with respect to the various temperature dwells as well as to the sintering atmosphere. Usually cermets need higher sintering temperatures because of the more stable character of cermet hard phases. Furthermore, if nitrogen is in the starting formulation, the outgassing of nitrogen (at higher temperature than the CO outgassing temperature) can give rise to nitrogen porosity. Thus, cermets usually present a sintering cycle that is more complicated and difficult to control than that of cemented carbides.</p>
+<p id="p-0007" num="0006">Niobium carbide is generally known for its use as a secondary carbide phase in hardmetals. Its addition usually serves either as grain refiner or as secondary hard phase, sometimes known as gamma phase, helping to enhance wear resistance, limit grain growth and improve hot hardness. Compared to WC and Ti(C,N), NbC has a higher melting point, which yields high values for hot hardness. NbC has substantially low density of around 7.79 g/cm<sup>3</sup>, which is comparable to steel and about half that of WC (15.63 g/cm<sup>3</sup>). Niobium, unlike tungsten, is known to be one of the most biocompatible metals. Additionally, Ni powders do not have the same hazardous classification as Co powders.</p>
+<p id="p-0008" num="0007">Like tungsten, niobium may also be used as a hard phase material in cemented carbides or cermets. For example, CN 109439992 discloses a NbC&#x2014;Ni&#x2014; Mo<sub>2</sub>C high temperature hard alloy to reduce crater wear during material processing of an iron-based workpiece. JP 05098383 discloses a cemented carbide suited for decorative materials consisting of NbC, Ni, TaC, Mo and Cr.</p>
+<p id="p-0009" num="0008">CN 109402479 discloses a NbC-based cermet alloy comprising in wt % 35-90 NbC, 5-30 WC and 5-55% (Nb,M)C wherein M may be any of Mo, W, Ta, Ti, Zr, Cr, V.</p>
+<p id="p-0010" num="0009">However, for high demanding applications such as metal cutting and metal forming, existing compositions are not suitable because of their low and unfavorable TRS values. Thus, there is a need to develop new NbC-based cemented carbides that addresses these problems.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0011" num="0010">The present disclosure is directed to niobium carbide-based cemented carbide materials that are substantially free of Co and WC and have mechanical properties that are advantageous for high demand applications such as metal forming and cutting. It is an objective of the present disclosure to provide a niobium carbide-based cemented carbide material suitable for use in metal forming applications such as wire drawing, rolling and tooling, as well as metal cutting applications. It is a specific objective to provide a niobium carbide-based cemented carbide having enhanced TRS and thermal conductivity whilst exhibiting desired toughness and hardness.</p>
+<p id="p-0012" num="0011">The present disclosure provides a NbC-based cemented carbide having microstructures having what is generally regarded as a core-rim structure, for which transverse rupture strength is enhanced. In particular, cemented carbide materials according to the present disclosure may comprise a hardness in a range 1300 to 1700 HV30 (ISO 3878:1983). Additionally, the present cemented carbide may comprise a toughness between 7 to 10 MPa&#x221a;{square root over (m)}(Palmqvist, ISO 28079:2009). Additionally, the present cemented carbides may comprise a TRS of greater than about 1300 MPa (ISO 3327:2009), based on Type A test pieces of rectangular cross-section. As will be appreciated, TRS testing is the easiest and most common procedure of analyzing the mechanical strength of carbides. In accordance with the abovementioned standard, TRS values mentioned herein involved a test material of a certain length placed on a surface and put under stress until it breaks. The TRS values herein are the average value of several tests. The very low plastic deformation is normally not considered as it occurs only in the toughest carbides.</p>
+<p id="p-0013" num="0012">The inventors have identified that TRS is largely influenced by the number and size of defects in the microstructure. Fractures always occur at the weakest point of the structure, which is also where the largest defect is. A high number of defects will therefore increase the probability of premature fracture. Thus, in order to reduce the risk of breakage and in turn increase TRS values, the number of defects within the microstructure of the present material is minimized.</p>
+<p id="p-0014" num="0013">In particular, the present cemented carbide comprises minimized and preferably no precipitation of additional carbide phases as these would be considered a defect and detrimental to the TRS. The microstructure of the present material may be considered to present a core-rim structure. Typical Ti(CN)-based cermets present a core-rim structure where the core is a remnant of raw Ti(CN) powder and the rim is formed during the sintering process. It is commonly accepted that the compositional factors related to the formation of such core-rim structure in Ti(CN)-based cermets during sintering are a combination of the presence and amounts of: Ti, W, C and N. Typical WC-based cemented carbides do not present a core-rim structure.</p>
+<p id="p-0015" num="0014">In one aspect of the present disclosure there is provided a NbC-based cemented carbide comprising: a binder phase comprising Ni; a hard phase comprising NbC compositionally as the majority component of the hard phase; the hard phase comprising a core-rim structure; wherein the core of said core-rim structure comprises NbC; and the rim of said core-rim structure comprises mixed carbides of any of Nb, Mo and Ta.</p>
+<p id="p-0016" num="0015">Reference within the specification to a &#x2018;core-rim&#x2019; structure encompass a structure in which the grains of the hard phase (predominantly NbC) are coated, covered, surrounded by or otherwise encapsulated by a further phase that may be regarded a shell, coating or layering to represent a further phase or &#x2018;interphase&#x2019;. Optionally, the further phase comprises at least or predominantly mixed carbides of anyone or a combination of Mo, Ta, Nb.</p>
+<p id="p-0017" num="0016">Moreover, reference within this specification to a &#x2018;core-rim&#x2019; or a &#x2018;core-rim structure&#x2019; is to be understood as encompassing a phase having a 3-dimensional configuration (i.e. an encapsulating phase to provide a core-shell structure). Core-rim structure references are understood to constitute one single hard phase comprising different compositions dependent on being part of the core or the rim. However, the person skill in the art would also appreciate that reference to the rim of a core-rim structure could be understood as a hard interphase between the core and the binder phase.</p>
+<p id="p-0018" num="0017">In particular, the inventors have identified that the abovementioned microstructure of the NbC-based cemented carbide provides an enhanced TRS (compared to other systems known in the art)without compromising the desired and advantageous hardness-toughness values.</p>
+<p id="p-0019" num="0018">Optionally, composition of the cemented carbide comprises wt % 65-85 NbC; 2-12 Mo<sub>2</sub>C; 0.3-10 TaC; 0-12 or 1-12 WC; 3-25 Ni. In particular, in some aspects substantially all, a majority or a predominant component in wt % of Nb, Mo, Ta and W are present within the hard phase. That is, in certain embodiments, a minor or relatively low amount (i.e. wt % less than 0.5, 0.1, 0.05 or 0.001%) of the total wt % of each of Nb, Mo, Ta and/or W may be present outside/beyond the hard phase. Such minor amounts may be present at the grain boundaries between the hard phase and the binder phase or within the binder phase. In other aspects substantially all, a majority or a predominant component in wt % of Mo and W are present within the binder phase. That is, in certain embodiments, a minor or relatively low amount (i.e. wt % less than 0.5, 0.1, 0.05 or 0.001%) of the total wt % of each of Mo and/or W may be present outside/beyond the binder phase.</p>
+<p id="p-0020" num="0019">Optionally, any or all of Nb, Ta, Mo and W may be present in carbide form (MeC), mixed carbide form (Me, Mel, . . . )C and/or elemental form (Me) within the microstructure of the present disclosure, where Me is any one of or a combination of Nb, Mo, Ta, W.</p>
+<p id="p-0021" num="0020">According to a further aspect of the present disclosure there is provided a method of making a cemented carbide comprising a binder phase and a hard phase, the hard phase comprising a core-rim structure comprising: preparing a batch of powdered materials including Ni, NbC, Mo<sub>2</sub>C and TaC; pressing the batch of powdered materials to form a pre-form; and sintering the pre-form to form the article.</p>
+<p id="p-0022" num="0021">The powdered materials may be added in any one or in combination of their elemental form, carbide form or mixed carbide form.</p>
+<p id="p-0023" num="0022">In one aspect of the present disclosure there is further provided a cemented carbide article obtainable by the methods as claimed and described herein.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0024" num="0023">Specific implementations of the present subject matter will now be described with reference to the various examples and accompanying drawings in which:</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a SEM image of a micrograph of sample A at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a SEM image of a micrograph of sample B at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a SEM image of a micrograph of sample C at 500&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a SEM image of a micrograph of sample D at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a SEM image of a micrograph of sample Eat 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a SEM image of a micrograph of sample F at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a SEM image of a micrograph of sample I at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a SEM image of a micrograph of sample J at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a SEM image of a micrograph of sample Mat 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a SEM image of a micrograph of sample N at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a SEM image of a micrograph of sample Q at 5000&#xd7; magnifications using backscattered electron mode;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a SEM image of a micrograph showing a crack path in sample E at 5000&#xd7; magnifications using backscattered electron mode compared with a SEM image of a micrograph showing a crack path in sample N at 5000&#xd7; magnifications using backscattered electron mode.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0037" num="0036">The inventors have identified an NbC-based cemented carbide material having improved TRS and thermal conductivity for alike hardness-toughness levels as some WC-based cemented carbides.</p>
+<p id="p-0038" num="0037">The desired physical and mechanical characteristics are achieved, at least in part, by the selection of the metallic binder. Nickel presents good wettability towards the carbide ensuring a good cohesion of the material, which in turn facilitates sintering process and good mechanical properties. However, the relatively high solubility of NbC in nickel promotes certain NbC grain growth during sintering. In order to limit such grain growth, molybdenum may be added either as elemental and/or carbide form (i.e. Mo, MoC and/or Mo<sub>2</sub>C). Known NbC&#x2014;Ni&#x2014;Mo systems may present mechanical limitations such as low values for TRS and/or thermal conductivity. Surprisingly, however, the inventors have identified that the addition of tantalum, either in its elemental and/or its carbide form, contributes to the enhancement of such properties.</p>
+<p id="p-0039" num="0038">The inventors have identified that such desired physical and mechanical properties may be achieved via a NbC-based cemented carbide having a microstructure presenting a core-rim structure, for which transverse rupture strength is enhanced.</p>
+<p id="p-0040" num="0039">Optionally, the Ni content in the cemented carbide is at least 3% or at least 5%, by weight. The Ni may be present 3 to 25 wt %, 3 to 20 wt % or 3 to 15 wt % or in a range 5 to 25 wt %, 5 to 20 wt % or 5 to 15 wt %. Such a configuration provides a contribution to the good toughness values whilst maintaining hardness to an appropriate level, as well as high resistance to corrosion.</p>
+<p id="p-0041" num="0040">Optionally, the binder phase of the cemented carbide consists of Ni. In particular, the binder phase comprises exclusively or almost exclusively Ni. However, other components of the cemented carbide may be present as minor wt % components within the binder phase. Such minor components may be elemental or compound forms of remaining/other constituents of the cemented carbide such as Nb, Mo, Ta and optionally W and/or Co.</p>
+<p id="p-0042" num="0041">Optionally, the NbC content in the hard phase of the cemented carbide is at least 65 wt %, at least 70 wt %, at least 75 wt %, at least 80 wt %. Optionally, the NbC content in the cemented carbide is in a wt % range 65 to 85, 65 to 83 or 65 to 80. Such configurations provide a contribution to the desired hardness and high hot hardness values, galling and adhesion resistance.</p>
+<p id="p-0043" num="0042">Optionally, NbC may be the majority wt % component within the hard phase of the cemented carbide. Reference to the majority wt % component encompasses a mass/weight amount of NbC relative to a mass/weight of any other component present within the hard phase.</p>
+<p id="p-0044" num="0043">Optionally, NbC may be the majority wt % component within the cemented carbide based on mass/weight content as part of the cemented carbide relative to any other component present within the cemented carbide.</p>
+<p id="p-0045" num="0044">Optionally, the Mo<sub>2</sub>C content in the cemented carbide is at least 2 wt % or in a range 2 to 15, 2 to 12, 2 to 10 or 3 to 10. Such a configuration provides a contribution to the good corrosion resistance, maintains the desired mechanical properties including hardness and toughness and acts as a grain refiner. Below 2 wt %, no contribution as a grain refiner would be perceived and as a result, the heterogeneity of the different NbC grain sizes would constitute a defect in the microstructure which would in turn result in lower TRS values. Above the higher end, Mo<sub>2</sub>C would not only be present as a mixed carbide in the rim (or the interphase) of the core-rim structure and dissolved in the binder but would also start precipitating as a further phase. Such precipitation would constitute a defect in the microstructure which would in turn result in lower TRS values.</p>
+<p id="p-0046" num="0045">Optionally, the TaC content in the cemented carbide is at least 0.3 wt % or in a range 0.5 to 10, 1 to 9, 1 to 8, 2 to 7 or 2 to 6. Optionally, the TaC content in the cemented carbide is in a range 0.3 to 10, 0.5 to 9, 0.5 to 8, 1 to 7.5, 1 to 7, 1.5 to 7 or 1.5 to 6.5. Such a configuration provides a contribution to the enhanced TRS values as well as thermal conductivity whilst maintaining the desired mechanical properties including hardness and toughness. The addition of tantalum promotes the formation of a core-rim structure. Such core-rim structure constitutes an enhancement of the mechanical properties, in particular the TRS. The rim may act as an interphase between the core and the binder phase, making cracks undergo more deflections, with paths mostly going through the carbide grain/binder interphase, that minimizes crack propagation and in turn enhances the TRS.</p>
+<p id="p-0047" num="0046">Optionally, the cemented carbide is devoid of WC. In particular, the hard phase may comprise exclusively or consist of carbides of any combination of Nb, Mo and Ta. Optionally, WC may be included as a minority wt % component, the relative amount of which is less than a wt % of each of NbC, Ni and/or Mo<sub>2</sub>C. Optionally, WC may be included at less than 15 wt %, 10 wt %, 5 wt %, 2 wt %, 1 wt % or 0.5 wt %.</p>
+<p id="p-0048" num="0047">Optionally, the WC content in the cemented carbide may be at least 1 wt % but less than 15 wt % or in a range 1 to 15 wt %, 1 to 10 wt % or 1 to 5 wt %. Optionally, WC is included as a minority wt % component of the hard phase and/or the cemented carbide. Such configurations are determined due to inevitable impurities present in the production of the present NbC-based cemented carbide, using conventional techniques and equipment that is also used for WC-based cemented carbides. Such configurations also provide a contribution to the good hardness as well as the thermal conductivity. Additionally, such configurations may contribute, according to certain embodiments, to an increasing effect in the enhancement of TRS achieved by the addition of tantalum and/or tantalum carbide. Above 15 wt %, an additional WC phase may start precipitating. Such precipitates would negate the beneficial effect that the addition of TaC and the core-rim structure provides to the cemented carbide by decreasing the TRS values.</p>
+<p id="p-0049" num="0048">Optionally, the cemented carbide is devoid of Co. Preferably, the cemented carbide comprises exclusively Ni as the binder phase. Optionally, and in some embodiments, Co may be present at impurity level (i.e., less than 5 wt %, 3 wt %, 2 wt %, 1 wt %, 0.5 wt %, 0.05 wt % or 0.01 wt %).</p>
+<p id="p-0050" num="0049">Optionally, up to a 2 wt % of the Ni content may be substituted by Co for magnetic purposes only. For certain applications, such as can tooling, some equipment may include magnetic sensors for defect detection. Although one of the objectives of the present disclosure is to provide a cemented carbide free of cobalt, the inventors acknowledge the potential need, under certain circumstances, to provide a NbC-based cemented carbide capable of magnetic detection.</p>
+<p id="p-0051" num="0050">Optionally, up to a 2 wt % of the Ni content in the cemented carbide is substituted by Co. Optionally, the Co content in wt % relative to the total mass of the cemented carbide is in a wt % range 0 to 2.0, 0.1 to 2.0, 0.2 to 2.0 0.01 to 1.0 or 0.05 to 0.5.</p>
+<p id="p-0052" num="0051">Optionally, the cemented carbide comprises a binder phase and a hard phase, the binder phase comprising Ni and optionally Co; the hard phase comprising NbC, Mo<sub>2</sub>C, TaC and optionally WC; and wherein the cemented carbide comprises a balance of NbC; and wherein the hard phase comprises an NbC core and a shell surrounding the core that comprises Ta.</p>
+<p id="p-0053" num="0052">Optionally, the cemented carbide having a core and shell structure, is devoid of precipitation of any additional hard phases or interphases such as carbide or mixed carbide phases of Ta, Mo and W.</p>
+<p id="p-0054" num="0053">Optionally, the cemented carbide comprises a hard phase and a binder phase characterized in that: the binder phase comprises Ni; the hard phase comprises a core and shell structure; the core of said core and shell structure comprises NbC or optionally (Nb,W)C and the shell comprises mixed carbides of Mo, Ta, Nb and optionally W.</p>
+<p id="p-0055" num="0054">Optionally, the cemented carbide comprises a binder phase and a hard phase, the binder phase consisting of Ni and optionally Co; the hard phase consisting of or comprising NbC as the majority component and optionally W; the hard phase comprising a core-rim structure; the core of said core-rim structure consisting of NbC and/or optionally (Nb,W)C and the rim of said core-rim structure consisting of mixed carbides of at least Nb, Mo, Ta and optionally W.</p>
+<p id="p-0056" num="0055">Optionally, the cemented carbide comprises a binder phase and a hard phase, the binder phase comprising 3-15 wt % Ni and optionally Co; the hard phase comprising NbC as the majority component in an amount greater than 65 wt %; the hard phase comprising a core-rim structure; the core of said core-rim structure comprising NbC and/or optionally (Nb,W)C and the rim of said core-rim structure comprising carbides and/or mixed carbides or any of at least Nb, Mo, Ta and optionally W.</p>
+<p id="p-0057" num="0056">Optionally, the cemented carbide comprises a core and shell structure and comprises in wt %: 65-85 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; and 0.5-8 TaC; and optionally the cemented carbide comprises in wt %: 0 to 15 WC; and 0-2 Co. Preferably, the cemented carbide comprising a balance of NbC.</p>
+<p id="p-0058" num="0057">Optionally, the cemented carbide comprises a hard phase and a binder phase; the binder phase consisting of 3 to 15 wt % Ni and 0 to 2 wt % Co; the hard phase consisting of 65 to 85 wt % NbC, 2 to 10 wt % Mo<sub>2</sub>C, 1 to 7 wt % TaC and 0 to 15 wt % WC; the hard phase consisting of a core-rim structure; the core of said core-rim structure consisting of NbC or optionally (Nb,W)C; the rim of said core-rim structure consisting of mixed carbides of at least Nb, Mo, Ta and optionally W.</p>
+<p id="p-0059" num="0058">Optionally, the cemented carbide is devoid of nitrides and/or carbonitrides. Preferably, the cemented carbide comprises exclusively carbides and/or mixed carbides of Nb, Mo, Ta and optionally W. Optionally, the cemented carbide may comprise nitrides and/or carbonitrides present at impurity level. Optionally, the impurity level of such nitrides and/or carbonitrides is less than 0.05, 0.01 or 0.001 wt %.</p>
+<p id="p-0060" num="0059">Optionally, the wt % of NbC in the hard phase is greater than a wt % of any other component of the hard phase. Preferably, the majority wt % component of the hard phase is NbC.</p>
+<p id="p-0061" num="0060">Optionally, the cemented carbide is devoid of Ti and carbides, nitrides and/or carbonitrides of Ti. Optionally, the cemented carbide comprises 0 wt % Ti so as to be compositionally free of Ti.</p>
+<p id="p-0062" num="0061">Optionally, the cemented carbide is devoid of nitrogen or nitrogen compounds. However, the cemented carbide may comprise nitrogen or nitrogen compounds such as nitrides at impurity level such as less than 0.1 wt %, 0.05 wt % or 0.01 wt %.</p>
+<p id="p-0063" num="0062">Optionally, the cemented carbide presents a crack after fracture following an intergranular path preferentially, with minor transgranular fracture.</p>
+<p id="p-0064" num="0063">Reference to powdered materials within this specification is to the starting materials that form the initial powder batch for possible milling, optional formation of a pre-form compact and subsequent/final sintering. Referring to the starting material powder batch, optionally, the powdered materials comprise in wt % 65-85 NbC; 5-15 Ni; 2-10 Mo<sub>2</sub>C; 0.5-8 TaC. Optionally, the powdered materials comprise in wt % 65-85 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; 0.3-10 TaC. Optionally, the powdered materials comprise in wt % 65-85 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; 0.5-8 TaC. Optionally, the powdered materials comprise in wt % 65-85 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; 1-8 TaC Optionally, the powdered materials comprise in wt % 65-75 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; 1-7 TaC Optionally, the powdered materials comprise in wt % 65-75 NbC; 3-15 Ni; 2-10 Mo<sub>2</sub>C; 2-6 TaC. Optionally, the powdered materials further comprise WC in a range wt % 0-15; 0-10; 0-5; 1-10; 1-6 or 1-5. Optionally, the powdered materials may further comprise Co in a range wt % 0-2; 0.1-2 or 0.2 to 2.</p>
+<p id="p-0065" num="0064">Optionally, the step of sintering the pre-form to form the article comprises vacuum or HIP processing. Optionally, the sintering processing comprises processing at a temperature 1350-1500&#xb0; C. n and a pressure 0-20 MPa.</p>
+<p id="p-0066" num="0065">Optionally, the step of sintering the pre-form to form the article does not involve adding nitrogen and/or is undertaken in the absence of nitrogen. In particular, sintering of the materials to form the cemented carbide is undertaken specifically with the exclusion of nitrogen that may otherwise be present as nitrides or within a nitrogen containing environment.</p>
+<p id="p-0067" num="0066">Optionally, a carbon content within the sintered cemented carbide is maintained within a predetermined range to further contribute to the good mechanical properties. Optionally, the carbon content of the sintered material may be held in a range between free carbon in the microstructure (upper limit) and eta-phase initiation (lower limit). Such limits will be appreciated by those skilled in the art.</p>
+<heading id="h-0006" level="1">Examples</heading>
+<p id="p-0068" num="0067">Conventional powder metallurgical methods including milling, pressing, shaping and sintering were used to manufacture various sample grades of a cemented carbide according to the present disclosure. In particular, (fully sintered) cemented carbide grades with the wt % compositions according to Table 1 were produced according to known methods. Grades A to E are comparative samples and Grades F to Q are in accordance with the subject disclosure. All samples were prepared from powdered materials forming the hard phase and the binder phase.</p>
+<p id="p-0069" num="0068">Each of the sample mixtures Grades A to E and Grades F to Q were prepared from powdered materials forming the hard constituents and powders forming the binder. The following preparation method corresponds to Grade K of Table 1 below having starting powdered materials: WC 0.548 g, NbC 42.667 g, TaC 2.189 g, Mo<sub>2</sub>C 3.290 g, Ni 7.130 g, PEG 1.400 g, ethanol 50 ml. It will be appreciated by those skilled in the art that it is the relative amounts of the powdered materials that allow the skilled person to achieve the fully sintered material and suitable adjustment is needed to make the powdered batch and achieve the final fully sintered composition of the cemented carbides of Table 1. The powders were wet milled together with lubricant and anti-flocculating agent until a homogeneous mixture was obtained and granulated by drying. The dried powder was pressed to form a green part according to the abovementioned standard shapes and sintered using SinterHlP at 1350-1500&#xb0; C.</p>
+<p id="p-0070" num="0069">Table 1 details the composition (wt %) of the various comparative samples A to E and samples F to Q encompassed by the present cemented carbide.</p>
+<p id="p-0071" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Example Grade Compositions F to</entry>
+</row>
+<row>
+<entry>Q and Comparative Grades A to E</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>NbC</entry>
+<entry>Ni</entry>
+<entry>Mo<sub>2</sub>C</entry>
+<entry>WC</entry>
+<entry>TaC</entry>
+</row>
+<row>
+<entry>Sample</entry>
+<entry>(wt %)</entry>
+<entry>(wt %)</entry>
+<entry>(wt %)</entry>
+<entry>(wt %)</entry>
+<entry>(wt %)</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>A (comparative)</entry>
+<entry>81</entry>
+<entry>13</entry>
+<entry>4</entry>
+<entry>2</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>B (comparative)</entry>
+<entry>81</entry>
+<entry>8</entry>
+<entry>9</entry>
+<entry>2</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>C (comparative)</entry>
+<entry>58</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>16</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>D (comparative)</entry>
+<entry>45</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>29</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>E (comparative)</entry>
+<entry>78</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>0</entry>
+<entry>0</entry>
+</row>
+<row>
+<entry>F</entry>
+<entry>80.5</entry>
+<entry>8</entry>
+<entry>9</entry>
+<entry>2</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>G</entry>
+<entry>75</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>2</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>H</entry>
+<entry>75</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>1</entry>
+<entry>2</entry>
+</row>
+<row>
+<entry>I</entry>
+<entry>75</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>0</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry>J</entry>
+<entry>78</entry>
+<entry>8</entry>
+<entry>9</entry>
+<entry>2</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry>K</entry>
+<entry>76</entry>
+<entry>13</entry>
+<entry>6</entry>
+<entry>1</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>L</entry>
+<entry>70</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>M</entry>
+<entry>68</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>4</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry>N</entry>
+<entry>70</entry>
+<entry>13</entry>
+<entry>9</entry>
+<entry>0</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry>O</entry>
+<entry>72</entry>
+<entry>13</entry>
+<entry>3</entry>
+<entry>4</entry>
+<entry>8</entry>
+</row>
+<row>
+<entry>P</entry>
+<entry>73</entry>
+<entry>13</entry>
+<entry>6</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>Q</entry>
+<entry>64</entry>
+<entry>13</entry>
+<entry>15</entry>
+<entry>4</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0072" num="0070">Characterization</p>
+<p id="p-0073" num="0071">Hardness tests were carried out according to ISO 3878:1983; toughness tests according to Palmqvist, ISO 28079:2009; and transverse rupture strength (TRS) test were carried out according to ISO 3327:2009, the test pieces being of Type A, rectangular cross-section. Vickers indentation test was performed using 30 kgf (HV30) to assess hardness. Palmqvist fracture toughness was calculated according to:</p>
+<p id="p-0074" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>K</mi>
+   <mo>&#x2062;</mo>
+   <mn>1</mn>
+   <mo>&#x2062;</mo>
+   <mi>c</mi>
+  </mrow>
+  <mo>=</mo>
+  <mrow>
+   <mi>A</mi>
+   <mo>&#x2062;</mo>
+   <msqrt>
+    <mrow>
+     <mi>H</mi>
+     <mo>&#x2062;</mo>
+     <mi>V</mi>
+    </mrow>
+   </msqrt>
+   <mo>&#x2062;</mo>
+   <msqrt>
+    <mfrac>
+     <mi>P</mi>
+     <mrow>
+      <mo>&#x2211;</mo>
+      <mi>L</mi>
+     </mrow>
+    </mfrac>
+   </msqrt>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0075" num="0072">Where A is a constant of 0.0028, HV is the Vickers hardness (N/mm2), P is the applied load (N) and &#x3a3; L is the sum of crack lengths (mm) of the imprint.</p>
+<p id="p-0076" num="0073">The test pieces for transverse rupture strength's determination were beams of Type A (rectangular cross-section with 4&#xd7;5&#xd7;45 mm<sup>3 </sup>dimension). The samples were places between two supports and loaded in their center until fracture occurred (3-points bending). The maximum load was recorded and averaged over minimum five samples per test. The results are shown in Table 2:</p>
+<p id="p-0077" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Transverse Rupture Strength Values for Samples A to Q</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Precipitation</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>TRS</entry>
+<entry>Core-rim</entry>
+<entry>of secondary</entry>
+</row>
+<row>
+<entry/>
+<entry>Sample</entry>
+<entry>(MPa)</entry>
+<entry>structure</entry>
+<entry>hard phases</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="char" char="."/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>A (comparative)</entry>
+<entry>1264</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>B (comparative)</entry>
+<entry>1121</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>C (comparative)</entry>
+<entry>1294</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry/>
+<entry>D (comparative)</entry>
+<entry>931</entry>
+<entry>Yes</entry>
+<entry>Yes</entry>
+</row>
+<row>
+<entry/>
+<entry>E (comparative)</entry>
+<entry>1320</entry>
+<entry>No</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>F</entry>
+<entry>1230</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>G</entry>
+<entry>1400</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>H</entry>
+<entry>1420</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>I</entry>
+<entry>1460</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>J</entry>
+<entry>1540</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>K</entry>
+<entry>1356</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>L</entry>
+<entry>1530</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>M</entry>
+<entry>1604</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>N</entry>
+<entry>1554</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>O</entry>
+<entry>1500</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>P</entry>
+<entry>1600</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry>Q</entry>
+<entry>1290</entry>
+<entry>Yes</entry>
+<entry>No</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0078" num="0074">Characterization of Samples A to Q was undertaken including also microstructural analysis using scanning electron microscopy (SEM). Sintered samples were mounted in bakelite resin and polished down to 1 &#x3bc;m prior to further characterization.</p>
+<p id="p-0079" num="0075">Crack propagation testing was also conducted. Samples E and N were prepared according to ISO Standard 3327:2009. The face of the rectangular TRS-A samples E and N, to be submitted to tension, were grinded and polished up to a mirror-like surface following standard metallographic preparation according to ASTM standard B665-03: Standard Guide for Metallographic Sample Preparation of Cemented Tungsten Carbide. Three Vickers indentation with tests 30 kg of load were done at the center of each sample, in the polished face, with 1 mm distance between them. This was conducted with an Emco DuraScan Hardness tester machine. Samples were then deposited as for 3-point bending testing in a Shimadzu universal testing machine. The face containing the indentation imprints faced downwards so as to be in tension during the test. Monotonic load was then applied up to rupture of the samples. One of the three indentation imprints promoted rupture, while the other two presented cracks at the corner and grown in direction transversal to the applied load. After testing, the crack path at the crack tip was observed by SEM to qualify the deflection. Observation made far from the nucleation point (i.e. at the indentation imprint) assures that propagation of the crack was done at monotonic load and far from the plastic deformation field of the imprint.</p>
+<p id="p-0080" num="0076">Referring to Table 1 and 2, the present cemented carbide samples combine NbC&#x2014;Ni&#x2014; Mo<sub>2</sub>C system and optimum additions of TaC and optionally WC to form a core-rim (core and shell) structure which results in an enhancement of TRS values. <figref idref="DRAWINGS">FIG. <b>5</b></figref> shows the microstructure of comparative sample E, which consists of a plain NbC&#x2014;Ni&#x2014; Mo<sub>2</sub>C system. When comparing such microstructure with those of the inventive samples I (addition of 3 wt % TaC) and N (addition of 8 wt % TaC), <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>10</b></figref> respectively, the appearance of a core-rim structure can be appreciated. While <figref idref="DRAWINGS">FIG. <b>5</b></figref> presents a typical cemented carbide microstructure with NbC carbide grains (hard phase) surrounded by the binder phase of Ni and the dissolved molybdenum, <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>10</b></figref> present a core-rim microstructure where the hard phase is composed by the core and the rim surrounded by the binder phase. The TRS value of comparative sample E is about 1320 MPa, sample I about 1460 MPa and sample N about 1554 MPa. Therefore, it can be seen how the addition of TaC in the composition leads to the formation of a core-rim structure which in turn enhances the TRS values. It is also confirmed that presence of WC is not necessary for such improvement.</p>
+<p id="p-0081" num="0077">Using comparative sample B comparison with sample J which correspond to <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>8</b></figref> respectively it can be noted that comparative sample B, which contains an addition of 2 wt % WC, presents a typical cemented carbide microstructure. However, sample J, with the addition of a 3 wt % TaC to the composition the core-rim structure appears and the TRS is increased from about 1121 MPa to about 1540 MPa.</p>
+<p id="p-0082" num="0078">The upper limits of the optional addition of WC can be noted by comparing comparative samples C (<figref idref="DRAWINGS">FIG. <b>3</b></figref>) and D (<figref idref="DRAWINGS">FIG. <b>4</b></figref>) with the inventive sample M (<figref idref="DRAWINGS">FIG. <b>9</b></figref>). While <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref> do present a core-rim structure, the wt % amount of WC present is such that it also starts precipitation as a separate secondary hard phase. <figref idref="DRAWINGS">FIG. <b>3</b></figref>, with a composition including 16 wt % WC, shows localized precipitation of (W, Mo)C and <figref idref="DRAWINGS">FIG. <b>4</b></figref>, with a composition including 29 wt % WC, shows separate precipitates of WC secondary hard phase in all its microstructure. In contrast, lower amounts of WC addition, such as the one shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> which includes 4 wt % WC, no separate secondary precipitates can be observed. These precipitates are shown to be detrimental for TRS values as can be seen from Table 2, where the inventive sample shows a value of about 1604 MPa in comparison to comparative samples C and D with TRS values of about 1294 and 931 MPa, respectively.</p>
+<p id="p-0083" num="0079">Referring to <figref idref="DRAWINGS">FIG. <b>12</b></figref>, a comparison between microstructures of comparative sample E and inventive sample N is shown. Both microstructures show a crack and its path across the microstructure. It is evidenced that the crack path for comparative sample E, which represents a simple NbC&#x2014;Ni&#x2014; Mo<sub>2</sub>C system, is preferentially transganular (i.e. through the grains). However, for inventive sample E which contains an addition of 8 wt % TaC and presents a core-rim structure, the crack follows an intergranular path preferentially, with minor transgranular fracture. The inventors appreciate the deflection of the crack in sample E is promoted by the microstructure of the composite, influencing the resistance to crack propagation of the material.</p>
+<p id="p-0084" num="0080">Unless defined otherwise all technical and scientific terms used herein have the same meaning as commonly understood to one of ordinary skill in the art to which the presently described subject matter pertains.</p>
+<p id="p-0085" num="0081">Unless otherwise indicated, any reference to &#x201c;wt %&#x201d; refers to the mass fraction of the component relative to the total mass of the cemented carbide.</p>
+<p id="p-0086" num="0082">Where a range of values is provided, for example, concentration ranges, percentage range or ratio ranges, it is understood that each intervening value, to the tenth of the unit of the lower limit, unless the context clearly dictates otherwise, between the upper and lower limit of that range and any other stated or intervening value in that stated range, is encompassed within the described subject matter. The upper and lower limits of these smaller ranges may independently be included in the smaller ranges, and such embodiments are also encompassed within the described subject matter, subject to any specifically excluded limit in the stated range. Where the stated range includes one or both of the limits, ranges excluding either or both of those included limits are also included in the described subject matter.</p>
+<p id="p-0087" num="0083">It should be understood that the terms &#x201c;a&#x201d; and &#x201c;an&#x201d; as used above and elsewhere herein refer to &#x201c;one or more&#x201d; of the enumerated components. It will be clear to one of ordinary skill in the art that the use of the singular includes the plural unless specifically stated otherwise. Therefore, the terms &#x201c;a&#x201d;, &#x201c;an&#x201d; and &#x201c;at least one&#x201d; are used interchangeably in this application.</p>
+<p id="p-0088" num="0084">Unless otherwise indicated, all numbers expressing quantities of ingredients, properties such as size, weight, reaction conditions and so forth used in the specification and claims are to be understood as being modified in all instances by the term &#x201c;about&#x201d;. Accordingly, unless indicated to the contrary, the numerical parameters set forth in the following specification and attached claims are approximations that may vary depending upon the desired properties sought to be obtained by the present subject matter. At the very least, and not as an attempt to limit the application of the doctrine of equivalents to the scope of the claims, each numerical parameter should at least be construed in light of the number of reported significant digits and by applying ordinary rounding techniques.</p>
+<p id="p-0089" num="0085">Throughout the application, descriptions of various embodiments use &#x201c;comprising&#x201d; language; however, it will be understood by one of skill in the art that, in some instances, an embodiment can alternatively be described using the language &#x201c;consisting essentially of&#x201d; or &#x201c;consisting of&#x201d;.</p>
+<p id="p-0090" num="0086">The present subject matter being thus described, it will be apparent that the same may be modified or varied in many ways. Such modifications and variations are not to be regarded as a departure from the spirit and scope of the present subject matter, and all such modifications and variations are intended to be included within the scope of the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20220411903A1-20221229-M00001.NB">
+<img id="EMI-M00001" he="8.81mm" wi="76.20mm" file="US20220411903A1-20221229-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A NbC-based cemented carbide, comprising:
+<claim-text>a binder phase comprising Ni;</claim-text>
+<claim-text>a hard phase comprising NbC in an amount greater than any other element of the hard phase;</claim-text>
+<claim-text>the hard phase comprising a core-rim structure, the core rim structure comprising NbC and mixed carbides of two or more of Nb, Mo and Ta.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising W and the rim of the core-rim structure comprises mixed carbides of two or more of any of Nb, Mo, Ta and W.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The cemented carbide according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the core of the core-rim structure comprises (Nb,W)C.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the amount of Nb in the cemented carbide is greater than 65 wt %.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The cemented carbide according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the amount of W in the cemented carbide is present in an amount of 1-15 wt.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the binder phase comprises Ni in an amount greater than any other element of in the binder phase.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the Ni is present in an amount of at least 3 wt %.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the TaC is present in an amount of is at least 0.3 wt %.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in an amount of less than 1 wt %.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the binder phase consists of Ni or Ni and Co; the hard phase consists of NbC or NbC and W; the core-rim structure comprises a core and a rim, the core consisting of NbC or NbC and (Nb,W)C and the rim consisting of mixed carbides of at least Nb, Mo and Ta, and optionally W.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the binder phase comprises 3-15 wt % Ni and optionally Co; the NbC is present in the hard phase in an amount greater than 65 wt %; the core-rim structure comprises a core and a rim, the core comprising NbC and optionally (Nb,W)C, and the rim of said core-rim structure comprising carbides and/or mixed carbides or any of at least Nb, Mo, Ta and optionally W.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The cemented carbide according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including a crack having an intergranular path.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A method of making a cemented carbide article comprising a binder phase and a hard phase, the hard phase comprising a core-rim structure, the method comprising:
+<claim-text>preparing a batch of powdered materials comprising Ni, NbC, Mo<sub>2</sub>C and TaC;</claim-text>
+<claim-text>pressing the batch of powdered materials to form a pre-form; and sintering the pre-form to form the article.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the powdered batch of powdered materials further comprises WC in an amount 0-15 wt %.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the powdered batch comprises, in wt %,
+<claim-text>65-85 NbC;</claim-text>
+<claim-text>3-15 Ni;</claim-text>
+<claim-text>2-10 Mo<sub>2</sub>C;</claim-text>
+<claim-text>1-8 TaC; and</claim-text>
+<claim-text>0-6 WC.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. (canceled)</claim-text>
+</claim>
+</claims>
+</us-patent-application>

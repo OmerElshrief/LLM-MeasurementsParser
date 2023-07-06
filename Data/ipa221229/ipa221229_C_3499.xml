@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411889A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411889</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17778562</doc-number>
+<date>20210108</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>BR</country>
+<doc-number>BR102020000554.5</doc-number>
+<date>20200109</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>BR</country>
+<doc-number>BR202020000580.0</doc-number>
+<date>20200110</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>BR</country>
+<doc-number>BR102020000704.1</doc-number>
+<date>20200113</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>46</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>27</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>C</subclass>
+<main-group>5</main-group>
+<subgroup>4613</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>27</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>0014</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e98">LANCE FOR USE IN METAL PRODUCTION AND CASTING INSTALLATIONS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>VESUVIUS REFRATARIOS LTDA.</orgname>
+<address>
+<city>Piedade</city>
+<country>BR</country>
+</address>
+</addressbook>
+<residence>
+<country>BR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>LOPES</last-name>
+<first-name>Joao Altenir</first-name>
+<address>
+<city>Volta Redonda</city>
+<country>BR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>VESUVIUS REFRATARIOS LTDA.</orgname>
+<role>03</role>
+<address>
+<city>Piedade</city>
+<country>BR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2021/050296</doc-number>
+<date>20210108</date>
+</document-id>
+<us-371c12-date><date>20220520</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention concerns a lance composed of a top lance (<b>1</b>t) and of a sublance (<b>2</b>) coupled to the top lance (<b>1</b>t), which forms a shoulder (<b>1</b>s) between the top lance and the sublance. The sublance (<b>2</b>) of the present invention is provided with a protective device (<b>3</b>) comprising a coupling end (<b>2</b>c) opening to the cavity (<b>2</b>v), wherein,
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0000">when at rest, the protective device (<b>3</b>) is in an initial configuration characterized by an outer maximum diameter (D<b>3</b>o) which is not more than 10% larger than the diameter (D<b>2</b>) of sublance (<b>2</b>) (D<b>3</b>o&#x2264;1.1 D<b>2</b>),</li>
+        <li id="ul0002-0002" num="0000">when the sublance (<b>2</b>) is coupled to the lance the protective device (<b>3</b>) contacts the shoulder (<b>1</b>s) and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over a whole area of the shoulder (<b>1</b>s).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="23.03mm" wi="156.97mm" file="US20220411889A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="216.49mm" wi="158.75mm" file="US20220411889A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="204.72mm" wi="168.32mm" file="US20220411889A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="231.39mm" wi="141.39mm" file="US20220411889A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="225.55mm" wi="144.86mm" file="US20220411889A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="225.13mm" wi="140.29mm" file="US20220411889A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention concerns a lance for immersion of a probe into molten metal contained in a metallurgical vessel, such as a converter for making steel. The lance is of the type comprising a top lance, which is reusable and does not contact the molten metal, and a sublance coupled to the top lance and holding at a free end thereof a probe for measuring parameters of the molten metal, and/or a sampling tool for collecting a sample of molten metal. In use, the sublance is immersed partially into the molten metal and is disposable. The connection between the top lance and the sublance defines a shoulder, since the top lance has a larger diameter than the sublance. If molten metal splatters onto the shoulder of the top lance, it may, once solidified, jeopardize the coupling of a new sublance to the top lance. The present invention proposes a sublance provided with a protecting device preventing splattering of molten metal or slag onto the shoulder region of the top lance. To facilitate storing of the sublances in existing racks, and for handling the sublances by a robot without changing the programming of the robot, the protecting device stored in the rack has a diameter similar to the diameter of the sublance.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Metal production processes are carried out in metallurgical vessels at high temperatures, undergoing chemical or physical reactions, whether desired or undesired, during the residence time or transfers from one vessel to another of molten metal and/or slag. Since the properties of the final metal products thus produced are strongly dependent on the process conditions, including temperature, pH, and on whether or not desired and undesired chemical or physical reactions occurred, it is important to measure such parameters and also to collect samples in situ, for further characterization. This is generally carried out with a lance comprising a top lance which remains out of the molten metal or slag and a sublance coupled to the top lance and provided with a probe and/or a sample collector at a free end thereof. The top lance is generally made of metal or polymer and is reusable. The sublance, on the other hand, is generally made of thick cardboard and is disposable.</p>
+<p id="p-0004" num="0003">For example, steel can be produced from carbon-rich molten pig iron by an oxygen converter process, wherein oxygen is blown with a lance (<b>12</b>) through molten pig iron to lower the carbon content of the alloy and to change it into low-carbon steel (cf. <figref idref="DRAWINGS">FIG. <b>1</b></figref>). In this process, samples are collected, and parameters of the melt measured with different sublances at least during oxygen blowing (sometimes referred to as inblow sublance) and after oxygen blowing (sometimes referred to as endblow sublance), to ensure that steel of the desired quality is obtained. The inblow sublances are typically provided with a sensor that can measure a temperature and a liquidus of the molten metal and with a sample collector for retrieving a sample of metal. The endblow sublances are typically provided with a sensor for measuring a temperature and an oxygen content of the molten metal and with a sample collector for retrieving a sample of metal.</p>
+<p id="p-0005" num="0004">A new sublance is inserted over a coupling portion of the top lance until it reaches a shoulder formed by a handling portion of the top lance which has a diameter larger than the sublance. Because of vibrations during use, it is possible that the sublance loses contact with the shoulder forming a small gap. The molten metal (<b>11</b>) or the slag floating at the surface thereof can be agitated, either because a vessel is in movement or, in case of a steelmaking converter, because oxygen is being sparged, creating splatters (<b>11</b><i>s</i>) which can reach a top of the sublance and even the shoulder or, if there is one, a gap between said shoulder and the top of the sublance. The metal or slag splatters solidify and form incrustations at the surface of the shoulder and/or of the coupling portion at the level of the gap. When the current sublance is retrieved from the top lance and disposed of, it is important to scrape off any solid metal incrustation from the surfaces of the shoulder and coupling portion of the top lance lest a next sublance cannot be coupled properly to the top lance.</p>
+<p id="p-0006" num="0005">U.S. Pat. No. 4,566,343 and EP3588052 describe solutions for preventing the formation of metal incrustations at a gap between the sublance and the shoulder. U.S. Pat. No. 4,566,343 describes an elastic ring seal between the immersion end of the shoulder of the top lance and the top of the sublance to reduce the deposition of frozen metal at the joint between the top lance and the sublance. EP3588052 describes a similar solution, using two elastic ring seals arranged at the end portion of the sublance, wherein the two elastic ring seals are arranged circumferentially on top of each other for sealing a space between the coupling tap and the end portion of the sublance. These solutions protect a gap between the sublance and the shoulder from being reached by metal or slag splatters. As mentioned supra, a gap does not necessarily occur, and these solutions do not protect the shoulder from metal splattering.</p>
+<p id="p-0007" num="0006">KR101597688 proposes a solution for protecting the shoulder of the top lance from metal splattering. The top end of the sublance is provided with an anti-stick cover formed by an inner ring comprising an inner passage suitable for engaging into the coupling portion of the top lance, and an outer ring, coaxial with and separate from the inner ring, having a larger diameter than the inner ring, which matches the diameter of the shoulder and protects it from metal splattering. The problem with this solution is that the outer ring has a diameter substantially larger than the diameter of the sublance. It follows that the racks traditionally used for storing new sublances awaiting their utilization cannot be used anymore without amending the dimensions of the receiving means to match the dimensions of the anti-stick covers. Furthermore, the change of the geometry of the top end of the sublance with the coupling of the anti-stick cover may require a change in the programming of the robots used for handling the sublances and for coupling them to or retrieving them from the top lance.</p>
+<p id="p-0008" num="0007">The present invention proposes a solution for protecting the shoulder of a top lance as well as any gap formed between said shoulder and a sublance, maintaining the geometry of the top of the sublance substantially unamended. This solution has the advantage that it can be implemented by replacing one-to-one existing sublances without requiring any design change of the existing racks used for storing the sublances and with no programming change of the robots used to handle the sublances. The solution has the advantage that the conformance of the protecting device to a surface of the top lance and conformance to a surface of the sublance is the result of the deformation of the entire device, rather than the deformation of a surface of an elastic material.&#x201d; and &#x201c;This solution has the advantage that the expandable radially protective device expands only after the top lance and sublance have been joined axially, thus reducing the possibility of damage during handling and assembly. These and other advantages of the present invention are presented in continuation.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">The present invention is defined in the appended independent claims. Preferred embodiments are defined in the dependent claims. In particular, the present invention concerns a lance for immersion of a probe into molten metal comprising,
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0009">(A) a top lance comprising,
+        <ul id="ul0005" list-style="none">
+            <li id="ul0005-0001" num="0010">a handling portion extending along a longitudinal axis (X), and comprising a distal end of cross-section normal to the longitudinal axis (X) of diameter (D<b>1</b>) the distal end being provided with</li>
+        </ul>
+        </li>
+        <li id="ul0004-0002" num="0011">a coupling portion extending coaxially with the longitudinal axis (X), and having a maximum diameter (d<b>1</b>), with D<b>1</b>&#x3e;d<b>1</b>,</li>
+        <li id="ul0004-0003" num="0012">(B) a sublance formed by an elongated tube extending along the longitudinal axis (X) and comprising a cavity configured for snugly receiving the coupling portion, wherein the cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe and/or a sample collector, to a proximal end which is coupled to a protective device comprising a coupling end opening to the cavity, wherein,
+        <ul id="ul0006" list-style="none">
+            <li id="ul0006-0001" num="0013">the elongated tube has a cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b> &#x3c;D<b>2</b>&#x3c;D<b>1</b>, and</li>
+            <li id="ul0006-0002" num="0014">the protective device is deformable upon application thereto of a force along the longitudinal axis (X), and</li>
+            <li id="ul0006-0003" num="0015">the coupling portion is inserted in the cavity of the sublance with the protective device contacting the shoulder,
+<br/>
+wherein,
+</li>
+        </ul>
+        </li>
+        <li id="ul0004-0004" num="0016">when at rest, the protective device is in an initial configuration characterized by an outer maximum diameter (D<b>3</b><i>o</i>) which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>,</li>
+        <li id="ul0004-0005" num="0017">when the sublance is coupled to the lance with the coupling portion being inserted in the cavity, the protective device contacts the shoulder and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle normal to the longitudinal axis (X) of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d </i>D<b>1</b>, covering a whole area of the shoulder.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0010" num="0018">In a first embodiment, the protective device comprises,
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0019">an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner layer comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</li>
+        <li id="ul0008-0002" num="0020">an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</li>
+        <li id="ul0008-0003" num="0021">optionally, one or more peripheral tubes which are deformable upon application thereto of a compressive force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube (<b>3</b><i>o</i>) and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits (<b>3</b><i>i</i>) of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits (<b>3</b><i>o</i>) do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and
+<br/>
+wherein the inner slits (<b>3</b><i>i</i>) and the outer slits (<b>3</b><i>o</i>) do not overlap with one another at any point.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0011" num="0022">It is preferred that the inner slits and outer slits preferably extend parallel to the longitudinal axis (X). In an alternative embodiment, the inner slits and outer slits extend transverse to, but not normal to the longitudinal axis (X), and wherein the inner slits and outer slits form an angle with the longitudinal axis preferably comprised between 10 and 50&#xb0;, more preferably between 25 and 45&#xb0;. The inner tube and outer tube can be made of an elastomeric material, or of a metal which is plastically deformable, or can be in the form of a fabric of woven or non-woven fibres made of ceramic, polymer, or metal fibres. To enhance the reproducibility of the deformation of the protective device, the inner tube and/or the outer tube can be provided with folding lines to control the deformation of the protective device (<b>3</b>) for folding in a reproducible way. The inner tube and the outer tube can have different heights measured along the longitudinal axis (X).</p>
+<p id="p-0012" num="0023">In a second embodiment, the protective device may comprise a tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X). The tube extends along the longitudinal axis (X) and forms an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>. The tube comprises a number of slits separated from one another and distributed over a circumference of the tube. In a preferred embodiment, the slits can be distributed in two sets,
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0024">an upper set extending from a location adjacent to the coupling end to a location adjacent to a half of a height of the tube measured along the longitudinal axis (X), and</li>
+        <li id="ul0010-0002" num="0025">a lower set extending from a location adjacent to a fixed end opposite the coupling end to location adjacent to the half of the height of the tube,
+<br/>
+wherein the slits of the upper set are offset relative to the slits of the lower set.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0013" num="0026">The protective device of the foregoing first and second embodiment can be cylindrical, or can comprise one or more cylindrical portions and one or more tapered or curved portions distributed along the longitudinal axis (X).</p>
+<p id="p-0014" num="0027">In a third embodiment, the protective device comprises,
+<ul id="ul0011" list-style="none">
+    <li id="ul0011-0001" num="0000">
+    <ul id="ul0012" list-style="none">
+        <li id="ul0012-0001" num="0028">a support ring coupled to the proximal end of the elongated tube, and</li>
+        <li id="ul0012-0002" num="0029">a number of L-shaped plates, each comprising an outer portion joined to an inner portion at a level of a corner of the L, the L-shaped plates being rotatably mounted and distributed about a circumference of the support ring by hinges at the level of or adjacent to the corners of the L-shaped plates, such that
+        <ul id="ul0013" list-style="none">
+            <li id="ul0013-0001" num="0030">in the initial configuration of the protective device each L-shaped plate is biased to rotate such that the inner portions extend radially inwards, substantially normal to the longitudinal axis (X), obturating at least partially the cavity and the outer portions rest against an outer surface of the sublance, and</li>
+            <li id="ul0013-0002" num="0031">the L-shaped plates are configured for pivoting about the hinges (<b>3</b><i>h</i>) from the initial configuration to the deformed configuration upon inserting the coupling portion (<b>1</b><i>c</i>) into the cavity to couple the sublance to the top lance, wherein in the deformed configuration, the inner portions are aligned parallel to the longitudinal axis (X) and the outer portions extend radially, substantially normal to the longitudinal axis (X) and overlap with one another to form a continuous screen against splashes when the protective device is brought into contact with the shoulder.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0015" num="0032">It is preferred that each outer portion has a free edge which is larger than the corner, measured normal to the longitudinal axis (X), and wherein each outer portion is curved with a curvature matching the external diameter (D<b>2</b>) of the coupling end, such that when the protective device is in the initial configuration, each outer portion mates an external surface of the sublance.</p>
+<p id="p-0016" num="0033">Similarly, it is preferred that each inner portion has a free edge which is shorter than the corner, measured normal to the longitudinal axis (X), and wherein each inner portion is curved with a curvature matching the maximum diameter (d<b>1</b>) of the coupling portion, such that upon inserting the coupling portion into the cavity and upon pivoting the L-shaped plates over their hinges, the inner portions are pressed against a wall of the cavity and form an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, allowing the insertion of the coupling portion.</p>
+<p id="p-0017" num="0034">The L-shaped plates are preferably rigid enough to not substantially deform upon normal use of the device, and are preferably made of metal, preferably steel or aluminium, or made of a ceramic material, or made a polymeric material.</p>
+<p id="p-0018" num="0035">The present invention also concerns a sublance for coupling to the coupling portion of the lance as defined supra. The sublance is formed by an elongated tube extending along the longitudinal axis (X) and comprising a cavity configured for snugly receiving the coupling portion, wherein the cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe and/or a sample collector, to a proximal end which is coupled to a protective device (<b>3</b>) comprising a coupling end (<b>2</b><i>c</i>) opening to the cavity (<b>2</b><i>v</i>). The sublance is characterized as follows,
+<ul id="ul0014" list-style="none">
+    <li id="ul0014-0001" num="0000">
+    <ul id="ul0015" list-style="none">
+        <li id="ul0015-0001" num="0036">the elongated tube has a cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>, and</li>
+        <li id="ul0015-0002" num="0037">the protective device is deformable upon application thereto of a force along the longitudinal axis (X), and</li>
+        <li id="ul0015-0003" num="0038">the coupling portion is inserted in the cavity of the sublance with the protective device contacting the shoulder,</li>
+        <li id="ul0015-0004" num="0039">when at rest, the protective device is in an initial configuration characterized by an outer maximum diameter (D<b>3</b><i>o</i>) which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>,</li>
+        <li id="ul0015-0005" num="0040">when the sublance is coupled to the lance with the coupling portion being inserted in the cavity, the protective device contacts the shoulder and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d</i>&#x2265;D<b>1</b>, covering a whole area of the shoulder, extending normal to the longitudinal axis (X) over a distance at least equal to &#xbd;D1 from the longitudinal axis (X).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0019" num="0041">The protective device is preferably as defined in the first, second, or third embodiments described supra.</p>
+<p id="p-0020" num="0042">The present invention also concerns a protective device for protecting from splattering the shoulder formed between the distal end of the handling portion and the sublance of a lance as defined supra. The protective device comprises,
+<ul id="ul0016" list-style="none">
+    <li id="ul0016-0001" num="0000">
+    <ul id="ul0017" list-style="none">
+        <li id="ul0017-0001" num="0043">an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) w with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner layer comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</li>
+        <li id="ul0017-0002" num="0044">an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</li>
+        <li id="ul0017-0003" num="0045">optionally, one or more peripheral tubes which are deformable upon application thereto of a force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits (<b>3</b><i>i</i>) of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and
+<br/>
+wherein the inner slits and the outer slits do not overlap with one another at any point.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0021" num="0046">The protective device is preferably as defined in the first, second, or third embodiments described supra.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0022" num="0047">For a fuller understanding of the nature of the present invention, reference is made to the following detailed description taken in conjunction with the accompanying drawings in which:</p>
+<p id="p-0023" num="0048"><figref idref="DRAWINGS">FIG. <b>1</b></figref>: shows a steelmaking converter with an oxygen lance and a lance according to the present invention.</p>
+<p id="p-0024" num="0049"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>a</i>)</figref> shows a handling portion and a separate coupling portion of a lance according to the present invention.</p>
+<p id="p-0025" num="0050"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>b</i>)</figref> shows a top lance of the present invention, formed by the handling portion and the coupling portion of <figref idref="DRAWINGS">FIG. <b>1</b>(<i>a</i>)</figref> coupled to one another.</p>
+<p id="p-0026" num="0051"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>c</i>)</figref> shows a sublance according to the present invention.</p>
+<p id="p-0027" num="0052"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>d</i>)</figref> shows a lance according to the present invention formed by the sublance of</p>
+<p id="p-0028" num="0053"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>c</i>)</figref> coupled to the top lance of <figref idref="DRAWINGS">FIG. <b>2</b>(<i>b</i>)</figref>.</p>
+<p id="p-0029" num="0054"><figref idref="DRAWINGS">FIG. <b>2</b>(<i>e</i>)</figref> shows a sublance according to the present invention.</p>
+<p id="p-0030" num="0055"><figref idref="DRAWINGS">FIG. <b>3</b>(<i>a</i>)</figref> shows an exploded view of an embodiment of a protecting device according to the present invention.</p>
+<p id="p-0031" num="0056"><figref idref="DRAWINGS">FIG. <b>3</b>(<i>b</i>)</figref> shows the protecting device of <figref idref="DRAWINGS">FIG. <b>3</b>(<i>a</i>)</figref> in assembled form.</p>
+<p id="p-0032" num="0057"><figref idref="DRAWINGS">FIG. <b>3</b>(<i>c</i>)-<b>3</b>(<i>f</i>)</figref> show alternative embodiments of protective devices according to the present invention.</p>
+<p id="p-0033" num="0058"><figref idref="DRAWINGS">FIG. <b>4</b>(<i>a</i>)</figref> shows a detail of the coupling of a coupling portion to a handling portion for forming a top lance of the present invention.</p>
+<p id="p-0034" num="0059"><figref idref="DRAWINGS">FIG. <b>4</b>(<i>b</i>)</figref> shows a detail of the assembled top lance of <figref idref="DRAWINGS">FIG. <b>4</b>(<i>a</i>)</figref> over a sublance provided with a protective device of the type illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>a</i>) to <b>3</b>(<i>f</i>)</figref>.</p>
+<p id="p-0035" num="0060"><figref idref="DRAWINGS">FIG. <b>4</b>(<i>c</i>)</figref> shows the sublance of <figref idref="DRAWINGS">FIG. <b>4</b>(<i>b</i>)</figref> partially inserted over the coupling portion of the top lance of <figref idref="DRAWINGS">FIG. <b>4</b>(<i>b</i>)</figref>, with a top surface of the protective device contacting the shoulder but remaining undeformed in the initial configuration.</p>
+<p id="p-0036" num="0061"><figref idref="DRAWINGS">FIG. <b>4</b>(<i>d</i>)</figref> shows the sublance of <figref idref="DRAWINGS">FIG. <b>4</b>(<i>c</i>)</figref> fully inserted over the coupling portion of the top lance of <figref idref="DRAWINGS">FIG. <b>4</b>(<i>c</i>)</figref>, with the one embodiment of protective device being deformed in the deformed configuration and protecting the shoulder from splattering.</p>
+<p id="p-0037" num="0062"><figref idref="DRAWINGS">FIG. <b>4</b>(<i>e</i>)</figref> shows a partially deformed protective device of the type illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>a</i>)-<b>3</b>(<i>f</i>)</figref>.</p>
+<p id="p-0038" num="0063"><figref idref="DRAWINGS">FIG. <b>5</b>(<i>a</i>)</figref> shows an exploded view of a second embodiment of the protective device of the present invention.</p>
+<p id="p-0039" num="0064"><figref idref="DRAWINGS">FIG. <b>5</b>(<i>b</i>)</figref> shows a side view of the second embodiment of the protective device of <figref idref="DRAWINGS">FIG. <b>5</b>(<i>a</i>)</figref> in assembled form.</p>
+<p id="p-0040" num="0065"><figref idref="DRAWINGS">FIG. <b>5</b>(<i>c</i>)</figref> shows the second embodiment of the protective device of <figref idref="DRAWINGS">FIG. <b>5</b>(<i>b</i>)</figref> in the initial configuration.</p>
+<p id="p-0041" num="0066"><figref idref="DRAWINGS">FIG. <b>5</b>(<i>d</i>)</figref> shows the second embodiment of the protective device of <figref idref="DRAWINGS">FIG. <b>5</b>(<i>b</i>)</figref> in the deformed configuration.</p>
+<p id="p-0042" num="0067"><figref idref="DRAWINGS">FIG. <b>5</b>(<i>e</i>)</figref> shows a sublance according to the present invention with the protective device of the second embodiment of <figref idref="DRAWINGS">FIG. <b>5</b>(<i>a</i>)</figref>.</p>
+<p id="p-0043" num="0068"><figref idref="DRAWINGS">FIG. <b>6</b>(<i>a</i>)</figref> shows a detail of the coupling of a coupling portion to a handling portion for forming a top lance of the present invention.</p>
+<p id="p-0044" num="0069"><figref idref="DRAWINGS">FIG. <b>6</b>(<i>b</i>)</figref> shows a detail of the assembled top lance of <figref idref="DRAWINGS">FIG. <b>6</b>(<i>a</i>)</figref> over a sublance provided with a protective device of the type illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b>(<i>a</i>) to <b>5</b>(<i>e</i>)</figref>.</p>
+<p id="p-0045" num="0070"><figref idref="DRAWINGS">FIG. <b>6</b>(<i>c</i>)</figref> shows the sublance of <figref idref="DRAWINGS">FIG. <b>6</b>(<i>b</i>)</figref> partially inserted over the coupling portion of the top lance of <figref idref="DRAWINGS">FIG. <b>6</b>(<i>b</i>)</figref>, with a top surface of the second embodiment of the protective device still separated from the shoulder and already at least partially deformed by the introduction of the coupling portion.</p>
+<p id="p-0046" num="0071"><figref idref="DRAWINGS">FIG. <b>6</b>(<i>d</i>)</figref>; shows the sublance of <figref idref="DRAWINGS">FIG. <b>6</b>(<i>c</i>)</figref> fully inserted over the coupling portion of the top lance of <figref idref="DRAWINGS">FIG. <b>6</b>(<i>c</i>)</figref>, with the second embodiment of protective device being deformed in the deformed configuration and protecting the shoulder from splattering.</p>
+<p id="p-0047" num="0072"><figref idref="DRAWINGS">FIGS. <b>7</b>(<i>a</i>)</figref> &#x26; <b>7</b>(<i>b</i>) show alternative embodiments of protective devices according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0048" num="0073">The present invention concerns a lance for immersion of a probe into molten metal. The lance comprises a top lance (<b>1</b><i>t</i>) and a disposable sublance (<b>2</b>), holding a probe and being coupled to the top lance (<b>1</b><i>t</i>).</p>
+<p id="p-0049" num="0074">The top lance (<b>1</b><i>t</i>) comprises a handling portion (<b>1</b><i>h</i>) which is reusable, and a coupling portion (<b>1</b><i>c</i>) coupled to or at least partially integral with a distal end of the handling portion (<b>1</b><i>h</i>). The handling portion (<b>1</b><i>h</i>) extends along a longitudinal axis (X) and comprises a distal end which is generally of substantially circular cross-section normal to the longitudinal axis (X) of diameter (D<b>1</b>). The distal end is provided with the coupling portion (<b>1</b><i>c</i>), which extends coaxially with the longitudinal axis (X), and has a maximum diameter (d<b>1</b>), with D<b>1</b>&#x3e;d<b>1</b>. The coupling portion is generally formed by,
+<ul id="ul0018" list-style="none">
+    <li id="ul0018-0001" num="0000">
+    <ul id="ul0019" list-style="none">
+        <li id="ul0019-0001" num="0075">a fixed element (<b>1</b><i>f</i>) fixed to or integral with the distal end of the handling portion (<b>1</b><i>h</i>) and defining an exposed area of the distal end forming a shoulder (<b>1</b><i>s</i>), and a probe holder (<b>1</b><i>p</i>) extending along the longitudinal axis (X) and comprising a proximal end reversibly coupled to the fixed element (<b>1</b><i>f</i>).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0050" num="0076">A given probe holder can be used a number of times without replacement, but because of the severe conditions of use it is exposed to, it degrades rapidly and, unlike the handling portion (<b>1</b><i>h</i>) and the fixed element (<b>1</b><i>f</i>), the probe holder needs be replaced at regular intervals.</p>
+<p id="p-0051" num="0077">The sublance (<b>2</b>) is disposable and is formed by an elongated tube (<b>2</b><i>t</i>) extending along the longitudinal axis (X) and comprising a cavity (<b>2</b><i>v</i>) configured for snugly receiving the coupling portion (<b>1</b><i>c</i>). The cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x3c;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe (<b>2</b><i>p</i>) and/or a sample collector, to a proximal end which is coupled to a protective device (<b>3</b>) comprising a coupling end (<b>2</b><i>c</i>) opening to the cavity (<b>2</b><i>v</i>). The elongated tube (<b>2</b><i>t</i>) has a substantially circular cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>. The protective device (<b>3</b>) is deformable upon application thereto of a force along the longitudinal axis (X). The sublance (<b>2</b>) is reversibly coupled to the top lance (<b>1</b><i>t</i>) to form the lance. Coupling the sublance (<b>2</b>) to the top lance (<b>1</b><i>t</i>) to form the lance of the present invention is achieved by inserting the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) into the cavity (<b>2</b><i>v</i>) of the sublance (<b>2</b>) with the coupling end (<b>2</b><i>c</i>) of the protective device (<b>3</b>) contacting the shoulder (<b>1</b><i>s</i>).</p>
+<p id="p-0052" num="0078">The gist of the present invention is to provide a protective device which, on the one hand,
+<ul id="ul0020" list-style="none">
+    <li id="ul0020-0001" num="0000">
+    <ul id="ul0021" list-style="none">
+        <li id="ul0021-0001" num="0079">does not alter substantially the geometry of the coupling end (<b>2</b><i>c</i>) of a separate (uncoupled) sublance, to allow using existing racks for storing the sublances and using robots without modifying the programming thereof and, on the other hand,</li>
+        <li id="ul0021-0002" num="0080">covers and protects from splattering the whole area of the shoulder and of any gap formed between the shoulder (<b>1</b><i>s</i>) and the sublance (<b>2</b>) when the latter is coupled to the former.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0053" num="0081">This is achieved by designing the protective device such that
+<ul id="ul0022" list-style="none">
+    <li id="ul0022-0001" num="0000">
+    <ul id="ul0023" list-style="none">
+        <li id="ul0023-0001" num="0082">when at rest, the protective device (<b>3</b>) is in an initial configuration characterized by an outer maximum diameter (D<b>3</b><i>o</i>) which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o&#x2264;</i>1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>, and</li>
+        <li id="ul0023-0002" num="0083">when the sublance (<b>2</b>) is coupled to the lance with the coupling portion (<b>1</b><i>c</i>) being inserted in the cavity (<b>2</b><i>v</i>), the protective device (<b>3</b>) contacts the shoulder (<b>1</b><i>s</i>) and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle normal to the longitudinal axis (X) of diameter (D<b>3</b><i>d</i>) with D<b>3</b>d&#x2265;D<b>1</b>; in the deformed configuration the protective device (<b>3</b>) covers a whole area of the shoulder (<b>1</b><i>s</i>), extending normal to the longitudinal axis (X) over a distance at least equal to &#xbd;D<b>1</b> from the longitudinal axis (X).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0006" level="2">Top Lance (<b>1</b><i>t</i>)</heading>
+<p id="p-0054" num="0084">The top lance (<b>1</b><i>t</i>), as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, is a hollow rod, sufficiently long for being inserted into a metallurgic vessel. For example, for steelmaking converters, the top lance (<b>1</b><i>t</i>) can be 10 to 20 meters long, and even longer depending on the dimensions of the metallurgic installation. It is handled by a robot configured for pulling the lance down into and up out of a metallurgic vessel. The top lance is formed of a handling portion (<b>1</b><i>h</i>) and a coupling portion (<b>1</b><i>c</i>).</p>
+<p id="p-0055" num="0085">The handling portion (<b>1</b><i>h</i>) extends along a longitudinal axis (X) and comprises a distal end of substantially circular cross-section normal to the longitudinal axis (X) of diameter (D<b>1</b>). In a vast majority of cases, the cross-section of the distal end is circular, but in case it was not circular, the cross-section can be similarly characterized by a hydraulic diameter (Dh<b>1</b>) (not shown in the Figures) instead of the diameter (D<b>1</b>), wherein Dh<b>1</b>=A<b>1</b>/P<b>1</b>, with A<b>1</b> and P<b>1</b> being an area and a perimeter of the cross-section of the distal end normal to the longitudinal axis (X). The circularity of the cross-section of the distal end of the handling portion is not essential to the present invention. But in practice, it generally is circular.</p>
+<p id="p-0056" num="0086">The handling portion (<b>1</b><i>h</i>) can be made of metal or polymer, or of a fibre reinforced polymer composite. It is designed to last over a substantial service time without being changed. It can be considered as an integral part of a metallurgic installation.</p>
+<p id="p-0057" num="0087">As shown in <figref idref="DRAWINGS">FIG. <b>2</b>(<i>b</i>)</figref>, the coupling portion (<b>1</b><i>c</i>) extends coaxially with the longitudinal axis (X), and has a maximum diameter (d<b>1</b>), with D<b>1</b>&#x3e;d<b>1</b>. A shoulder (<b>1</b><i>s</i>) of breadth (&#xbd; (D<b>1</b>&#x2212;d<b>1</b>)) is thus formed by the distal end of the handling portion (<b>1</b><i>h</i>) and the coupling portion (<b>1</b><i>c</i>).</p>
+<p id="p-0058" num="0088">As shown in <figref idref="DRAWINGS">FIG. <b>2</b>(<i>a</i>)</figref>, the coupling portion (<b>1</b><i>c</i>) is generally formed by,
+<ul id="ul0024" list-style="none">
+    <li id="ul0024-0001" num="0000">
+    <ul id="ul0025" list-style="none">
+        <li id="ul0025-0001" num="0089">a fixed element (<b>1</b><i>f</i>) fixed to or integral with the distal end of the handling portion (<b>1</b><i>h</i>) and defining an exposed area of the distal end forming the shoulder (<b>1</b><i>s</i>), and</li>
+        <li id="ul0025-0002" num="0090">a probe holder (<b>1</b><i>p</i>) extending along the longitudinal axis (X) and comprising a proximal end reversibly coupled to the fixed element (<b>1</b><i>f</i>).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0059" num="0091">Like the handling portion, the coupling portion is generally hollow defining a passage for accommodating any wiring required by the probe (<b>2</b><i>p</i>) positioned ata free end of the sublance (<b>2</b>). A free end of the coupling portion (<b>1</b><i>c</i>) and, in particular, of the probe holder (<b>1</b><i>p</i>), can be provided with an electrical connection (<b>1</b><i>e</i>) (e.g., a male plug or a female socket) for coupling to a corresponding electrical connection (<b>2</b><i>e</i>) of any wiring of the probe (<b>2</b><i>b</i>) when a sublance (<b>2</b>) is coupled to the top lance (<b>1</b><i>t</i>), thus forming an continuous electrically conductive communication extending from the probe (<b>2</b><i>p</i>) along the passage through the top lance to any controller for recording the measurements by the probe (<b>2</b><i>p</i>). Because the electrical connection (<b>1</b><i>e</i>) of the probe holder (<b>1</b><i>p</i>) can be damaged by repeated connections/disconnections to new sublances (<b>2</b>) and by the severe working conditions within a metallurgical vessel, very close to molten metal at very high temperatures and often exposed to vibrations, the probe holder (<b>1</b><i>p</i>) must be changed at regular intervals, to ensure a good connection of any wires.</p>
+<p id="p-0060" num="0092">The probe holder (<b>1</b><i>p</i>) can be reversibly coupled to the fixed element (<b>1</b><i>f</i>) to form the coupling portion (<b>1</b><i>c</i>) by mechanical means, such as a thread as illustrated in <figref idref="DRAWINGS">FIGS. <b>4</b>(<i>a</i>) and <b>6</b>(<i>a</i>)</figref>, a bayonet, snap fits, and the like.</p>
+<heading id="h-0007" level="2">Sublance (<b>2</b>)</heading>
+<p id="p-0061" num="0093">The sublance (<b>2</b>) extends along the longitudinal axis (X) and comprises a cavity (<b>2</b><i>v</i>) configured for snugly receiving the coupling portion (<b>1</b><i>c</i>). The sublance (<b>2</b>) is composed of at least,
+<ul id="ul0026" list-style="none">
+    <li id="ul0026-0001" num="0000">
+    <ul id="ul0027" list-style="none">
+        <li id="ul0027-0001" num="0094">an elongated tube (<b>2</b><i>t</i>) comprising an immersion end and a proximal end,</li>
+        <li id="ul0027-0002" num="0095">a probe (<b>2</b><i>p</i>) and/or a metal or slag sample collector are coupled to the immersion end of the elongated tube (<b>2</b><i>t</i>), and</li>
+        <li id="ul0027-0003" num="0096">a protective device (<b>3</b>) is coupled to the proximal end of the elongated tube (<b>2</b><i>t</i>).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0062" num="0097">The cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from the immersion end at least partially closed by the probe (<b>2</b><i>p</i>), to a coupling end (<b>2</b><i>c</i>) of the protective device (<b>3</b>) which opens the cavity for receiving the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>). The coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) can comprise gripping means contacting the wall of the cavity (<b>2</b><i>v</i>) and securing the sublance (<b>2</b>) by friction. The sublance (<b>2</b>) can also be secured to the coupling portion by mechanical means, such as a screw thread, a bayonet, snap fits, and the like.</p>
+<p id="p-0063" num="0098">An electrical connection (<b>2</b><i>e</i>) mating the electrical connection (<b>1</b><i>e</i>) of the coupling portion (<b>1</b><i>c</i>) of the top lance can be fixed at a corresponding position in the cavity (<b>2</b><i>v</i>), such that when the sublance (<b>2</b>) is coupled to the top lance (<b>1</b><i>t</i>), an electrical communication is formed by connecting the electrical connectors (<b>1</b><i>e</i>, <b>2</b><i>e</i>) of the top lance (<b>1</b><i>t</i>) and of the sublance (<b>2</b>). This way, the probe (<b>2</b><i>b</i>) can be electrically coupled to an external controller (not shown).</p>
+<p id="p-0064" num="0099">The elongated tube (<b>2</b><i>t</i>) is generally made of cardboard closed by the probe at the immersion end thereof. The coupling end (<b>2</b><i>c</i>) of the elongated tube (<b>2</b><i>t</i>) of the sublance (<b>2</b>) generally has a substantially circular cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>. If the cross-sections of anyone of the coupling portion (<b>1</b><i>t</i>), cavity (<b>2</b><i>v</i>), coupling end (<b>2</b><i>c</i>) of the sublance (<b>2</b>) or distal end of the handling portion (<b>1</b><i>h</i>) are not circular, the cross-sections can be defined by the corresponding hydraulic diameters, dh<b>1</b>&#x3c;dh<b>2</b>&#x3c;Dh<b>2</b>&#x3c;Dh<b>1</b>, wherein a hydraulic diameter is defined as a ratio of an area (A) to a perimeter (P) of the corresponding cross-section (Dh=A/P).</p>
+<p id="p-0065" num="0100">The gist of the present invention includes the provision of a protective device (<b>3</b>) fixed to the coupling end of the sublance (<b>2</b>). At rest, the protective device has an initial configuration, which substantially does not alter the external geometrical dimensions of the sublance. The protective device (<b>3</b>) can be deformed into a deformed configuration upon application thereon of a force parallel to the longitudinal axis (X). The force for deforming the protective device (<b>3</b>) must not substantially exceed the force normally applied for coupling a sublance (<b>2</b>) to a top lance (<b>1</b><i>t</i>), and the protective device must be deformed from the initial configuration to the deformed configuration upon inserting the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) into the cavity (<b>2</b><i>v</i>) until a free end of the protective device (<b>3</b>) contacts the shoulder (<b>1</b><i>s</i>) of the top lance (<b>1</b><i>t</i>) and, depending on the embodiments, upon deeper insertion of the coupling portion (<b>1</b><i>c</i>) into the cavity (<b>2</b><i>v</i>).</p>
+<p id="p-0066" num="0101">Coupling of the various components of a lance (<b>1</b>) according to the present embodiment of the invention can include coupling the probe holder (<b>1</b><i>p</i>) to the fixed element (<b>1</b><i>f</i>) to form the coupling portion (<b>1</b><i>c</i>). The probe holder (<b>1</b><i>p</i>) can be secured to the fixed element (<b>1</b><i>f</i>) with a screw thread, a bayonet, snap fits, and the like. The coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) can then be inserted coaxially into the cavity (<b>2</b><i>v</i>) of the sublance (<b>2</b>), like a sword into a sheath until the protective device (<b>3</b>) in the initial configuration contacts the shoulder (<b>2</b><i>h</i>). Upon application of a force along the longitudinal axis (X) onto the protective device (<b>3</b>), the protective device reaches the deformed configuration. It is essential to the present invention that the protective device (<b>3</b>) have reached the deformed configuration when coupling between the sublance (<b>2</b>) and the top lance (<b>1</b><i>t</i>) is completed.</p>
+<p id="p-0067" num="0102">As shown in <figref idref="DRAWINGS">FIGS. <b>2</b>(<i>d</i>), <b>4</b>(<i>d</i>), and <b>6</b>(<i>d</i>)</figref>, when the sublance (<b>2</b>) is coupled to the top lance (<b>1</b><i>t</i>), the protective device (<b>3</b>) is in the deformed configuration with the free end of the protective device contacting the shoulder (<b>1</b><i>s</i>) and extends radially over an area inscribing a circle normal to the longitudinal axis (X) of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d</i>&#x2265;D<b>1</b>, thus covering a whole area of the shoulder (<b>1</b><i>s</i>). In the deformed configuration, the shoulder (<b>1</b><i>s</i>) is sheltered by the protective device (<b>3</b>) from any molten metal splatters (<b>11</b><i>s</i>) and needs not be scrubbed and scraped to remove any solidified metal from the surface of the shoulder (<b>1</b><i>s</i>). Such cleaning operations must be made manually and can be very cumbersome.</p>
+<heading id="h-0008" level="2">Protective Device (<b>3</b>)&#x2014;Double Tube</heading>
+<p id="p-0068" num="0103">In a preferred embodiment illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>a</i>) to <b>3</b>(<i>e</i>)</figref>, the protective device (<b>3</b>) comprises,
+<ul id="ul0028" list-style="none">
+    <li id="ul0028-0001" num="0000">
+    <ul id="ul0029" list-style="none">
+        <li id="ul0029-0001" num="0104">an inner tube (<b>3</b><i>i</i>) which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner layer (<b>3</b><i>i</i>) comprising a number of inner slits (<b>3</b><i>si</i>) separated from one another and distributed over a circumference of the inner tube (<b>3</b><i>i</i>),</li>
+        <li id="ul0029-0002" num="0105">an outer tube (<b>3</b><i>o</i>) which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube (<b>3</b><i>i</i>) and comprising a number of outer slits (<b>3</b><i>so</i>) separated from one another and distributed over a circumference of the outer tube (<b>3</b><i><b>0</b></i>).
+<br/>
+wherein the inner slits (<b>3</b><i>si</i>) and the outer slits (<b>3</b><i>so</i>) do not overlap with one another at any point.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0069" num="0106">The protective device (<b>3</b>) can optionally comprise one or more peripheral tubes which are deformable upon application thereto of a compressive force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube (<b>3</b><i>o</i>) and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits (<b>3</b><i>so</i>) do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube.</p>
+<p id="p-0070" num="0107">As shown in <figref idref="DRAWINGS">FIG. <b>4</b>(<i>e</i>)</figref>, the non-overlapping inner and outer slits (<b>3</b><i>si</i>, <b>3</b><i>so</i>) are essential to the present invention for the following reasons. In the initial configuration, the protective device has an outer maximum diameter (D<b>3</b><i>o</i>) yielding a perimeter Pi=&#x3c0;&#xd7;D<b>3</b><i>o</i>, formed by a number of stripes of material having a stripe width measured tangentially (i.e., normal to the longitudinal axis (X) and to a radial direction), defined between two adjacent slits of initial slit width. In the deformed configuration, the protective device (<b>3</b>) forms a surface spanning over an area inscribing a circle of diameter (D<b>3</b><i>d</i>), with D<b>3</b><i>o</i>&#x3c;D<b>3</b><i>d</i>, yielding a perimeter Pd=&#x3c0;&#xd7;D<b>3</b><i>d</i>&#x3e;Pi. Since the stripe width remains constant upon flexing the stripes of material, Pd can be larger than Pi only by accordingly increasing the slit width. The problem with locally broad slits (<b>3</b><i>si</i>, <b>3</b><i>so</i>) is that with such openings the surface thus formed cannot be impervious to splatters (<b>11</b><i>s</i>) of molten metal and slag. For this reason, both inner tube (<b>3</b><i>i</i>) and outer tube (<b>3</b><i>o</i>) are required with inner slits (<b>3</b><i>si</i>) and outer slits (<b>3</b><i>so</i>) which do not overlap with one another at any point so that any locally broad slit of the inner or the outer tube is always covered by a stripe of material of the outer or the inner tube, respectively, thus defining a surface impervious to splatters (<b>11</b><i>s</i>) of metal or slag.</p>
+<p id="p-0071" num="0108">As illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>a</i>) to <b>3</b>(<i>e</i>)</figref>, the inner slits (<b>3</b><i>si</i>) and outer slits (<b>3</b><i>so</i>) can extend parallel to the longitudinal axis (X). Alternatively, as shown in <figref idref="DRAWINGS">FIG. <b>3</b>(<i>f</i>)</figref>, the inner slits (<b>3</b><i>si</i>) and outer slits (<b>3</b><i>so</i>) may extend transverse to, but not normal to the longitudinal axis. In this embodiment, the inner slits (<b>3</b><i>si</i>) and outer slits (<b>3</b><i>so</i>) may form an angle with the longitudinal axis comprised between 10 and 50&#xb0;, preferably between 25 and 45&#xb0;.</p>
+<p id="p-0072" num="0109"><figref idref="DRAWINGS">FIG. <b>3</b>(<i>c</i>)</figref> illustrates an embodiment wherein the inner tube (<b>3</b><i>i</i>) and/or the outer tube (<b>3</b><i>o</i>) is provided with folding lines (<b>3</b><i>f</i>) to control the deformation of the protective device (<b>3</b>) for folding in a reproducible way. The folding lines ensure that the tubes deform preferentially along the folding lines (<b>3</b><i>f</i>). The folding lines (<b>3</b><i>f</i>) can be formed by dotted perforations of the tubes, by a locally thinner wall thickness of the inner and/or outer tubes, the folding lines being thus defined by corresponding grooves. Since the protective device (<b>3</b>) is coupled at one end to the proximal end of the extended tube (<b>2</b><i>t</i>) and at the coupling end (<b>2</b><i>c</i>) to the coupling portion of the top lance (<b>1</b><i>t</i>), folding lines (<b>3</b><i>f</i>) can run adjacent and parallel to the one end and to the coupling end (<b>2</b><i>c</i>) of the protective device (<b>3</b>). Folding lines (<b>3</b><i>f</i>) can also run circumferentially at about mid-height of the protective device (<b>3</b>) to ensure that in the deformed configuration, the protective device (<b>3</b>) spans over the whole area of the shoulder. Preferred positions of folding lines (<b>3</b><i>f</i>) as described supra are illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>c</i>) and <b>4</b>(<i>e</i>)</figref>.</p>
+<p id="p-0073" num="0110">As shown in <figref idref="DRAWINGS">FIG. <b>3</b>(<i>d</i>)</figref>, the inner tube (<b>3</b><i>i</i>) and the outer tube (<b>3</b><i>o</i>) can have different heights measured along the longitudinal axis (X). In the embodiment of <figref idref="DRAWINGS">FIG. <b>3</b>(<i>d</i>)</figref>, the outer tube (<b>3</b><i>o</i>) is about half the height of the inner tube (<b>3</b><i>i</i>). In the embodiment of <figref idref="DRAWINGS">FIG. <b>3</b>(<i>d</i>)</figref>, the outer slits (<b>3</b><i>so</i>) of the outer tube open at the free edge of the outer tube (<b>3</b><i>o</i>) located closest to the coupling end (<b>2</b><i>c</i>). Outer slits (<b>3</b><i>so</i>) opening at the free edge of the outer tube (<b>3</b><i>o</i>) located closest to the coupling end (<b>2</b><i>c</i>) can also be applied to any outer tube (<b>3</b><i><b>0</b></i>) having a height comprised between 50% and 100% of the height of the inner tube (<b>3</b><i>i</i>). With this configuration, the inner tube folds in two and spreads the free stripes of material of the outer tube, which open like the petals of a flower.</p>
+<p id="p-0074" num="0111">The spaces between two adjacent stripes (=petals) of the outer tube are protected by stripes of material of the inner tube (<b>3</b><i>i</i>) which are offset relative to the ones of the outer tube.</p>
+<p id="p-0075" num="0112">The protective device (<b>3</b>) can be cylindrical as shown in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>a</i>) to <b>3</b>(<i>d</i>) and <b>3</b>(<i>f</i>)</figref> or it can comprise one or more cylindrical portions and one or more tapered or curved portions distributed along the longitudinal axis (X), an embodiment of which is illustrated in <figref idref="DRAWINGS">FIG. <b>3</b>(<i>e</i>)</figref>.</p>
+<p id="p-0076" num="0113">The inner tube (<b>3</b><i>i</i>) and outer tube (<b>3</b><i>o</i>) can be made of an elastomeric material or of a metal which is plastically deformable or can be in the form of a fabric of woven or non-woven fibres made of ceramic, polymer, or metal fibres.</p>
+<p id="p-0077" num="0114"><figref idref="DRAWINGS">FIGS. <b>4</b>(<i>a</i>) to <b>4</b>(<i>d</i>)</figref> illustrate various steps for mounting a lance according to the present embodiment of the invention, highlighting the deformation of the protective device (<b>3</b>) upon coupling the sublance (<b>2</b>) to the top lance (<b>1</b><i>t</i>). <figref idref="DRAWINGS">FIG. <b>4</b>(<i>a</i>)</figref> shows how to couple a probe holder (<b>1</b><i>p</i>) to the fixed element (<b>1</b><i>f</i>) to form the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>). In <figref idref="DRAWINGS">FIG. <b>4</b>(<i>a</i>)</figref> a screw thread is illustrated for coupling the probe holder (<b>1</b><i>p</i>) to the fixed element (<b>1</b><i>f</i>). As discussed supra, other coupling means can be used without affecting the present invention, such as a bayonet, or snap fits. As shown in <figref idref="DRAWINGS">FIGS. <b>4</b>(<i>b</i>) and <b>4</b>(<i>c</i>)</figref>, the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) is inserted into the cavity (<b>2</b><i>v</i>) of the sublance (<b>2</b>), like a sword into a sheath until the coupling end (<b>2</b><i>c</i>) of the protective device contacts the shoulder (<b>1</b><i>s</i>) without deformation of the protective device which is still in the initial configuration. The protective device (<b>3</b>) illustrated in <figref idref="DRAWINGS">FIGS. <b>4</b>(<i>b</i>) to <b>4</b>(<i>e</i>)</figref> is of the type illustrated in <figref idref="DRAWINGS">FIG. <b>3</b>(<i>b</i>)</figref> or <b>3</b>(<i>c</i>), but the same principle applies to any one of the embodiments illustrated in <figref idref="DRAWINGS">FIGS. <b>3</b>(<i>b</i>) to <b>3</b>(<i>f</i>)</figref>. At this stage, illustrated in <figref idref="DRAWINGS">FIG. <b>4</b>(<i>c</i>)</figref>, the sublance (<b>2</b>) is not fully coupled to the top lance (<b>1</b><i>t</i>) yet. To complete the coupling, the coupling portion (<b>1</b><i>c</i>) must penetrate further, deeper into the cavity, which applies a compressive force along the longitudinal axis (X) onto the protective device (<b>3</b>) which is deformed to reach the deformed configuration. By comparing <figref idref="DRAWINGS">FIGS. <b>4</b>(<i>d</i>) and <b>4</b>(<i>e</i>)</figref>, it can be seen that upon application of a compressive force along the longitudinal axis (X), the two-tube substantially cylindrical protective device buckles at mid-height (measured along the longitudinal axis (X)) forming a geometry of the type comprising two inverted funnels joined to one another at a broad end of each funnel. The diameter (D<b>3</b><i>d</i>) at the level of the folding of the stripes of materials must be at least equal to the diameter (D<b>2</b>) of the distal end of the top lance (D<b>3</b><i>d</i>&#x2265;D<b>2</b>). Consequently, the height of the protective device (<b>3</b>) measured along the longitudinal axis (X) must be larger than twice the radial breadth (=&#xbd; (D<b>1</b>&#x2212;D<b>2</b><i>c</i>)) of the shoulder (<b>1</b><i>s</i>) formed between the top lance (<b>1</b><i>t</i>) and the sublance (<b>2</b>), wherein D<b>2</b><i>c </i>is the diameter of the coupling end (<b>2</b><i>c</i>) of the protective device (<b>3</b>).</p>
+<heading id="h-0009" level="2">Protective Device (<b>3</b>)&#x2014;Single Tube</heading>
+<p id="p-0078" num="0115">In an alternative preferred embodiment illustrated in <figref idref="DRAWINGS">FIGS. <b>7</b>(<i>a</i>) and <b>7</b>(<i>b</i>)</figref>, the protective device (<b>3</b>) comprises a single tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X). The tube extends along the longitudinal axis (X) and forms an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2264;d<b>1</b>. The tube (<b>3</b><i>i</i>) comprises a number of slits (<b>3</b><i>s</i>) separated from one another and distributed over a circumference of the tube.</p>
+<p id="p-0079" num="0116">In the embodiment illustrated in <figref idref="DRAWINGS">FIG. <b>7</b>(<i>a</i>)</figref>, the slits extend over at least 70%, preferably at least 80%, more preferably at least 90% of a height of the tube measured along the longitudinal axis (X).</p>
+<p id="p-0080" num="0117">In the embodiment illustrated in <figref idref="DRAWINGS">FIG. <b>7</b>(<i>b</i>)</figref>, the slits (<b>3</b><i>s</i>) are distributed in two sets,
+<ul id="ul0030" list-style="none">
+    <li id="ul0030-0001" num="0000">
+    <ul id="ul0031" list-style="none">
+        <li id="ul0031-0001" num="0118">an upper set extending from a location adjacent to the coupling end (<b>2</b><i>c</i>) to a location adjacent to a half of a height of the tube measured along the longitudinal axis (X), and</li>
+        <li id="ul0031-0002" num="0119">a lower set extending from a location adjacent to a fixed end opposite the coupling end (<b>2</b><i>c</i>) to a location adjacent to the half of the height of the tube,
+<br/>
+wherein the slits (<b>3</b><i>s</i>) of the upper set are offset relative to the slits (<b>3</b><i>s</i>) of the lower set.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0081" num="0120">The slits (<b>3</b><i>s</i>) may extend parallel to the longitudinal axis (X) or, alternatively, they can extend transverse to, but not normal to the longitudinal axis (X). In the latter embodiment, the slits (<b>3</b><i>s</i>) form an angle with the longitudinal axis preferably comprised between 10 and 50&#xb0;, more preferably between 25 and 45&#xb0;. In all cases, the slits are preferably parallel to each other or, at least, never cross each other.</p>
+<p id="p-0082" num="0121">As shown in <figref idref="DRAWINGS">FIGS. <b>7</b>(<i>a</i>) and <b>7</b>(<i>b</i>)</figref>, the tube is preferably provided with folding lines (<b>30</b><i>f</i>) to control the deformation of the protective device (<b>3</b>) for folding in a reproducible way. For example, a folding line (<b>3</b><i>f</i>) can extend circumferentially at half the height of the tube.</p>
+<p id="p-0083" num="0122">The tube can be cylindrical or can comprise one or more cylindrical portions and one or more tapered or curved portions distributed along the longitudinal axis (X). The tube is preferably made of an elastomeric material, or of a metal which is plastically deformable, or is in the form of a fabric of woven or non-woven fibers made of ceramic, polymer, or metal fibers.</p>
+<heading id="h-0010" level="2">Protective Device (<b>3</b>)&#x2014;Lotus Flower</heading>
+<p id="p-0084" num="0123">In an alternative preferred embodiment illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b>(<i>a</i>) to <b>5</b>(<i>e</i>)</figref>, the protective device (<b>3</b>) comprises,
+<ul id="ul0032" list-style="none">
+    <li id="ul0032-0001" num="0000">
+    <ul id="ul0033" list-style="none">
+        <li id="ul0033-0001" num="0124">a support ring (<b>3</b><i>r</i>) coupled to the coupling end (<b>2</b><i>c</i>) of the sublance (<b>2</b>), and a number of L-shaped plates (<b>3</b><i>p</i>), each comprising an outer portion (<b>3</b><i>po</i>) joined to an inner portion (<b>3</b><i>pi</i>) at a level of a corner of the L (cf. <figref idref="DRAWINGS">FIG. <b>5</b>(<i>a</i>)</figref>).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0085" num="0125">The L-shaped plates are rotatably mounted and distributed about a circumference of the support ring by hinges (<b>3</b><i>h</i>) at the level of or adjacent to the corners of the L-shaped plates, such that, as shown in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>b</i>)</figref>, the protective device (<b>3</b>) can change between initial and deformed configurations by rotation of the L-shaped plates (<b>3</b><i>p</i>) about their respective hinges (<b>3</b><i>h</i>).</p>
+<p id="p-0086" num="0126">In the initial configuration of the protective device (<b>3</b>) illustrated in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>c</i>)</figref>, each L-shaped plate is biased to rotate such that the inner portions (<b>3</b><i>pi</i>) extend radially inwards, substantially normal to the longitudinal axis (X), obturating at least partially the cavity (<b>2</b><i>v</i>) and the outer portions (<b>3</b><i>po</i>) rest against an outer surface of the sublance (<b>2</b>). In the initial configuration, the inner portions (<b>3</b><i>pi</i>) form an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x3c;d<b>1</b>. The bias can be created with a spring forcing the L-shaped plates into the initial configuration described supra. The bias can, however, be created much more simply by moving the centre of gravity of the L-shaped plates such that by gravity the L-shaped plates naturally rotate to reach the foregoing configuration. Note that the sublance is generally stored, handled, and used with the longitudinal axis (X) being substantially vertical, so that the effects of gravity can easily be controlled.</p>
+<p id="p-0087" num="0127">As shown in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>b</i>)</figref>, the L-shaped plates are configured for pivoting about the hinges (<b>3</b><i>h</i>) from the initial configuration illustrated in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>c</i>)</figref> to the deformed configuration illustrated in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>d</i>)</figref> upon inserting the coupling portion (<b>1</b><i>c</i>) into the cavity (<b>2</b><i>v</i>) to couple the sublance (<b>2</b>) to the top lance (<b>1</b><i>t</i>). As shown in <figref idref="DRAWINGS">FIG. <b>5</b>(<i>d</i>)</figref>, in the deformed configuration, the inner portions (<b>3</b><i>pi</i>) are aligned parallel to the longitudinal axis (X) and the outer portions (<b>3</b><i>po</i>) extend radially, substantially normal to the longitudinal axis (X) and overlap with one another to form a continuous screen against metal splatters when the protective device (<b>3</b>) is brought into contact with the shoulder (<b>1</b><i>s</i>).</p>
+<p id="p-0088" num="0128">As can be seen in <figref idref="DRAWINGS">FIGS. <b>5</b>(<i>a</i>) and <b>5</b>(<i>d</i>)</figref>, each outer portion (<b>3</b><i>po</i>) preferably has a free edge which is larger than the corner, measured tangentially (i.e., normal to the longitudinal axis (X) and to the radial directions). This way, when the L-shaped plates (<b>3</b><i>p</i>) pivot about their hinges to reach the deformed configuration (like a blossoming lotus flower), all L-shaped plates contact the adjacent L-shaped plates positioned on either side thereof, thus forming a continuous screen protecting the shoulder (<b>1</b><i>s</i>) against splattering.</p>
+<p id="p-0089" num="0129">Each outer portion (<b>3</b><i>po</i>) is preferably curved with a curvature matching the external diameter (D<b>2</b>) of the coupling end (<b>2</b><i>c</i>), such that when the protective device (<b>3</b>) is in the initial configuration, each outer portion (<b>3</b><i>po</i>) mates an external surface of the sublance (<b>2</b>). This is illustrated in <figref idref="DRAWINGS">FIGS. <b>5</b>(<i>c</i>) and <b>5</b>(<i>e</i>)</figref>, so that the maximum diameter (D<b>3</b><i>o</i>) of the protective device (<b>3</b>) does not exceed D<b>2</b> by more than 10% (D<b>3</b><i>o&#x2264;</i>1.1 D<b>2</b>).</p>
+<p id="p-0090" num="0130">In a preferred embodiment, each inner portion (<b>3</b><i>pi</i>) has a free edge which is shorter than the corner, measured normal to the longitudinal axis (X), as can be seen in <figref idref="DRAWINGS">FIGS. <b>5</b>(<i>a</i>) to <b>5</b>(<i>c</i>)</figref>. This way, when the protective device (<b>3</b>) is in the initial configuration and the inner portions (<b>3</b><i>pi</i>) extend radially inwards, they do not overlap with one another. They need not form a continuous screen, as in the initial configuration the sublance is not coupled to the top lance and is therefore not in use. When the L-shaped plates pivot to reach the deformed configuration, they contact the wall of the cavity, and should preferably not overlap with one another to allow as large a cavity opening as possible to admit the coupling portion (<b>1</b><i>c</i>) of diameter (d<b>1</b>) into the cavity (<b>2</b><i>v</i>).</p>
+<p id="p-0091" num="0131">Each inner portion (<b>3</b><i>pi</i>) is preferably curved with a curvature matching the maximum diameter (d<b>1</b>) of the coupling portion (<b>1</b><i>c</i>), such that upon inserting the coupling portion (<b>1</b><i>c</i>) into the cavity (<b>2</b><i>v</i>) and upon pivoting the L-shaped plates (<b>3</b>) over their hinges (<b>3</b><i>h</i>), the inner portions (<b>3</b><i>pi</i>) are pressed against a wall of the cavity (<b>2</b><i>v</i>) and form an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, allowing the insertion of the coupling portion (<b>1</b><i>c</i>).</p>
+<p id="p-0092" num="0132">The L-shaped plates (<b>3</b>) are preferably rigid enough to not substantially deform upon normal use of the device. In particular, when the coupling portion (<b>1</b><i>c</i>) is introduced into the cavity (<b>2</b><i>v</i>) and presses onto the inner portions (<b>3</b><i>pi</i>) of the L-shaped plates, the inner portions must not bend (substantially) and must be rigid enough to drive the rotation of the L-shaped plates without bending. The L-shaped plates are preferably made of metal, preferably steel or aluminium, or made of a ceramic material, or made a polymeric material, preferably nor a rubbery polymer.</p>
+<p id="p-0093" num="0133"><figref idref="DRAWINGS">FIGS. <b>6</b>(<i>a</i>) to <b>6</b>(<i>d</i>)</figref> illustrate various steps for coupling of the various components of a lance according to the present embodiment of the invention, highlighting the deformation of the protective device (<b>3</b>) upon coupling the sublance (<b>2</b>) to the top lance (<b>1</b><i>t</i>). <figref idref="DRAWINGS">FIG. <b>6</b>(<i>a</i>)</figref> shows how the top lance (<b>1</b><i>t</i>) is formed by coupling the probe holder (<b>1</b><i>p</i>) to the fixed element (<b>1</b><i>f</i>) to form the coupling portion (<b>1</b><i>c</i>). In <figref idref="DRAWINGS">FIG. <b>6</b>(<i>a</i>)</figref> a screw thread is illustrated for coupling the probe holder (<b>1</b><i>p</i>) to the fixed element (<b>1</b><i>f</i>). As discussed supra, other coupling means can be used without affecting the present invention, such as a bayonet, or snap fits. As shown in <figref idref="DRAWINGS">FIGS. <b>6</b>(<i>b</i>) and <b>6</b>(<i>c</i>)</figref>, the coupling portion (<b>1</b><i>c</i>) of the top lance (<b>1</b><i>t</i>) is inserted into the cavity (<b>2</b><i>v</i>) of the sublance (<b>2</b>), like a sword into a sheath. In the initial configuration, the inner portions (<b>3</b><i>pi</i>) of the L-shaped plates (<b>3</b><i>p</i>) extend inwards radially, partially obturating the opening of the cavity (<b>2</b><i>v</i>), leaving an opening of diameter lower than the diameter (d<b>1</b>) of the coupling portion (<b>1</b><i>c</i>). Consequently, as the coupling portion (<b>1</b><i>c</i>) contacts the inner portions (<b>3</b><i>pi</i>) of the L-shaped plates (<b>3</b><i>p</i>), it applies a forces along the longitudinal axis (X) onto the inner portions, which pushes them downwards against the wall of the cavity (<b>2</b><i>v</i>), thus driving the tilting of the L-shaped plates (<b>3</b><i>p</i>), lifting at the same time the outer portions (<b>3</b><i>po</i>) off the outer wall of the sublance (<b>2</b>). At the stage illustrated in <figref idref="DRAWINGS">FIG. <b>6</b>(<i>c</i>)</figref>, the protective device may or may not yet have reached the deformed configuration, depending on how far the inner portions (<b>3</b><i>pi</i>) are pushed against the wall of the cavity (<b>2</b><i>v</i>). At this stage, the sublance (<b>2</b>) is not fully coupled to the top lance (<b>1</b><i>t</i>) yet, since the coupling end (<b>2</b><i>c</i>) thereof does not contact the shoulder (<b>1</b><i>s</i>). To complete the coupling, the coupling portion (<b>1</b><i>c</i>) must penetrate further, deeper into the cavity. It is essential to the present invention that the protective device (<b>3</b>) have reached the deformed configuration when coupling between the sublance (<b>2</b>) and the top lance (<b>1</b><i>t</i>) is completed. To fully open the &#x201c;lotus flower&#x201d;, and bring the outer portions (<b>3</b><i>po</i>) side by side forming a continuous screen, the coupling portion (<b>1</b><i>c</i>) can be tapered, with the diameter of the coupling portion increasing until reaching the maximum diameter (d<b>1</b>) at a top section thereof, which is adjacent to the handling portion (<b>1</b><i>c</i>), to fully press the inner portions against the wall of the cavity (<b>2</b><i>v</i>).</p>
+<heading id="h-0011" level="2">Conclusive Remarks</heading>
+<p id="p-0094" num="0134">The various aspects of the present invention including a top lance (<b>1</b><i>t</i>), a sublance (<b>2</b>), and a protective device (<b>3</b>) have in common a protective device characterized in that,
+<ul id="ul0034" list-style="none">
+    <li id="ul0034-0001" num="0000">
+    <ul id="ul0035" list-style="none">
+        <li id="ul0035-0001" num="0135">when at rest, the protective device (<b>3</b>) is in an initial configuration characterized by an outer maximum diameter (D<b>3</b><i>o</i>) which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o&#x2264;</i>1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o&#x2264;</i>1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>,</li>
+        <li id="ul0035-0002" num="0136">when the sublance (<b>2</b>) is coupled to the lance with the coupling portion (<b>1</b><i>c</i>) being inserted in the cavity (<b>2</b><i>v</i>), the protective device (<b>3</b>) contacts the shoulder (<b>1</b><i>s</i>) and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d</i>&#x2265;D<b>1</b>, covering a whole area of the shoulder (<b>1</b><i>s</i>), extending normal to the longitudinal axis (X) over a distance at least equal to &#xbd; D<b>1</b> from the longitudinal axis (X).</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0095" num="0137">This apparently simple solution yields great advantages in terms of maintenance of the lance, as there is no need to scrape off any solidified metal or slag splatter soiling the shoulder (<b>1</b><i>s</i>) of the top lance (<b>1</b><i>t</i>). At the same time, a sublance of the prior art can be replaced by a sublance (<b>2</b>) of the present invention without altering anything in the process, neither the rack storing spare sublances (<b>2</b>), nor the programming of the robot handling the sublances. This is made possible, because in the initial configuration, the protective device (<b>3</b>) does not alter substantially the geometry of the sublance. This solution is also quite economical to implement.</p>
+<p id="p-0096" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="21pt" align="left"/>
+<colspec colname="2" colwidth="196pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>REF</entry>
+<entry>DESCRIPTION</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>&#x2002;1</entry>
+<entry>Lance</entry>
+</row>
+<row>
+<entry>&#x2002;1c</entry>
+<entry>Coupling portion</entry>
+</row>
+<row>
+<entry>&#x2002;1e</entry>
+<entry>Electrical coupling of disposable probe holder</entry>
+</row>
+<row>
+<entry>&#x2002;1f</entry>
+<entry>Fixed element</entry>
+</row>
+<row>
+<entry>&#x2002;1h</entry>
+<entry>Handling portion</entry>
+</row>
+<row>
+<entry>&#x2002;1p</entry>
+<entry>Disposable probe holder</entry>
+</row>
+<row>
+<entry>&#x2002;1s</entry>
+<entry>Shoulder</entry>
+</row>
+<row>
+<entry>&#x2002;1t</entry>
+<entry>Top lance</entry>
+</row>
+<row>
+<entry>&#x2002;2</entry>
+<entry>Sublance</entry>
+</row>
+<row>
+<entry>&#x2002;2c</entry>
+<entry>Coupling end of the sublance</entry>
+</row>
+<row>
+<entry>&#x2002;2e</entry>
+<entry>Electrical coupling of sublance</entry>
+</row>
+<row>
+<entry>&#x2002;2p</entry>
+<entry>Probe</entry>
+</row>
+<row>
+<entry>&#x2002;2t</entry>
+<entry>Elongated tube</entry>
+</row>
+<row>
+<entry>&#x2002;2v</entry>
+<entry>Cavity</entry>
+</row>
+<row>
+<entry>&#x2002;3</entry>
+<entry>Protective device</entry>
+</row>
+<row>
+<entry>&#x2002;3f</entry>
+<entry>Folding line</entry>
+</row>
+<row>
+<entry>&#x2002;3h</entry>
+<entry>Hinge</entry>
+</row>
+<row>
+<entry>&#x2002;3i</entry>
+<entry>Inner tube</entry>
+</row>
+<row>
+<entry>&#x2002;3o</entry>
+<entry>Outer tube</entry>
+</row>
+<row>
+<entry>&#x2002;3p</entry>
+<entry>L-shaped plate</entry>
+</row>
+<row>
+<entry>&#x2002;3pi</entry>
+<entry>Inner portion of the L-shaped plate</entry>
+</row>
+<row>
+<entry>&#x2002;3po</entry>
+<entry>Outer portion of the L-shaped plate</entry>
+</row>
+<row>
+<entry>&#x2002;3r</entry>
+<entry>Support ring</entry>
+</row>
+<row>
+<entry>&#x2002;3si</entry>
+<entry>Inner slit</entry>
+</row>
+<row>
+<entry>&#x2002;3so</entry>
+<entry>Outer slit</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Metallurgic vessel (e.g., converter)</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Molten metal</entry>
+</row>
+<row>
+<entry>11s</entry>
+<entry>Splashes</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>Gas lance (e.g., oxygen lance)</entry>
+</row>
+<row>
+<entry>d1</entry>
+<entry>Maximum diameter of the coupling portion cross-section</entry>
+</row>
+<row>
+<entry>D1</entry>
+<entry>Diameter of the cross-section of distal end of the handling portion</entry>
+</row>
+<row>
+<entry>d2</entry>
+<entry>Diameter of cavity</entry>
+</row>
+<row>
+<entry>D2</entry>
+<entry>External diameter of the coupling end</entry>
+</row>
+<row>
+<entry>D3d</entry>
+<entry>Outer maximum diameter of the deformed protective device</entry>
+</row>
+<row>
+<entry>D3i</entry>
+<entry>Diameter of inner passage of the protective device</entry>
+</row>
+<row>
+<entry>D3o</entry>
+<entry>Outer maximum diameter of the undeformed protective device</entry>
+</row>
+<row>
+<entry>X</entry>
+<entry>Longitudinal axis</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-17" num="01-17">
+<claim-text><b>1</b>-<b>17</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. Lance for immersion of a probe into molten metal comprising,
+<claim-text>(A)a top lance comprising,
+<claim-text>a handling portion extending along a longitudinal axis (X), and comprising a distal end of cross-section normal to the longitudinal axis (X) of diameter (D<b>1</b>) the distal end being provided with</claim-text>
+<claim-text>a coupling portion extending coaxially with the longitudinal axis (X), and having a maximum diameter (d<b>1</b>), with D<b>1</b>&#x3e;d<b>1</b>,</claim-text>
+</claim-text>
+<claim-text>(B) a sublance formed by an elongated tube extending along the longitudinal axis (X) and comprising a cavity configured for snugly receiving the coupling portion, wherein the cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe and/or a sample collector, to a proximal end which is coupled to a protective device comprising a coupling end (<b>2</b><i>c</i>) opening to the cavity (<b>2</b><i>v</i>), wherein,
+<claim-text>the elongated tube (<b>2</b><i>t</i>) has a cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>, and</claim-text>
+<claim-text>the protective device (<b>3</b>) is deformable upon application thereto of a force along the longitudinal axis (X), and</claim-text>
+<claim-text>the coupling portion is inserted in the cavity of the sublance with the protective device contacting a shoulder formed by the distal end of the handling portion and the coupling portion,</claim-text>
+</claim-text>
+<claim-text>wherein</claim-text>
+<claim-text>when at rest, the protective device is in an initial configuration characterized by an outer maximum diameter (D<b>3</b><i>o</i>) which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.05 D<b>2</b>), more preferably D<b>3</b><i>o=</i>D<b>2</b>,</claim-text>
+<claim-text>when the sublance is coupled to the lance with the coupling portion being inserted in the cavity, the protective device contacts the shoulder and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle normal to the longitudinal axis (X) of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d&#x2265;</i>D<b>1</b>, covering a whole area of the shoulder.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. Lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the protective device comprises,
+<claim-text>an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner tube comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</claim-text>
+<claim-text>an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube (<b>3</b><i>i</i>) and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</claim-text>
+<claim-text>optionally, one or more peripheral tubes which are deformable upon application thereto of a compressive force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and</claim-text>
+<claim-text>wherein the inner slits and the outer slits do not overlap with one another at any point.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the inner slits and outer slits extend parallel to the longitudinal axis (X).</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the inner slits and outer slits extend transverse to, but not normal to the longitudinal axis (X), and wherein the inner slits and outer slits form an angle with the longitudinal axis preferably comprised between 10 and 50&#xb0;, more preferably between 25 and 45&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the inner tube and outer tube are made of an elastomeric material, or of a metal which is plastically deformable, or is in the form of a fabric of woven or non-woven fibres made of ceramic, polymer, or metal fibres.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein one or more of: the inner tube and the outer tube is provided with folding lines to control the deformation of the protective device for folding in a reproducible way.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the inner tube and the outer tube have different heights measured along the longitudinal axis (X).</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. Lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the protective device comprises a tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the tube comprising a number of slits separated from one another and distributed over a circumference of the tube, wherein the slits are preferably distributed in two sets,
+<claim-text>an upper set extending from a location adjacent to the coupling end to a location adjacent to a half of a height of the tube measured along the longitudinal axis (X), and</claim-text>
+<claim-text>a lower set extending from a location adjacent to a fixed end opposite the coupling end to a location adjacent to the half of the height of the tube,</claim-text>
+<claim-text>wherein the slits of the upper set are offset relative to the slits of the lower set.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. Lance according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the protective device is one of: (1) cylindrical, (2) comprises a plurality of cylindrical portions, and (3) comprises one or more cylindrical portions and one or more tapered or curved portions distributed along the longitudinal axis (X).</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. Lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the protective device comprises,
+<claim-text>a support ring coupled to the proximal end of the elongated tube, and</claim-text>
+<claim-text>a number of L-shaped plates, each comprising an outer portion joined to an inner portion at a level of a corner of the L, the L-shaped plates being rotatably mounted and distributed about a circumference of the support ring by hinges at the level of or adjacent to the corners of the L-shaped plates, such that
+<claim-text>in the initial configuration of the protective device each L-shaped plate is biased to rotate such that the inner portions extend radially inwards, substantially normal to the longitudinal axis (X), obturating at least partially the cavity and the outer portions rest against an outer surface of the sublance, and</claim-text>
+<claim-text>the L-shaped plates are configured for pivoting about the hinges from the initial configuration to the deformed configuration upon inserting the coupling portion into the cavity to couple the sublance to the top lance, wherein in the deformed configuration, the inner portions are aligned parallel to the longitudinal axis (X) and the outer portions extend radially, substantially normal to the longitudinal axis (X) and overlap with one another to form a continuous screen against splashes when the protective device is brought into contact with the shoulder.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. Lance according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein each outer portion has a free edge which is larger than the corner, measured normal to the longitudinal axis (X), and wherein each outer portion is curved with a curvature matching the external diameter (D<b>2</b>) of the coupling end, such that when the protective device is in the initial configuration, each outer portion mates an external surface of the sublance.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. Lance according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein each inner portion has a free edge which is shorter than the corner, measured normal to the longitudinal axis (X), and wherein each inner portion is curved with a curvature matching the maximum diameter (d<b>1</b>) of the coupling portion, such that upon inserting the coupling portion into the cavity and upon pivoting the L-shaped plates over their hinges, the inner portions are pressed against a wall of the cavity and form an inner passage of diameter with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, allowing the insertion of the coupling portion.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. Lance according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein the L-shaped plates are rigid enough to not substantially deform upon normal use of the device, and are preferably made of metal, preferably steel or aluminium, or made of a ceramic material, or made a polymeric material.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. A sublance for coupling to the coupling portion of the lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the sublance is formed by an elongated tube extending along the longitudinal axis (X) and comprising a cavity configured for snugly receiving the coupling portion, wherein the cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe and/or a sample collector, to a proximal end which is coupled to a protective device comprising a coupling end opening to the cavity, wherein,
+<claim-text>the elongated tube has a cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>, and</claim-text>
+<claim-text>the protective device (<b>3</b>) is deformable upon application thereto of a force along the longitudinal axis (X), and</claim-text>
+<claim-text>the coupling portion is inserted in the cavity of the sublance with the protective device contacting the shoulder,</claim-text>
+</claim-text>
+<claim-text>wherein,
+<claim-text>when at rest, the protective device is in an initial configuration characterized by an outer maximum diameter which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>,</claim-text>
+<claim-text>when the sublance is coupled to the lance with the coupling portion (<b>1</b><i>c</i>) being inserted in the cavity, the protective device contacts the shoulder and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d</i>&#x2265;D<b>1</b>, covering a whole area of the shoulder, extending normal to the longitudinal axis (X) over a distance at least equal to &#xbd;D<b>1</b> from the longitudinal axis (X).</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. Lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the protective device comprises,
+<claim-text>an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner tube comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</claim-text>
+<claim-text>an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</claim-text>
+<claim-text>optionally, one or more peripheral tubes which are deformable upon application thereto of a compressive force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and</claim-text>
+<claim-text>wherein the inner slits and the outer slits do not overlap with one another at any point, wherein the Lance further comprises a sublance,</claim-text>
+<claim-text>wherein the sublance is formed by an elongated tube extending along the longitudinal axis (X) and comprising a cavity configured for snugly receiving the coupling portion, wherein the cavity is substantially cylindrical of diameter (d<b>2</b>), with d<b>1</b>&#x2264;d<b>2</b>, extending along the longitudinal axis (X) from an immersion end provided with a probe and/or a sample collector, to a proximal end which is coupled to a protective device comprising a coupling end opening to the cavity, wherein,
+<claim-text>the elongated tube has a cross-section of external diameter (D<b>2</b>) wherein d<b>1</b>&#x3c;d<b>2</b>&#x3c;D<b>2</b>&#x3c;D<b>1</b>, and</claim-text>
+<claim-text>the protective device (<b>3</b>) is deformable upon application thereto of a force along the longitudinal axis (X), and</claim-text>
+<claim-text>the coupling portion is inserted in the cavity of the sublance with the protective device contacting the shoulder,</claim-text>
+</claim-text>
+<claim-text>wherein,
+<claim-text>when at rest, the protective device is in an initial configuration characterized by an outer maximum diameter which is not more than 10% larger than D<b>2</b> (D<b>3</b><i>o&#x2264;</i>1.1 D<b>2</b>), preferably not more than 5% larger than D<b>2</b> (D<b>3</b><i>o</i>&#x2264;1.05 D<b>2</b>), more preferably D<b>3</b><i>o</i>=D<b>2</b>,</claim-text>
+<claim-text>when the sublance is coupled to the lance with the coupling portion (<b>1</b><i>c</i>) being inserted in the cavity, the protective device contacts the shoulder and is deformed into a deformed configuration, forming a surface impervious to molten metal and slag, which spans over an area inscribing a circle of diameter (D<b>3</b><i>d</i>) with D<b>3</b><i>d</i>&#x2265;D<b>1</b>, covering a whole area of the shoulder, extending normal to the longitudinal axis (X) over a distance at least equal to &#xbd; D<b>1</b> from the longitudinal axis (X).</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. Protective device for protecting from splattering the shoulder formed between the distal end of the handling portion and the sublance of a lance according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the protective device comprises,
+<claim-text>an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) w with D<b>3</b><i>i</i>&#x3e;d<b>1</b>, the inner tube comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</claim-text>
+<claim-text>an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</claim-text>
+<claim-text>optionally, one or more peripheral tubes which are deformable upon application thereto of a force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and</claim-text>
+</claim-text>
+<claim-text>wherein the inner slits and the outer slits do not overlap with one another at any point.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. Protective device according to <claim-ref idref="CLM-00033">claim 33</claim-ref>, wherein the protective device comprises,
+<claim-text>an inner tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the inner tube extending along the longitudinal axis (X) and forming an inner passage of diameter (D<b>3</b><i>i</i>) with D<b>3</b><i>i</i>&#x2265;d<b>1</b>, the inner tube comprising a number of inner slits separated from one another and distributed over a circumference of the inner tube,</claim-text>
+<claim-text>an outer tube which is deformable upon application thereto of a compressive force along the longitudinal axis (X), the outer tube snugly surrounding the inner tube and comprising a number of outer slits separated from one another and distributed over a circumference of the outer tube,</claim-text>
+<claim-text>optionally, one or more peripheral tubes which are deformable upon application thereto of a compressive force along the longitudinal axis (X), and which are inserted in one another and snugly surrounding the outer tube and wherein each of the one or more peripheral tubes comprises a number of peripheral slits separated from one another and distributed over a circumference of each of the one or more peripheral tubes, wherein the peripheral slits of two adjacent peripheral tubes do not overlap with one another at any point, and wherein the outer slits do not at any point overlap with the peripheral slits of the peripheral tube adjacent to the outer tube, and</claim-text>
+<claim-text>wherein the inner slits and the outer slits do not overlap with one another at any point.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

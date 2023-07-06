@@ -1,0 +1,5 @@
+{
+ "text": "You are given a text from chemistry research patent, extract all the measurements mentioned in the text. Extract Measurements Details, Unit, Value or Value ranges.\nOnly extract measurements that have value and units.",
+
+ "output_format": "Your output should follow be a list of json objects, good output format : [ { 'measurement ' : 'string ', 'unit ' : 'string ', 'value ' : 'string ' }, { 'measurement ' : 'string ', 'unit ' : 'string ', 'value ' : 'string ' }", "id": "000"
+}

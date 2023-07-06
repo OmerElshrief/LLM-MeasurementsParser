@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411884A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411884</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17772344</doc-number>
+<date>20201030</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2019-200172</doc-number>
+<date>20191101</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2019-200173</doc-number>
+<date>20191101</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6897</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>5</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6897</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>N</subclass>
+<main-group>5</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">SCREENING METHOD FOR OFFENSIVE ODOR-SUPPRESSING MATERIAL</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Takasago International Corporation</orgname>
+<address>
+<city>Ota-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>MIKI</last-name>
+<first-name>Azusa</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>MURAI</last-name>
+<first-name>Masato</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>TERADA</last-name>
+<first-name>Ikuo</first-name>
+<address>
+<city>Kanagawa</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Takasago International Corporation</orgname>
+<role>03</role>
+<address>
+<city>Ota-ku, Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2020/040781</doc-number>
+<date>20201030</date>
+</document-id>
+<us-371c12-date><date>20220427</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, an offensive odor-suppressing composition for reducing the offensiveness of age-related body odors and/or underarm odors, as well as a flavor composition for reducing off-flavors derived from food and beverage products. By using the screening method of the present invention, candidate substances for materials suppressing a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor can be selected respectively from among many test substances. An offensive odor-suppressing composition comprising an active ingredient selected by using the screening method of the present invention can be expected to contribute to reduction in the offensiveness of age-related body odors and/or underarm odors and to reduction in off-flavors derived from food and beverage products.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="65.45mm" wi="74.68mm" file="US20220411884A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="194.31mm" wi="77.55mm" file="US20220411884A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="194.56mm" wi="77.13mm" file="US20220411884A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="194.39mm" wi="77.30mm" file="US20220411884A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="194.48mm" wi="79.50mm" file="US20220411884A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="194.31mm" wi="79.42mm" file="US20220411884A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, an offensive odor-suppressing composition for reducing the offensiveness of age-related body odors and/or underarm odors, as well as a flavor composition for reducing off-flavors derived from food and beverage products.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">Ambient odors and offensive odors perceived as unpleasant in daily life are strongly desired to be eliminated more effectively for improved living environments. In recent years, there has been growing awareness of body odors, among others. Further, food and beverage products are known to produce off-odors (off-flavors) over time, which in turn reduce the quality of the food and beverage products.</p>
+<p id="p-0004" num="0003">Body odors are broadly divided into two categories, i.e., the &#x201c;smell of each body part&#x201d; (e.g., mouth odor, foot odor, underarm odor, scalp odor) and the &#x201c;combined smell arising from the body trunk.&#x201d; The &#x201c;combined smell arising from the body trunk&#x201d; is known to change with age, and age-related body odors, which are observed at middle age or later, very strongly tend to be disfavored. As to substances responsible for causing such age-related body odors, unsaturated aldehydes such as trans-2-nonenal and trans-2-octenal have been reported to cause age-related body odors (Patent Literature 1). Moreover, vinyl ketones such as 1-octen-3-one and 1,5-octadien-3-one have a very low odor threshold and a strong metallic odor, and are reported to be greatly involved in underarm odors (Non-patent Literature 1). Moreover, nonenal, 1-octen-3-one, 1,5-octadien-3-one and so on are also known as off-flavors (Patent Literatures 2 and 3, Non-patent Literature 2).</p>
+<p id="p-0005" num="0004">Selective odor elimination techniques based on antagonistic mechanism are designed to search for olfactory receptors responding to particular odorous substances and to suppress their activation with particular substances, and the potential of these techniques is becoming clear. For example, olfactory receptor OR2W1 responds to hexanoic acid, which is among offensive odors. Substances inhibiting the activity of this OR2W1 are exemplified by florhydral, and florhydral has been reported to suppress an offensive odor induced by hexanoic acid in sensory testing (Patent Literature 4).</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literature</heading>
+<p id="p-0006" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0005">Patent Literature 1: JP H11-286423 A</li>
+    <li id="ul0001-0002" num="0006">Patent Literature 2: JP 2017-153371 A</li>
+    <li id="ul0001-0003" num="0007">Patent Literature 3: Japanese Patent No. 6168999</li>
+    <li id="ul0001-0004" num="0008">Patent Literature 4: JP 2012-50411 A</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">Non-Patent Literature</heading>
+<p id="p-0007" num="0000">
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0009">Non-patent Literature 1: &#x201c;Mechanism and Regulation of Body Malodor Generation (1)&#x201d; Satoru Iida et al., J. Soc. Cosmet. Chem. Jpn. Vol. 37, No. 3 (2003)</li>
+    <li id="ul0002-0002" num="0010">Non-patent Literature 2: &#x201c;Flavor Components in Edible Fats and Oils&#x201d; Yasushi Endo, Journal of Japan Oil Chemists' Society, Vol. 48, No. 10 (1999)</li>
+</ul>
+</p>
+<heading id="h-0006" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0007" level="1">Technical Problem</heading>
+<p id="p-0008" num="0011">Screening may be possible for candidate substances for offensive odor-suppressing materials when olfactory receptors responding to known offensive odor-causing substances are searched and used for this purpose. However, such olfactory receptors responding to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol have not been widely known so far.</p>
+<p id="p-0009" num="0012">Under these circumstances, there has been a desire to search for olfactory receptors responding to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol, and thereby provide a screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, and also provide an offensive odor-suppressing composition for reducing the offensiveness of age-related body odors and/or underarm odors, as well as a flavor composition for reducing off-flavors derived from food and beverage products.</p>
+<heading id="h-0008" level="1">Solution to Problem</heading>
+<p id="p-0010" num="0013">As a result of extensive and intensive efforts made to solve the problems stated above, the inventors of the present invention have succeeded in newly identifying olfactory receptors responding respectively to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol. The inventors of the present invention have made further studies and have found that the use of these olfactory receptors enables the evaluation and selection of materials suppressing age-related body odors and/or underarm odors, and materials reducing off-flavors, as well as materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, by means of the masking effect of olfactory receptor antagonists. As a result, the inventors of the present invention have found that antagonist candidate compounds suppressing the response of these olfactory receptors including OR2C1 and OR4Q3 are excellent not only in the effect of suppressing age-related body odors and/or underarm odors, but also in the effect of reducing off-flavors derived from food and beverage products.</p>
+<p id="p-0011" num="0014">Namely, the present invention provides a screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, an offensive odor-suppressing composition for reducing the offensiveness of age-related body odors and/or underarm odors, as well as a flavor composition for reducing off-flavors derived from food and beverage products, as shown below.</p>
+<p id="p-0012" num="0015">[1] A screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, the method comprising the following steps:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0016">adding a test substance and one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol;</li>
+        <li id="ul0004-0002" num="0017">measuring the response of the olfactory receptor polypeptide to the one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol; and</li>
+        <li id="ul0004-0003" num="0018">identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response.
+<br/>
+[2] The method according to [1] above, wherein the offensive odors are a 1-octen-3-one odor and/or a 1,5-octadien-3-one odor.
+<br/>
+[3] The method according to [1] or [2] above, wherein the response of the olfactory receptor polypeptide is measured on cells isolated from a living body expressing the olfactory receptor polypeptide or on cells genetically engineered to artificially express the olfactory receptor polypeptide.
+<br/>
+[4] The method according to any one of [1] to [3] above, wherein the response of the olfactory receptor polypeptide is measured by reporter gene assay.
+</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<heading id="h-0009" level="1">Advantageous Effects of Invention</heading>
+<p id="p-0013" num="0019">The method of the present invention allows screening for candidate substances for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor. The screening method of the present invention can be expected to contribute to the development of materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor.</p>
+<p id="p-0014" num="0020">Moreover, when attempting to develop new fragrance or flavor materials, there are problems of olfactory fatigue and variations among individuals if many candidate substances are evaluated for their odor by the human olfactory sense alone; and hence the proper selection of candidate substances may involve difficulties. According to the method of the present invention, such problems can be overcome or reduced.</p>
+<p id="p-0015" num="0021">Further, according to a preferred aspect of the present invention, when a group of antagonist candidate compounds suppressing the response of OR2C1 and/or OR4Q3 are used in combination with a group of particular compounds conventionally used as fragrances or flavorings, etc., a greater suppressive effect may be provided on offensive odors than when the group of antagonist candidate compounds are used alone.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0010" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0016" num="0022"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows the results measured for the response of olfactory receptor OR2C1 to 1-octen-3-one.</p>
+<p id="p-0017" num="0023"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows the results measured for the response of olfactory receptor OR4Q3 to 1-octen-3-one.</p>
+<p id="p-0018" num="0024"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows the results measured for the response of olfactory receptor OR2C1 to 1,5-octadien-3-one.</p>
+<p id="p-0019" num="0025"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows the results measured for the response of olfactory receptor OR4Q3 to 1,5-octadien-3-one.</p>
+<p id="p-0020" num="0026"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows the results measured for the response of olfactory receptor OR4Q3 to 1-octen-3-ol.</p>
+<p id="p-0021" num="0027"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows the results measured for the response of olfactory receptor OR4Q3 to 1,5-octadien-3-ol.</p>
+<p id="p-0022" num="0028"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows the results obtained for the suppressive effect induced by addition of 2-methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol (Hindinol&#xae;) on the response of olfactory receptor OR2C1 to 1-octen-3-one.</p>
+<p id="p-0023" num="0029"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows the results obtained for the suppressive effect induced by addition of 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol (Dextramber&#xae;) on the response of olfactory receptor OR2C1 to 1-octen-3-one.</p>
+<p id="p-0024" num="0030"><figref idref="DRAWINGS">FIG. <b>9</b></figref> shows the results obtained for the suppressive effect induced by addition of 2-methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol (Hindinol&#xa9;) on the response of olfactory receptor OR2C1 to trans-2-nonenal.</p>
+<p id="p-0025" num="0031"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows the results obtained for the suppressive effect induced by addition of 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol (Dextramber&#xae;) on the response of olfactory receptor OR2C1 to trans-2-nonenal.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0011" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0026" num="0032">The screening method of the present invention, the offensive odor-suppressing composition of the present invention, as well as the flavor composition of the present invention will be described in more detail below.</p>
+<p id="p-0027" num="0033">1. Screening Method for 1-Octen-3-One Odor-Suppressing Materials</p>
+<p id="p-0028" num="0034">The screening method for 1-octen-3-one odor-suppressing materials according to the present invention is designed such that test substances are screened with olfactory receptor polypeptides responsive to 1-octen-3-one to select candidate substances for 1-octen-3-one odor-suppressing materials. This method is characterized by comprising the following steps:</p>
+<p id="p-0029" num="0035">adding a test substance and 1-octen-3-one to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1-octen-3-one;</p>
+<p id="p-0030" num="0036">measuring the response of the olfactory receptor polypeptide to 1-octen-3-one; and</p>
+<p id="p-0031" num="0037">identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response, i.e., identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response as a candidate substance for 1-octen-3-one odor-suppressing materials.</p>
+<p id="p-0032" num="0038">According to a preferred aspect of the present invention, the screening method for 1-octen-3-one odor-suppressing materials according to the present invention comprises the following steps:</p>
+<p id="p-0033" num="0000">(i) bringing an olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1-octen-3-one into contact with 1-octen-3-one to measure the response of the olfactory receptor polypeptide to 1-octen-3-one;
+<br/>
+(ii) mixing a test substance with 1-octen-3-one to measure the response of the olfactory receptor polypeptide used in step (i); and
+<br/>
+(iii) comparing the results measured in steps (i) and (ii) to select a test substance causing a reduction in the response as a candidate substance for 1-octen-3-one odor-suppressing materials.
+</p>
+<p id="p-0034" num="0039">The screening method for 1-octen-3-one odor-suppressing materials according to the present invention is configured such that candidate substances for 1-octen-3-one odor-suppressing materials are selected from among test substances on the basis of the responsiveness of each test substance to an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise amino acid sequences sharing an identity of 80% or more with the amino acid sequences of these polypeptides and which are responsive to offensive odor-causing substances.</p>
+<p id="p-0035" num="0040">In the screening method for 1-octen-3-one odor-suppressing materials according to the present invention, the term &#x201c;test substance&#x201d; is not limited in any way, but it refers to a subject to be tested for its suppressive effect on a 1-octen-3-one odor and is intended to mean a compound, a composition or a mixture. Likewise, the term &#x201c;1-octen-3-one odor-suppressing material&#x201d; is not limited in any way, but it is intended to mean a compound, a composition or a mixture, which is capable of suppressing a 1-octen-3-one odor. Moreover, the term &#x201c;1-octen-3-one odor&#x201d; is intended to mean an odor originating from 1-octen-3-one, as exemplified by a mushroom odor, an iron rust odor, an underarm odor, off-flavors, etc. An explanation will be given below of each step.</p>
+<p id="p-0036" num="0041">&#x3c;Step (i)&#x3e;</p>
+<p id="p-0037" num="0042">In step (i), an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1-octen-3-one is brought into contact with 1-octen-3-one to measure the response of the olfactory receptor polypeptide to 1-octen-3-one.</p>
+<p id="p-0038" num="0043">The olfactory receptor polypeptide to be used for this purpose is an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1-octen-3-one.</p>
+<p id="p-0039" num="0044">OR2C1 has been registered in GenBank under NM_012368, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 2) encoded by DNA at positions 53 to 991 of the nucleotide sequence shown in SEQ ID NO: 1.</p>
+<p id="p-0040" num="0045">OR4Q3 has been registered in GenBank under NM_172194, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 4) encoded by DNA having the nucleotide sequence shown in SEQ ID NO: 3.</p>
+<p id="p-0041" num="0046">Since these polypeptides strongly and selectively respond to 1-octen-3-one, the screening method using OR2C1 and/or OR4Q3 can be expected to contribute to the development of 1-octen-3-one odor-suppressing materials.</p>
+<p id="p-0042" num="0047">As an olfactory receptor, it is also possible to use an olfactory receptor polypeptide selected from the group consisting of polypeptides which comprise an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence possessed by any of these polypeptides (i.e., SEQ ID NO: 2 or 4) and which are responsive to 1-octen-3-one.</p>
+<p id="p-0043" num="0048">Such olfactory receptor polypeptides may be used alone, or two or more of them may be used in combination.</p>
+<p id="p-0044" num="0049">In the present invention, there is no particular limitation on how to contact an olfactory receptor polypeptide with 1-octen-3-one to measure the response of the olfactory receptor polypeptide to 1-octen-3-one. For example, the response of the olfactory receptor polypeptide may be measured by being contacted with 1-octen-3-one on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured by being contacted with 1-octen-3-one on cells genetically engineered to artificially express the olfactory receptor polypeptide. The time required to contact the olfactory receptor polypeptide with 1-octen-3-one is not determined exactly because it also depends on the concentration of 1-octen-3-one and the method used for measurement. However, the response may be measured immediately after their contact, and the time required for their contact is usually 0 to 4 hours, and preferably 2 to 4 hours. The same goes for when the olfactory receptor polypeptide is contacted with 1-octen-3-one in admixture with a test substance.</p>
+<p id="p-0045" num="0050">Cells genetically engineered to artificially express the olfactory receptor polypeptide may be prepared when cells are transformed with a vector carrying a gene encoding the olfactory receptor polypeptide.</p>
+<p id="p-0046" num="0051">In a preferred aspect of the present invention, the N-terminal 20 amino acid residues of bovine rhodopsin may be integrated together with the olfactory receptor polypeptide. Upon integration of the N-terminal 20 amino acid residues of bovine rhodopsin, cell membrane expression of the olfactory receptor polypeptide may be facilitated.</p>
+<p id="p-0047" num="0052">Bovine rhodopsin has been registered in GenBank under NM_001014890.</p>
+<p id="p-0048" num="0053">Bovine rhodopsin is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 6) encoded by DNA at positions 1 to 1047 of the nucleotide sequence shown in SEQ ID NO: 5.</p>
+<p id="p-0049" num="0054">Moreover, instead of bovine rhodopsin, it is also possible to use a polypeptide which comprises an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence shown in SEQ ID NO: 6 and which is capable of facilitating cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0050" num="0055">It should be noted that amino acid residues of not only bovine rhodopsin but also any other polypeptides may be used as long as they can facilitate cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0051" num="0056">There is no particular limitation on how to measure the response of the olfactory receptor polypeptide, and any technique used in the art may be used for this purpose. For example, it is known that once an odorous compound has bound to an olfactory receptor polypeptide, G protein in cells will be activated and this G protein will in turn activate adenylate cyclase to convert ATP into cyclic AMP (cAMP), thereby increasing the intracellular level of cAMP. Thus, the response of the olfactory receptor polypeptide can be measured when the level of cAMP is measured. The level of cAMP may be measured using ELISA techniques, reporter gene assay techniques, etc. Above all, it is preferred that the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase).</p>
+<p id="p-0052" num="0057">According to one embodiment of the present invention, the response of the olfactory receptor polypeptide may be evaluated on the basis of the fold increase value determined by dividing the results measured in the presence of 1-octen-3-one by the results measured in the absence of 1-octen-3-one. For example, when the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase), evaluation can be made using 1-octen-3-one at a concentration which gives a fold increase value of preferably 2 or more, more preferably 4 or more, and even more preferably 10 or more.</p>
+<p id="p-0053" num="0058">&#x3c;Step (ii)&#x3e;</p>
+<p id="p-0054" num="0059">In step (ii), a test substance is mixed with 1-octen-3-one to measure the response of the olfactory receptor used in step (i).</p>
+<p id="p-0055" num="0060">The response of the olfactory receptor polypeptide may be measured in the same manner as shown in step (i), except that 1-octen-3-one is mixed with the test substance and contacted with the olfactory receptor polypeptide. For example, the response of the olfactory receptor polypeptide may be measured on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured on cells genetically engineered to artificially express the olfactory receptor polypeptide. For proper comparison of the results measured in steps (i) and (ii), the measurement conditions in steps (i) and (ii) are preferably the same, except for the presence or absence of the test substance.</p>
+<p id="p-0056" num="0061">&#x3c;Step (iii)&#x3e;</p>
+<p id="p-0057" num="0062">In step (iii), the results measured in steps (i) and (ii) are compared with each other to select a test substance causing a reduction in the response as a candidate substance for 1-octen-3-one odor-suppressing materials.</p>
+<p id="p-0058" num="0063">In the present invention, when a reduction in the response is observed as a result of comparing the results measured in steps (i) and (ii), the test substance used in step (ii) can be evaluated as a candidate substance for 1-octen-3-one odor-suppressing materials.</p>
+<p id="p-0059" num="0064">In such a way as described above, test substances can be screened to select candidate substances for 1-octen-3-one odor-suppressing materials. According to the present invention, it is possible to select candidate substances for 1-octen-3-one odor-suppressing materials from among many test substances, without causing any problems such as olfactory fatigue and variations among individuals associated with sensory testing by means of the human olfactory sense.</p>
+<p id="p-0060" num="0065">The selected substances can be used as candidate substances for 1-octen-3-one odor-suppressing materials. If necessary, the selected substances may be subjected to modifications or the like to thereby develop novel compounds having the most suitable scent. Further, the selected substances may be blended with other fragrance or flavor materials to thereby develop fragrance or flavor materials capable of suppressing the 1-octen-3-one odor and also having the most suitable scent. The screening method of the present invention can be used to contribute to the development of new fragrance or flavor materials serving as 1-octen-3-one odor-suppressing materials.</p>
+<p id="p-0061" num="0066">2. Screening Method for 1,5-Octadien-3-One Odor-Suppressing Materials</p>
+<p id="p-0062" num="0067">The screening method for 1,5-octadien-3-one odor-suppressing materials according to the present invention is designed such that test substances are screened with olfactory receptor polypeptides responsive to 1,5-octadien-3-one to select candidate substances for 1,5-octadien-3-one odor-suppressing materials. This method is characterized by comprising the following steps:</p>
+<p id="p-0063" num="0068">adding a test substance and 1,5-octadien-3-one to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1,5-octadien-3-one;</p>
+<p id="p-0064" num="0069">measuring the response of the olfactory receptor polypeptide to 1,5-octadien-3-one; and</p>
+<p id="p-0065" num="0070">identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response, i.e., identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response as a candidate substance for 1,5-octadien-3-one odor-suppressing materials.</p>
+<p id="p-0066" num="0071">According to a preferred aspect of the present invention, the screening method for 1,5-octadien-3-one odor-suppressing materials according to the present invention comprises the following steps:</p>
+<p id="p-0067" num="0000">(i) bringing an olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1,5-octadien-3-one into contact with 1,5-octadien-3-one to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-one;
+<br/>
+(ii) mixing a test substance with 1,5-octadien-3-one to measure the response of the olfactory receptor polypeptide used in step (i); and
+<br/>
+(iii) comparing the results measured in steps (i) and (ii) to select a test substance causing a reduction in the response as a candidate substance for 1,5-octadien-3-one odor-suppressing materials.
+</p>
+<p id="p-0068" num="0072">The screening method for 1,5-octadien-3-one odor-suppressing materials according to the present invention is configured such that candidate substances for 1,5-octadien-3-one odor-suppressing materials are selected from among test substances on the basis of the responsiveness of each test substance to an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise amino acid sequences sharing an identity of 80% or more with the amino acid sequences of these polypeptides and which are responsive to offensive odor-causing substances.</p>
+<p id="p-0069" num="0073">In the screening method for 1,5-octadien-3-one odor-suppressing materials according to the present invention, the term &#x201c;test substance&#x201d; is not limited in any way, but it refers to a subject to be tested for its suppressive effect on a 1,5-octadien-3-one odor and is intended to mean a compound, a composition or a mixture. Likewise, the term &#x201c;1,5-octadien-3-one odor-suppressing material&#x201d; is not limited in any way, but it is intended to mean a compound, a composition or a mixture, which is capable of suppressing a 1,5-octadien-3-one odor. Moreover, the term &#x201c;1,5-octadien-3-one odor&#x201d; is intended to mean an odor originating from 1,5-octadien-3-one, as exemplified by a mushroom odor, an iron rust odor, an underarm odor, off-flavors, etc. An explanation will be given below of each step.</p>
+<p id="p-0070" num="0074">&#x3c;Step (i)&#x3e;</p>
+<p id="p-0071" num="0075">In step (i), an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1,5-octadien-3-one is brought into contact with 1,5-octadien-3-one to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-one.</p>
+<p id="p-0072" num="0076">The olfactory receptor polypeptide to be used for this purpose is an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1,5-octadien-3-one.</p>
+<p id="p-0073" num="0077">OR2C1 has been registered in GenBank under NM_012368, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 2) encoded by DNA at positions 53 to 991 of the nucleotide sequence shown in SEQ ID NO: 1.</p>
+<p id="p-0074" num="0078">OR4Q3 has been registered in GenBank under NM_172194, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 4) encoded by DNA having the nucleotide sequence shown in SEQ ID NO: 3.</p>
+<p id="p-0075" num="0079">Since these polypeptides strongly and selectively respond to 1,5-octadien-3-one, the screening method using OR2C1 and/or OR4Q3 can be expected to contribute to the development of 1,5-octadien-3-one odor-suppressing materials.</p>
+<p id="p-0076" num="0080">As an olfactory receptor, it is also possible to use an olfactory receptor polypeptide selected from the group consisting of polypeptides which comprise an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence possessed by any of these polypeptides (i.e., SEQ ID NO: 2 or 4) and which are responsive to 1,5-octadien-3-one.</p>
+<p id="p-0077" num="0081">Such olfactory receptor polypeptides may be used alone, or two or more of them may be used in combination.</p>
+<p id="p-0078" num="0082">In the present invention, there is no particular limitation on how to contact an olfactory receptor polypeptide with 1,5-octadien-3-one to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-one. For example, the response of the olfactory receptor polypeptide may be measured by being contacted with 1,5-octadien-3-one on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured by being contacted with 1,5-octadien-3-one on cells genetically engineered to artificially express the olfactory receptor polypeptide. The time required to contact the olfactory receptor polypeptide with 1,5-octadien-3-one is not determined exactly because it also depends on the concentration of 1,5-octadien-3-one and the method used for measurement. However, the response may be measured immediately after their contact, and the time required for their contact is usually 0 to 4 hours, and preferably 2 to 4 hours. The same goes for when the olfactory receptor polypeptide is contacted with 1,5-octadien-3-one in admixture with a test substance.</p>
+<p id="p-0079" num="0083">Cells genetically engineered to artificially express the olfactory receptor polypeptide may be prepared when cells are transformed with a vector carrying a gene encoding the olfactory receptor polypeptide.</p>
+<p id="p-0080" num="0084">In a preferred aspect of the present invention, the N-terminal 20 amino acid residues of bovine rhodopsin may be integrated together with the olfactory receptor polypeptide. Upon integration of the N-terminal 20 amino acid residues of bovine rhodopsin, cell membrane expression of the olfactory receptor polypeptide may be facilitated.</p>
+<p id="p-0081" num="0085">Bovine rhodopsin has been registered in GenBank under NM_001014890. Bovine rhodopsin is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 6) encoded by DNA at positions 1 to 1047 of the nucleotide sequence shown in SEQ ID NO: 5.</p>
+<p id="p-0082" num="0086">Moreover, instead of bovine rhodopsin, it is also possible to use a polypeptide which comprises an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence shown in SEQ ID NO: 6 and which is capable of facilitating cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0083" num="0087">It should be noted that amino acid residues of not only bovine rhodopsin but also any other polypeptides may be used as long as they can facilitate cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0084" num="0088">There is no particular limitation on how to measure the response of the olfactory receptor polypeptide, and any technique used in the art may be used for this purpose. For example, it is known that once an odorous compound has bound to an olfactory receptor polypeptide, G protein in cells will be activated and this G protein will in turn activate adenylate cyclase to convert ATP into cyclic AMP (cAMP), thereby increasing the intracellular level of cAMP. Thus, the response of the olfactory receptor polypeptide can be measured when the level of cAMP is measured. The level of cAMP may be measured using ELISA techniques, reporter gene assay techniques, etc. Above all, it is preferred that the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase).</p>
+<p id="p-0085" num="0089">According to one embodiment of the present invention, the response of the olfactory receptor polypeptide may be evaluated on the basis of the fold increase value determined by dividing the results measured in the presence of 1,5-octadien-3-one by the results measured in the absence of 1,5-octadien-3-one. For example, when the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase), evaluation can be made using 1,5-octadien-3-one at a concentration which gives a fold increase value of preferably 2 or more, more preferably 4 or more, and even more preferably 10 or more.</p>
+<p id="p-0086" num="0090">&#x3c;Step (ii)&#x3e;</p>
+<p id="p-0087" num="0091">In step (ii), a test substance is mixed with 1,5-octadien-3-one to measure the response of the olfactory receptor used in step (i).</p>
+<p id="p-0088" num="0092">The response of the olfactory receptor polypeptide may be measured in the same manner as shown in step (i), except that 1,5-octadien-3-one is mixed with the test substance and contacted with the olfactory receptor polypeptide. For example, the response of the olfactory receptor polypeptide may be measured on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured on cells genetically engineered to artificially express the olfactory receptor polypeptide. For proper comparison of the results measured in steps (i) and (ii), the measurement conditions in steps (i) and (ii) are preferably the same, except for the presence or absence of the test substance.</p>
+<p id="p-0089" num="0093">&#x3c;Step (iii)&#x3e;</p>
+<p id="p-0090" num="0094">In step (iii), the results measured in steps (i) and (ii) are compared with each other to select a test substance causing a reduction in the response as a candidate substance for 1,5-octadien-3-one odor-suppressing materials.</p>
+<p id="p-0091" num="0095">In the present invention, when a reduction in the response is observed as a result of comparing the results measured in steps (i) and (ii), the test substance used in step (ii) can be evaluated as a candidate substance for 1,5-octadien-3-one odor-suppressing materials.</p>
+<p id="p-0092" num="0096">In such a way as described above, test substances can be screened to select candidate substances for 1,5-octadien-3-one odor-suppressing materials. According to the present invention, it is possible to select candidate substances for 1,5-octadien-3-one odor-suppressing materials from among many test substances, without causing any problems such as olfactory fatigue and variations among individuals associated with sensory testing by means of the human olfactory sense.</p>
+<p id="p-0093" num="0097">The selected substances can be used as candidate substances for 1,5-octadien-3-one odor-suppressing materials. If necessary, the selected substances may be subjected to modifications or the like to thereby develop novel compounds having the most suitable scent. Further, the selected substances may be blended with other fragrance or flavor materials to thereby develop fragrance or flavor materials capable of suppressing the 1,5-octadien-3-one odor and also having the most suitable scent. The screening method of the present invention can be used to contribute to the development of new fragrance or flavor materials serving as 1,5-octadien-3-one odor-suppressing materials.</p>
+<p id="p-0094" num="0098">3. Screening Method for 1-Octen-3-Ol Odor-Suppressing Materials</p>
+<p id="p-0095" num="0099">The screening method for 1-octen-3-ol odor-suppressing materials according to the present invention is designed such that test substances are screened with olfactory receptor polypeptides responsive to 1-octen-3-ol to select candidate substances for 1-octen-3-ol odor-suppressing materials. This method is characterized by comprising the following steps:</p>
+<p id="p-0096" num="0100">adding a test substance and 1-octen-3-ol to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1-octen-3-ol;</p>
+<p id="p-0097" num="0101">measuring the response of the olfactory receptor polypeptide to 1-octen-3-ol; and</p>
+<p id="p-0098" num="0102">identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response, i.e., identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response as a candidate substance for 1-octen-3-ol odor-suppressing materials.</p>
+<p id="p-0099" num="0103">According to a preferred aspect of the present invention, the screening method for 1-octen-3-ol odor-suppressing materials according to the present invention comprises the following steps:</p>
+<p id="p-0100" num="0000">(i) bringing an olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1-octen-3-ol into contact with 1-octen-3-ol to measure the response of the olfactory receptor polypeptide to 1-octen-3-ol;
+<br/>
+(ii) mixing a test substance with 1-octen-3-ol to measure the response of the olfactory receptor polypeptide used in step (i); and
+<br/>
+(iii) comparing the results measured in steps (i) and (ii) to select a test substance causing a reduction in the response as a candidate substance for 1-octen-3-ol odor-suppressing materials.
+</p>
+<p id="p-0101" num="0104">The screening method for 1-octen-3-ol odor-suppressing materials according to the present invention is configured such that candidate substances for 1-octen-3-ol odor-suppressing materials are selected from among test substances on the basis of the responsiveness of each test substance to an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise amino acid sequences sharing an identity of 80% or more with the amino acid sequences of these polypeptides and which are responsive to offensive odor-causing substances.</p>
+<p id="p-0102" num="0105">In the screening method for 1-octen-3-ol odor-suppressing materials according to the present invention, the term &#x201c;test substance&#x201d; is not limited in any way, but it refers to a subject to be tested for its suppressive effect on a 1-octen-3-ol odor and is intended to mean a compound, a composition or a mixture. Likewise, the term &#x201c;1-octen-3-ol odor-suppressing material&#x201d; is not limited in any way, but it is intended to mean a compound, a composition or a mixture, which is capable of suppressing a 1-octen-3-ol odor. Moreover, the term &#x201c;1-octen-3-ol odor&#x201d; is intended to mean an odor originating from 1-octen-3-ol, as exemplified by a mushroom odor, an iron rust odor, an underarm odor, off-flavors, etc. An explanation will be given below of each step.</p>
+<p id="p-0103" num="0106">&#x3c;Step (i)&#x3e;</p>
+<p id="p-0104" num="0107">In step (i), an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1-octen-3-ol is brought into contact with 1-octen-3-ol to measure the response of the olfactory receptor polypeptide to 1-octen-3-ol.</p>
+<p id="p-0105" num="0108">The olfactory receptor polypeptide to be used for this purpose is an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1-octen-3-ol.</p>
+<p id="p-0106" num="0109">OR2C1 has been registered in GenBank under NM_012368, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 2) encoded by DNA at positions 53 to 991 of the nucleotide sequence shown in SEQ ID NO: 1.</p>
+<p id="p-0107" num="0110">OR4Q3 has been registered in GenBank under NM_172194, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 4) encoded by DNA having the nucleotide sequence shown in SEQ ID NO: 3.</p>
+<p id="p-0108" num="0111">Since these polypeptides strongly and selectively respond to 1-octen-3-ol, the screening method using OR2C1 and/or OR4Q3 can be expected to contribute to the development of 1-octen-3-ol odor-suppressing materials.</p>
+<p id="p-0109" num="0112">As an olfactory receptor, it is also possible to use an olfactory receptor polypeptide selected from the group consisting of polypeptides which comprise an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence possessed by any of these polypeptides (i.e., SEQ ID NO: 2 or 4) and which are responsive to 1-octen-3-ol.</p>
+<p id="p-0110" num="0113">Such olfactory receptor polypeptides may be used alone, or two or more of them may be used in combination.</p>
+<p id="p-0111" num="0114">In the present invention, there is no particular limitation on how to contact an olfactory receptor polypeptide with 1-octen-3-ol to measure the response of the olfactory receptor polypeptide to 1-octen-3-ol. For example, the response of the olfactory receptor polypeptide may be measured by being contacted with 1-octen-3-ol on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured by being contacted with 1-octen-3-ol on cells genetically engineered to artificially express the olfactory receptor polypeptide. The time required to contact the olfactory receptor polypeptide with 1-octen-3-ol is not determined exactly because it also depends on the concentration of 1-octen-3-ol and the method used for measurement. However, the response may be measured immediately after their contact, and the time required for their contact is usually 0 to 4 hours, and preferably 2 to 4 hours. The same goes for when the olfactory receptor polypeptide is contacted with 1-octen-3-ol in admixture with a test substance.</p>
+<p id="p-0112" num="0115">Cells genetically engineered to artificially express the olfactory receptor polypeptide may be prepared when cells are transformed with a vector carrying a gene encoding the olfactory receptor polypeptide.</p>
+<p id="p-0113" num="0116">In a preferred aspect of the present invention, the N-terminal 20 amino acid residues of bovine rhodopsin may be integrated together with the olfactory receptor polypeptide. Upon integration of the N-terminal 20 amino acid residues of bovine rhodopsin, cell membrane expression of the olfactory receptor polypeptide may be facilitated.</p>
+<p id="p-0114" num="0117">Bovine rhodopsin has been registered in GenBank under NM_001014890. Bovine rhodopsin is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 6) encoded by DNA at positions 1 to 1047 of the nucleotide sequence shown in SEQ ID NO: 5.</p>
+<p id="p-0115" num="0118">Moreover, instead of bovine rhodopsin, it is also possible to use a polypeptide which comprises an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence shown in SEQ ID NO: 6 and which is capable of facilitating cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0116" num="0119">It should be noted that amino acid residues of not only bovine rhodopsin but also any other polypeptides may be used as long as they can facilitate cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0117" num="0120">There is no particular limitation on how to measure the response of the olfactory receptor polypeptide, and any technique used in the art may be used for this purpose. For example, it is known that once an odorous compound has bound to an olfactory receptor polypeptide, G protein in cells will be activated and this G protein will in turn activate adenylate cyclase to convert ATP into cyclic AMP (cAMP), thereby increasing the intracellular level of cAMP. Thus, the response of the olfactory receptor polypeptide can be measured when the level of cAMP is measured. The level of cAMP may be measured using ELISA techniques, reporter gene assay techniques, etc. Above all, it is preferred that the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase).</p>
+<p id="p-0118" num="0121">According to one embodiment of the present invention, the response of the olfactory receptor polypeptide may be evaluated on the basis of the fold increase value determined by dividing the results measured in the presence of 1-octen-3-ol by the results measured in the absence of 1-octen-3-ol. For example, when the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase), evaluation can be made using 1-octen-3-ol at a concentration which gives a fold increase value of preferably 2 or more, more preferably 4 or more, and even more preferably 10 or more.</p>
+<p id="p-0119" num="0122">&#x3c;Step (ii)&#x3e;</p>
+<p id="p-0120" num="0123">In step (ii), a test substance is mixed with 1-octen-3-ol to measure the response of the olfactory receptor used in step (i).</p>
+<p id="p-0121" num="0124">The response of the olfactory receptor polypeptide may be measured in the same manner as shown in step (i), except that 1-octen-3-ol is mixed with the test substance and contacted with the olfactory receptor polypeptide. For example, the response of the olfactory receptor polypeptide may be measured on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured on cells genetically engineered to artificially express the olfactory receptor polypeptide. For proper comparison of the results measured in steps (i) and (ii), the measurement conditions in steps (i) and (ii) are preferably the same, except for the presence or absence of the test substance.</p>
+<p id="p-0122" num="0125">&#x3c;Step (iii)&#x3e;</p>
+<p id="p-0123" num="0126">In step (iii), the results measured in steps (i) and (ii) are compared with each other to select a test substance causing a reduction in the response as a candidate substance for 1-octen-3-ol odor-suppressing materials.</p>
+<p id="p-0124" num="0127">In the present invention, when a reduction in the response is observed as a result of comparing the results measured in steps (i) and (ii), the test substance used in step (ii) can be evaluated as a candidate substance for 1-octen-3-ol odor-suppressing materials.</p>
+<p id="p-0125" num="0128">In such a way as described above, test substances can be screened to select candidate substances for 1-octen-3-ol odor-suppressing materials. According to the present invention, it is possible to select candidate substances for 1-octen-3-ol odor-suppressing materials from among many test substances, without causing any problems such as olfactory fatigue and variations among individuals associated with sensory testing by means of the human olfactory sense.</p>
+<p id="p-0126" num="0129">The selected substances can be used as candidate substances for 1-octen-3-ol odor-suppressing materials. If necessary, the selected substances may be subjected to modifications or the like to thereby develop novel compounds having the most suitable scent. Further, the selected substances may be blended with other fragrance or flavor materials to thereby develop fragrance or flavor materials capable of suppressing the 1-octen-3-ol odor and also having the most suitable scent. The screening method of the present invention can be used to contribute to the development of new fragrance or flavor materials serving as 1-octen-3-ol odor-suppressing materials.</p>
+<p id="p-0127" num="0130">4. Screening Method for 1,5-Octadien-3-Ol Odor-Suppressing Materials</p>
+<p id="p-0128" num="0131">The screening method for 1,5-octadien-3-ol odor-suppressing materials according to the present invention is designed such that test substances are screened with olfactory receptor polypeptides responsive to 1,5-octadien-3-ol to select candidate substances for 1,5-octadien-3-ol odor-suppressing materials. This method is characterized by comprising the following steps:</p>
+<p id="p-0129" num="0132">adding a test substance and 1,5-octadien-3-ol to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1,5-octadien-3-ol;</p>
+<p id="p-0130" num="0133">measuring the response of the olfactory receptor polypeptide to 1,5-octadien-3-ol; and</p>
+<p id="p-0131" num="0134">identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response, i.e., identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response as a candidate substance for 1,5-octadien-3-ol odor-suppressing materials.</p>
+<p id="p-0132" num="0135">According to a preferred aspect of the present invention, the screening method for 1,5-octadien-3-ol odor-suppressing materials according to the present invention comprises the following steps:</p>
+<p id="p-0133" num="0000">(i) bringing an olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of the polypeptides in (a) and which are responsive to 1,5-octadien-3-ol into contact with 1,5-octadien-3-ol to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-ol;
+<br/>
+(ii) mixing a test substance with 1,5-octadien-3-ol to measure the response of the olfactory receptor polypeptide used in step (i); and
+<br/>
+(iii) comparing the results measured in steps (i) and (ii) to select a test substance causing a reduction in the response as a candidate substance for 1,5-octadien-3-ol odor-suppressing materials.
+</p>
+<p id="p-0134" num="0136">The screening method for 1,5-octadien-3-ol odor-suppressing materials according to the present invention is configured such that candidate substances for 1,5-octadien-3-ol odor-suppressing materials are selected from among test substances on the basis of the responsiveness of each test substance to an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise amino acid sequences sharing an identity of 80% or more with the amino acid sequences of these polypeptides and which are responsive to offensive odor-causing substances.</p>
+<p id="p-0135" num="0137">In the screening method for 1,5-octadien-3-ol odor-suppressing materials according to the present invention, the term &#x201c;test substance&#x201d; is not limited in any way, but it refers to a subject to be tested for its suppressive effect on a 1,5-octadien-3-ol odor and is intended to mean a compound, a composition or a mixture. Likewise, the term &#x201c;1,5-octadien-3-ol odor-suppressing material&#x201d; is not limited in any way, but it is intended to mean a compound, a composition or a mixture, which is capable of suppressing a 1,5-octadien-3-ol odor. Moreover, the term &#x201c;1,5-octadien-3-ol odor&#x201d; is intended to mean an odor originating from 1,5-octadien-3-ol, as exemplified by a mushroom odor, an iron rust odor, an underarm odor, off-flavors, etc. An explanation will be given below of each step.</p>
+<p id="p-0136" num="0138">&#x3c;Step (i)&#x3e;</p>
+<p id="p-0137" num="0139">In step (i), an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1,5-octadien-3-ol is brought into contact with 1,5-octadien-3-ol to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-ol.</p>
+<p id="p-0138" num="0140">The olfactory receptor polypeptide to be used for this purpose is an olfactory receptor polypeptide selected from the group consisting of OR2C1, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of 80% or more with the amino acid sequence of any of these polypeptides and which are responsive to 1,5-octadien-3-ol.</p>
+<p id="p-0139" num="0141">OR2C1 has been registered in GenBank under NM_012368, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 2) encoded by DNA at positions 53 to 991 of the nucleotide sequence shown in SEQ ID NO: 1.</p>
+<p id="p-0140" num="0142">OR4Q3 has been registered in GenBank under NM_172194, and is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 4) encoded by DNA having the nucleotide sequence shown in SEQ ID NO: 3.</p>
+<p id="p-0141" num="0143">Since these polypeptides strongly and selectively respond to 1,5-octadien-3-ol, the screening method using OR2C1 and/or OR4Q3 can be expected to contribute to the development of 1,5-octadien-3-ol odor-suppressing materials.</p>
+<p id="p-0142" num="0144">As an olfactory receptor, it is also possible to use an olfactory receptor polypeptide selected from the group consisting of polypeptides which comprise an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence possessed by any of these polypeptides (i.e., SEQ ID NO: 2 or 4) and which are responsive to 1,5-octadien-3-ol.</p>
+<p id="p-0143" num="0145">Such olfactory receptor polypeptides may be used alone, or two or more of them may be used in combination.</p>
+<p id="p-0144" num="0146">In the present invention, there is no particular limitation on how to contact an olfactory receptor polypeptide with 1,5-octadien-3-ol to measure the response of the olfactory receptor polypeptide to 1,5-octadien-3-ol. For example, the response of the olfactory receptor polypeptide may be measured by being contacted with 1,5-octadien-3-ol on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured by being contacted with 1,5-octadien-3-ol on cells genetically engineered to artificially express the olfactory receptor polypeptide. The time required to contact the olfactory receptor polypeptide with 1,5-octadien-3-ol is not determined exactly because it also depends on the concentration of 1,5-octadien-3-ol and the method used for measurement. However, the response may be measured immediately after their contact, and the time required for their contact is usually 0 to 4 hours, and preferably 2 to 4 hours. The same goes for when the olfactory receptor polypeptide is contacted with 1,5-octadien-3-ol in admixture with a test substance.</p>
+<p id="p-0145" num="0147">Cells genetically engineered to artificially express the olfactory receptor polypeptide may be prepared when cells are transformed with a vector carrying a gene encoding the olfactory receptor polypeptide.</p>
+<p id="p-0146" num="0148">In a preferred aspect of the present invention, the N-terminal 20 amino acid residues of bovine rhodopsin may be integrated together with the olfactory receptor polypeptide. Upon integration of the N-terminal 20 amino acid residues of bovine rhodopsin, cell membrane expression of the olfactory receptor polypeptide may be facilitated.</p>
+<p id="p-0147" num="0149">Bovine rhodopsin has been registered in GenBank under NM 001014890. Bovine rhodopsin is a polypeptide consisting of an amino acid sequence (SEQ ID NO: 6) encoded by DNA at positions 1 to 1047 of the nucleotide sequence shown in SEQ ID NO: 5.</p>
+<p id="p-0148" num="0150">Moreover, instead of bovine rhodopsin, it is also possible to use a polypeptide which comprises an amino acid sequence sharing an identity of 80% or more, preferably 85% or more, more preferably 90% or more, even more preferably 95% or more, and particularly preferably 98% or more with the amino acid sequence shown in SEQ ID NO: 6 and which is capable of facilitating cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0149" num="0151">It should be noted that amino acid residues of not only bovine rhodopsin but also any other polypeptides may be used as long as they can facilitate cell membrane expression of the olfactory receptor polypeptide.</p>
+<p id="p-0150" num="0152">There is no particular limitation on how to measure the response of the olfactory receptor polypeptide, and any technique used in the art may be used for this purpose. For example, it is known that once an odorous compound has bound to an olfactory receptor polypeptide, G protein in cells will be activated and this G protein will in turn activate adenylate cyclase to convert ATP into cyclic AMP (cAMP), thereby increasing the intracellular level of cAMP. Thus, the response of the olfactory receptor polypeptide can be measured when the level of cAMP is measured. The level of cAMP may be measured using ELISA techniques, reporter gene assay techniques, etc. Above all, it is preferred that the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase).</p>
+<p id="p-0151" num="0153">According to one embodiment of the present invention, the response of the olfactory receptor polypeptide may be evaluated on the basis of the fold increase value determined by dividing the results measured in the presence of 1,5-octadien-3-ol by the results measured in the absence of 1,5-octadien-3-ol. For example, when the response of the olfactory receptor polypeptide is measured by reporter gene assay techniques using a luminophore (e.g., luciferase), evaluation can be made using 1,5-octadien-3-ol at a concentration which gives a fold increase value of preferably 2 or more, more preferably 4 or more, and even more preferably 10 or more.</p>
+<p id="p-0152" num="0154">&#x3c;Step (ii)&#x3e;</p>
+<p id="p-0153" num="0155">In step (ii), a test substance is mixed with 1,5-octadien-3-ol to measure the response of the olfactory receptor used in step (i).</p>
+<p id="p-0154" num="0156">The response of the olfactory receptor polypeptide may be measured in the same manner as shown in step (i), except that 1,5-octadien-3-ol is mixed with the test substance and contacted with the olfactory receptor polypeptide. For example, the response of the olfactory receptor polypeptide may be measured on cells isolated from a living body expressing the olfactory receptor polypeptide, or alternatively, the response of the olfactory receptor polypeptide may be measured on cells genetically engineered to artificially express the olfactory receptor polypeptide. For proper comparison of the results measured in steps (i) and (ii), the measurement conditions in steps (i) and (ii) are preferably the same, except for the presence or absence of the test substance.</p>
+<p id="p-0155" num="0157">&#x3c;Step (iii)&#x3e;</p>
+<p id="p-0156" num="0158">In step (iii), the results measured in steps (i) and (ii) are compared with each other to select a test substance causing a reduction in the response as a candidate substance for 1,5-octadien-3-ol odor-suppressing materials.</p>
+<p id="p-0157" num="0159">In the present invention, when a reduction in the response is observed as a result of comparing the results measured in steps (i) and (ii), the test substance used in step (ii) can be evaluated as a candidate substance for 1,5-octadien-3-ol odor-suppressing materials.</p>
+<p id="p-0158" num="0160">In such a way as described above, test substances can be screened to select candidate substances for 1,5-octadien-3-ol odor-suppressing materials. According to the present invention, it is possible to select candidate substances for 1,5-octadien-3-ol odor-suppressing materials from among many test substances, without causing any problems such as olfactory fatigue and variations among individuals associated with sensory testing by means of the human olfactory sense.</p>
+<p id="p-0159" num="0161">The selected substances can be used as candidate substances for 1,5-octadien-3-ol odor-suppressing materials. If necessary, the selected substances may be subjected to modifications or the like to thereby develop novel compounds having the most suitable scent. Further, the selected substances may be blended with other fragrance or flavor materials to thereby develop fragrance or flavor materials capable of suppressing the 1,5-octadien-3-ol odor and also having the most suitable scent. The screening method of the present invention can be used to contribute to the development of new fragrance or flavor materials serving as 1,5-octadien-3-ol odor-suppressing materials.</p>
+<p id="p-0160" num="0162">5. Offensive Odor-Suppressing Composition</p>
+<p id="p-0161" num="0163">The screening method of the present invention can be used to select an offensive odor-suppressing material suitable for each offensive odor-causing substance, and such an offensive odor-suppressing material can be used as an active ingredient to give an offensive odor-suppressing composition for each intended purpose.</p>
+<p id="p-0162" num="0164">In one embodiment of the present invention, the offensive odor-suppressing composition contains at least one compound selected from the following group (A) as an active ingredient.</p>
+<p id="p-0163" num="0165">The group (A) includes 2-methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol (Hindinol&#xae;), 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol (Dextramber&#xae;), 1,4-dioxacycloheptadecane-5,17-dione, <i>eucalyptus </i>oil, patchouli oil, vetiver oil and so on. The amount of the group (A) in the offensive odor-suppressing composition of the present invention is not limited strictly, and is preferably 0.0001% by weight or more, more preferably 0.001% to 20% by weight, and even more preferably 0.01% to 10% by weight.</p>
+<p id="p-0164" num="0166">The offensive odor-suppressing composition containing the above group (A) particularly can suppress age-related body odors and/or underarm odors which are offensive odors composed of at least one selected from the group consisting of a 1-octen-3-one odor and a 1,5-octadien-3-one odor. Moreover, the offensive odor-suppressing composition containing the above group (A) can suppress age-related body odors and/or underarm odors which are offensive odors composed of at least one selected from the group consisting of a trans-2-nonenal odor and a trans-2-octenal odor.</p>
+<p id="p-0165" num="0167">The offensive odor-suppressing composition of the present invention may comprise known fragrances or commonly used additives as described below within the range that will not impair the effect of the present invention, i.e., within the quantitative and qualitative range that can overcome the olfactory offensiveness associated with the age-related body odors and/or underarm odors.</p>
+<p id="p-0166" num="0168">Examples of known fragrances include hydrocarbons (e.g., &#x3b1;-pinene, limonene, cedrene); aliphatic saturated or unsaturated alcohols (e.g., 1-octen-3-ol, nonanol); saturated or unsaturated linear terpene alcohols (e.g., myrcenol, tetrahydrolinalool, nerol); cyclic terpene alcohols (e.g., &#x3b1;-terpineol, bornyl methoxy cyclohexanol); sesquiterpene alcohols (e.g., farnesol); aromatic alcohols (e.g., &#x3b3;-phenylpropyl alcohol, dimethylbenzylcarbinol); aliphatic aldehydes, terpene-based aldehydes, aromatic aldehydes, aliphatic ketones (e.g., Iso E Super (7-acetyl-1,2,3,4,5,6,7,8-octahydro-1,1,6,7-tetramethylnaphthalene)); terpene-based cyclic ketones, cyclic ketones, aliphatic esters, acetic acid esters, propionic acid esters, butyric acid esters, benzoic acid esters, phenylacetic acid esters, salicylic acid esters, anthranilic acid esters and so on. The amount of these known fragrances in the offensive odor-suppressing composition of the present invention may be selected as appropriate depending on the type of fragrance to be used and/or the intended purpose, and is not limited in any way.</p>
+<p id="p-0167" num="0169">The offensive odor-suppressing composition of the present invention can be incorporated into various types of products, and perfumery and cosmetics are also one of the preferred products. The offensive odor-suppressing composition of the present invention mentioned above may be incorporated into, e.g., perfumery and cosmetics together with commonly used additives, depending on its form or its dosage form.</p>
+<p id="p-0168" num="0170">Examples of commonly used additives include known UV absorbers; algefacients (e.g., menthol, methyl salicylate); skin stimulants (e.g., <i>capsicum </i>tincture, nonylic vanillylamide), and so on. The amount of these commonly used additives is not limited in any way, but it is within the range of approximately 0.005% to 5.0% by weight relative to the total weight of the offensive odor-suppressing composition of the present invention.</p>
+<p id="p-0169" num="0171">Moreover, the offensive odor-suppressing composition of the present invention may be incorporated in an amount commonly used in the art into, for example, fragrance products, perfumery and cosmetics, basic cosmetics, make-up cosmetics, hair cosmetics, sun care cosmetics, medicated cosmetics, hair care products, soaps, body cleansers, bath preparations, fabric detergents, soft-finishing agents, detergents, kitchen detergents, bleaching agents, aerosols, air fresheners, repellents and/or sundry goods to enhance their commercial value.</p>
+<p id="p-0170" num="0172">Examples of fragrance products include perfume, eau de parfum, eau de toilette, eau de cologne, and so on; examples of basic cosmetics include face wash cream, vanishing cream, cleansing cream, cold cream, massage cream, skin milk, lotion, essence, facial pack, make-up remover, and so on; examples of make-up cosmetics include foundation, lipstick, lip pomade, and so on; examples of hair cosmetics include hair tonic, hair liquid, hair spray, and so on; examples of sun care cosmetics include suntan products, sunscreen products, and so on; and examples of medicated cosmetics include antiperspirant, after shaving lotion and gel, permanent waving agent, medicated soap, medicated shampoo, medicated skin cosmetics, and so on.</p>
+<p id="p-0171" num="0173">Examples of hair care products include shampoo, conditioner, two-in-one shampoo, hair conditioner, hair treatment, hair pack, and so on; examples of soaps include toilet soap, bath soap, and so on; examples of body cleansers include body wash, body shampoo, hand wash, and so on; and examples of bath preparations include bath additives (e.g., bath salt, bath tablet, bath liquid), foam bath (e.g., bubble bath), bath oil (e.g., bath perfume, bath capsule), milk bath, bath gel, bath cube and so on.</p>
+<p id="p-0172" num="0174">Examples of fabric detergents include heavy fabric detergent, light fabric detergent, liquid detergent, laundry soap, concentrated detergent, powdered soap, and so on; examples of soft-finishing agents include softener, furniture care, and so on; examples of detergents include cleanser, household cleaner, toilet detergent, bath detergent, glass cleaner, mold remover, drain detergent, and so on; examples of kitchen detergents include kitchen soap, kitchen synthetic soap, dish detergent, and so on; examples of bleaching agents include oxidizing bleaching agents (e.g., chlorine-based bleaching agent, oxygen-based bleaching agent), reducing bleaching agents (e.g., sulfur-based bleaching agent), optical bleaching agents, and so on; examples of aerosols include those of spray type, powder spray, and so on; examples of air fresheners include those of solid type, gel type or liquid type, and so on; and examples of sundry goods include those of various forms such as tissue paper, toilet paper, and so on.</p>
+<p id="p-0173" num="0175">When the offensive odor-suppressing composition of the present invention is used in the above products, the composition may be used as such or converted into any form depending on the intended purpose, as exemplified by a liquid form dissolved in an alcohol or a polyhydric alcohol (e.g., propylene glycol, glycerin); a solubilized or dispersed form solubilized or dispersed with a surfactant (e.g., a nonionic surfactant, an anionic surfactant, a cationic surfactant, an amphoteric surfactant); or a microcapsule form obtained by treatment with an encapsulating agent, etc.</p>
+<p id="p-0174" num="0176">Further, the above offensive odor-suppressing composition may be used in a stable and sustained release form by being included in an inclusion agent such as cyclodextrin. These forms are suitable as final product forms (e.g., liquid, solid, powder, gel, mist and aerosol forms) and may be selected as appropriate.</p>
+<p id="p-0175" num="0177">Further, the offensive odor-suppressing composition of the present invention does not serve as an odorant by itself, but is used by being incorporated into a profragrance which has the ability to release the above offensive odor-suppressing composition under use/application conditions. In this case, the amount of the offensive odor-suppressing composition of the present invention is not limited in any way, but it is within the range of approximately 0.001% to 20.0% by weight relative to the total weight of the product.</p>
+<p id="p-0176" num="0178">6. Flavor Composition</p>
+<p id="p-0177" num="0179">The flavor composition of the present invention contains, as an active ingredient, a flavor component suppressing the intensity of response to at least one olfactory receptor polypeptide selected from the group consisting of OR2C, OR4Q3, and polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of these polypeptides and which are responsive to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol.</p>
+<p id="p-0178" num="0180">The flavor composition of the present invention may comprise known flavorings or commonly used additives as described below within the range that will not impair the effect of the present invention, i.e., within the quantitative and qualitative range that can reduce off-flavors from food and beverage products. The flavor composition of the present invention may also be incorporated into a composition for oral use within the range that will not impair the effect of the present invention.</p>
+<p id="p-0179" num="0181">Other components which may be incorporated into the flavor composition of the present invention include various synthetic flavorings, natural flavorings, natural essential oils, plant extracts and so on, as exemplified by natural essential oils, natural fragrances or flavorings, synthetic fragrances or flavorings and so on as appear in &#x201c;Japanese Patent Office Bulletin, Collection of Well-known Prior Arts (Flavorings and Fragrances) Part II Food Flavors, P88 to 131, published on Jan. 14, 2000.&#x201d;</p>
+<p id="p-0180" num="0182">The flavor composition of the present invention may optionally contain, for example, a solvent (e.g., water, ethanol) and/or a fixative (e.g., ethylene glycol, propylene glycol, dipropylene glycol, hexylene glycol, glycerin, triethyl citrate, medium chain fatty acid triglyceride, medium chain fatty acid diglyceride), which are commonly used.</p>
+<p id="p-0181" num="0183">The food and beverage products intended in the present invention include:</p>
+<p id="p-0182" num="0184">beverages such as fruit drinks, fruit liquors, milk beverages, carbonated beverages, soft drinks, and drinkable preparations; tea beverages or palatable beverages such as green tea, oolong tea, black tea, persimmon leaf tea, chamomile tea, kumazasa (<i>Sasa albo</i>-<i>marginata</i>) tea, mulberry leaf tea, dokudami (<i>Houttuynia cordata</i>) tea, puerh tea, mate tea, rooibos tea, gymnema tea, guava tea, coffee, and cocoa; soups such as Japanese soups, western soups, and Chinese soups; various instant beverages, etc.; and</p>
+<p id="p-0183" num="0185">frozen desserts such as ice creams, sorbets, and ice lollies; desserts such as jellies and puddings; western confectionery such as cakes, cookies, chocolates, and chewing gums; Japanese confectionery such as manju (sweet bean paste buns), yokan (sweet bean paste jelly), and uiro (sweet rice jelly); jams; candies; bakery products; flavorings and seasonings; various instant foods; various junk foods, etc.</p>
+<p id="p-0184" num="0186">The above composition for oral use includes dentifrices, oral washes, mouth washes, troches, chewing gums., etc.</p>
+<heading id="h-0012" level="1">EXAMPLES</heading>
+<p id="p-0185" num="0187">The present invention will be further described in more detail below by way of the following illustrative examples, although the present invention is not limited to these examples.</p>
+<heading id="h-0013" level="1">Example 1</heading>
+<heading id="h-0014" level="2">Measurement of Olfactory Receptor Response to 1-Octen-3-One</heading>
+<heading id="h-0015" level="2">(1) Cloning of Olfactory Receptor Genes</heading>
+<p id="p-0186" num="0188">Human olfactory receptor genes were obtained by PCR cloning with Human Genomic DNA: Female (Promega) on the basis of their sequence information registered in GenBank. Into pME18S vectors, the N-terminal 20 amino acid residues of bovine rhodopsin were integrated and the resulting human olfactory receptor genes were integrated respectively downstream thereof to obtain human olfactory receptor gene expression vectors.</p>
+<heading id="h-0016" level="2">(2) Expression of Olfactory Receptor Genes in HEK293T Cells</heading>
+<p id="p-0187" num="0189">Each human olfactory receptor gene expression vector (0.05 &#x3bc;g), RTP1S vector (0.01 &#x3bc;g), firefly luciferase vector pGL4.29 containing a cAMP response element promoter (Promega, 0.01 &#x3bc;g) and <i>Renilla </i>luciferase vector pGL4.74 containing a thymidine kinase promoter (Promega, 0.005 &#x3bc;g) were dissolved in 10 &#x3bc;L of Opti-MEMI (gibco) to give a gene solution (for one well). HEK293T cells were seeded in 100 &#x3bc;L volumes into 96-well plates (Biocoat, Corning) at a cell density reaching confluence after 24 hours, and the gene solutions were added to the respective wells to cause gene transfer into the cells by lipofection techniques in accordance with the usage of Lipofectamine 3000, followed by culture at 37&#xb0; C. under a 5% carbon dioxide atmosphere for 24 hours.</p>
+<heading id="h-0017" level="2">(3) Luciferase Reporter Gene Assay</heading>
+<p id="p-0188" num="0190">After removal of the culture solutions, an odorous substance serving as an analyte, which had been prepared at a given concentration with CD293 (gibco) medium (supplemented with 20 &#x3bc;M L-glutamine), was added in 50 &#x3bc;L volumes to stimulate the cells for 3 hours, followed by luciferase activity measurement in accordance with the usage of a Dual-Luciferase Reporter Assay System (Promega). The response intensity of each olfactory receptor polypeptide was expressed as a fold increase value, which was determined by dividing the luciferase activity generated upon stimulation with the odorous substance by the luciferase activity generated in a test system not containing the odorous substance.</p>
+<heading id="h-0018" level="2">(4) Identification of Olfactory Receptor Polypeptides Responding to 1-Octen-3-One</heading>
+<p id="p-0189" num="0191">The cells engineered to express human olfactory receptors OR2C1 and OR4Q3 were used to measure the response of these receptors to various concentrations of 1-octen-3-one by the luciferase reporter gene assay. The results obtained are shown in <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, respectively. These two receptors were both found to respond to 1-octen-3-one in a concentration-dependent manner. In contrast, no response was observed in a Mock test using cells not engineered to express the olfactory receptors. Namely, OR2C1 and OR4Q3 were shown to specifically respond to 1-octen-3-one.</p>
+<heading id="h-0019" level="1">Example 2</heading>
+<heading id="h-0020" level="2">Measurement of Olfactory Receptor Response to 1,5-Octadien-3-One</heading>
+<p id="p-0190" num="0192">According to the same procedure as shown in Example 1, the cells engineered to express human olfactory receptors OR2C1 and OR4Q3 were used to measure the response of these receptors to various concentrations of 1,5-octadien-3-one by the luciferase reporter gene assay. The results obtained are shown in <figref idref="DRAWINGS">FIGS. <b>3</b> and <b>4</b></figref>, respectively. These two receptors were both found to respond to 1,5-octadien-3-one in a concentration-dependent manner. In contrast, no response was observed in a Mock test. Namely, OR2C1 and OR4Q3 were shown to specifically respond to 1,5-octadien-3-one.</p>
+<heading id="h-0021" level="1">Example 3</heading>
+<p id="p-0191" num="0193">Measurement of olfactory receptor response to 1-octen-3-ol According to the same procedure as shown in Example 1, the cells engineered to express human olfactory receptor OR4Q3 were used to measure the response of this receptor to various concentrations of 1-octen-3-ol by the luciferase reporter gene assay. The results obtained are shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. OR4Q3 was found to respond to 1-octen-3-ol in a concentration-dependent manner. In contrast, no response was observed in a Mock test. Namely, OR4Q3 was shown to specifically respond to 1-octen-3-ol.</p>
+<heading id="h-0022" level="1">Example 4</heading>
+<heading id="h-0023" level="2">Measurement of Olfactory Receptor Response to 1,5-Octadien-3-Ol</heading>
+<p id="p-0192" num="0194">According to the same procedure as shown in Example 1, the cells engineered to express human olfactory receptor OR4Q3 were used to measure the response of this receptor to various concentrations of 1,5-octadien-3-ol by the luciferase reporter gene assay. The results obtained are shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. OR4Q3 was found to respond to 1,5-octadien-3-ol in a concentration-dependent manner. In contrast, no response was observed in a Mock test. Namely, OR4Q3 was shown to specifically respond to 1,5-octadien-3-ol.</p>
+<heading id="h-0024" level="1">Example 5</heading>
+<p id="p-0193" num="0195">Evaluation of Offensive Odor-Suppressing Materials for their Suppressive Effect on the Response of OR2C1 to 1-Octen-3-One Odor</p>
+<p id="p-0194" num="0196">According to the same procedure as shown in Example 1, offensive odor-suppressing materials 2-methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol (also known as 2-methyl-4-(2,2,3-trimethyl-3-cyclopentenyl)-2-buten-1-ol) (Hindinol&#xae;) and 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol (Dextramber&#xae;) were each mixed at various concentrations with 30 &#x3bc;M 1-octen-3-one, and the cells engineered to express OR2C1 were used to measure the response of this receptor to 1-octen-3-one. The ratio of the fold increase value obtained in the test using the offensive odor-suppressing materials was determined assuming that the fold increase value obtained in the test without mixing the offensive odor-suppressing materials was set to 100. The results obtained are shown in <figref idref="DRAWINGS">FIGS. <b>7</b> and <b>8</b></figref>, respectively. 2-Methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol and 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol both showed the effect of reducing the response of OR2C1 to 1-octen-3-one in a concentration-dependent manner.</p>
+<heading id="h-0025" level="1">Example 6</heading>
+<p id="p-0195" num="0197">Evaluation of Offensive Odor-Suppressing Materials for their Suppressive Effect on the Response of OR2C1 to Trans-2-Nonenal Odor</p>
+<p id="p-0196" num="0198">According to the same procedure as shown in Example 5, offensive odor-suppressing materials 2-methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol (Hindinol&#xae;) and 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol (Dextramber&#xae;) were each mixed at various concentrations with 60 &#x3bc;M trans-2-nonenal, and the cells engineered to express OR2C1 were used to measure the response of this receptor to trans-2-nonenal. The results obtained are shown in <figref idref="DRAWINGS">FIGS. <b>9</b> and <b>10</b></figref>, respectively. 2-Methyl-4-(2,2,3-trimethylcyclopent-3-enyl)but-2-en-1-ol and 1-(2,2,6-trimethylcyclohexyl)hexan-3-ol both showed the effect of reducing the response of OR2C1 to trans-2-nonenal in a concentration-dependent manner.</p>
+<heading id="h-0026" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0197" num="0199">By using the screening method of the present invention, candidate substances for materials suppressing a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor can be selected respectively from among many test substances. The screening method of the present invention can be expected to contribute to the development of 1-octen-3-one odor-suppressing materials, 1,5-octadien-3-one odor-suppressing materials, 1-octen-3-ol odor-suppressing materials and 1,5-octadien-3-ol odor-suppressing materials. Moreover, the offensive odor-suppressing composition of the present invention can be expected to contribute to reduction in the offensiveness of age-related body odors and/or underarm odors.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-sequence-list-doc id="SEQLST-1">
+<sequence-list file="US20220411884A1-20221229-S00001.XML" carriers="internal-electronic" seq-file-type="ST.25"/>
+</us-sequence-list-doc>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A screening method for materials suppressing one or more offensive odors selected from the group consisting of a 1-octen-3-one odor, a 1,5-octadien-3-one odor, a 1-octen-3-ol odor and a 1,5-octadien-3-ol odor, the method comprising the following steps:
+<claim-text>adding a test substance and one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol to at least one olfactory receptor polypeptide selected from the group consisting of (a) OR2C1 and OR4Q3, and (b) polypeptides which comprise an amino acid sequence sharing an identity of at least 80% with the amino acid sequence of any of the polypeptides in (a) and which are responsive to one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol;</claim-text>
+<claim-text>measuring the response of the olfactory receptor polypeptide to the one or more offensive odor-causing substances selected from the group consisting of 1-octen-3-one, 1,5-octadien-3-one, 1-octen-3-ol and 1,5-octadien-3-ol; and</claim-text>
+<claim-text>identifying a test substance that suppresses the response of the olfactory receptor polypeptide on the basis of the measured response.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the offensive odors are one or more selected from the group consisting of a 1-octen-3-one odor and a 1,5-octadien-3-one odor.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the response of the olfactory receptor polypeptide is measured on cells isolated from a living body expressing the olfactory receptor polypeptide or on cells genetically engineered to artificially express the olfactory receptor polypeptide.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the response of the olfactory receptor polypeptide is measured by reporter gene assay.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

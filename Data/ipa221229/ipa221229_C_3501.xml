@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411891A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411891</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17764018</doc-number>
+<date>20200909</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2019-175946</doc-number>
+<date>20190926</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>8</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>36</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>36</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>34</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>58</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>62</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>64</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>8</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>36</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>364</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>32</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>34</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>585</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>62</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>64</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>2211</main-group>
+<subgroup>008</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>D</subclass>
+<main-group>2261</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2204</main-group>
+<subgroup>66</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2204</main-group>
+<subgroup>70</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2223</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2223</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2240</main-group>
+<subgroup>48</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2240</main-group>
+<subgroup>60</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2240</main-group>
+<subgroup>90</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2361</main-group>
+<subgroup>65</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ROLLING BEARING</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NTN Corporation</orgname>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>KAWAI</last-name>
+<first-name>Takashi</first-name>
+<address>
+<city>Iwata-shi, Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>OHKI</last-name>
+<first-name>Chikara</first-name>
+<address>
+<city>Kuwana-shi, Mie</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>YAMADA</last-name>
+<first-name>Masahiro</first-name>
+<address>
+<city>Kuwana-shi, Mie</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2020/034079</doc-number>
+<date>20200909</date>
+</document-id>
+<us-371c12-date><date>20220325</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A rolling bearing is a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing including an inner ring, an outer ring, and a rolling element, each of the inner ring, the outer ring, and the rolling element being composed of a steel, the rolling bearing having a quench-hardened layer in at least one of an inner ring raceway surface of the inner ring, an outer ring raceway surface of the outer ring, and a rolling contact surface of the rolling element. A ratio of a total area of a plurality of martensite crystal grains in the quench-hardened layer is more than or equal to 70%. The plurality of martensite crystal grains are classified into a first group and a second group. An average grain size of the martensite crystal grains belonging to the first group is less than or equal to 0.97 &#x3bc;m.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="194.73mm" wi="83.82mm" file="US20220411891A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="203.20mm" wi="110.32mm" file="US20220411891A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="116.84mm" wi="67.99mm" orientation="landscape" file="US20220411891A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="203.79mm" wi="110.66mm" file="US20220411891A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="191.60mm" wi="103.04mm" file="US20220411891A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="105.92mm" wi="103.21mm" file="US20220411891A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="95.59mm" wi="122.85mm" file="US20220411891A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="93.39mm" wi="122.85mm" file="US20220411891A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="99.57mm" wi="126.32mm" file="US20220411891A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="104.65mm" wi="148.17mm" file="US20220411891A1-20221229-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="102.70mm" wi="148.34mm" file="US20220411891A1-20221229-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="96.35mm" wi="159.17mm" file="US20220411891A1-20221229-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="109.22mm" wi="152.15mm" file="US20220411891A1-20221229-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="109.39mm" wi="152.32mm" file="US20220411891A1-20221229-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a rolling bearing. More particularly, the present invention relates to a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">A rolling fatigue life of a rolling bearing is improved by carbonitriding a surface of a bearing part (a raceway surface of each of an inner ring and an outer ring as well as a rolling contact surface of a rolling element) as described in PTL 1 (Japanese Patent No. 5592540). Moreover, the rolling fatigue life of the rolling bearing is improved by attaining fine prior austenite grains in the surface of the bearing part as described in PTL 2 (Japanese Patent No. 3905430).</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Literature</heading>
+<p id="p-0004" num="0003">PTL 1: Japanese Patent No. 5592540</p>
+<p id="p-0005" num="0004">PTL 2: Japanese Patent No. 3905430</p>
+<heading id="h-0005" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0006" level="1">Technical Problem</heading>
+<p id="p-0006" num="0005">A steel used for the bearing part is generally quenched. That is, a quench-hardened layer having a structure mainly composed of a martensite phase is formed in the surface of the bearing part. However, it has not been conventionally known how states of martensite crystal grains affect the rolling fatigue life of the bearing part.</p>
+<p id="p-0007" num="0006">In a transmission or differential for an automobile, a low-viscosity lubricating oil tends to be applied in order to improve fuel efficiency or an amount of lubricating oil in a unit tends to be reduced, and such tendencies are also considered to continue in future. Therefore, in a rolling bearing used in such a severe lubricating state, a material matrix of a surface layer of a quench-hardened layer needs to be composed of a stronger structure. Further, in response to downsizing of units, the size (outer diameter or width) of the rolling bearing is required to be decreased; however, an output tends to be high due to motor assisting or provision of a turbo mechanism and an applied load to the rolling bearing (a ratio of the applied load to the bearing rated load) tends to be increased, so that a longer life of the rolling bearing is required. Further, in view of increased popularity of urban car sharing in future, frequency of use and travel distance of an automobile tend to be increased, so that a longer life of the rolling bearing has been desired more than ever.</p>
+<p id="p-0008" num="0007">A maximum contact pressure is applied to a rolling surface (raceway surface or rolling contact surface) at a central position in a rolling surface axial direction. Therefore, in order to attain a long life of the rolling bearing, it is particularly important to improve the material structure of the quench-hardened layer in the rolling surface at the central position in the rolling surface axial direction.</p>
+<p id="p-0009" num="0008">The present invention has been made in view of the above-described problem of the conventional art. More specifically, the present invention is to provide a rolling bearing having an improved rolling fatigue life.</p>
+<heading id="h-0007" level="1">Solution to Problem</heading>
+<p id="p-0010" num="0009">A rolling bearing according to a first implementation of the present invention is a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing including an inner ring, an outer ring, and a rolling element, each of the inner ring, the outer ring, and the rolling element being composed of a steel, the rolling bearing having a quench-hardened layer in at least one of an inner ring raceway surface of the inner ring, an outer ring raceway surface of the outer ring, and a rolling contact surface of the rolling element. The quench-hardened layer includes a plurality of martensite crystal grains and a plurality of austenite crystal grains. A ratio of a total area of the plurality of martensite crystal grains in the quench-hardened layer is more than or equal to 70%. The plurality of martensite crystal grains are classified into a first group and a second group. A minimum value of crystal grain sizes of the martensite crystal grains belonging to the first group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the second group. A value obtained by dividing a total area of the martensite crystal grains belonging to the first group by the total area of the plurality of martensite crystal grains is more than or equal to 0.5. A value obtained by dividing, by the total area of the plurality of martensite crystal grains, a total area of the martensite crystal grains belonging to the first group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the first group is less than 0.5. An average grain size of the martensite crystal grains belonging to the first group is less than or equal to 0.97 &#x3bc;m. A hardness of the quench-hardened layer is more than or equal to 670 Hv in a surface of the quench-hardened layer at a central position in a rolling surface axial direction. A volume ratio of the austenite crystal grains in the quench-hardened layer is less than or equal to 30% in the surface of the quench-hardened layer at the central position in the rolling surface axial direction.</p>
+<p id="p-0011" num="0010">In the rolling bearing according to the first implementation of the present invention, an average aspect ratio of the martensite crystal grains belonging to the first group may be less than or equal to 2.57.</p>
+<p id="p-0012" num="0011">A rolling bearing according to a second implementation of the present invention is a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing including an inner ring, an outer ring, and a rolling element, each of the inner ring, the outer ring, and the rolling element being composed of a steel, the rolling bearing having a quench-hardened layer in at least one of an inner ring raceway surface of the inner ring, an outer ring raceway surface of the outer ring, and a rolling contact surface of the rolling element. The quench-hardened layer includes a plurality of martensite crystal grains and a plurality of austenite crystal grains. A ratio of a total area of the plurality of martensite crystal grains in the quench-hardened layer is more than or equal to 70%. The plurality of martensite crystal grains are classified into a third group and a fourth group. A minimum value of crystal grain sizes of the martensite crystal grains belonging to the third group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the fourth group. A value obtained by dividing a total area of the martensite crystal grains belonging to the third group by the total area of the plurality of martensite crystal grains is more than or equal to 0.7. A value obtained by dividing, by the total area of the plurality of martensite crystal grains, a total area of the martensite crystal grains belonging to the third group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the third group is less than 0.7. An average grain size of the martensite crystal grains belonging to the third group is less than or equal to 0.75 &#x3bc;m. A hardness of the quench-hardened layer is more than or equal to 670 Hv in a surface of the quench-hardened layer at a central position in a rolling surface axial direction. A volume ratio of the austenite crystal grains in the quench-hardened layer is less than or equal to 30% in the surface of the quench-hardened layer at the central position in the rolling surface axial direction.</p>
+<p id="p-0013" num="0012">In the rolling bearing according to the second implementation of the present invention, an average aspect ratio of the martensite crystal grains belonging to the third group may be less than or equal to 2.45.</p>
+<p id="p-0014" num="0013">In the rolling bearing according to each of the first and second implementations of the present invention, the quench-hardened layer may contain nitrogen. An average nitrogen concentration of the quench-hardened layer may be more than or equal to 0.05 mass % between the surface and a position at a distance of 10 &#x3bc;m from the surface.</p>
+<p id="p-0015" num="0014">In the rolling bearing according to each of the first and second implementations of the present invention, an average carbon concentration of the quench-hardened layer may be more than or equal to 0.5 mass % between the surface and a position at a distance of 10 &#x3bc;m from the surface.</p>
+<p id="p-0016" num="0015">In the rolling bearing according to each of the first and second implementations of the present invention, the steel may be a high carbon chromium bearing steel SUJ2 defined in JIS.</p>
+<heading id="h-0008" level="1">Advantageous Effects of Invention</heading>
+<p id="p-0017" num="0016">According to the rolling bearing according to each of the first and second implementations of the present invention, a rolling fatigue life can be improved.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0009" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a cross sectional view of a rolling bearing <b>100</b>.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an enlarged cross sectional view of an inner ring <b>10</b> in the vicinity of an inner ring raceway surface <b>10</b><i>c. </i></p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a cross sectional view of a rolling bearing <b>200</b>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a cross sectional view of a rolling bearing <b>300</b>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a process chart showing a method for manufacturing inner ring <b>10</b>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an EBSD image at a cross section of a sample 1.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows an EBSD image at a cross section of a sample 2.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows an EBSD image at a cross section of a sample 3.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a graph showing a relation between an average grain size of martensite crystal grains and a rolling fatigue life.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. <b>10</b></figref> is a graph showing a relation between an average aspect ratio of the martensite crystal grains and the rolling fatigue life.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a graph showing a relation between a maximum contact pressure and an indentation depth.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a graph showing a relation between the average grain size of the martensite crystal grains and a static load capacity.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a graph showing a relation between the average aspect ratio of the martensite crystal grains and the static load capacity.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0010" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0031" num="0030">Details of embodiments will be described with reference to figures. In the below-described figures, the same or corresponding portions are denoted by the same reference characters, and the same description will not be repeated.</p>
+<p id="p-0032" num="0031">(Configuration of Rolling Bearing according to Embodiment)</p>
+<p id="p-0033" num="0032">Hereinafter, a configuration of a rolling bearing (hereinafter, referred to as &#x201c;rolling bearing <b>100</b>&#x201d;) according to an embodiment will be described.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a cross sectional view of rolling bearing <b>100</b>. As shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, rolling bearing <b>100</b> is a tapered roller bearing. Rolling bearing <b>100</b> includes an inner ring <b>10</b>, an outer ring <b>20</b>, rolling elements <b>30</b>, and a cage <b>40</b>.</p>
+<p id="p-0035" num="0034">Inner ring <b>10</b> has a ring-like shape. Inner ring <b>10</b> has an inner circumferential surface <b>10</b><i>a </i>and an outer circumferential surface <b>10</b><i>b. </i>Each of inner circumferential surface <b>10</b><i>a </i>and outer circumferential surface <b>10</b><i>b </i>extends along a circumferential direction of inner ring <b>10</b>. Inner circumferential surface <b>10</b><i>a </i>faces the central axis side of inner ring <b>10</b>, and outer circumferential surface <b>10</b><i>b </i>faces the side of inner ring <b>10</b> opposite to the central axis side. That is, outer circumferential surface <b>10</b><i>b </i>is a surface opposite to inner circumferential surface <b>10</b><i>a </i>in a radial direction of inner ring <b>10</b>. Outer circumferential surface <b>10</b><i>b </i>includes an inner ring raceway surface <b>10</b><i>c. </i>Inner ring raceway surface <b>10</b><i>c </i>is in contact with each rolling element <b>30</b>.</p>
+<p id="p-0036" num="0035">Outer ring <b>20</b> has a ring-like shape. Outer ring <b>20</b> has an inner circumferential surface <b>20</b><i>a </i>and an outer circumferential surface <b>20</b><i>b. </i>Each of inner circumferential surface <b>20</b><i>a </i>and outer circumferential surface <b>20</b><i>b </i>extends along a circumferential direction of outer ring <b>20</b>. Inner circumferential surface <b>20</b><i>a </i>faces the central axis side of outer ring <b>20</b>, and outer circumferential surface <b>20</b><i>b </i>faces the side of outer ring <b>20</b> opposite to the central axis side. That is, outer circumferential surface <b>20</b><i>b </i>is a surface opposite to inner circumferential surface <b>20</b><i>a </i>in a radial direction of outer ring <b>20</b>. Inner circumferential surface <b>20</b><i>a </i>includes an outer ring raceway surface <b>20</b><i>c. </i>Outer ring raceway surface <b>20</b><i>c </i>is in contact with each rolling element <b>30</b>. Outer ring <b>20</b> is disposed external to inner ring <b>10</b> such that inner circumferential surface <b>20</b><i>a </i>faces outer circumferential surface <b>10</b><i>b. </i></p>
+<p id="p-0037" num="0036">Rolling element <b>30</b> has a shape of truncated cone. That is, rolling element <b>30</b> is a tapered roller. Rolling element <b>30</b> has an outer circumferential surface <b>30</b><i>a. </i>Outer circumferential surface <b>30</b><i>a </i>serves as a rolling contact surface of rolling element <b>30</b>. Rolling element <b>30</b> is disposed between inner ring <b>10</b> and outer ring <b>20</b> such that outer circumferential surface <b>30</b><i>a </i>is in contact with inner ring raceway surface <b>10</b><i>c </i>and outer ring raceway surface <b>20</b><i>c. </i></p>
+<p id="p-0038" num="0037">Each of inner ring <b>10</b>, outer ring <b>20</b> and rolling element <b>30</b> is composed of a steel. This steel is, for example, a high carbon chromium bearing steel SUJ2 defined in JIS (JIS G 4805: 2008). However, each of inner ring <b>10</b>, outer ring <b>20</b> and rolling element <b>30</b> may be composed of another steel (high carbon chromium bearing steel SUJ3 defined in JIS; 52100 defined in ASTM; 100Cr6 defined in DIN; or GCrl5 defined in GB). Inner ring <b>10</b>, outer ring <b>20</b>, and rolling element <b>30</b> may be composed of different steels.</p>
+<p id="p-0039" num="0038">The central position of rolling bearing <b>100</b> in a rolling surface axial direction is a position at which an imaginary straight line L (indicated by a dotted line in <figref idref="DRAWINGS">FIG. <b>1</b></figref>) that passes through the center in a direction along the central axis of rolling clement <b>30</b> and that is orthogonal to the central axis intersects inner ring raceway surface <b>10</b><i>c, </i>outer ring raceway surface <b>20</b><i>c, </i>or outer circumferential surface <b>30</b><i>a </i>(raceway surface of rolling element <b>30</b>). From another viewpoint, it can be said that the central position in the rolling surface axial direction is a position on a rolling surface (inner ring raceway surface <b>10</b><i>c, </i>outer ring raceway surface <b>20</b><i>c, </i>or outer circumferential surface <b>30</b><i>a</i>) to which the maximum contact pressure is applied.</p>
+<p id="p-0040" num="0039">Cage <b>40</b> holds rolling elements <b>30</b> such that an interval between two adjacent rolling elements <b>30</b> in the circumferential direction of cage <b>40</b> falls within a predetermined range. Cage <b>40</b> is disposed between inner ring <b>10</b> and outer ring <b>20</b>.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is an enlarged cross sectional view of inner ring <b>10</b> in the vicinity of inner ring raceway surface <b>10</b><i>c. </i>As shown in <figref idref="DRAWINGS">FIG. <b>2</b></figref>, inner ring <b>10</b> has a quench-hardened layer <b>50</b> in inner ring raceway surface <b>10</b><i>c. </i>Quench-hardened layer <b>50</b> is a layer hardened by performing quenching. Quench-hardened layer <b>50</b> includes a plurality of martensite crystal grains.</p>
+<p id="p-0042" num="0041">When a deviation is more than or equal to 15&#xb0; between the crystal orientation of a first martensite crystal grain and the crystal orientation of a second martensite crystal grain adjacent to the first martensite crystal grain, the first and second martensite crystal grains are different martensite crystal grains. On the other hand, when the deviation is less than 15&#xb0; between the crystal orientation of the first martensite crystal grain and the crystal orientation of the second martensite crystal grain adjacent to the first martensite crystal grain, the first and second martensite crystal grains constitute one martensite crystal grain.</p>
+<p id="p-0043" num="0042">Quench-hardened layer <b>50</b> has a structure mainly composed of the martensite phase. More specifically, a ratio of a total area of the plurality of martensite crystal grains in quench-hardened layer <b>50</b> is more than or equal to 70%. The ratio of the total area of the plurality of martensite crystal grains in quench-hardened layer <b>50</b> may be more than or equal to 80%.</p>
+<p id="p-0044" num="0043">In addition to the martensite crystal grains, quench-hardened layer <b>50</b> includes austenite crystal grains, ferrite crystal grains, and cementite (Fe<sub>3</sub>C) crystal grains. A volume ratio of the austenite crystal grains in quench-hardened layer <b>50</b> is preferably less than or equal to 30%. The volume ratio of the austenite crystal grains in quench-hardened layer <b>50</b> is more preferably less than or equal to 20%.</p>
+<p id="p-0045" num="0044">It should be noted that the volume ratio of the austenite crystal grains in quench-hardened layer <b>50</b> is measured by an X-ray diffraction method. More specifically, the volume ratio of the austenite crystal grains in quench-hardened layer <b>50</b> is calculated based on a ratio of the X-ray diffraction intensity of the austenite phase and the X-ray diffraction intensity of the other phases included in quench-hardened layer <b>50</b>. The volume ratio of the austenite crystal grains in quench-hardened layer <b>50</b> is measured between the surface (inner ring raceway surface <b>10</b><i>c</i>) of quench-hardened layer <b>50</b> at the central position in the rolling surface axial direction and a position at a distance of 50 &#x3bc;m from the surface.</p>
+<p id="p-0046" num="0045">The plurality of martensite crystal grains are classified into a first group and a second group. A minimum value of crystal grain sizes of the martensite crystal grains belonging to the first group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the second group.</p>
+<p id="p-0047" num="0046">A value obtained by dividing a total area of the martensite crystal grains belonging to the first group by the total area of the plurality of martensite crystal grains (the sum of the total area of the martensite crystal grains belonging to the first group and the total area of the martensite crystal grains belonging to the second group) is more than or equal to 0.5.</p>
+<p id="p-0048" num="0047">A value obtained by dividing, by the total area of the plurality of martensite crystal grains, the total area of the martensite crystal grains belonging to the first group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the first group is less than 0.5.</p>
+<p id="p-0049" num="0048">From another viewpoint, it can be said that the plurality of martensite crystal grains are assigned to the first group in the order from one having the largest crystal grain size. The assignment to the first group is ended when the total area of the martensite crystal grains assigned to the first group until then becomes 0.5 or more time as large as the total area of the plurality of martensite crystal grains. A remainder of the plurality of martensite crystal grains are assigned to the second group.</p>
+<p id="p-0050" num="0049">An average grain size of the martensite crystal grains belonging to the first group is less than or equal to 0.97m. The average grain size of the martensite crystal grains belonging to the first group is preferably less than or equal to 0.90 &#x3bc;m. The average grain size of the martensite crystal grains belonging to the first group is more preferably less than or equal to 0.85 &#x3bc;m.</p>
+<p id="p-0051" num="0050">An aspect ratio of each of the martensite crystal grains belonging to the first group is less than or equal to 2.57. The aspect ratio of each of the martensite crystal grains belonging to the first group is preferably less than or equal to 2.50. The aspect ratio of each of the martensite crystal grains belonging to the first group is more preferably less than or equal to 2.45.</p>
+<p id="p-0052" num="0051">The plurality of martensite crystal grains may be classified into a third group and a fourth group. A minimum value of crystal grain sizes of the martensite crystal grains belonging to the third group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the fourth group.</p>
+<p id="p-0053" num="0052">A value obtained by dividing a total area of the martensite crystal grains belonging to the third group by the total area of the plurality of martensite crystal grains (the sum of the total area of the martensite crystal grains belonging to the third group and the total area of the martensite crystal grains belonging to the fourth group) is more than or equal to 0.7.</p>
+<p id="p-0054" num="0053">A value obtained by dividing, by the total area of the plurality of martensite crystal grains, the total area of the martensite crystal grains belonging to the third group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the third group is less than 0.7.</p>
+<p id="p-0055" num="0054">From another viewpoint, it can be said that the plurality of martensite crystal grains are assigned to the third group in the order from one having the largest crystal grain size. The assignment to the third group is ended when the total area of the martensite crystal grains assigned to the third group until then becomes 0.7 or more time as large as the total area of the plurality of martensite crystal grains. A remainder of the plurality of martensite crystal grains are assigned to the fourth group.</p>
+<p id="p-0056" num="0055">An average grain size of the martensite crystal grains belonging to the third group is less than or equal to 0.75 &#x3bc;M. The average grain size of the martensite crystal grains belonging to the third group is preferably less than or equal to 0.70m. The average grain size of the martensite crystal grains belonging to the third group is more preferably less than or equal to 0.65 &#x3bc;m.</p>
+<p id="p-0057" num="0056">An aspect ratio of each of the martensite crystal grains belonging to the third group is less than or equal to 2.45. The aspect ratio of each of the martensite crystal grains belonging to the third group is preferably less than or equal to 2.40. The aspect ratio of each of the martensite crystal grains belonging to the third group is more preferably less than or equal to 2.35.</p>
+<p id="p-0058" num="0057">The average crystal grain size of the martensite crystal grains belonging to the first group (third group) and the aspect ratio of each of the martensite crystal grains belonging to the first group (third group) are measured using an EBSD (Electron Backscattered Diffraction) method.</p>
+<p id="p-0059" num="0058">This will be described more in detail as follows. First, a cross section image (hereinafter, referred to as &#x201c;EBSD image&#x201d;) in quench-hardened layer <b>50</b> is captured based on the EBSD method. The EBSD image is captured to include a sufficient number (more than or equal to 20) of martensite crystal grains. A boundary between adjacent martensite crystal grains is specified based on the EBSD image. Second, based on the specified boundary between the martensite crystal grains, the area and shape of each martensite crystal grain in the EBSD image are calculated.</p>
+<p id="p-0060" num="0059">More specifically, by calculating the square root of a value obtained by dividing the area of each martensite crystal grain in the EBSD image by &#x3c0;/4, the equivalent circle diameter of each martensite crystal grain in the EBSD image is calculated.</p>
+<p id="p-0061" num="0060">Based on the equivalent circle diameter of each martensite crystal grain calculated as described above, the martensite crystal grains belonging to the first group (third group) among the martensite crystal grains in the EBSD image are determined. The value obtained by dividing, by the total area of the martensite crystal grains in the EBSD image, the total area of the martensite crystal grains belonging to the first group (third group) among the martensite crystal grains in the EBSD image is regarded as the value obtained by dividing the total area of the martensite crystal grains belonging to the first group (third group) by the total area of the plurality of martensite crystal grains.</p>
+<p id="p-0062" num="0061">Based on the equivalent circle diameter of each martensite crystal grain calculated as described above, the martensite crystal grains in the EBSD image are classified into the first group and the second group (or classified into the third group and the fourth group). The value obtained by dividing, by the number of the martensite crystal grains classified into the first group (third group) in the EBSD image, the total of the equivalent circle diameters of the martensite crystal grains classified into the first group (third group) in the EBSD image is regarded as the average grain size of the martensite crystal grains belonging to the first group (third group).</p>
+<p id="p-0063" num="0062">From the shape of each martensite crystal grain in the EBSD image, the shape of each martensite crystal grain in the EBSD image is approximated to an ellipse by the least squares method. This approximation to an ellipse by the least squares method is performed in accordance with a method described in S. Biggin and D. J. Dingley, Journal of Applied Crystallography, (1977) 10, 376-378. By dividing the size in the major axis by the size in the minor axis in this elliptical shape, the aspect ratio of each martensite crystal grain in the EBSD image is calculated. A value obtained by dividing the total of the aspect ratios of the martensite crystal grains classified into the first group (third group) in the EBSD image by the number of the martensite crystal grains classified into the first group (third group) in the EBSD image is regarded as the average aspect ratio of the martensite crystal grains belonging to the first group (third group).</p>
+<p id="p-0064" num="0063">Quench-hardened layer <b>50</b> contains nitrogen. An average nitrogen concentration of quench-hardened layer <b>50</b> is, for example, more than or equal to 0.05 mass % between the surface (inner ring raceway surface <b>10</b><i>c</i>) of quench-hardened layer 50 and a position at a distance of 10 &#x3bc;m from the surface. Preferably, this average nitrogen concentration is more than or equal to 0.10 mass %. More preferably, this average nitrogen concentration is less than or equal to 0.20 mass %. It should be noted that this average nitrogen concentration is measured using an EPMA (Electron Probe Micro Analyzer).</p>
+<p id="p-0065" num="0064">An average carbon concentration of quench-hardened layer <b>50</b> between the surface (inner ring raceway surface <b>10</b><i>c</i>) of quench-hardened layer <b>50</b> and the position at a distance of 10 &#x3bc;m from the surface is, for example, more than or equal to 0.5 mass %. It should be noted that this average carbon concentration is measured using the EPMA.</p>
+<p id="p-0066" num="0065">The hardness of quench-hardened layer <b>50</b> in the surface (inner ring raceway surface <b>10</b><i>c</i>) is more than or equal to 670 Hv. The hardness is preferably more than or equal to 730 Hv. It should be noted that the hardness of quench-hardened layer <b>50</b> in the surface is measured in accordance with JIS (JIS Z 2244: 2009). The hardness of quench-hardened layer <b>50</b> in the surface is measured at a position as close to the surface as possible to such an extent that an indentation formed by a micro Vickers hardness meter does not extend beyond the surface of quench-hardened layer <b>50</b> at the central position in the rolling surface axial direction.</p>
+<p id="p-0067" num="0066">In the above example, quench-hardened layer <b>50</b> is formed in inner ring raceway surface <b>10</b><i>c, </i>but quench-hardened layer <b>50</b> may also be formed in each of outer ring raceway surface <b>20</b><i>c </i>and outer circumferential surface <b>30</b><i>a </i>(the rolling contact surface of rolling element <b>30</b>). In other words, the quench-hardened layer may be formed in at least one of inner ring raceway surface <b>10</b><i>c, </i>outer ring raceway surface <b>20</b><i>c, </i>and the raceway surface of rolling element <b>30</b>.</p>
+<p id="p-0068" num="0067">&#x3c;Modification&#x3e;</p>
+<p id="p-0069" num="0068">The following describes a configuration of a rolling bearing (referred to as &#x201c;rolling bearing <b>200</b>&#x201d;) according to a first modification as well as a configuration of a rolling bearing (referred to as &#x201c;rolling bearing <b>300</b>&#x201d;) according to a second modification. Here, differences from the configuration of rolling bearing <b>100</b> will be mainly described, and the same description will not be repeated.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a cross sectional view of rolling bearing <b>200</b>. As shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, rolling bearing <b>200</b> includes an inner ring <b>10</b>, an outer ring <b>20</b>, rolling elements <b>30</b>, and a cage <b>40</b>. Rolling bearing <b>200</b> is a cylindrical roller bearing. That is, each rolling element <b>30</b> has a cylindrical shape having an outer circumferential surface <b>30</b><i>a. </i>Although not shown, rolling bearing <b>200</b> has a quench-hardened layer <b>50</b> formed in at least one of inner ring raceway surface <b>10</b><i>c, </i>outer ring raceway surface <b>20</b><i>c, </i>and the raceway surface (outer circumferential surface <b>30</b><i>a</i>) of rolling element <b>30</b>. Although rolling bearing <b>200</b> is such a different type of bearing, rolling bearing <b>200</b> has the same configuration as that of rolling bearing <b>100</b>.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a cross sectional view of rolling bearing <b>300</b>. As shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, rolling bearing <b>300</b> includes an inner ring <b>10</b>, an outer ring <b>20</b>, rolling elements <b>30</b>, and a cage <b>40</b>. Rolling bearing <b>300</b> is a deep groove ball bearing. That is, rolling element <b>30</b> is a ball having a surface <b>30</b><i>b. </i>Although not shown, rolling bearing <b>300</b> has a quench-hardened layer <b>50</b> formed in at least one of inner ring raceway surface <b>10</b><i>c, </i>outer ring raceway surface <b>20</b><i>c, </i>and the raceway surface (outer circumferential surface <b>30</b><i>a</i>) of rolling element <b>30</b>. Although rolling bearing <b>300</b> is such a different type of bearing, rolling bearing <b>300</b> has the same configuration as that of rolling bearing <b>100</b>.</p>
+<p id="p-0072" num="0071">It should be noted that when quench-hardened layer <b>50</b> is formed in surface <b>30</b><i>b, </i>the volume ratio of the austenite crystal grains in the surface of quench-hardened layer <b>50</b> and the hardness of quench-hardened layer <b>50</b> may not be measured at the central position in the rolling surface axial direction. More specifically, the position of measurement of the volume ratio of the austenite crystal grains is not particularly limited as long as the volume ratio of the austenite crystal grains is measured between surface <b>30</b><i>b </i>and a position at a distance of 50 &#x3bc;m from surface <b>30</b><i>b. </i>The value of measurement of the hardness of quench-hardened layer <b>50</b> is not particularly limited as long as the hardness of quench-hardened layer <b>50</b> is measured at a position as close to surface <b>30</b><i>b </i>as possible to such an extent that an indentation formed by a micro Vickers hardness meter does not extend beyond surface <b>30</b><i>b. </i>This is because rolling element <b>30</b> has a spherical shape in rolling bearing <b>300</b>.</p>
+<p id="p-0073" num="0072">Hereinafter, a method for manufacturing inner ring <b>10</b> will be described.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a process chart showing the method for manufacturing inner ring <b>10</b>. As shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the method for manufacturing inner ring <b>10</b> includes a preparing step S<b>1</b>, a carbonitriding step S<b>2</b>, a first tempering step S<b>3</b>, a quenching step S<b>4</b>, a second tempering step S<b>5</b>, and a post-process step S<b>6</b>.</p>
+<p id="p-0075" num="0074">In preparing step S<b>1</b>, a processing target member having a cylindrical shape is prepared. The processing target member is formed into inner ring <b>10</b> by performing carbonitriding step S<b>2</b>, first tempering step S<b>3</b>, quenching step S<b>4</b>, second tempering step S<b>5</b> and post-process step S<b>6</b> thereto. In preparing step S<b>1</b>, first, the processing target member is subjected to hot forging. In preparing step S<b>1</b>, second, the processing target member is subjected to cold forging. In preparing step S<b>1</b>, third, cutting is performed to provide the processing target member with a shape close to the shape of inner ring <b>10</b>.</p>
+<p id="p-0076" num="0075">In carbonitriding step S<b>2</b>, first, by heating the processing target member to a temperature of more than or equal to a first temperature, the processing target member is carbonitrided. The first temperature is a temperature of more than or equal to an A<sub>1 </sub>transformation point of the steel of the processing target member. In carbonitriding step S<b>2</b>, second, the processing target member is cooled. This cooling is performed such that the temperature of the processing target member becomes less than or equal to an Ms transformation point.</p>
+<p id="p-0077" num="0076">In first tempering step S<b>3</b>, the processing target member is tempered. First tempering step S<b>3</b> is performed by holding the processing target member at a second temperature for a first period of time. The second temperature is a temperature of less than the A<sub>1 </sub>transformation point. The second temperature is more than or equal to 160&#xb0; C. and less than or equal to 200&#xb0; C., for example. The first period of time is more than or equal to 1 hour and less than or equal to 4 hours, for example.</p>
+<p id="p-0078" num="0077">In quenching step S<b>4</b>, the processing target member is quenched. In quenching step S<b>4</b>, first, the processing target member is heated to a third temperature. The third temperature is a temperature of more than or equal to the A<sub>1 </sub>transformation point of the steel of the processing target member. The third temperature is preferably lower than the first temperature. In quenching step S<b>4</b>, second, the processing target member is cooled. This cooling is performed such that the temperature of the processing target member becomes less than or equal to the Ms transformation point.</p>
+<p id="p-0079" num="0078">In second tempering step S<b>5</b>, the processing target member is tempered. Second tempering step S<b>5</b> is performed by holding the processing target member at a fourth temperature for a second period of time. The fourth temperature is a temperature of less than the A<sub>1 </sub>transformation point. The fourth temperature is more than or equal to 160&#xb0; C. and less than or equal to 200&#xb0; C., for example. The second period of time is more than or equal to 1 hour and less than or equal to 4 hours, for example. It should be noted that each of quenching step S<b>4</b> and second tempering step S<b>5</b> may be repeated multiple times.</p>
+<p id="p-0080" num="0079">In post-process step S<b>6</b>, the processing target member is post-processed. In post-process step S<b>6</b>, cleaning of the processing target member, machining of a surface of the processing target member, such as grinding or polishing, and the like are performed, for example. In this way, inner ring <b>10</b> is manufactured.</p>
+<p id="p-0081" num="0080">Since each of a method for manufacturing outer ring <b>20</b> and a method for manufacturing rolling element <b>30</b> is the same as the method for manufacturing inner ring <b>10</b>, each of the methods will not be described in detail here.</p>
+<p id="p-0082" num="0081">(Effect of Rolling Bearing according to Embodiment)</p>
+<p id="p-0083" num="0082">Hereinafter, effects of rolling bearing <b>100</b> will be described.</p>
+<p id="p-0084" num="0083">When material failure is considered in accordance with the weakest link model, portions each having a relatively low strength, i.e., martensite crystal grains each having a relatively large crystal grain size have a great influence on the material failure. In quench-hardened layer <b>50</b>, the average grain size of the martensite crystal grains belonging to the first group (third group) is less than or equal to 0.97 &#x3bc;m (less than or equal to 0.75 &#x3bc;m). Accordingly, in rolling bearing <b>100</b>, even such relatively large martensite crystal grains belonging to the first group (third group) are fine crystal grains, with the result that rolling fatigue strength and static load capacity are improved.</p>
+<p id="p-0085" num="0084">As the average aspect ratio of the martensite crystal grains becomes smaller, the shape of each of the martensite crystal grains becomes closer to a spherical shape, with the result that stress concentration is less likely to take place. Accordingly, when the average aspect ratio of the martensite crystal grains belonging to the first group (third group) is less than or equal to 2.57 (less than or equal to 2.45), the rolling fatigue strength and static load capacity can be further improved.</p>
+<p id="p-0086" num="0085">In rolling bearing <b>100</b>, the volume ratio of the austenite crystal grains in the surface of quench-hardened layer <b>50</b> at the central position in the rolling surface axial direction is less than or equal to 30%, so that the hardness of quench-hardened layer <b>50</b> in the surface can be suppressed from being decreased (more specifically, the hardness of more than or equal to 670 Hv can be maintained).</p>
+<p id="p-0087" num="0086">It should be noted that since each of rolling bearing <b>200</b> and rolling bearing <b>300</b> has the same configuration as that of rolling bearing <b>100</b> except for the type of bearing, the rolling fatigue life and the static load capacity are improved in the same manner as in rolling bearing <b>100</b>.</p>
+<p id="p-0088" num="0087">Hereinafter, a rolling fatigue test and a static load capacity test performed to confirm the effects of rolling bearing <b>100</b> will be described.</p>
+<p id="p-0089" num="0088">&#x3c;Samples&#x3e;</p>
+<p id="p-0090" num="0089">In each of the rolling fatigue test and the static load capacity test, samples 1, 2, and 3 were used. Each of samples 1 and 2 was composed of SUJ2. Sample 3 was composed of SCM435, which is a chromium-molybdenum steel defined in JIS (JIS G 4053: 2016).</p>
+<p id="p-0091" num="0090">Sample 1 was prepared by performing the same heat treatment as that for inner ring <b>10</b> (outer ring <b>20</b>, or rolling element <b>30</b>). More specifically, in the preparation of sample 1, the first temperature was set to 850&#xb0; C., the second temperature was set to 180&#xb0; C., the third temperature was set to 810&#xb0; C., and the fourth temperature was set to 180&#xb0; C. For each of samples 2 and 3, quenching step S<b>4</b> and second tempering step S<b>5</b> were not performed. In the preparation of sample 2, the first temperature was set to 850&#xb0; C. and the second temperature was set to 180&#xb0; C. In the preparation of sample 3, the first temperature was set to 930&#xb0; C. and the second temperature was set to 170&#xb0; C. The heat treatment conditions for samples 1 to 3 are shown in Table 1.</p>
+<p id="p-0092" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>First</entry>
+<entry>Second</entry>
+<entry>Third</entry>
+<entry>Fourth</entry>
+</row>
+<row>
+<entry/>
+<entry>Temperature</entry>
+<entry>Temperature</entry>
+<entry>Temperature</entry>
+<entry>Temperature</entry>
+</row>
+<row>
+<entry/>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+<entry>(&#xb0; C.)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample 1</entry>
+<entry>850</entry>
+<entry>180</entry>
+<entry>810</entry>
+<entry>180</entry>
+</row>
+<row>
+<entry>Sample 2</entry>
+<entry>850</entry>
+<entry>180</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry>Sample 3</entry>
+<entry>930</entry>
+<entry>170</entry>
+<entry>&#x2014;</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0093" num="0091">It should be noted that in each of samples 1 to 3, at a position at a distance of 50 &#x3bc;m from the surface, the ratio of the total area of the austenite crystal grains was more than or equal to 20% and less than or equal to 30%, the nitrogen concentration in the surface was more than or equal to 0.15 mass % and less than or equal to 0.20 mass %, and the hardness in the surface was 730 Hv.</p>
+<p id="p-0094" num="0092">In sample 1, the average grain size of the martensite crystal grains belonging to the first group was 0.80 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the first group was 2.41. Moreover, in sample 1, the average grain size of the martensite crystal grains belonging to the third group was 0.64 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the third group was 2.32.</p>
+<p id="p-0095" num="0093">In sample 2, the average grain size of the martensite crystal grains belonging to the first group was 1.11 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the first group was 3.00. Moreover, in sample 2, the average grain size of the martensite crystal grains belonging to the third group was 0.84 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the third group was 2.77.</p>
+<p id="p-0096" num="0094">In sample 3, the average grain size of the martensite crystal grains belonging to the first group was 1.81 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the first group was 3.38. Moreover, in sample 2, the average grain size of the martensite crystal grains belonging to the third group was 1.28 &#x3bc;m, and the average aspect ratio of the martensite crystal grains belonging to the third group was 3.04.</p>
+<p id="p-0097" num="0095">Table 2 shows results of measurements of the average grain size and average aspect ratio of the martensite crystal grains in each of samples 1 to 3.</p>
+<p id="p-0098" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="91pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>First Group of Martensite</entry>
+<entry>Third Group of Martensite</entry>
+</row>
+<row>
+<entry/>
+<entry>Crystal Grains</entry>
+<entry>Crystal Grains</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="49pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Average</entry>
+<entry>Average</entry>
+<entry>Average</entry>
+<entry>Average</entry>
+</row>
+<row>
+<entry/>
+<entry>Grain</entry>
+<entry>Aspect</entry>
+<entry>Grain</entry>
+<entry>Aspect</entry>
+</row>
+<row>
+<entry/>
+<entry>Size (&#x3bc;m)</entry>
+<entry>Ratio</entry>
+<entry>Size (&#x3bc;m)</entry>
+<entry>Ratio</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="49pt" align="center"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample 1</entry>
+<entry>0.80</entry>
+<entry>2.41</entry>
+<entry>0.64</entry>
+<entry>2.32</entry>
+</row>
+<row>
+<entry>Sample 2</entry>
+<entry>1.11</entry>
+<entry>3.00</entry>
+<entry>0.84</entry>
+<entry>2.77</entry>
+</row>
+<row>
+<entry>Sample 3</entry>
+<entry>1.81</entry>
+<entry>3.38</entry>
+<entry>1.28</entry>
+<entry>3.04</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0099" num="0096"><figref idref="DRAWINGS">FIG. <b>6</b></figref> shows an EBSD image at a cross section of sample 1. <figref idref="DRAWINGS">FIG. <b>7</b></figref> shows an EBSD image at a cross section of sample 2. <figref idref="DRAWINGS">FIG. <b>8</b></figref> shows an EBSD image at a cross section of sample 3. As shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref> to <figref idref="DRAWINGS">FIG. <b>8</b></figref>, it is understood that the martensite crystal grains in sample 1 are finer than those in each of samples 2 and 3.</p>
+<p id="p-0100" num="0097">&#x3c;Rolling Fatigue Test Conditions&#x3e;</p>
+<p id="p-0101" num="0098">In the rolling fatigue test, an inner ring, an outer ring, and a tapered roller were prepared using each of samples 1 and 3, and were used to produce a tapered roller bearing. The rolling fatigue test was performed under conditions that the rotating speed of the inner ring was 3000 rotations/min and the maximum contact pressure was 2.6 GPa. In the rolling fatigue test, bath lubrication was performed using VG56, which is a turbine oil. In this turbine oil, hard gas-atomized powder was mixed at a ratio of 0.2 g/l. The test conditions for the rolling fatigue test are shown in Table 3. It should be noted that the rolling fatigue test was performed onto six tapered roller bearings each produced using sample 1 and six tapered roller bearings each produced using sample 3.</p>
+<p id="p-0102" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="140pt" align="char"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Maximum Contact</entry>
+<entry>2.6</entry>
+</row>
+<row>
+<entry/>
+<entry>Pressure (GPa)</entry>
+</row>
+<row>
+<entry/>
+<entry>Rotating Speed</entry>
+<entry>3000</entry>
+</row>
+<row>
+<entry/>
+<entry>of Inner Ring</entry>
+</row>
+<row>
+<entry/>
+<entry>(min<sup>&#x2212;1</sup>)</entry>
+</row>
+<row>
+<entry/>
+<entry>Lubrication</entry>
+<entry>Bath Lubrication with Turbine Oil (VG56)</entry>
+</row>
+<row>
+<entry/>
+<entry>Special Note</entry>
+<entry>0.2 g/l of Hard Gas-Atomized Powder</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>is Mixed in Lubricating Oil.</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0103" num="0099">&#x3c;Static Load Capacity Test Conditions&#x3e;</p>
+<p id="p-0104" num="0100">In the static load capacity test, flat plate-like members were produced using samples 1 to 3. The static load capacity test was performed by finding a relation between the maximum contact pressure and the indentation depth by pressing a ceramic ball composed of silicon nitride against a surface of each of the flat plate-like members having been mirror-finished. It should be noted that the static load capacity was evaluated in accordance with the maximum contact pressure when a value obtained by dividing the indentation depth by the diameter of the ceramic ball reached 1/10000 (when a value obtained by dividing the indentation depth by the diameter of the ceramic ball and multiplying by 10000 reached 1).</p>
+<p id="p-0105" num="0101">&#x3c;Rolling Fatigue Test Results&#x3e;</p>
+<p id="p-0106" num="0102">Each of the tapered roller bearings prepared using sample 1 had an L<sub>50 </sub>life (50% failure life) of 50.4 hours. On the other hand, each of the tapered roller bearings prepared using sample 3 had an L<sub>50 </sub>life of 31.2 hours. Thus, each of the tapered roller bearings produced using sample 1 had a rolling fatigue life improved twice or more as compared with that in each of the tapered roller bearings produced using sample 3. This test result is shown in Table 4.</p>
+<p id="p-0107" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="119pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Sample 1</entry>
+<entry>Sample 3</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="63pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>L<sub>50 </sub>Life (Hours)</entry>
+<entry>50.4</entry>
+<entry>31.2</entry>
+</row>
+<row>
+<entry/>
+<entry>Number of Samples for Test</entry>
+<entry>6</entry>
+<entry>6</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0108" num="0103"><figref idref="DRAWINGS">FIG. <b>9</b></figref> is a graph showing a relation between the average grain size of the martensite crystal grains and the rolling fatigue life. <figref idref="DRAWINGS">FIG. <b>10</b></figref> is a graph showing a relation between the average aspect ratio of the martensite crystal grains and the rolling fatigue life. In <figref idref="DRAWINGS">FIG. <b>9</b></figref>, the horizontal axis represents the average grain size (unit: &#x3bc;m) of the martensite crystal grains, and the vertical axis represents rolling fatigue life L<sub>50 </sub>(unit: hour). In <figref idref="DRAWINGS">FIG. <b>10</b></figref>, the horizontal axis represents the average aspect ratio of the martensite crystal grains, and the vertical axis represents rolling fatigue life L<sub>50 </sub>(unit: hour).</p>
+<p id="p-0109" num="0104">As shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> and <figref idref="DRAWINGS">FIG. <b>10</b></figref>, rolling fatigue life L<sub>50 </sub>was more improved as the average grain size of the martensite crystal grains belonging to the first group (third group) was smaller, and rolling fatigue life L<sub>50 </sub>was more improved as the average aspect ratio of the martensite crystal grains belonging to the first group (third group) was smaller.</p>
+<p id="p-0110" num="0105">&#x3c;Static Load Capacity Test Results&#x3e;</p>
+<p id="p-0111" num="0106"><figref idref="DRAWINGS">FIG. <b>11</b></figref> is a graph showing a relation between the maximum contact pressure and the indentation depth. In <figref idref="DRAWINGS">FIG. <b>11</b></figref>, the horizontal axis represents the maximum contact pressure (unit: GPa), and the vertical axis represents a value obtained as follows: the indentation depth/the diameter of the ceramic ball&#xd7;10<sup>4</sup>. As shown in</p>
+<p id="p-0112" num="0107"><figref idref="DRAWINGS">FIG. <b>11</b></figref>, when the value of the vertical axis was 1, the value of the maximum contact pressure in a curve corresponding to sample 1 was larger than those in curves corresponding to samples 2 and 3. That is, the value of the static load capacity in sample 1 was larger than each of those in samples 2 and 3.</p>
+<p id="p-0113" num="0108"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a graph showing a relation between the average grain size of the martensite crystal grains and the static load capacity. <figref idref="DRAWINGS">FIG. <b>13</b></figref> is a graph showing a relation between the average aspect ratio of the martensite crystal grains and the static load capacity. In <figref idref="DRAWINGS">FIG. <b>12</b></figref>, the horizontal axis represents the average grain size (unit: &#x3bc;m) of the martensite crystal grains, and the vertical axis represents the static load capacity (unit: GPa). In <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the horizontal axis represents the average aspect ratio of the martensite crystal grains, and the vertical axis represents the static load capacity (unit: GPa).</p>
+<p id="p-0114" num="0109">As shown in <figref idref="DRAWINGS">FIG. <b>12</b></figref> and <figref idref="DRAWINGS">FIG. <b>13</b></figref>, the static load capacity was more improved as the average grain size of the martensite crystal grains belonging to the first group (third group) was smaller, and the static load capacity was more improved as the average aspect ratio of the martensite crystal grains belonging to the first group (third group) was smaller. In view of this as well as the results shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref> and <figref idref="DRAWINGS">FIG. <b>10</b></figref>, when the average grain size of the martensite crystal grains belonging to the first group (third group) is less than or equal to 0.97 &#x3bc;m (less than or equal to 0.75 &#x3bc;m) and the average aspect ratio of the martensite crystal grains belonging to the first group (third group) is less than or equal to 2.57 (less than or equal to 2.45), it is possible to achieve a rolling fatigue life L<sub>50 </sub>that is 1.5 or more times as large as rolling fatigue life L<sub>50 </sub>of the conventional one (i.e., rolling fatigue life L<sub>50 </sub>of sample 3) and it is possible to achieve a static load capacity of more than or equal to 5.3 GPa.</p>
+<p id="p-0115" num="0110">In view of such test results, it was also experimentally indicated that the rolling fatigue strength and static load capacity of rolling bearing <b>100</b> are improved by providing quench-hardened layer <b>50</b>.</p>
+<p id="p-0116" num="0111">Although the embodiments of the present invention have been illustrated, the embodiments described above can be modified in various manners. Further, the scope of the present invention is not limited to the above-described embodiments. The scope of the present invention is defined by the terms of the claims, and is intended to include any modifications within the scope and meaning equivalent to the terms of the claims.</p>
+<heading id="h-0011" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0117" num="0112">The above-described embodiment is particularly advantageously applied to a tapered roller bearing, a cylindrical roller bearing, and a deep groove ball bearing.</p>
+<heading id="h-0012" level="1">REFERENCE SIGNS LIST</heading>
+<p id="p-0118" num="0113"><b>10</b>: inner ring; <b>10</b><i>a: </i>inner circumferential surface; <b>10</b><i>b: </i>outer circumferential surface; <b>10</b><i>c: </i>inner ring raceway surface; <b>20</b>: outer ring; <b>20</b><i>a: </i>inner circumferential surface; <b>20</b><i>b: </i>outer circumferential surface; <b>20</b><i>c: </i>outer ring raceway surface; <b>30</b>: rolling element; <b>30</b><i>a: </i>outer circumferential surface; <b>30</b><i>b: </i>surface; <b>40</b>: cage; <b>50</b>: quench-hardened layer; <b>100</b>, <b>200</b>, <b>300</b>: rolling bearing; L: imaginary straight line; S<b>1</b>: preparing step; S<b>2</b>: carbonitriding step; S<b>3</b>: first tempering step; S<b>4</b>: quenching step; S<b>5</b>: second tempering step; S<b>6</b>: post-process step.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A rolling bearing comprising an inner ring, an outer ring, and a rolling element, each of the inner ring, the outer ring, and the rolling element being composed of a steel, the rolling bearing having a quench-hardened layer in at least one of an inner ring raceway surface of the inner ring, an outer ring raceway surface of the outer ring, and a rolling contact surface of the rolling element, wherein
+<claim-text>the rolling bearing is a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing,</claim-text>
+<claim-text>the quench-hardened layer includes a plurality of martensite crystal grains and a plurality of austenite crystal grains,</claim-text>
+<claim-text>a ratio of a total area of the plurality of martensite crystal grains in the quench-hardened layer is more than or equal to 70%,</claim-text>
+<claim-text>the plurality of martensite crystal grains are classified into a first group and a second group,</claim-text>
+<claim-text>a minimum value of crystal grain sizes of the martensite crystal grains belonging to the first group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the second group,</claim-text>
+<claim-text>a value obtained by dividing a total area of the martensite crystal grains belonging to the first group by the total area of the plurality of martensite crystal grains is more than or equal to 0.5,</claim-text>
+<claim-text>a value obtained by dividing, by the total area of the plurality of martensite crystal grains, a total area of the martensite crystal grains belonging to the first group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the first group is less than 0.5,</claim-text>
+<claim-text>an average grain size of the martensite crystal grains belonging to the first group is less than or equal to 0.97 &#x3bc;m,</claim-text>
+<claim-text>a hardness of the quench-hardened layer is more than or equal to 670 Hv in a surface of the quench-hardened layer at a central position in a rolling surface axial direction, and</claim-text>
+<claim-text>a volume ratio of the austenite crystal grains in the quench-hardened layer is less than or equal to 30% in the surface of the quench-hardened layer at the central position in the rolling surface axial direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The rolling bearing according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an average aspect ratio of the martensite crystal grains belonging to the first group is less than or equal to 2.57.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A rolling bearing comprising an inner ring, an outer ring, and a rolling element, each of the inner ring, the outer ring, and the rolling element being composed of a steel, the rolling bearing having a quench-hardened layer in at least one of an inner ring raceway surface of the inner ring, an outer ring raceway surface of the outer ring, and a rolling contact surface of the rolling element, wherein
+<claim-text>the rolling bearing is a tapered roller bearing, a cylindrical roller bearing, or a deep groove ball bearing,</claim-text>
+<claim-text>the quench-hardened layer includes a plurality of martensite crystal grains and a plurality of austenite crystal grains,</claim-text>
+<claim-text>a ratio of a total area of the plurality of martensite crystal grains in the quench-hardened layer is more than or equal to 70%,</claim-text>
+<claim-text>the plurality of martensite crystal grains are classified into a third group and a fourth group,</claim-text>
+<claim-text>a minimum value of crystal grain sizes of the martensite crystal grains belonging to the third group is larger than a maximum value of crystal grain sizes of the martensite crystal grains belonging to the fourth group,</claim-text>
+<claim-text>a value obtained by dividing a total area of the martensite crystal grains belonging to the third group by the total area of the plurality of martensite crystal grains is more than or equal to 0.7,</claim-text>
+<claim-text>a value obtained by dividing, by the total area of the plurality of martensite crystal grains, a total area of the martensite crystal grains belonging to the third group except for a martensite crystal grain that has a minimum crystal grain size and that belongs to the third group is less than 0.7,</claim-text>
+<claim-text>an average grain size of the martensite crystal grains belonging to the third group is less than or equal to 0.75</claim-text>
+<claim-text>a hardness of the quench-hardened layer is more than or equal to 670 Hv in a surface of the quench-hardened layer at a central position in a rolling surface axial direction, and</claim-text>
+<claim-text>a volume ratio of the austenite crystal grains in the quench-hardened layer is less than or equal to 30% in the surface of the quench-hardened layer at the central position in the rolling surface axial direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The rolling bearing according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein an average aspect ratio of the martensite crystal grains belonging to the third group is less than or equal to 2.45.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The rolling bearing according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the quench-hardened layer contains nitrogen, and</claim-text>
+<claim-text>an average nitrogen concentration of the quench-hardened layer is more than or equal to 0.05 mass % between the surface and a position at a distance of 10 &#x3bc;m from the surface.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The rolling bearing according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an average carbon concentration of the quench-hardened layer is more than or equal to 0.5 mass % between the surface and a position at a distance of 10 &#x3bc;m from the surface.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The rolling bearing according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the steel is a high carbon chromium bearing steel SUJ2 defined in JIS.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

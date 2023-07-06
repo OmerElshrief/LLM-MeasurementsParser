@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411882A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411882</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17845893</doc-number>
+<date>20220621</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>202110687624.5</doc-number>
+<date>20210621</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>CN</country>
+<doc-number>202110688122.4</doc-number>
+<date>20210621</date>
+</priority-claim>
+<priority-claim sequence="03" kind="national">
+<country>CN</country>
+<doc-number>202110796789.6</doc-number>
+<date>20210714</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6888</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6879</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6888</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6879</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>2600</main-group>
+<subgroup>124</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>2600</main-group>
+<subgroup>156</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6858</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e98">SNP MOLECULAR MARKER FOR WEIGHT GAIN TRAIT SELECTION AND GENETIC SEX IDENTIFICATION OF ICTALURUS PUNCTATUS AS WELL AS SCREENING METHOD AND APPLICATION OF SNP MOLECULAR MARKER</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Freshwater Fisheries Research Institute of Jiangsu Province</orgname>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+<residence>
+<country>CN</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Zhang</last-name>
+<first-name>Shiyong</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Chen</last-name>
+<first-name>Xiaohui</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Wang</last-name>
+<first-name>Minghua</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Zhong</last-name>
+<first-name>Liqiang</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Xu</last-name>
+<first-name>Siqi</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Duan</last-name>
+<first-name>Yongqiang</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="06" designation="us-only">
+<addressbook>
+<last-name>Liu</last-name>
+<first-name>Hongyan</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="07" designation="us-only">
+<addressbook>
+<last-name>Shao</last-name>
+<first-name>Junjie</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="08" designation="us-only">
+<addressbook>
+<last-name>Bian</last-name>
+<first-name>Wenji</first-name>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Freshwater Fisheries Research Institute of Jiangsu Province</orgname>
+<role>03</role>
+<address>
+<city>Nanjing</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An SNP molecular marker for weight gain trait selection and genetic sex identification of Ictalurus punctatus as well as a screening method and application of the SNP molecular marker are provided. At least one of 17 SNP molecular markers for weight gain trait selection of Ictalurus punctatus and a molecular control means for genetic sex and weight gain trait selection and control of Ictalurus punctatus are further provided. Efficient and scientific identification of Ictalurus punctatus is achieved by means of simple PCR reactions and nucleic acid test strips, and the accuracy rate reaches 100%. A traditional agarose gel electrophoresis method is not used in the whole identification process, the cumbersome steps of gel preparation and running electrophoresis are omitted, nucleic acid dyes are not used, and the experimental process is safe and environmentally friendly.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="29.04mm" wi="158.75mm" file="US20220411882A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="169.84mm" wi="85.60mm" file="US20220411882A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="180.00mm" wi="71.29mm" file="US20220411882A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="204.89mm" wi="152.57mm" file="US20220411882A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="43.35mm" wi="166.37mm" file="US20220411882A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO THE RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is based upon and claims priority to Chinese Patent Applications No.: 202110796789.6, filed on Jul. 14, 2021, No.: 202110688122.4, filed on Jun. 21, 2021, and No.: 202110687624.5, filed on Jun. 21, 2021, the entire contents of which are incorporated hereby by reference.</p>
+<heading id="h-0002" level="1">SEQUENCE LISTING</heading>
+<p id="p-0003" num="0002">The instant application contains a Sequence Listing which has been submitted in ASCII format via EFS-Web and is hereby incorporated by reference in its entirety. Said ASCII copy is named GBLB042_SequenceListing.txt, created on Jun. 21, 2022, and is 14,374 bytes in size.</p>
+<heading id="h-0003" level="1">TECHNICAL FIELD</heading>
+<p id="p-0004" num="0003">The present disclosure belongs to the technical field of molecular marker selection of fish growth traits, and relates to an SNP (Single Nucleotide Polymorphism) molecular marker for weight gain trait selection and genetic sex identification of <i>Ictalurus punctatus </i>as well as a screening method and application of the SNP molecular marker.</p>
+<heading id="h-0004" level="1">BACKGROUND</heading>
+<p id="p-0005" num="0004"><i>Ictalurus punctatus</i>, belonging to Ictaluridae, Siluriformes, is native to North America, is the freshwater fish breed having the most mature breeding technology and the highest yield in the United States, and has the advantages of strong adaptability to the environment, high muscle quality, easiness in processing and the like. With the improvement of the high-throughput sequencing technology and the reduction of the cost, GWAS research based on genome sequencing is gradually applied to genetic analysis of various traits of animals and plants. The application of GWAS in the breeding field was first carried out in cows, and Daetwyler et al. (2008) and Pryce et al. (2010) successively screened out SNP sites, associated with traits such as lactation and lactation sustainability, in cow genomes. In the field of genomics of aquatic animals, the GWAS research method has developed into one of the hottest research directions in recent years, which provides infinite possibilities for further analyzing the genetic basis for controlling complex quantitative traits of the aquatic animals and mining potential functional genes and molecular markers for breeding.</p>
+<heading id="h-0005" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">In order to overcome problems in the prior art, the present disclosure provides an SNP molecular marker for weight gain trait selection and genetic sex identification of <i>Ictalurus punctatus </i>as well as a screening method and application of the SNP molecular marker.</p>
+<p id="p-0007" num="0006">In order to achieve the above purpose, the present disclosure is achieved through the following technical scheme: the SNP molecular marker for weight gain trait selection of <i>Ictalurus punctatus</i>, comprising at least one of following SNP molecular markers, wherein</p>
+<p id="p-0008" num="0000">a first SNP molecular marker for weight gain trait selection is located at base 14,657,971 of chromosome 20, the mutation type is C/G, the molecular marker is named g. 20.14657971 C&#x3e;T, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 69; and
+<br/>
+a second SNP molecular marker for weight gain trait selection is located at base 14,658,012 of chromosome 20, the mutation type is C/T, the molecular marker is named g. 20.14658012 C&#x3e;G, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 62;
+<br/>
+a first sex-linked SNP molecular marker based on zbtb38-Y is located at base 366 of a zbtb38-Y gene coding region, the mutation type is G/A, the molecular marker is named g.zbtb38ycds 366 G&#x3e;A, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 47 in a sequence table;
+<br/>
+a second sex-linked SNP molecular marker based on zbtb38-Y is located at base 431 of the zbtb38-Y gene coding region, the mutation type is G/A, the molecular marker is named g.zbtb38ycds 431 G&#x3e;A, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 48 in the sequence table;
+<br/>
+a third sex-linked SNP molecular marker based on zbtb38-Y is located at base 733 of the zbtb38-Y gene coding region, the mutation type is G/A, the molecular marker is named g.zbtb38ycds 733 G&#x3e;A, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 49 in the sequence table;
+<br/>
+a fourth sex-linked SNP molecular marker based on zbtb38-Y is located at base 953 of the zbtb38-Y gene coding region, the mutation type is A/C, the molecular marker is named g.zbtb38ycds 953 A&#x3e;C, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 50 in the sequence table;
+<br/>
+a fifth sex-linked SNP molecular marker based on zbtb38-Y is located at base 1,102 of the zbtb38-Y gene coding region, the mutation type is G/A, the molecular marker is named g.zbtb38ycds 1102 G&#x3e;A, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 51 in the sequence table;
+<br/>
+a sixth sex-linked SNP molecular marker based on zbtb38-Y is located at base 1,107 of the zbtb38-Y gene coding region, the mutation type is T/A, the molecular marker is named g.zbtb38ycds 1107 T&#x3e;A, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 52 in the sequence table;
+<br/>
+a seventh sex-linked SNP molecular marker based on zbtb38-Y is located at base 2,073 of the zbtb38-Y gene coding region, the mutation type is T/C, the molecular marker is named g.zbtb38ycds 2073 T&#x3e;C, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 53 in the sequence table;
+<br/>
+an eighth sex-linked SNP molecular marker based on zbtb38-Y is located at base 2,409 of the zbtb38-Y gene coding region, the mutation type is T/C, the molecular marker is named g.zbtb38ycds 2409 T&#x3e;C, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 54 in the sequence table;
+<br/>
+a ninth sex-linked SNP molecular marker based on zbtb38-Y is located at base 2,825 of the zbtb38-Y gene coding region, the mutation type is T/C, the molecular marker is named g.zbtb38ycds 2825 T&#x3e;C, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 55 in the sequence table;
+<br/>
+a tenth sex-linked SNP molecular marker based on zbtb38-Y is located at base 2,836 of the zbtb38-Y gene coding region, the mutation type is C/T, the molecular marker is named g.zbtb38ycds 2836 C&#x3e;T, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 56 in the sequence table;
+<br/>
+an eleventh sex-linked SNP molecular marker based on zbtb38-Y is located at base 3,070 of the zbtb38-Y gene coding region, the mutation type is A/G, the molecular marker is named g.zbtb38ycds 3070 A&#x3e;G, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 57 in the sequence table;
+<br/>
+a twelfth sex-linked SNP molecular marker based on zbtb38-Y is located at base 3,177 of the zbtb38-Y gene coding region, the mutation type is T/C, the molecular marker is named g.zbtb38ycds 3177 T&#x3e;C, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 58 in the sequence table; and
+<br/>
+a thirteenth sex-linked SNP molecular marker based on zbtb38-Y is located at base 3,375 of the zbtb38-Y gene coding region, the mutation type is A/G, the molecular marker is named g.zbtb38ycds 3375 A&#x3e;G, and the nucleotide sequence of the molecular marker is shown in SEQ ID NO: 59 in the sequence table.
+</p>
+<p id="p-0009" num="0007">As one of the aspects of the present disclosure, the present disclosure provides the screening method of an SNP molecular marker for weight gain trait selection of <i>Ictalurus punctatus</i>, comprising the following steps: 1) extracting DNA of fish samples to be tested, constructing genome re-sequencing libraries of <i>Ictalurus punctatus</i>, and performing PE150 paired-end sequencing on all the libraries on a BGISEQ-500 sequencing platform; 2) obtaining the monthly weight gain of the fish samples to be tested; 3) performing sequencing data filtering and SNP typing: after filtering and quality control, original sequencing data are compared with a reference genome of <i>Ictalurus punctatus</i>, and SNPs are detected by means of GATK software, captured variations are annotated by means of ANNOVAR software, and genetic locations of the genetic variations are determined by means of VCFtools software; and 4) performing genome-wide association study of growth traits: GWAS (genome-wide association study) of the weight gain traits is performed by means of a single site mixed linear model GWAS (EMMAX) of SNP &#x26; Variation Suit v8.5.0 software, and thus the target SNP molecular marker is obtained.</p>
+<p id="p-0010" num="0008">As one of the aspects of the present disclosure, the present disclosure provides the method for rapidly detecting genetic sexes of <i>Ictalurus punctatus </i>with an SNP molecular marker, comprising the following steps: 1) designing peripheral primers, specific extension primers and DNA probes for amplifying SNP sites for genetic sex selection of <i>Ictalurus punctatus</i>, wherein the sequences of the peripheral primers, the ASE primers and the DNA probes are shown in SEQ ID NO: 63 to SEQ ID NO: 66, and last bases at 3&#x2032; ends of the ASE primers are male-specific bases of <i>Ictalurus punctatus; </i>2) marking 5&#x2032; ends of the ASE primers with FAM fluorophores, marking 3&#x2032; ends of probes ASE-DP with Biotin, and testing the relationship between secondary structures of the ASE primers and the probes ASE-DP by means of Oligo software, so as to avoid primer dimers; 3) performing PCR (polymerase chain reaction) amplification by means of the DNA of the fish samples to be tested and the peripheral primers in step 1) to obtain first-round PCR amplification products; 4) performing second-round PCR extension reaction and nucleic acid hybridization by means of the first-round amplification products in step 3) and the ASE primers and the probes ASE-DP in step 1) to obtain second-round PCR amplification products and ASE-DP hybridization nucleic acid products; and 5) detecting the hybridization nucleic acid products by means of rapid nucleic acid test strips, and judging the genetic sexes of the fish samples to be tested according to color development results of the test strips.</p>
+<p id="p-0011" num="0009">As one of the aspects of the present disclosure, the present disclosure provides a method for developing sex-linked SNP molecular markers of <i>Ictalurus punctatus </i>on the basis of male-specific genes zbtb38-Y of <i>Ictalurus punctatus</i>, comprising the following steps: 1) designing specific primers for zbtb38 gene coding regions of <i>Ictalurus punctatus</i>, wherein the sequences of the specific primers are shown in SEQ ID NO: 1 to SEQ ID NO: 44; 2) performing first-round PCR amplification by means of genomic DNA of female and male <i>Ictalurus punctatus </i>and the specific primers to obtain first-round products; 3) performing second-round PCR amplification by means of the first-round products in step 2) and a barcode to obtain second-round products; 4) constructing sequencing libraries after mixing the second-round female and male amplification products in step 3), wherein the sequencing libraries are subjected to 150 bp paired-end sequencing on an Illumina HiSeqX-ten sequencing platform; and 5) comparing original sequencing data with zbtb38 genes after filtering the original sequencing data, and regarding SNP molecular markers, linked with sexes, in samples with a comparison rate greater than 80% as sex-linked SNP molecular markers.</p>
+<p id="p-0012" num="0010">As one of the aspects of the present disclosure, the present disclosure provides the application of an SNP molecular marker to genetic sex identification, comprising the following steps: 1) designing male-specific amplification primers for sex-linked SNP molecular markers, wherein in the male-specific amplification primers, the first to last base (g.zbtb38ycds 1107 T&#x3e;A) and the sixth to last base (g.zbtb38ycds 1102 G&#x3e;A) of a forward primer sequence are male-specific bases, and the first to last base (g.zbtb38ycds 2073 T&#x3e;C) of a reverse primer sequence is a male-specific base;</p>
+<p id="p-0013" num="0000">2) designing a pair of control primers in a region without mutation sites, wherein the control primers may amplify bands in both female and male individuals; and 3) establishing double PCR amplification reaction by means of the male-specific amplification primers and the control primers, and detecting PCR amplification products by means of 1% agarose gel.</p>
+<p id="p-0014" num="0011">Preferably, the sequences of the male-specific amplification primers are shown in SEQ ID NO: 45 and SEQ ID NO: 46.</p>
+<p id="p-0015" num="0012">As one of the aspects of the present disclosure, the present disclosure provides the primer for developing the SNP molecular marker for trait selection of <i>Ictalurus punctatus </i>and the kit of the primer, wherein the primer comprises one or more of sequences shown in SEQ ID NO: 1 to SEQ ID NO: 59 and SEQ ID NO: 61 to SEQ ID NO: 66.</p>
+<p id="p-0016" num="0013">The present disclosure has the beneficial effects as follows: the present disclosure provides the SNP molecular marker for trait selection of <i>Ictalurus punctatus </i>and the application, discloses at least one of 17 SNP molecular markers for trait selection of <i>Ictalurus punctatus</i>, and provides a molecular control means for genetic sex and weight gain trait selection and control of <i>Ictalurus punctatus</i>. Efficient and scientific identification of <i>Ictalurus punctatus </i>is achieved by means of simple PCR reactions and nucleic acid test strips, and the accuracy rate reaches 100%. A traditional agarose gel electrophoresis method is not used in the whole identification process, the cumbersome steps of gel preparation and running electrophoresis are omitted, nucleic acid dyes are not used, and the experimental process is safe and environmentally friendly.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0014"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows monthly weight gain statistics of <i>Ictalurus punctatus </i>of three genotypes in Embodiment 1, note: **p&#x3c;0.01; *p&#x3c;0.05;</p>
+<p id="p-0018" num="0015"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows detection results of female individuals of <i>Ictalurus punctatus </i>in Embodiment 3;</p>
+<p id="p-0019" num="0016"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows detection results of male individuals of <i>Ictalurus punctatus </i>in Embodiment 3;</p>
+<p id="p-0020" num="0017"><figref idref="DRAWINGS">FIG. <b>4</b></figref> shows color development conditions of nucleic acid test strips for <i>Ictalurus punctatus </i>in Embodiment 3, wherein the first test strip shows the color development condition of the nucleic acid test strip for <i>Ictalurus punctatus </i>of the female genetic sex, and the second test strip shows the color development condition of the nucleic acid test strip for <i>Ictalurus punctatus </i>of the male genetic sex; {circle around (1)} refers to a quality inspection line, {circle around (2)} refers to a test line, and {circle around (3)} refers to a quality inspection line;</p>
+<p id="p-0021" num="0018"><figref idref="DRAWINGS">FIG. <b>5</b></figref> shows linkage analysis results of 16 SNPs in a zbtb38 gene coding region of <i>Ictalurus punctatus </i>in Embodiment 4;</p>
+<p id="p-0022" num="0019"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a sequencing peak diagram of 13 sex-linked SNPs in a zbtb38 gene coding region of <i>Ictalurus punctatus </i>in Embodiment 4;</p>
+<p id="p-0023" num="0020"><figref idref="DRAWINGS">FIG. <b>7</b></figref> shows six amino acid variations of protein encoded by zbtb38 genes on X and Y chromosomes of <i>Ictalurus punctatus </i>in Embodiment 4;</p>
+<p id="p-0024" num="0021"><figref idref="DRAWINGS">FIG. <b>8</b></figref> shows results of genetic sex identification of <i>Ictalurus punctatus </i>on the basis of SNP molecular markers in Embodiment 5.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE EMBODIMENTS</heading>
+<p id="p-0025" num="0022">Embodiment 1: screening of SNP molecular markers associated with weight gain traits of <i>Ictalurus punctatus </i></p>
+<p id="p-0026" num="0023">1. A breeding experiment was performed as follows: after 180 days of independent breeding of juvenile fishes from different <i>Ictalurus punctatus </i>families, 50 juvenile fishes of equivalent sizes were selected from each family, weight data of the juvenile fishes were recorded, and a PIT electronic tag with a 12-digit identification code was injected into the abdominal cavity of each fish. After wounds were completely healed, all the experimental fishes were put into a pond of 0.2 hm<sup>2 </sup>for mixed breeding. A feeding principle of &#x201c;fixed time, fixed point and quantification&#x201d; was strictly implemented in the breeding process.</p>
+<p id="p-0027" num="0024">2. Experimental sample collection was performed as follows: after one year of breeding, the experimental fishes were captured, weight data of each fish were recorded again, and meanwhile, tissue of tail fins of experimental <i>Ictalurus punctatus </i>was collected for DNA extraction. The monthly weight gain of each fish was calculated according to the weight data before and after breeding.</p>
+<p id="p-0028" num="0025">3. Extraction and detection of genomic DNA were performed as follows: genomic DNA was extracted from tail fins of the experimental fishes to prepare genome-wide DNA samples of <i>Ictalurus punctatus</i>. Quality control was performed on the samples by means of a Qubit and 1% agarose gel electrophoresis respectively. The qualified DNA (with the total amount larger than 3 &#x3bc;g, the concentration higher than 30 ng/&#x3bc;L and the ratio of OD260/OD280 in the range of 1.80-2.00) was used for construction of sequencing libraries in the next step.</p>
+<p id="p-0029" num="0026">4. Construction and sequencing of libraries were performed as follows: the genomic DNA of each sample was broken into DNA fragments of 50 bp to 800 bp by means of Covaris E220 (Covaris, Brighton, UK) ultrasonic waves. DNA fragments of 100 bp to 300 bp were further fished by means of an Agencourt AMPure XP bead kit (Beckman, Krefeld, Germany). Then ends of the fished DNA fragments were repaired, and dATP (deoxyadenosine triphosphate) was added to 3&#x2032; ends to obtain sticky ends. Adapter sequences with dTTP (deoxy-thymidine triphosphate) tails were connected to both ends of DNA fragments of each sample to distinguish the various samples. Then single-stranded circular DNA was amplified for 8 cycles through a rolling circle amplification technology. Single strand cyclization treatment was carried out in the following steps: a PCR product and a special molecule were thermally denatured together, the special molecule was inversely complementary to a special strand of the PCR product, and a single-stranded molecule was connected through DNA ligase. Remaining linear molecules were digested with exonuclease to obtain the single-stranded circular DNA finally. 303 samples were mixed finally to construct 19 sequencing libraries. PE150 paired-end sequencing was performed on all the libraries on the BGISEQ-500 sequencing platform.</p>
+<p id="p-0030" num="0027">5. Sequencing data filtering and SNP typing were performed as follows: bioinformatics analysis was started after original data generated by the BGISEQ-500 sequencing platform were offline. In order to improve the sequence quality, the original data were filtered by means of Trimmomatic (version 0.36) software. Forward and reverse FASTQ sequences of each sample were used as input files, and parameters of the software were &#x201c;LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:75&#x201d;. High-quality reads obtained were used for subsequent analysis. Genome-wide SNP variations were identified in clean reads of the 303 samples. The high-quality clean reads were compared with a reference genome sequence of <i>Ictalurus punctatus </i>by means of BWA software (bwa mem -k 32). Files in the SAM format were imported into SAMtools software for sequencing and merging, and duplicate reads were deleted in combination with Picard software. SNPs were detected on valid BAM files by means of a &#x201c;UnifiedGenotyper&#x201d; module of GATK software (version 2.4-9). According to a gene annotation file of a reference genome, the captured variations were annotated by means of ANNOVAR software. Finally, the genetic locations of all the variations were determined by means of the VCFtools software (version 0.1.10).</p>
+<p id="p-0031" num="0028">6. GWAS of the growth traits was performed as follows: GWAS of the growth traits was performed by means of the single site mixed linear model GWAS (EMMAX) of SNP &#x26; Variation Suit v8.5.0 software. An EMMAX (Efficient Mixed Model Association expedited) statistical test method was superior to principal component analysis in the aspect of explaining sample structures (stratification and correlation). In this study, this technology was used to correct a hybrid effect caused by correlations among subgroup structures and individuals. In EMMAX, nxn genetic relation matrices among the individuals were calculated according to genotype data. The model used was y=X&#x3b2;+Zu+e, wherein y was an n&#xd7;1 vector of a phenotypic value, X was an n&#xd7;f matrix of a fixed effect including the SNPs and the age (month), &#x3b2; was a q&#xd7;1 vector representing a fixed effect coefficient, Z was an n&#xd7;t matrix associated with a random effect, the phenotypic value and the &#x3b2; fixed effect coefficient, u was a random animal effect, and e was a residual effect.</p>
+<p id="p-0032" num="0029">Result analysis was as follows: 3.69 Tb of original data were produced in total through sequencing, with an average of 12.18 Gb for each sample. Through filtering and counting of the original offline data, 3.64 Tb of clean data were produced after barcode sequences of sequencing adapters and low-quality sequencing data were removed, with an average of 12.01 Gb (6.8-26.20 Gb) for each sample, and the average values of Q20 and Q30 were 97.81% and 93.05% respectively. The clean reads were compared with the reference genome of <i>Ictalurus punctatus</i>, the average mapping rate was 94.85%, and the range was 90.05%-96.99%. Results of filtering component statistics of the original data, base mass distribution of the clean reads and base content of the clean reads indicated that the quality of various items of genome re-sequencing this time was high and subsequent analysis could be met. The clean reads of each sample were compared with the reference genome sequence, 12,045,859 original SNPs were obtained in total, and 5,641,711 SNPs shared by all samples were finally screened out from the original SNPs.</p>
+<p id="p-0033" num="0030">GWAS was performed on 5,641,711 SNP molecular markers in the whole genome and the monthly weight gain by means of the EMMAX software. 15 markers were associated with the monthly weight gain (MWG) trait (P&#x2264;1&#xd7;10<sup>&#x2212;6</sup>), wherein the two SNPs located on locations 14,657,971 and 14,658,012 of chromosome 20 were extremely significantly associated with the monthly weight gain (P&#x2264;1&#xd7;10<sup>&#x2212;8</sup>) (<figref idref="DRAWINGS">FIG. <b>1</b></figref>), and the two SNPs were located in intron 9 of the rrp44 gene. The mutation type of the first SNP was C/T, the SNP was named g. 20.14657971 C&#x3e;T, and the nucleotide sequence of the SNP was shown in SEQ ID NO: 69 (TACTAACTAGSCTCTTTAAAA); and the mutation type of the second SNP was C/G, the SNP was named g. 20.14658012 C&#x3e;G, and the nucleotide sequence of the SNP was shown in SEQ ID NO: 62 (GTTGAAAACTYTGATTTTTAC), which resulted in polymorphisms.</p>
+<p id="p-0034" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1.1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>SNP Molecular Markers Associated with Weight Gain Traits</entry>
+</row>
+<row>
+<entry>of Ictalurus punctatus (Note: *P &#x3c; 1E&#x2212;07)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="6">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="28pt" align="left"/>
+<colspec colname="5" colwidth="42pt" align="center"/>
+<colspec colname="6" colwidth="42pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>SNP</entry>
+<entry>Chromo-</entry>
+<entry>Reference</entry>
+<entry>Variant</entry>
+<entry>Minor Allele</entry>
+<entry/>
+</row>
+<row>
+<entry>Location</entry>
+<entry>some</entry>
+<entry>Base</entry>
+<entry>Base</entry>
+<entry>Frequency</entry>
+<entry>P Value</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>14658012</entry>
+<entry>20</entry>
+<entry>C</entry>
+<entry>G</entry>
+<entry>0.20130</entry>
+<entry>1.97E&#x2212;09*</entry>
+</row>
+<row>
+<entry>14657971</entry>
+<entry>20</entry>
+<entry>C</entry>
+<entry>T</entry>
+<entry>0.19970</entry>
+<entry>1.45E&#x2212;08*</entry>
+</row>
+<row>
+<entry namest="1" nameend="6" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0035" num="0031">Linkage analysis of the two SNP sites was performed by means of SHEsis software, and the result showed that the two sites were subjected to linkage inheritance, there were two haploid genotypes, namely, TG and CC, which resulted in polymorphisms. Statistical results of weight gain data of individuals of various genotypes showed that the weight gain traits of the individuals of the TG/TG genotype were extremely significantly better than those of the individuals of the CC/CC genotype (p&#x3c;0.01), and were significantly better than those of the individuals of the CC/GT genotype (p&#x3c;0.05). The results are shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0036" num="0032">The screening method of the SNP molecular markers, provided in this embodiment, comprises the following steps:</p>
+<p id="p-0037" num="0000">1) performing experimental sample collection: tissue of tail fins of experimental <i>Ictalurus punctatus </i>is collected for DNA extraction; 2) performing measurement of growth data: weight data of <i>Ictalurus punctatus </i>before and after breeding are measured, and the monthly weight gain of each fish is calculated; 3) performing extraction and detection of genomic DNA: the genomic DNA is extracted from the tail fins of the experimental fishes to prepare genome-wide DNA samples of <i>Ictalurus punctatus</i>, and associated mass values are detected; 4) performing construction and sequencing of libraries: genome re-sequencing libraries of <i>Ictalurus punctatus </i>are constructed by means of the qualified DNA samples, and PE150 paired-end sequencing is performed on all the libraries on the BGISEQ-500 sequencing platform; and 5) performing sequencing data filtering and SNP typing: after filtering and quality control, original sequencing data are compared with a reference genome of <i>Ictalurus punctatus</i>. SNPs are detected by means of GATK software, captured variations are annotated by means of ANNOVAR software, and genetic locations of the genetic variations are determined by means of VCFtools software; and 6) performing GWAS of growth traits: GWAS of the weight gain traits is performed by means of the single site mixed linear model GWAS (EMMAX) of the SNP &#x26; Variation Suit v8.5.0 software, and the SNP molecular markers extremely significantly associated are selected. In order to verify the reliability of the two mined SNP molecular markers, weight gain testing and SNP typing based on Sanger sequencing are performed on another <i>Ictalurus punctatus </i>breeding group, which further confirms that the polymorphisms of the two SNP sites are extremely significantly associated with the weight gain traits of <i>Ictalurus punctatus </i>(p&#x3c;0.01). Due to linkage inheritance of the two SNP markers, one of the SNP markers can be used to select and improve the weight gain traits of <i>Ictalurus punctatus. </i></p>
+<p id="p-0038" num="0033">Embodiment 2: verification of SNP molecular markers associated with weight gain traits of <i>Ictalurus punctatus </i></p>
+<p id="p-0039" num="0034">1. A breeding experiment and sample collection were performed as follows: after <i>Ictalurus punctatus </i>fries started eating, the <i>Ictalurus punctatus </i>fries from different families were bred in a mixed mode in a pond of 3 mu for 18 months. The breeding mode was the same as that in Embodiment 1. 201 fishes were randomly selected and weighed, and tissue of tail fins was collected.</p>
+<p id="p-0040" num="0035">2. Extraction and detection of genomic DNA were performed as follows: the genomic DNA was extracted from the tail fins of the experimental fishes, quality control was performed on the samples by means of a Qubit ultraviolet spectrophotometer and 1% agarose gel electrophoresis respectively, and the qualified DNA (with the concentration higher than 30 ng/&#x3bc;L and the ratio of OD260/OD280 in the range of 1.80-2.00) was used for SNP typing in the next step.</p>
+<p id="p-0041" num="0036">3. SNP typing was performed as follows: primers (SEQ ID NO: 67, SEQ ID NO: 68) for simultaneously amplifying two SNP sites (g. 20.14657971 C&#x3e;T and g. 20.14658012 C&#x3e;G) were designed by a Primer BLAST function in NCBI. A 2&#xd7; Taq Plus Master Mix (Dye Plus) kit (Vazyme Biotech Co., Ltd) was used for PCR amplification, and had a reaction system of 2&#xd7; Taq Master Mix of 10 &#x3bc;L, genomic DNA of 1 &#x3bc;L, each 10 &#x3bc;M primer of 0.5 &#x3bc;L, and ddH2O of 7 &#x3bc;L. Amplification conditions included pre-denaturation at 94&#xb0; C. for 5 min, denaturation at 94&#xb0; C. for 30 s, annealing at 55&#xb0; C. for 30 s, extension at 72&#xb0; C. for 30 s, 30 cycles and extension at 72&#xb0; C. for 10 min. The PCR amplification products were subjected to electrophoresis by means of 1% agarose gel. After electrophoresis, the gel was placed on an UV gel detector to observe electrophoresis results and determine the number and size of amplified bands of each sample. The qualified PCR amplification products were subjected to bi-directional Sanger sequencing by means of an ABI 3730 sequencer, and primers used for sequencing were the same as those used for PCR amplification. A Sanger sequencing peak diagram was read by means of Chromas software, and the genotypes of each sample at two SNP sites (g. 20.14657971 C&#x3e;T and g. 20.14658012 C&#x3e;G) were recorded.</p>
+<p id="p-0042" num="0037">4. Weight trait and SNP association study was performed as follows: after successful typing of each sample at the two SNP sites (g. 20.14657971 C&#x3e;T and g. 20.14658012 C&#x3e;G), association study was performed on weight traits and the genotypes of the samples. Results were shown in Table 2.1 and showed that the weight of individuals of the TG/TG genotype was extremely significantly higher than that of individuals of the CC/CC genotype (p&#x3c;0.01), and was significantly higher than that of individuals of the CC/GT genotype (p&#x3c;0.05). The haploid homozygous genotype TG/TG had the weight gain advantage.</p>
+<p id="p-0043" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 2.1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Association Study Results of Weight Traits</entry>
+</row>
+<row>
+<entry>of Ictalurus punctatus and Three Genotypes</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="140pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Genotype</entry>
+<entry>Weight (g)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>CC/CC</entry>
+<entry>943.28 &#xb1; 266.29<sup>a</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>CC/TG</entry>
+<entry>983.95 &#xb1; 244.94<sup>a</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>TG/TG</entry>
+<entry>1083.06 &#xb1; 306.77<sup>b</sup>&#x2002;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0044" num="0038">According to Embodiments 1 and 2, the two SNP molecular markers associated with the weight gain traits were screened out from chromosome 20 of <i>Ictalurus punctatus </i>for the first time through genome-wide association study. The BGISEQ-500 platform was mainly used to carry out genome-wide re-sequencing on <i>Ictalurus punctatus </i>breeding groups which came from different families and had equivalent initial body mass, and association study was carried out between the genome-wide SNP variations and the weight gain traits to mine the important SNP molecular markers controlling the weight gain traits. The correlation between the two SNP molecular markers and the weight gain traits of <i>Ictalurus punctatus </i>was further verified in another breeding group by means of the genotyping technology based on Sanger sequencing. In order to reduce the influence of environmental factors on the experimental results, all the offspring of the families were bred in the same environment, and the test fishes had similar specifications. The obtained SNP markers could be used for molecular marker assisted breeding of <i>Ictalurus punctatus</i>, and the individuals with the weight gain advantage were selected as parents for fry breeding.</p>
+<p id="p-0045" num="0039">Embodiment 3: a method for rapidly detecting genetic sexes on the basis of extension reactions of specific primers of sex-linked SNP sites of <i>Ictalurus punctatus </i></p>
+<p id="p-0046" num="0040">96 individuals of <i>Ictalurus punctatus </i>were randomly caught from a breeding pond, and tail fins of <i>Ictalurus punctatus </i>were taken and placed in EP tubes of 1.5 mL to be preserved with absolute ethanol. Among the 96 <i>Ictalurus punctatus </i>individuals whose genetic sexes had been determined, 10 samples of tail fin tissue of the individuals with the genetic sex being male and 10 samples of tail fin tissue of the individuals with the genetic sex being female were randomly selected for testing.</p>
+<heading id="h-0008" level="1">1. Extraction of DNA of <i>Ictalurus punctatus </i></heading>
+<p id="p-0047" num="0041">1.1 Digestion and lysis of the tail fins of <i>Ictalurus punctatus </i>were performed as follows: 20 mg of the preserved tail fin tissue was taken, cut into pieces and then placed into the EP tubes of 1.5 mL. DNA was extracted by means of a FastPureCell/Tissue DNA Isolation Mini Kit (Vazyme Biotech Co., Ltd). 230 &#x3bc;L of a Buffer GA and 20 &#x3bc;L of PK protein working fluid were added and were subjected to vortex mixing for 15 s, and the tubes were placed in a water bath at 55&#xb0; C. for overnight digestion. 250 &#x3bc;L of a Buffer GB was added to digestive fluid after complete enzymatic hydrolysis of the tissue and was subjected to vortex mixing for 20 s and water bath treatment at 70&#xb0; C. for 10 min.</p>
+<p id="p-0048" num="0042">1.2 Column chromatography of the digestive fluid was performed as follows: 180 &#x3bc;L of absolute ethanol was added to the digestive fluid and was subjected to vortex mixing for 15-20 s. Adsorption columns (gDNA columns) were placed in collection tubes of 2 mL, the mixture obtained in the previous step was transferred to the adsorption columns, and centrifugation at 12,000 rpm (13,400&#xd7;g) was performed for 1 min. Filtrate was discarded, and the adsorption columns were placed in the collection tubes. 500 &#x3bc;L of a Washing Buffer A was added to the adsorption columns. Centrifugation at 12,000 rpm was performed for 1 min. Filtrate was discarded, the adsorption columns were placed in the collection tubes, 650 &#x3bc;L of a Washing Buffer B was added to the adsorption columns, and centrifugation at 12,000 rpm was performed for 1 min. The previous step was repeated. Filtrate was discarded, and the adsorption columns were placed in the collection tubes. Empty tube centrifugation at 12,000 rpm was performed for 2 min. The adsorption columns were placed in new centrifuge tubes of 1.5 ml. 50 &#x3bc;L of an Elution Buffer preheated to 70&#xb0; C. was added to centers of membranes of the adsorption columns and was placed at the room temperature for 3 min. Centrifugation at 12,000 rpm (13,400&#xd7;g) was performed for 1 min. The adsorption columns were discarded, and DNA was placed at subzero 20&#xb0; C. for long-term preservation.</p>
+<heading id="h-0009" level="1">2. Screening of SNP Sites for Genetic Sex Identification of <i>Ictalurus punctatus </i>and Design of Primers</heading>
+<p id="p-0049" num="0043">The sex-linked SNP site g.zbtb38ycds 366 G&#x3e;A was selected as an SNP site for rapid genetic sex identification of <i>Ictalurus punctatus</i>, the site was a site on zbtb38-Y. Peripheral primers (WF/R), allele-specific extension (ASE) primer and DNA probes (ASE-DP) for amplifying the interval of the SNP site were designed by means of the Primer BLAST online software in NCBI, last bases at 3&#x2032; ends of the ASE primers were male-specific bases of <i>Ictalurus punctatus, </i>5&#x2032; ends of the ASE primers were marked with FAM fluorophores, 3&#x2032; ends of the probes ASE-DP were marked with Biotin, and the relationship between secondary structures of the ASE primers and the DNA probes was tested by means of Oligo software, so as to avoid primer dimers. The sequences of the primers were shown in Table 3.1.</p>
+<p id="p-0050" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE&#x2003;3.1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Specific&#x2003;Extension&#x2003;Reaction&#x2003;Primers&#x2003;of&#x2003;Sex-linked</entry>
+</row>
+<row>
+<entry>SNP&#x2003;Sites&#x2003;of&#x2003;<i>Ictalurus&#x2003;punctatus</i></entry>
+</row>
+<row>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;63&#x2003;to&#x2003;SEQ&#x2003;ID&#x2003;NO:&#x2003;66&#x2003;in&#x2003;sequence)</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="77pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Name&#x2003;of&#x2003;Primer</entry>
+<entry>Sequence&#x2003;of&#x2003;Primer</entry>
+<entry>Marker</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>WF</entry>
+<entry>GAAATGTCTTGGCTGCGACT</entry>
+<entry>None</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>WR</entry>
+<entry>CTCTTGCTCCTCAAGCCGTG</entry>
+<entry>None</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>ASE</entry>
+<entry>TCCCCTTTCTTGAGAAA</entry>
+<entry>5&#x2032;FAM</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>ASE-DP</entry>
+<entry>GCCTTTCAATCTCAAG</entry>
+<entry>3&#x2032;Biotin</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00001">Note: WF refers to a peripheral forward primer; WR</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00002">refers to a peripheral reverseprimer; ASErefers to a</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="left" id="FOO-00003">specific forward primer; and ASE-DPrefers to a DNA probe.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="1">3. Amplification of Sex-Linked SNP Sites of <i>Ictalurus punctatus </i></heading>
+<p id="p-0051" num="0044">3.1 An extension reaction of the peripheral primers of the sex-linked SNP sites of <i>Ictalurus punctatus </i>was performed as follows: 40 &#x3bc;L of a reaction system was used, including 20 &#x3bc;L of a 2&#xd7; Phanta Max Master Mix (Vazyme Biotech Co., Ltd), 1 &#x3bc;L of a template, 1 &#x3bc;L of each of the peripheral primers (WF and WR) and 17 &#x3bc;L of H2O. A PCR amplification procedure (first-round PCR amplification reaction) was performed as follows: pre-denaturation was performed at 95&#xb0; C. for 5 min; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 57&#xb0; C. to 53&#xb0; C. (1&#xb0; C. lowered each cycle) for 30 s, extension was performed at 72&#xb0; C. for 60 s, and 2 cycles were performed at each annealing temperature; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 55&#xb0; C. for 30 s, extension was performed at 72&#xb0; C. for 60 s, and 15 cycles were performed; and extension was performed at 72&#xb0; C. for 10 min.</p>
+<p id="p-0052" num="0045">3.2 Extension reactions of specific primers of sex-linked SNP sites of <i>Ictalurus punctatus </i>were performed as follows: first-round PCR amplification reaction products were diluted 10 times and used as a template of a second-round PCR amplification reaction. 20 &#x3bc;L of a reaction system was used, including 10 &#x3bc;L of a 2&#xd7; Phanta Max Master Mix (Vazyme Biotech Co., Ltd), 1 &#x3bc;L of the template, 1 &#x3bc;L of each of the ASE primer (ASE-F) and the DNA probe (ASE-DP), and 7 &#x3bc;L of H2O. A PCR amplification procedure (second-round PCR amplification reaction) was performed as follows: treatment was performed at 95&#xb0; C. for 5 min; treatment was performed at 94&#xb0; C. for 30 s; treatment was performed at 66&#xb0; C. for 30 s, and 20 cycles were performed; treatment was performed at 94&#xb0; C. for 30 s; treatment was performed at 50&#xb0; C. for 30 s, and 25 cycles were performed. Second-round PCR amplification products obtained finally and hybridization nucleic acid products of the DNA probe were preserved at subzero 20&#xb0; C.</p>
+<p id="p-0053" num="0046">4. Genetic Sex Identification of <i>Ictalurus punctatus </i></p>
+<p id="p-0054" num="0047">4.1 Detection of amplification products was performed as follows: 20 &#x3bc;L of a buffer (USTAR BIOTECHNOLOGIES (HANGZHOU) LTD) used in cooperation with rapid nucleic acid test strips was dropped in a 100 &#x3bc;L microporous plate, 10 &#x3bc;L of the second-round PCR amplification products and hybridization nucleic acid products of the DNA probe were taken and dropped on sample pads of the rapid nucleic acid test strips. The nucleic acid test strips containing the hybridization nucleic acid products were inserted into the 100 &#x3bc;L microporous plate containing the buffer, and it was ensured that lowest ends of the sample pads made contact with the buffer.</p>
+<p id="p-0055" num="0048">4.2 Determination of results was performed as follows: the results were read within 10-15 min after the process was completed. Red bands were observed in reading regions of the rapid nucleic acid test strips. During reading of the 20 sample results, the red bands appeared in quality control regions of the reading regions of the rapid nucleic acid test strips, and red bands appeared in detection regions of the DNA samples of 10 male individuals of <i>Ictalurus punctatus</i>; however, no red bands were found in detection regions of the DNA samples of 10 female individuals of <i>Ictalurus punctatus. </i></p>
+<p id="p-0056" num="0049">5. Verification of a genetic sex identification method was performed as follows: 96 samples were randomly selected from a sample library of a genetics and breeding center of <i>Ictalurus punctatus </i>for sex identification, so as to verify the accuracy of the genetic sex identification method. The second-round PCR amplification products and the hybridization nucleic acid products of the DNA probes were detected by means of the rapid nucleic acid test strips, genetic sex identification results of the selected samples were compared with sex information recorded in a database, and results showed that the accuracy of the genetic sex identification method reached 100%.</p>
+<p id="p-0057" num="0050">In the embodiment, the sequences of the sex-linked SNP sites were enriched through extraction of the genomic DNA of the tissue of the tail fins of <i>Ictalurus punctatus </i>and peripheral PCR amplification, then specific amplification of the SNP sites and hybridization of the probes were performed, SNP site detection was performed on the obtained hybridization nucleic acid products by means of the nucleic acid test strips, rapid genetic sex identification of <i>Ictalurus punctatus </i>was achieved by means of the simple PCR reactions and the nucleic acid test strips, efficient genetic sex identification of <i>Ictalurus punctatus </i>was achieved, and the accuracy reached 100%. The traditional agarose gel electrophoresis method was not used in the whole identification process, the cumbersome steps of gel preparation and running electrophoresis were omitted, the nucleic acid dyes were not used, and the experimental process was safe and environmentally friendly.</p>
+<p id="p-0058" num="0051">Embodiment 4: screening of sex-linked SNP markers on the basis of zbtb38 genes of <i>Ictalurus punctatus </i></p>
+<p id="p-0059" num="0052">1. Design of primers was performed as follows: 22 pairs of specific primers were designed for the sequence of the zbtb38 gene coding region of <i>Ictalurus punctatus </i>to ensure that the amplification products could cross each other and cover the whole coding region. See Table 4.1 for specific primer information (SEQ ID NO: 1 to SEQ ID NO: 44 in sequence). The primers were synthesized by Sangon Biotech (Shanghai) Co., Ltd.</p>
+<p id="p-0060" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="329pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE&#x2003;4.1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Information&#x2003;of&#x2003;Multiplex&#x2003;PCR&#x2003;Amplification&#x2003;Primers&#x2003;of</entry>
+</row>
+<row>
+<entry>zbtb38&#x2003;Gene&#x2003;Coding&#x2003;Region&#x2003;of&#x2003;<i>Ictalurus&#x2003;punctatus</i></entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="119pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<colspec colname="4" colwidth="70pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>No.&#x2003;of</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Amplicon</entry>
+<entry>Sequenceinformation&#x2003;(5&#x2032;-3&#x2032;)</entry>
+<entry>InitiationSite</entry>
+<entry>TerminationSite</entry>
+<entry>Length</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;ATGATGGTGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TCCATTCCAGC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;1)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_1</entry>
+<entry>R:&#x2003;TCAGAGGCTG</entry>
+<entry>&#x2003;&#x2003;&#x2003;1</entry>
+<entry>&#x2003;200</entry>
+<entry>200</entry>
+</row>
+<row>
+<entry/>
+<entry>TGAAAGCGTT&#x2003;G</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;2)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;GCTGCGACTA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GCGGATATTT&#x2003;CC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;3)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_2</entry>
+<entry>R:&#x2003;CAGAGTCTTG</entry>
+<entry>&#x2003;157</entry>
+<entry>&#x2003;394</entry>
+<entry>238</entry>
+</row>
+<row>
+<entry/>
+<entry>CCTTTCAATC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TCAAG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;4)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CAACAAGTCC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TTAATAGCTG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CAGGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;5)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_3</entry>
+<entry>R:&#x2003;TCTGTGATGG</entry>
+<entry>&#x2003;312</entry>
+<entry>&#x2003;548</entry>
+<entry>237</entry>
+</row>
+<row>
+<entry/>
+<entry>AGAAAGCATT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AGTTATCC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;6)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CACCACGGCT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TGAGGAGC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;7)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_4</entry>
+<entry>R:&#x2003;CAGCGTATGA</entry>
+<entry>&#x2003;482</entry>
+<entry>&#x2003;694</entry>
+<entry>213</entry>
+</row>
+<row>
+<entry/>
+<entry>GTGTTCAAAC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ATGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;8)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CGCTATCAGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AATACCCTCT&#x2003;GTC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;9)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_5</entry>
+<entry>R:&#x2003;ACTAGTTTCA</entry>
+<entry>&#x2003;629</entry>
+<entry>&#x2003;867</entry>
+<entry>239</entry>
+</row>
+<row>
+<entry/>
+<entry>CTGGATATGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GTGCC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;10)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;GACTCTGTCC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AACCATAGAC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TTGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;11)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_6</entry>
+<entry>R:&#x2003;AAGGCGGATC</entry>
+<entry>&#x2003;783</entry>
+<entry>1027</entry>
+<entry>245</entry>
+</row>
+<row>
+<entry/>
+<entry>ATCATCCTGT&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;12)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CCTTGTGTTC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TGCACCCGAC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;13)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_7</entry>
+<entry>R:&#x2003;GCAGTACTTG</entry>
+<entry>&#x2003;959</entry>
+<entry>1170</entry>
+<entry>212</entry>
+</row>
+<row>
+<entry/>
+<entry>CAAAACAGAT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GACTG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;14)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CCATATGCAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AGCCACAAGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GAAG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;15)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_8</entry>
+<entry>R:&#x2003;GGAGGATCTT</entry>
+<entry>1116</entry>
+<entry>1340</entry>
+<entry>225</entry>
+</row>
+<row>
+<entry/>
+<entry>GAAGATCAGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ACTTG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;16)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CAAGTAGCAC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ACCCTTCCTA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GAGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;17)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_9</entry>
+<entry>R:&#x2003;CTTTATTGCA</entry>
+<entry>1280</entry>
+<entry>1525</entry>
+<entry>246</entry>
+</row>
+<row>
+<entry/>
+<entry>GTAGTGACAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GGATAGGC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;18)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;GACATGAGAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TGTGCATTCA&#x2003;TGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;19)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_10</entry>
+<entry>R:&#x2003;AGATTTTTTA</entry>
+<entry>1469</entry>
+<entry>1629</entry>
+<entry>224</entry>
+</row>
+<row>
+<entry/>
+<entry>TTCACTGCCA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GACG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;20)&#x2003;</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CCATCAGAAG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TCATTTCATG&#x2003;GC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;21)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_11</entry>
+<entry>F:&#x2003;CTGTGCCTTT</entry>
+<entry>1638</entry>
+<entry>1876</entry>
+<entry>239</entry>
+</row>
+<row>
+<entry/>
+<entry>AAGTGGAGCA&#x2003;GC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;22)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>R:&#x2003;ACTGCCCCGC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TAGATGTTAA&#x2003;CTC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;23)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_12</entry>
+<entry>R:&#x2003;GTTAAAGCCT</entry>
+<entry>1828</entry>
+<entry>2070</entry>
+<entry>243</entry>
+</row>
+<row>
+<entry/>
+<entry>TCCTCTTCGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TATGAGAC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;24)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CAACATGTAG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AAACTTCTTT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GCCTTCTG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;25)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_13</entry>
+<entry>R:&#x2003;GGAATGGCAT</entry>
+<entry>2005</entry>
+<entry>2248</entry>
+<entry>244</entry>
+</row>
+<row>
+<entry/>
+<entry>AACATCTCTG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CTTG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;26)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;ACTCATCTCC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CACACAATGC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AGTAG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;27)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_14</entry>
+<entry>R:&#x2003;ACCAGGACAA</entry>
+<entry>2195</entry>
+<entry>2430</entry>
+<entry>236</entry>
+</row>
+<row>
+<entry/>
+<entry>GCAGGCTTGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;28)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CTGACGCCGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ACCTTCGC&#x2003;(SEQ&#x2003;ID&#x2003;&#x2003;NO:&#x2003;29)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_15</entry>
+<entry>R:&#x2003;GAATCCTAGA</entry>
+<entry>2365</entry>
+<entry>2604</entry>
+<entry>240</entry>
+</row>
+<row>
+<entry/>
+<entry>TCATCCTCTG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CTGTGTTC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;30)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;AGAGAAGAAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CTGGAAGCAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GATAATG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;31)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_16</entry>
+<entry>R:&#x2003;AGAGAAGAAA</entry>
+<entry>2543</entry>
+<entry>2789</entry>
+<entry>247</entry>
+</row>
+<row>
+<entry/>
+<entry>CTGGAAGCAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GATAATG&#x2003;(SEQ&#x2003;IDNO:&#x2003;32)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;GGCAAAAGAT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TCAGATCCAA&#x2003;GC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;33)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_17</entry>
+<entry>R:&#x2003;GACAATATGC</entry>
+<entry>2731</entry>
+<entry>2907</entry>
+<entry>240</entry>
+</row>
+<row>
+<entry/>
+<entry>ATGCTGAGGG&#x2003;TG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;34)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CTGCCATTGC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TGTAGTAGCT&#x2003;CC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;35)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_18</entry>
+<entry>R:&#x2003;CAGTATGAGC</entry>
+<entry>2913</entry>
+<entry>3155</entry>
+<entry>243</entry>
+</row>
+<row>
+<entry/>
+<entry>AGCGGTAGCG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;36)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;ACTCGATAGG</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GTTGACTCGT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AGCC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;37)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_19</entry>
+<entry>R:&#x2003;CTTGTGATTG</entry>
+<entry>3098</entry>
+<entry>3341</entry>
+<entry>244</entry>
+</row>
+<row>
+<entry/>
+<entry>TCTCACTATT</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TTCTGTC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;38)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;CATGAGAGCA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>AGCACTTCAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TAAGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;39)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_20</entry>
+<entry>R:&#x2003;GTCCTGTCAC</entry>
+<entry>3283</entry>
+<entry>3530</entry>
+<entry>248</entry>
+</row>
+<row>
+<entry/>
+<entry>CTTTACAGGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CAAC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;40)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;TTATCCCCAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ATCCCTCAAC&#x2003;TCC</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;41)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_21</entry>
+<entry>R:&#x2003;CATGTTGTAT</entry>
+<entry>33465</entry>
+<entry>3698</entry>
+<entry>234</entry>
+</row>
+<row>
+<entry/>
+<entry>AGAGGTTGGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>TGTGTTGAG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;42)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>F:&#x2003;GCTTTGTGGA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>ATATTCTAAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>GACTCCAC&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;43)</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CYH_22</entry>
+<entry>R:&#x2003;TCAGTTGTGG</entry>
+<entry>3581</entry>
+<entry>3798</entry>
+<entry>218</entry>
+</row>
+<row>
+<entry/>
+<entry>GCATAAAAAA</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>CAGG&#x2003;(SEQ&#x2003;ID&#x2003;NO:&#x2003;44)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0061" num="0053">2. Construction and sequencing of libraries</p>
+<p id="p-0062" num="0054">The tail fin samples of 129 <i>Ictalurus punctatus </i>individuals with known sexes (50 males and 79 females) were collected, and genomic DNA of the samples was extracted by means of an animal tissue DNA extraction kit (Vazyme Biotech Co., Ltd). First-round PCR was performed as follows: after synthesized primers in SEQ ID NO: 1 to SEQ ID NO: 44 were dissolved, 10 &#x3bc;L of each primer solution was sucked, and the Primer mix working fluid was prepared and subpackaged in a 96-pore plate. A sample plate was fully thawed and vibrated and was centrifuged at 1,000 rpm for 1 s, and then the samples were added in an automatic DNA workstation. A PCR amplification system and components are shown in Table 4.2.</p>
+<p id="p-0063" num="0055">A PCR procedure was performed as follows: pre-denaturation was performed at 95&#xb0; C. for 15 min; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 60&#xb0; C. for 10 min, extension was performed at 72&#xb0; C. for 30 s, and 4 cycles were performed; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 60&#xb0; C. for 1 min, extension was performed at 72&#xb0; C. for 30 s, and 24 cycles were performed.</p>
+<p id="p-0064" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="266pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4.2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Construction of First-round PCR Amplification</entry>
+</row>
+<row>
+<entry>System of Targeted Re-sequencing Libraries</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Buffer</entry>
+<entry>Primer mix</entry>
+<entry>dNTP</entry>
+<entry>UDG</entry>
+<entry>Taq</entry>
+<entry/>
+<entry>Mg<sup>2+</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>ddH<sub>2</sub>O</entry>
+<entry>10&#xd7;</entry>
+<entry>50 nM</entry>
+<entry>2.5 mM</entry>
+<entry>5 U/&#x3bc;L</entry>
+<entry>5 U/&#x3bc;L</entry>
+<entry>Sample</entry>
+<entry>100 mM</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="9">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="28pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>10 &#x3bc;L</entry>
+<entry>3 &#x3bc;L</entry>
+<entry>1 &#x3bc;L</entry>
+<entry>2 &#x3bc;L</entry>
+<entry>0.8 &#x3bc;L</entry>
+<entry>0.1 &#x3bc;L</entry>
+<entry>0.1 &#x3bc;L</entry>
+<entry>2 &#x3bc;L</entry>
+<entry>1 &#x3bc;L</entry>
+</row>
+<row>
+<entry namest="1" nameend="9" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0065" num="0056">Second-round PCR was performed as follows: 90 &#x3bc;L of ddH2O was added to the first-round PCR products, the mixture was diluted 10 times and was left to stand at the room temperature for 10 min after instantaneous centrifugation. A diluent of the first-round PCR products was used as an amplification template of the second-round PCR. An amplification system and components are shown in Table 4.3.</p>
+<p id="p-0066" num="0057">A PCR procedure was performed as follows: pre-denaturation was performed at 95&#xb0; C. for 15 min; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 60&#xb0; C. for 4 min, extension was performed at 72&#xb0; C. for 30 s, and 5 cycles were performed; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 65&#xb0; C. for 1 min, extension was performed at 72&#xb0; C. for 30 s, and 10 cycles were performed.</p>
+<p id="p-0067" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4.3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Construction of Second-round PCR Amplification</entry>
+</row>
+<row>
+<entry>System of Targeted Re-sequencing Libraries</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="offset" colwidth="21pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Buffer</entry>
+<entry>Barcode</entry>
+<entry>dNTP</entry>
+<entry>Taq</entry>
+<entry>Sam-</entry>
+<entry>Mg<sup>2+</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>ddH<sub>2</sub>O</entry>
+<entry>10&#xd7;</entry>
+<entry>2 uM</entry>
+<entry>2.5 mM</entry>
+<entry>5 U/&#x3bc;L</entry>
+<entry>ple</entry>
+<entry>100 mM</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="28pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>20 &#x3bc;L</entry>
+<entry>2.5 &#x3bc;L</entry>
+<entry>2 &#x3bc;L</entry>
+<entry>3.6 &#x3bc;L</entry>
+<entry>0.8 &#x3bc;L</entry>
+<entry>0.1 &#x3bc;L</entry>
+<entry>10 &#x3bc;L</entry>
+<entry>1 &#x3bc;L</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0068" num="0058">After PCR amplification ended, all the PCR products were subjected to 3% agarose gel electrophoresis detection and qRT-PCR quality control, all the qualified second-round PCR amplification products were mixed, and sequencing libraries were constructed. The sequencing libraries were sequenced, according to a 150 bp paired-end sequencing strategy, on the IlluminaHiSeqX-ten sequencing platform. Original data of about 5.79 Gb were finally obtained, including 38.6 million paired-end reads of 150 bp, and the average sequencing depth was 8,102&#xd7;. The average Q30 and GC contents of sequencing data of all the samples were about 93% and about 48% respectively.</p>
+<p id="p-0069" num="0059">3. Filtering of data and screening of variations</p>
+<p id="p-0070" num="0060">After the sequencing reads of the various samples were classified according to barcode sequence information, reads containing more than 10% of poly-N sequences, low-quality reads (with more than 50% of base Phred scores lower than 5%) and reads containing wrong barcode sequences were removed by means of SOAPnuke software. Clean reads (36.48 M reads) of about 5.39 Gb were obtained for subsequent analysis.</p>
+<p id="p-0071" num="0061">These high-quality paired-end sequencing reads were compared with the zbtb38 reference gene sequence of <i>Ictalurus punctatus </i>by means of SOAP2.22 software, and the average comparison rate of the 129 samples was 93.86%. On the basis of SOAP comparison results, SNPs and Indel (Insertion deletion) variation information were retrieved from all the sequencing samples by means of SOAPsnp v1.05 and SOAPindel (v2.1) respectively. In order to ensure the accuracy of typing of the SNP molecular markers, the samples with the comparison rate lower than 80% were removed. According to statistics, 16 SNP molecular markers in total were identified in the zbtb38 gene coding region of <i>Ictalurus punctatus</i>, and no InDel markers were detected in all the samples. The 16 SNP molecular markers were located at bases 183, 366, 431, 733, 953, 1,102, 1,107, 1,855, 2,073, 2,409, 2,544, 2,825, 2,836, 3,070, 3,177 and 3,375 of the zbtb38 gene coding region, and respectively named g.zbtb38cds 183 C&#x3e;T, g.zbtb38cds 366 G&#x3e;A, g.zbtb38cds 431 G&#x3e;A, g.zbtb38cds 733 G&#x3e;A, g.zbtb38cds 953 A&#x3e;C, g.zbtb38cds 1102 G&#x3e;A, g.zbtb38cds 1107 T&#x3e;A, g.zbtb38cds 1855 G&#x3e;C, g.zbtb38cds 2073 T&#x3e;C, g.zbtb38cds 2409 T&#x3e;C, g.zbtb38cds 2544 G&#x3e;A, g.zbtb38cds 2825 T&#x3e;C, g.zbtb38cds 2836 C&#x3e;T, g.zbtb38cds 3070 A&#x3e;G, g.zbtb38cds 3177 T&#x3e;C and g.zbtb38cds 3375 A&#x3e;G.</p>
+<p id="p-0072" num="0062">4. Identification of sex-linked SNP molecular markers</p>
+<p id="p-0073" num="0063">Linkage analysis of all the SNP sites was performed by means of the SHEsis software, and the sex-linked SNP molecular markers of <i>Ictalurus punctatus </i>were determined according to the linkage analysis results. The results are shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Linkage disequilibrium analysis showed that 13 of the 16 SNP molecular markers were sex-linked SNP molecular markers, and the other 3 were internal variations of X chromosome. The 13 sex-linked SNP molecular markers were located at bases 366, 431, 733, 953, 1,102, 1,107, 2,073, 2,409, 2,825, 2,836, 3,070, 3,177 and 3,375 of the zbtb38 gene coding region, and respectively named g. zbtb38cds 366 G&#x3e;A, g. zbtb38cds 431 G&#x3e;A, g. zbtb38cds 733 G&#x3e;A, g. zbtb38cds 953 A&#x3e;C, g. zbtb38cds 1102 G&#x3e;A, g. zbtb38cds 1107 T&#x3e;A, g. zbtb38cds 2073 T&#x3e;C, g. zbtb38cds 2409 T&#x3e;C, g. zbtb38cds 2825 T&#x3e;C, g. zbtb38cds 2836 C&#x3e;T, g. zbtb38cds 3070 A&#x3e;G, g.zbtb38cds 3177 T&#x3e;C and g.zbtb38cds 3375 A&#x3e;G. The sequencing peak diagram is shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. The genotypes of the 13 sex-linked SNP molecular markers in the female and male individuals are shown in Table 5. The markers were of heterozygous genotypes in all the male individuals and were of homozygous genotypes in all the female individuals, indicating that a sex determination system of <i>Ictalurus punctatus </i>may be the XX/XY type and the males were heterogamete. Among the 13 SNPs of the zbtb38 gene coding region, six substitutions resulted in changes in amino acids encoded by zbtb38-X and zbtb38-Y genes respectively (<figref idref="DRAWINGS">FIG. <b>7</b></figref>; Table 4.4), namely er144Asn, Va1245Ile, Asn318Thr, Ala368Thr, Met942Thr and Ser1024Gly, wherein Ala368Thr was located in the first zinc finger domain, and the other seven single-base substitutions did not cause changes in amino acid coding. On the basis of the above facts, zbtb38-Y genes were deemed as male-specific genes.</p>
+<p id="p-0074" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="308pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 4.4</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Features of 13 Male Sex-linked SNP Markers in zbtb38 Gene Coding Region</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="63pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="28pt" align="left"/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<colspec colname="6" colwidth="35pt" align="left"/>
+<colspec colname="7" colwidth="35pt" align="left"/>
+<colspec colname="8" colwidth="35pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Amino</entry>
+<entry>Amino</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Acid</entry>
+<entry>Acid</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Encoded</entry>
+<entry>Encoded</entry>
+</row>
+<row>
+<entry/>
+<entry>No.</entry>
+<entry>Reference</entry>
+<entry>Variant</entry>
+<entry>Female</entry>
+<entry>Male</entry>
+<entry>by</entry>
+<entry>by</entry>
+</row>
+<row>
+<entry>No. of SNP</entry>
+<entry>ofAmplicon</entry>
+<entry>Base</entry>
+<entry>Base</entry>
+<entry>Genotype</entry>
+<entry>Genotype</entry>
+<entry>zbtb38-X</entry>
+<entry>zbtb38-Y</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>g. zbtb38ycds366</entry>
+<entry>CYH_3</entry>
+<entry>G</entry>
+<entry>A</entry>
+<entry>G/G</entry>
+<entry>G/A</entry>
+<entry>Lys</entry>
+<entry>Lys</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds431</entry>
+<entry>CYH_3</entry>
+<entry>G</entry>
+<entry>A</entry>
+<entry>G/G</entry>
+<entry>G/A</entry>
+<entry>Ser</entry>
+<entry>Asn</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds733</entry>
+<entry>CYH_5</entry>
+<entry>G</entry>
+<entry>A</entry>
+<entry>G/G</entry>
+<entry>G/A</entry>
+<entry>Val</entry>
+<entry>Ile</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds953</entry>
+<entry>CYH_6</entry>
+<entry>A</entry>
+<entry>C</entry>
+<entry>A/A</entry>
+<entry>A/C</entry>
+<entry>Asn</entry>
+<entry>Thr</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds1102</entry>
+<entry>CYH_7</entry>
+<entry>G</entry>
+<entry>A</entry>
+<entry>G/G</entry>
+<entry>G/A</entry>
+<entry>Ala</entry>
+<entry>Thr</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds1107</entry>
+<entry>CYH_7</entry>
+<entry>T</entry>
+<entry>A</entry>
+<entry>T/T</entry>
+<entry>T/A</entry>
+<entry>Leu</entry>
+<entry>Leu</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds2073</entry>
+<entry>CYH_13</entry>
+<entry>T</entry>
+<entry>C</entry>
+<entry>T/T</entry>
+<entry>T/C</entry>
+<entry>Pro</entry>
+<entry>Pro</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds2409</entry>
+<entry>CYH_14</entry>
+<entry>T</entry>
+<entry>C</entry>
+<entry>T/T</entry>
+<entry>T/C</entry>
+<entry>Ile</entry>
+<entry>Ile</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds2825</entry>
+<entry>CYH_17</entry>
+<entry>T</entry>
+<entry>C</entry>
+<entry>T/T</entry>
+<entry>T/C</entry>
+<entry>Met</entry>
+<entry>Thr</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds2836</entry>
+<entry>CYH_17</entry>
+<entry>C</entry>
+<entry>T</entry>
+<entry>C/C</entry>
+<entry>C/T</entry>
+<entry>Leu</entry>
+<entry>Leu</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds3070</entry>
+<entry>CYH_18</entry>
+<entry>A</entry>
+<entry>G</entry>
+<entry>A/A</entry>
+<entry>A/G</entry>
+<entry>Ser</entry>
+<entry>Gly</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds3177</entry>
+<entry>CYH_19</entry>
+<entry>T</entry>
+<entry>C</entry>
+<entry>T/T</entry>
+<entry>T/C</entry>
+<entry>Leu</entry>
+<entry>Leu</entry>
+</row>
+<row>
+<entry>g. zbtb38ycds3375</entry>
+<entry>CYH_20</entry>
+<entry>A</entry>
+<entry>G</entry>
+<entry>A/A</entry>
+<entry>A/G</entry>
+<entry>Gln</entry>
+<entry>Gln</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0075" num="0064">Embodiment 5: a genetic sex identification method based on SNP molecular markers</p>
+<p id="p-0076" num="0065">1. Design of primers was performed as follows: a pair of male-specific amplification primers CCMSF/R was designed according to locations of sex-linked SNP molecular markers, wherein the first to last base (g. zbtby38cds 1107 T&#x3e;A) and the sixth to last base (g. zbtb38ycds 1102 G&#x3e;A) of the forward primer as well as the first to last base (g. zbtb38ycds 2073 T&#x3e;C) of the reverse primer were male-specific bases. At the same time, a pair of control primers CCCSF/R was designed in a region without mutation sites. The sequences of the primers are shown in Table 4.5.</p>
+<p id="p-0077" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="217pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE&#x2003;4.5</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Genetic&#x2003;Sex&#x2003;Identification</entry>
+</row>
+<row>
+<entry>Primers&#x2003;of&#x2003;<i>Ictalurus&#x2003;punctatus</i></entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="112pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>Name&#x2003;of</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Primer</entry>
+<entry>Sequence&#x2003;of&#x2003;Primer&#x2003;(5&#x2032;-3&#x2032;)</entry>
+<entry>Purpose</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>CCMSF</entry>
+<entry>CCTTCAGTAGTTCAA(1102)</entry>
+<entry>Male-specific</entry>
+</row>
+<row>
+<entry/>
+<entry>CACTA(&#x2003;1107)</entry>
+<entry>Amplification</entry>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;45)</entry>
+<entry>Primer</entry>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CCMSR</entry>
+<entry>ATCCACTATGGTTATTAGTG(2073)</entry>
+<entry>Primer</entry>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;46)</entry>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CCCSF</entry>
+<entry>TTATCAGACCCGTTGGAAGC</entry>
+<entry>ControlPrimer</entry>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;60)</entry>
+<entry/>
+</row>
+<row>
+<entry> </entry>
+</row>
+<row>
+<entry>CCCSR</entry>
+<entry>CTCCTGTGTGCCAGATCTCA</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO:&#x2003;61)</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0078" num="0066">2. PCR amplification was performed as follows: 24 <i>Ictalurus punctatus </i>individuals with known sexes (12 males and 12 females) were collected, and genomic DNA was extracted. A double PCR amplification system was established by means of the male-specific amplification primers (SEQ ID NO: 45 and SEQ ID NO: 46) and the control primers (SEQ ID NO: 60 and SEQ ID NO: 61) to amplify male-specific bands and control bands at the same time. The 2&#xd7; Taq Plus Master Mix (Dye Plus) kit (Vazyme Biotech Co., Ltd) was used for PCR amplification, and had a reaction system of 2&#xd7; Taq Master Mix of 10 &#x3bc;L, the genomic DNA of 1 &#x3bc;L, each 10 &#x3bc;M primer of 0.5 &#x3bc;L, and ddH2O of 7 &#x3bc;L. Amplification conditions were as follows: pre-denaturation was performed at 94&#xb0; C. for 5 min; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 60&#xb0; C. to 51&#xb0; C. (1&#xb0; C. lowered each cycle) for 30 s, extension was performed at 72&#xb0; C. for 60 s, and 2 cycles were performed at each annealing temperature; denaturation was performed at 94&#xb0; C. for 30 s, annealing was performed at 55&#xb0; C. for 30 s, extension was performed at 72&#xb0; C. for 60 s, and 15 cycles were performed; and extension was performed at 72&#xb0; C. for 10 min.</p>
+<p id="p-0079" num="0067">3. Agarose gel electrophoresis was performed as follows: the PCR amplification products were subjected to electrophoresis by means of 1% agarose gel. After electrophoresis, the gel was placed on an UV projection detector to observe electrophoresis effects and determine the number and size of amplified bands of each sample.</p>
+<p id="p-0080" num="0068">4. Result analysis was performed as follows: in the male individuals, the male-specific amplification primers could amplify bands of 1,005 bp, and the control primers could amplify bands of 220 bp; and in the female individuals, only the control primers could amplify bands. The results are shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>. According to the locations of the sex-linked SNP molecular markers, three base mismatches were artificially made in the male-specific amplification primers (SEQ ID NO: 45 and SEQ ID NO: 46). The male-specific amplification primers could not be annealed with the genomic DNA of the female individuals, so that the bands could not be amplified in the female individuals.</p>
+<p id="p-0081" num="0069">5. Verification of the genetic sex identification method based on the SNP molecular markers was performed as follows: 96 samples were randomly selected from the sample library of the genetics and breeding center of <i>Ictalurus punctatus </i>for sex identification, so as to verify the accuracy of the genetic sex identification method. After the amplification products were subjected to 1% agarose gel electrophoresis, genetic sex identification results of the selected samples were compared with sex information recorded in the database, and the results showed that the accuracy of the genetic sex identification method reached 100%.</p>
+<p id="p-0082" num="0070">The embodiment provides the brand-new sex identification method of <i>Ictalurus punctatus</i>. The sex-linked SNP molecular markers of the male fishes are developed, the primers are designed by means of the locations of the markers, efficient and scientific identification is performed, through PCR, on the sexes of <i>Ictalurus punctatus </i>to be tested, and the accuracy reaches 100%.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-sequence-list-doc id="SEQLST-1">
+<sequence-list file="US20220411882A1-20221229-S00001.XML" carriers="internal-electronic" seq-file-type="ST.25"/>
+</us-sequence-list-doc>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A single nucleotide polymorphism (SNP) molecular marker for a weight gain trait selection of <i>Ictalurus punctatus</i>, comprising at least one of following SNP molecular markers:
+<claim-text>a first SNP molecular marker for the weight gain trait selection, wherein the first SNP molecular marker is located at base 14,657,971 of chromosome 20, a mutation type of the first SNP molecular marker is C/G, the first SNP molecular marker is named g. 20.14657971 C&#x3e;T, and a nucleotide sequence of the first SNP molecular marker is shown in SEQ ID NO: 69;</claim-text>
+<claim-text>a second SNP molecular marker for the weight gain trait selection, wherein the second SNP molecular marker is located at base 14,658,012 of chromosome 20, a mutation type of the second SNP molecular marker is C/T, the second SNP molecular marker is named g. 20. 14658012 C&#x3e;G, and a nucleotide sequence of the second SNP molecular marker is shown in SEQ ID NO: 62;</claim-text>
+<claim-text>a first sex-linked SNP molecular marker based on zbtb38-Y, wherein the first sex-linked SNP molecular marker is located at base 366 of a zbtb38-Y gene coding region, a mutation type of the first sex-linked SNP molecular marker is G/A, the first sex-linked SNP molecular marker is named g.zbtb38ycds 366 G&#x3e;A, and a nucleotide sequence of the first sex-linked SNP molecular marker is shown in SEQ ID NO: 47;</claim-text>
+<claim-text>a second sex-linked SNP molecular marker based on zbtb38-Y, wherein the second sex-linked SNP molecular marker is located at base 431 of the zbtb38-Y gene coding region, a mutation type of the second sex-linked SNP molecular marker is G/A, the second sex-linked SNP molecular marker is named g.zbtb38ycds 431 G&#x3e;A, and a nucleotide sequence of the second sex-linked SNP molecular marker is shown in SEQ ID NO: 48;</claim-text>
+<claim-text>a third sex-linked SNP molecular marker based on zbtb38-Y, wherein the third sex-linked SNP molecular marker is located at base 733 of the zbtb38-Y gene coding region, a mutation type of the third sex-linked SNP molecular marker is G/A, the third sex-linked SNP molecular marker is named g.zbtb38ycds 733 G&#x3e;A, and a nucleotide sequence of the third sex-linked SNP molecular marker is shown in SEQ ID NO: 49;</claim-text>
+<claim-text>a fourth sex-linked SNP molecular marker based on zbtb38-Y, wherein the fourth sex-linked SNP molecular marker is located at base 953 of the zbtb38-Y gene coding region, a mutation type of the fourth sex-linked SNP molecular marker is A/C, the fourth sex-linked SNP molecular marker is named g.zbtb38ycds 953 A&#x3e;C, and a nucleotide sequence of the fourth sex-linked SNP molecular marker is shown in SEQ ID NO: 50;</claim-text>
+<claim-text>a fifth sex-linked SNP molecular marker based on zbtb38-Y, wherein the fifth sex-linked SNP molecular marker is located at base 1,102 of the zbtb38-Y gene coding region, a mutation type of the fifth sex-linked SNP molecular marker is G/A, the fifth sex-linked SNP molecular marker is named g.zbtb38ycds 1102 G&#x3e;A, and a nucleotide sequence of the fifth sex-linked SNP molecular marker is shown in SEQ ID NO: 51;</claim-text>
+<claim-text>a sixth sex-linked SNP molecular marker based on zbtb38-Y, wherein the sixth sex-linked SNP molecular marker is located at base 1,107 of the zbtb38-Y gene coding region, a mutation type of the sixth sex-linked SNP molecular marker is T/A, the sixth sex-linked SNP molecular marker is named g.zbtb38ycds 1107 T&#x3e;A, and a nucleotide sequence of the sixth sex-linked SNP molecular marker is shown in SEQ ID NO: 52;</claim-text>
+<claim-text>a seventh sex-linked SNP molecular marker based on zbtb38-Y, wherein the seventh sex-linked SNP molecular marker is located at base 2,073 of the zbtb38-Y gene coding region, a mutation type of the seventh sex-linked SNP molecular marker is T/C, the seventh sex-linked SNP molecular marker is named g.zbtb38ycds 2073 T&#x3e;C, and a nucleotide sequence of the seventh sex-linked SNP molecular marker is shown in SEQ ID NO: 53;</claim-text>
+<claim-text>an eighth sex-linked SNP molecular marker based on zbtb38-Y, wherein the eighth sex-linked SNP molecular marker is located at base 2,409 of the zbtb38-Y gene coding region, a mutation type of the eighth sex-linked SNP molecular marker is T/C, the eighth sex-linked SNP molecular marker is named g.zbtb38ycds 2409 T&#x3e;C, and a nucleotide sequence of the eighth sex-linked SNP molecular marker is shown in SEQ ID NO: 54;</claim-text>
+<claim-text>a ninth sex-linked SNP molecular marker based on zbtb38-Y, wherein the ninth sex-linked SNP molecular marker is located at base 2,825 of the zbtb38-Y gene coding region, a mutation type of the ninth sex-linked SNP molecular marker is T/C, the ninth sex-linked SNP molecular marker is named g.zbtb38ycds 2825 T&#x3e;C, and a nucleotide sequence of the ninth sex-linked SNP molecular marker is shown in SEQ ID NO: 55;</claim-text>
+<claim-text>a tenth sex-linked SNP molecular marker based on zbtb38-Y, wherein the tenth sex-linked SNP molecular marker is located at base 2,836 of the zbtb38-Y gene coding region, a mutation type of the tenth sex-linked SNP molecular marker is C/T, the tenth sex-linked SNP molecular marker is named g.zbtb38ycds 2836 C&#x3e;T, and a nucleotide sequence of the tenth sex-linked SNP molecular marker is shown in SEQ ID NO: 56;</claim-text>
+<claim-text>an eleventh sex-linked SNP molecular marker based on zbtb38-Y, wherein the eleventh sex-linked SNP molecular marker is located at base 3,070 of the zbtb38-Y gene coding region, a mutation type of the eleventh sex-linked SNP molecular marker is A/G, the eleventh sex-linked SNP molecular marker is named g.zbtb38ycds 3070 A&#x3e;G, and a nucleotide sequence of the eleventh sex-linked SNP molecular marker is shown in SEQ ID NO: 57;</claim-text>
+<claim-text>a twelfth sex-linked SNP molecular marker based on zbtb38-Y, wherein the twelfth sex-linked SNP molecular marker is located at base 3,177 of the zbtb38-Y gene coding region, a mutation type of the twelfth sex-linked SNP molecular marker is T/C, the twelfth sex-linked SNP molecular marker is named g.zbtb38ycds 3177 T&#x3e;C, and a nucleotide sequence of the twelfth sex-linked SNP molecular marker is shown in SEQ ID NO: 58; and</claim-text>
+<claim-text>a thirteenth sex-linked SNP molecular marker based on zbtb38-Y, wherein the thirteenth sex-linked SNP molecular marker is located at base 3,375 of the zbtb38-Y gene coding region, a mutation type of the thirteenth sex-linked SNP molecular marker is A/G, the thirteenth sex-linked SNP molecular marker is named g.zbtb38ycds 3375 A&#x3e;G, and a nucleotide sequence of the thirteenth sex-linked SNP molecular marker is shown in SEQ ID NO: 59.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. A screening method of the SNP molecular marker for the weight gain trait selection of the <i>Ictalurus punctatus </i>according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising the following steps:
+<claim-text>1) extracting DNA of fish samples to be tested, constructing genome re-sequencing libraries of the <i>Ictalurus punctatus</i>, and performing PE150 paired-end sequencing on the genome re-sequencing libraries on a BGISEQ-500 sequencing platform;</claim-text>
+<claim-text>2) obtaining a monthly weight gain of the fish samples to be tested;</claim-text>
+<claim-text>3) performing sequencing data filtering and SNP typing: after filtering and quality control, original sequencing data are compared with a reference genome of the <i>Ictalurus punctatus</i>, and SNPs are detected by a GATK software, captured variations are annotated by an ANNOVAR software, and genetic locations of genetic variations are determined by a VCFtools software; and</claim-text>
+<claim-text>4) performing a genome-wide association study (GWAS) of growth traits by a single site mixed linear model GWAS (EMMAX) of SNP &#x26; Variation Suit v8.5.0 software to obtain a target SNP molecular marker.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. A method for rapidly detecting genetic sexes of the <i>Ictalurus punctatus </i>with the SNP molecular marker according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising the following steps:
+<claim-text>1) designing peripheral primers, allele-specific extension (ASE) primers and DNA probes for amplifying SNP sites for the genetic sex identification of the <i>Ictalurus punctatus</i>, wherein sequences of the peripheral primers, the ASE primers and the DNA probes are shown in SEQ ID NO: 63 to SEQ ID NO: 66, and last bases at 3&#x2032; ends of the ASE primers are male-specific bases of the <i>Ictalurus punctatus; </i></claim-text>
+<claim-text>2) marking 5&#x2032; ends of the ASE primers with FAM fluorophores, marking 3&#x2032; ends of probes ASE-DP with Biotin, and testing a relationship between secondary structures of the ASE primers and the probes ASE-DP by an Oligo software, so as to avoid primer dimers;</claim-text>
+<claim-text>3) performing a polymerase chain reaction (PCR) amplification by DNA of fish samples to be tested and the peripheral primers in step 1) to obtain first-round PCR amplification products;</claim-text>
+<claim-text>4) performing a second-round PCR extension reaction and a nucleic acid hybridization by the first-round PCR amplification products in step 3) and the ASE primers and the probes ASE-DP in step 1) to obtain second-round PCR amplification products and ASE-DP hybridization nucleic acid products; and</claim-text>
+<claim-text>5) detecting the ASE-DP hybridization nucleic acid products by rapid nucleic acid test strips, and judging the genetic sexes of the fish samples to be tested according to color development results of the rapid nucleic acid test strips.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. A method for screening sex-linked SNP molecular markers of <i>Ictalurus punctatus </i>on the basis of male-specific genes zbtb38-Y of the <i>Ictalurus punctatus</i>, comprising the following steps:
+<claim-text>1) designing specific primers for zbtb38 gene coding regions of the <i>Ictalurus punctatus</i>, wherein sequences of the specific primers are shown in SEQ ID NO: 1 to SEQ ID NO: 44;</claim-text>
+<claim-text>2) performing a first-round PCR amplification by genomic DNA of female and male <i>Ictalurus punctatus </i>and the specific primers to obtain first-round products;</claim-text>
+<claim-text>3) performing a second-round PCR amplification by the first-round products in step 2) and a barcode to obtain second-round female and male amplification products;</claim-text>
+<claim-text>4) constructing sequencing libraries after mixing the second-round female and male amplification products in step 3), wherein the sequencing libraries are subjected to 150 bp paired-end sequencing on an Illumina HiSeqX-ten sequencing platform; and</claim-text>
+<claim-text>5) comparing original sequencing data with zbtb38 genes after filtering original sequencing data, and regarding SNP molecular markers, linked with sexes, in samples with a comparison rate greater than 80% as the sex-linked SNP molecular markers.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. A method of using the SNP molecular marker for the genetic sex identification according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising the following steps:
+<claim-text>1) designing male-specific amplification primers for the sex-linked SNP molecular markers, wherein in the male-specific amplification primers, the first to last base (g.zbtb38ycds 1107 T&#x3e;A) and the sixth to last base (g.zbtb38ycds 1102 G&#x3e;A) of a forward primer sequence are male-specific bases, and the first to last base (g.zbtb38ycds 2073 T&#x3e;C) of a reverse primer sequence is a male-specific base;</claim-text>
+<claim-text>2) designing a pair of control primers in a region without mutation sites, wherein the control primers are configured to amplify bands in both female and male individuals; and</claim-text>
+<claim-text>3) establishing a double PCR amplification reaction by the male-specific amplification primers and the control primers, and detecting PCR amplification products by a 1% agarose gel.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein sequences of the male-specific amplification primers are shown in SEQ ID NO: 45 and SEQ ID NO: 46.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A primer for developing an SNP molecular marker for a trait selection of <i>Ictalurus punctatus</i>, wherein the primer comprises one or more of sequences shown in SEQ ID NO: 1 to SEQ ID NO: 69.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

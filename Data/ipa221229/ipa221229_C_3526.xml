@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411916A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411916</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17930728</doc-number>
+<date>20220909</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2019-0032027</doc-number>
+<date>20190320</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>KR</country>
+<doc-number>10-2019-0075870</doc-number>
+<date>20190625</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>54</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>51</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>56</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>543</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>51</main-group>
+<subgroup>0512</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>56</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e79">APPARATUS FOR AND METHOD OF MANUFACTURING SEMICONDUCTOR DEVICE</invention-title>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16714344</doc-number>
+<date>20191213</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17930728</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Samsung Electronics Co., Ltd.</orgname>
+<address>
+<city>Suwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<residence>
+<country>KR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>KIM</last-name>
+<first-name>KEEWON</first-name>
+<address>
+<city>Suwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>KIM</last-name>
+<first-name>DAEHAN</first-name>
+<address>
+<city>Suwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>LEE</last-name>
+<first-name>MINKYUNG</first-name>
+<address>
+<city>Suwon-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed are an apparatus for and a method of manufacturing a semiconductor device. The apparatus includes a chamber, an evaporator that evaporates an organic source to provide a source gas on a substrate in the chamber, a vacuum pump that pumps the source gas and air from the chamber, an exhaust line between the vacuum pump and the chamber, and an analyzer connected to the exhaust line. The analyzer detects a derived molecule produced from the organic source and determines a replacement time of the evaporate</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="88.56mm" wi="158.75mm" file="US20220411916A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.33mm" wi="148.25mm" orientation="landscape" file="US20220411916A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="218.36mm" wi="136.74mm" file="US20220411916A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.38mm" wi="137.84mm" orientation="landscape" file="US20220411916A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="232.33mm" wi="148.25mm" orientation="landscape" file="US20220411916A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="232.33mm" wi="156.29mm" orientation="landscape" file="US20220411916A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="196.51mm" wi="138.26mm" orientation="landscape" file="US20220411916A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="197.53mm" wi="139.45mm" file="US20220411916A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This U.S. nonprovisional application is a Division of co-pending U.S. patent application Ser. No. 16/714,344, filed on Dec. 13, 2019, which claims priority under 35 U.S.C. &#xa7; 119 to Korean Patent Application Nos. 10-2019-0032027, filed on Mar. 20, 2019, and 10-2019-0075870, filed on Jun. 25, 2019, in the Korean Intellectual Property Office, the entire contents of which are hereby incorporated by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relate to a semiconductor device, and more particularly, to an apparatus for manufacturing and a method of manufacturing a semiconductor device.</p>
+<heading id="h-0003" level="1">DISCUSSION OF THE RELATED ART</heading>
+<p id="p-0004" num="0003">A complementary metal oxide semiconductor (CMOS) semiconductor device may typically include an integrated circuit in which complementary P-channel and N-channel transistors are formed on a common semiconductor substrate. The CMOS semiconductor device may be provided with a color filter formed of an organic thin film. An organic deposition apparatus may be used to form the organic thin film on the semiconductor substrate. The organic deposition apparatus may include an evaporator which evaporates an organic source. The evaporated organic source may be directly disposed on at the semiconductor substrate, or a showerhead may be used to dispense the evaporated organic source onto the semiconductor substrate.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">Some example embodiments of the present inventive concepts provide a semiconductor device manufacturing apparatus which is capable of determining a replacement time of an evaporator.</p>
+<p id="p-0006" num="0005">According to some example embodiments of the present inventive concepts, an apparatus for manufacturing a semiconductor device includes a chamber. An evaporator evaporates an organic source to provide a source gas on a substrate within the chamber. A vacuum pump pumps the source gas and air from the chamber. An exhaust line is disposed between the vacuum pump and the chamber. An analyzer is connected to the exhaust line. The analyzer detects a derived molecule produced from the organic source and determines a replacement time of the evaporator.</p>
+<p id="p-0007" num="0006">According to some example embodiments of the present inventive concepts, an apparatus for manufacturing a semiconductor device includes a chamber. An evaporator evaporates an organic source to provide a source gas into the chamber. A low vacuum pump pumps the source gas and air in the chamber at a first vacuum pressure. A high vacuum pump pumps the source gas and the air in the chamber at a second vacuum pressure that is greater than the first vacuum pressure. The high vacuum pump is disposed between the low vacuum pump and the chamber. A foreline connects the high vacuum pump to the chamber. An analyzer is disposed on the foreline. The analyzer detects a derived molecule produced from the organic source. A controller receives a detection signal of the derived molecule and obtains a partial pressure of the derived molecule. The controller outputs an interlock control signal to replace the evaporator when the partial pressure increases to a value equal to or greater than a reference partial pressure.</p>
+<p id="p-0008" num="0007">According to some example embodiments of the present inventive concepts, a method of manufacturing a semiconductor device includes heating an organic source in an evaporator to provide a source gas on a substrate. The source gas, a derived molecule, and air are pumped through an exhaust line connected to a chamber. An analyzer is used to detect the derived molecule. The analyzer is connected to the exhaust line. It is determined whether or not a partial pressure of the derived molecule is equal to or greater than a reference partial pressure.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">A more complete appreciation of the present disclosure and many of the attendant aspects thereof will be readily obtained as the same becomes better understood by reference to the following detailed description when considered in connection with the accompanying drawings, wherein:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic diagram illustrating a semiconductor device manufacturing apparatus according to some example embodiments of the present inventive concepts;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a graph illustrating a pressure of a chamber depicted in <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a graph illustrating a partial pressure of a derived molecule detected in an analyzer depicted in <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a schematic diagram illustrating an example of an analyzer illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic diagram illustrating a semiconductor device manufacturing apparatus according to some example embodiments of the present inventive concepts;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic diagram illustrating a semiconductor device manufacturing apparatus according to some example embodiments of the present inventive concepts;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a schematic diagram illustrating an analyzer of <figref idref="DRAWINGS">FIG. <b>4</b></figref>; and</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a flow chart illustrating a method of manufacturing a semiconductor device according to some example embodiments of the present inventive concepts.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0018" num="0017">In describing exemplary embodiments of the present disclosure illustrated in the drawings, specific terminology is employed for sake of clarity. However, the present disclosure is not intended to be limited to the specific terminology so selected, and it is to be understood that each specific element includes all technical equivalents which operate in a similar manner.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic diagram illustrating a semiconductor device manufacturing apparatus <b>100</b> according to some example embodiments of the present inventive concepts.</p>
+<p id="p-0020" num="0019">Referring to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the semiconductor device manufacturing apparatus <b>100</b> may include a physical vapor deposition (PVD) apparatus or an organic deposition apparatus. Alternatively, the semiconductor device manufacturing apparatus <b>100</b> may include a chemical vapor deposition (CVD) apparatus or a sputter, but the present inventive concepts are not limited thereto and other means of deposition may be used. The semiconductor device manufacturing apparatus <b>100</b> may include, for example, a chamber <b>110</b>, an evaporator <b>120</b>, an exhauster <b>130</b>, a vacuum pump <b>140</b>, an exhaust line <b>150</b>, an analyzer <b>160</b>, and a controller <b>170</b>. As used herein, the evaporator <b>120</b> may be understood to be a device configured to evaporate a material from a solid form to a gaseous form by applying heat to the material in solid form. Thus, the evaporator may be embodied as a heating element. As used herein, the exhauster <b>130</b> may be understood to be a device configured to release or ventilate evaporated particles and other gasses to the outside. Thus, the exhauster, may be a vent or port. As used herein, the analyzer <b>160</b> may be embodied as a computer device, system-on-chip, or some other digital processor in conjunction with one or more sensors. As used herein, the controller <b>170</b> may be embodied as a computer device, system-on-chip, or some other digital processor.</p>
+<p id="p-0021" num="0020">The chamber <b>110</b> may hermetically seal a substrate W from the outside. For example, the chamber <b>110</b> may have a showerhead <b>112</b> and a susceptor <b>114</b>. The showerhead <b>112</b> may be disposed in an upper portion of the chamber <b>110</b>. The susceptor <b>114</b> may be placed in a lower portion of the chamber <b>110</b>. The showerhead <b>112</b> may provide the substrate W with a source gas <b>128</b> to deposit an organic thin film. The susceptor <b>114</b> may receive the substrate W thereon. The susceptor <b>114</b> may include a heater plate which heats the substrate W.</p>
+<p id="p-0022" num="0021">The evaporator <b>120</b> may be connected to the showerhead <b>112</b> of the chamber <b>110</b>. The evaporator <b>120</b> may evaporate an organic source <b>122</b> (e.g. an organic source material in solid form) to provide the source gas <b>128</b> to the showerhead <b>112</b>. Alternatively, the evaporator <b>120</b> may be disposed within the chamber <b>110</b>. For example, the evaporator <b>120</b> may include a crucible or an evaporation boat. The evaporator <b>120</b> may heat the organic source <b>122</b> to a high temperature of about 300&#xb0; C. to produce the source gas <b>128</b>. The organic source <b>122</b> may be evaporated and provided into the chamber <b>110</b>. When the organic source <b>122</b> is entirely evaporated in the evaporator <b>120</b>, the evaporator <b>120</b> may be replaced with an evaporator <b>120</b> having a new source <b>122</b>.</p>
+<p id="p-0023" num="0022">In addition, during an idle time, the evaporator <b>120</b> may preliminarily heat the organic source <b>122</b> to temperatures between 200&#xb0; C. and 250&#xb0; C. so that the organic source <b>122</b> does not evaporate but is more ready to evaporate when in use. The organic source <b>122</b> may be thermally degraded either in the evaporator <b>120</b> or in a gas supply line <b>124</b> which will be discussed below, with the result that a derived molecule (or derivative) <b>129</b> may be induced. The derived molecule <b>129</b> may have a chemical composition that is different from that of the source gas <b>128</b>. Each of the organic source <b>122</b> and the source gas <b>128</b> may have a molecular weight equal to or greater than about 300. For example, each of the organic source <b>122</b> and the source gas <b>128</b> may have a molecular weight of about 400 to about 1500. The derived molecule <b>129</b> may be lighter than the source gas <b>128</b>. The derived molecule <b>129</b> may have a molecular weight of about 50 to about 250. For example, the derived molecule <b>129</b> may include anthracene, carbazole, thiophene, and/or aniline. The presence of the derived molecule <b>129</b> may increase a pressure of the chamber <b>110</b>, and thus may cause failure of an organic deposition process. When it is determined that the derived molecule <b>129</b> is produced in large quantity, the evaporator <b>120</b> may be replaced.</p>
+<p id="p-0024" num="0023">A gas supply line <b>124</b> and a gas supply valve <b>126</b> may be provided between the evaporator <b>120</b> and the chamber <b>110</b>. The source gas <b>128</b> may be provided through the gas supply line <b>124</b> to the showerhead <b>112</b>. The gas supply line <b>124</b> may be heated to a high temperature of about 250&#xb0; C. to prevent the source gas <b>128</b> from being adsorbed. The gas supply valve <b>126</b> may be installed on the gas supply line <b>124</b>, adjacent to the evaporator <b>120</b>. The gas supply valve <b>126</b> may switch the supply of the source gas <b>128</b> on and off.</p>
+<p id="p-0025" num="0024">The exhauster <b>130</b> may be connected to the lower portion of the chamber <b>110</b>. The exhauster <b>130</b> may exhaust the source gas <b>128</b> and air from the chamber <b>110</b>. For example, the exhauster <b>130</b> may include a scrubber. The exhauster <b>130</b> may purge the source gas <b>128</b>.</p>
+<p id="p-0026" num="0025">The vacuum pump <b>140</b> may be installed between the exhauster <b>130</b> and the chamber <b>110</b>. The vacuum pump <b>140</b> may pump the source gas <b>128</b> and air from the chamber <b>110</b>. For example, the vacuum pump <b>140</b> may include a low vacuum pump <b>142</b> and a high vacuum pump <b>144</b>. The low vacuum pump <b>142</b> and the high vacuum pump <b>144</b> may be connected in series. The low vacuum pump <b>142</b> may be configured to provide a lower vacuum pressure than the high vacuum pump <b>144</b>.</p>
+<p id="p-0027" num="0026">The low vacuum pump <b>142</b> may be connected between the high vacuum pump <b>144</b> and the exhauster <b>130</b>. The low vacuum pump <b>142</b> may be configured such the source gas <b>128</b> and air in the chamber <b>110</b> is pumped at a low vacuum pressure of about 1.0&#xd7;10<sup>&#x2212;3 </sup>Torr. The low vacuum pump <b>142</b> may include a dry pump or a rotary pump.</p>
+<p id="p-0028" num="0027">The high vacuum pump <b>144</b> may be connected between the low vacuum pump <b>142</b> and the chamber <b>110</b>. The high vacuum pump <b>144</b> may be configured such that the source gas <b>128</b> and air in the chamber <b>110</b> are pumped at a high vacuum pressure of about 1.0&#xd7;10<sup>&#x2212;6 </sup>Torr. The high vacuum pump <b>144</b> may include a cryo pump or turbo pump.</p>
+<p id="p-0029" num="0028">The exhaust line <b>150</b> may connect the exhauster <b>130</b> to the chamber <b>110</b>. The exhaust line <b>150</b> may be connected to the low and high vacuum pumps <b>142</b> and <b>144</b> of the vacuum pump <b>140</b>. The low vacuum pump <b>142</b> may be disposed adjacent to the exhauster <b>130</b>, and the high vacuum pump <b>144</b> may be disposed adjacent to the chamber <b>110</b>. For example, the exhaust line <b>150</b> may include a foreline <b>152</b> and a roughing line <b>154</b>.</p>
+<p id="p-0030" num="0029">The foreline <b>152</b> may allow the high vacuum pump <b>144</b> to have a serial connection between the chamber <b>110</b> and the low vacuum pump <b>142</b>. A foreline valve <b>151</b> may be provided between the high vacuum pump <b>144</b> and the low vacuum pump <b>142</b>. Alternatively, the foreline valve <b>151</b> may be installed on the foreline <b>152</b> between the chamber <b>110</b> and the high vacuum pump <b>144</b>, but the present inventive concepts are not limited thereto.</p>
+<p id="p-0031" num="0030">The roughing line <b>154</b> may directly connect the low vacuum pump <b>142</b> to the chamber <b>110</b>, and thus may bypass the high vacuum pump <b>144</b>. For example, the foreline <b>152</b> and the roughing line <b>154</b> may be connected in parallel between the chamber <b>110</b> and the low vacuum pump <b>142</b>. The high vacuum pump <b>144</b> may be connected to the foreline <b>152</b>. A roughing valve <b>153</b> may be provided on the roughing line <b>154</b>. The roughing valve <b>153</b> may be switched opposite to the foreline valve <b>151</b>. When air is initially pumped from chamber <b>110</b>, the roughing valve <b>153</b> may be opened, and the foreline valve <b>151</b> may be closed. When the roughing valve <b>153</b> is opened and the foreline valve <b>151</b> is closed, the low vacuum pump <b>142</b> may operate such that air is pumped at a low vacuum pressure from the chamber <b>110</b>. Afterwards, the roughing valve <b>153</b> may be closed, and the foreline valve <b>151</b> may be opened. When the roughing valve <b>153</b> is closed and the foreline valve <b>151</b> is opened, the high vacuum pump <b>144</b> may operate such that air is pumped at a high vacuum pressure from the chamber <b>110</b>.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a graph illustrating a pressure <b>111</b> of the chamber <b>110</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0033" num="0032">Referring to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the pressure <b>111</b> of the chamber <b>110</b> may come to a point of a rapid increase with usage time of the evaporator <b>120</b>. When the evaporator <b>120</b> is used for an initial time duration (e.g., about 3 hours or less), the pressure <b>111</b> of the chamber <b>110</b> may be uniformly maintained at about 1.0&#xd7;10<sup>&#x2212;6 </sup>Torr. After the initial usage time of the evaporator <b>120</b> (e.g., after about 3 hours or more), the pressure <b>111</b> of the chamber <b>110</b> may more quickly increase from about 1.0&#xd7;10<sup>&#x2212;6 </sup>Torr to about 1.0&#xd7;10<sup>&#x2212;5 </sup>Torr. After the evaporator <b>120</b> is replaced, the pressure <b>111</b> of the chamber <b>110</b> may decrease back to about 1.0&#xd7;10<sup>&#x2212;6 </sup>Torr.</p>
+<p id="p-0034" num="0033">Referring again to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the analyzer <b>160</b> may be connected to the foreline <b>152</b> between the high vacuum pump <b>144</b> and the chamber <b>110</b>. The analyzer <b>160</b> may detect the presence and/or quantity of and/or otherwise analyze the derived molecule <b>129</b> of the source gas <b>128</b>, and then determine a replacement time of the evaporator <b>120</b>. For example, the analyzer <b>160</b> may include a residual gas analyzer or a time-of-flight mass spectrometer.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a graph illustrating a partial pressure <b>113</b> of the derived molecule <b>129</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and a reference partial pressure <b>115</b>.</p>
+<p id="p-0036" num="0035">Referring to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, the analyzer <b>160</b> may measure the partial pressure <b>113</b> of the derived molecule <b>129</b>. The partial pressure <b>113</b> may be equal to or less than about 1.0&#xd7;10<sup>&#x2212;10 </sup>Torr when the evaporator <b>120</b> is initially used. After the evaporator <b>120</b> is used, degradation of the organic source <b>122</b> may cause the partial pressure <b>113</b> to increase to a value equal to or greater than the reference partial pressure <b>115</b>. The reference partial pressure <b>115</b> may be, for example, about 2.0&#xd7;10<sup>10 </sup>Torr. When the partial pressure <b>113</b> increases to a value equal to or greater than the reference partial pressure <b>115</b>, the evaporator <b>120</b> may be replaced. Therefore, the analyzer <b>160</b> may detect the derived molecule <b>129</b> to determine the replacement time of the evaporator <b>120</b>.</p>
+<p id="p-0037" num="0036">Referring to <figref idref="DRAWINGS">FIGS. <b>2</b> and <b>3</b></figref>, the partial pressure <b>113</b> of the derived molecule <b>129</b> may be proportional to the pressure <b>111</b> of the chamber <b>110</b>. When the pressure <b>111</b> of the chamber <b>110</b> increases, the partial pressure <b>113</b> of the derived molecule <b>129</b> may increase to a value equal to or greater than the reference partial pressure <b>115</b>. Therefore, then analyzer <b>160</b> may measure the derived molecule <b>129</b> to determine an increase in the pressure <b>111</b> of the chamber <b>110</b> or a cause of the increase in the pressure <b>111</b> of the chamber <b>110</b>. In addition, the analyzer <b>160</b> may determine a kind of the derived molecule <b>129</b>. The partial pressure <b>113</b> may be different based on the kind of the derived molecule <b>129</b>.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a schematic diagram illustrating an example of the analyzer <b>160</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0039" num="0038">Referring to <figref idref="DRAWINGS">FIG. <b>4</b></figref>, the analyzer <b>160</b> may include a housing <b>180</b>, a first ionizer <b>182</b>, an aperture <b>184</b>, a mass filter <b>186</b>, and a detector <b>188</b>. The detector <b>188</b> may be embodied as one or more sensors.</p>
+<p id="p-0040" num="0039">The housing <b>180</b> may have an inlet <b>181</b>. The inlet <b>181</b> may be connected to the foreline <b>152</b>. The derived molecule <b>129</b> may be introduced through the inlet <b>181</b> into the housing <b>180</b>.</p>
+<p id="p-0041" num="0040">The first ionizer <b>182</b> may be disposed in the housing <b>180</b>. The first ionizer <b>182</b> may ionize the derived molecule <b>129</b>. The first ionizer <b>182</b> may include a filament <b>183</b>, a faraday cup <b>185</b>, and an acceleration electrode <b>187</b>. The filament <b>183</b> may provide the derived molecule <b>129</b> with an electron beam to charge the derived molecule <b>129</b>. The faraday cup <b>185</b> may be placed between the filament <b>183</b> and the acceleration electrode <b>187</b>. The faraday cup <b>185</b> may protect the charged derived molecule <b>129</b> from the outside. The acceleration electrode <b>187</b> may be disposed between the faraday cup <b>185</b> and the aperture <b>184</b>. The acceleration electrode <b>187</b> may accelerate the charged derived molecule <b>129</b>. The derived molecule <b>129</b> may be provided to the aperture <b>184</b> and the mass filter <b>186</b>.</p>
+<p id="p-0042" num="0041">The aperture <b>184</b> may be disposed between the acceleration electrode <b>187</b> and the mass filter <b>186</b>. The aperture <b>184</b> may focus the accelerated derived molecule <b>129</b> on the mass filter <b>186</b>. Alternatively, the aperture <b>184</b> may adjust a flow rate of the derived molecule <b>129</b>, but the present inventive concepts are not limited thereto.</p>
+<p id="p-0043" num="0042">The mass filter <b>186</b> may be disposed between the aperture <b>184</b> and the detector <b>188</b>. For example, the mass filter <b>186</b> may include a quadrupole mass filter. The mass filter <b>186</b> may be configured to filter impurities and to allow the derived molecule <b>129</b> to pass therethrough. For example, the mass filter <b>186</b> may electrostatically filter impurities that are lighter than the derived molecule <b>129</b>. For example, the mass filter <b>186</b> may filter impurities that are heavier than the derived molecule <b>129</b>. A first heater <b>189</b> may be provided outside the mass filter <b>186</b>. The first heater <b>189</b> may be disposed between an inner wall of the housing <b>180</b> and an outer wall of the mass filter <b>186</b>. The first heater <b>189</b> may heat and clean the mass filter <b>186</b>.</p>
+<p id="p-0044" num="0043">The housing <b>180</b> may be provided with the detector <b>188</b> on its sidewall opposite to the inlet <b>181</b>. The detector <b>188</b> may detect the derived molecule <b>129</b>. For example, the detector <b>188</b> may include a collector electrode.</p>
+<p id="p-0045" num="0044">Referring once more to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the controller <b>170</b> may be connected to the gas supply valve <b>126</b>, the foreline valve <b>151</b>, the roughing valve <b>153</b>, and the analyzer <b>160</b>. The controller <b>170</b> may control the gas supply valve <b>126</b>, the foreline valve <b>151</b>, and the roughing valve <b>153</b>. The controller <b>170</b> may use detection signals from the detector <b>188</b> of the analyzer <b>160</b>, and may analyze the derived molecule <b>129</b>. For example, the controller <b>170</b> may count the number of derived molecules <b>129</b> per unit time, and then may obtain the partial pressure <b>113</b> of the derived molecule <b>129</b>. Based on detection results of the derived molecule <b>129</b>, the controller <b>170</b> may monitor the pressure <b>111</b> of the chamber <b>110</b>. The controller <b>170</b> may determine the kind of the derived molecule <b>129</b>. When the partial pressure <b>113</b> of the derived molecule <b>129</b> increases, the controller <b>170</b> may output an interlock control signal to replace the evaporator <b>120</b>.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a schematic diagram illustrating an example of the semiconductor device manufacturing apparatus <b>100</b> according to the present inventive concepts.</p>
+<p id="p-0047" num="0046">Referring to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the semiconductor device manufacturing apparatus <b>100</b> may further include a second ionizer <b>192</b> and a magnet <b>194</b>. The second ionizer <b>192</b> and the magnet <b>194</b> may increase efficiency in detection of the derived molecule <b>129</b>.</p>
+<p id="p-0048" num="0047">The second ionizer <b>192</b> may be connected to the foreline <b>152</b> between the chamber <b>110</b> and the high vacuum pump <b>144</b>. The second ionizer <b>192</b> may charge the source gas <b>128</b> and the derived molecule <b>129</b>.</p>
+<p id="p-0049" num="0048">The magnet <b>194</b> may be disposed between the second ionizer <b>192</b> and the analyzer <b>160</b>. In addition, the magnet <b>194</b> may be connected between the foreline <b>152</b> and the analyzer <b>160</b>. The magnet <b>194</b> may use an electromagnetic field to selectively extract the derived molecule <b>129</b>, and then may provide the analyzer <b>160</b> with the extracted derived molecule <b>129</b>. The magnet <b>194</b> may filter the source gas <b>128</b>, whose mass is different from that of the derived molecule <b>129</b>. For example, the source gas <b>128</b>, that is relatively heavy, may be pumped from the second ionizer <b>192</b> to the high vacuum pump <b>144</b>, and the derived molecule <b>129</b>, that is relatively light, may be extracted through the magnet <b>194</b>.</p>
+<p id="p-0050" num="0049">The chamber <b>110</b>, the evaporator <b>120</b>, the exhauster <b>130</b>, the vacuum pump <b>140</b>, the exhaust line <b>150</b>, the analyzer <b>160</b>, and the controller <b>170</b> may be configured identically or similarly to those shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic diagram illustrating an example of the semiconductor device manufacturing apparatus <b>100</b> according to the present inventive concepts.</p>
+<p id="p-0052" num="0051">Referring to <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the semiconductor device manufacturing apparatus <b>100</b> may be configured such that the foreline <b>152</b> includes a first foreline <b>156</b> and a second foreline <b>158</b>. The first foreline <b>156</b> and the second foreline <b>158</b> may be connected in parallel between the chamber <b>110</b> and the high vacuum pump <b>144</b>.</p>
+<p id="p-0053" num="0052">The first foreline <b>156</b> may directly connect the high vacuum pump <b>144</b> to the chamber <b>110</b>. A second foreline valve <b>155</b> may be installed on the first foreline <b>156</b> between the chamber <b>110</b> and the high vacuum pump <b>144</b>. The second foreline valve <b>155</b> may permit or interrupt the flow of the source gas <b>128</b>, the derived molecule <b>129</b> and air in the first foreline <b>156</b>.</p>
+<p id="p-0054" num="0053">The second foreline <b>158</b> may allow the analyzer <b>160</b> to have a serial connection between the chamber <b>110</b> and the high vacuum pump <b>144</b>. The second foreline <b>158</b> may be used as a measurement line for the derived molecule <b>129</b>. A third foreline valve <b>157</b> may be installed on the second foreline <b>158</b> between the analyzer <b>160</b> and the high vacuum pump <b>144</b>. When the third foreline valve <b>157</b> is opened at regular intervals, the analyzer <b>160</b> may detect the derived molecule <b>129</b>. When the second foreline valve <b>155</b> is closed, the third foreline valve <b>157</b> may be opened. When the third foreline valve <b>157</b> is opened, the analyzer <b>160</b> may detect the derived molecule <b>129</b>.</p>
+<p id="p-0055" num="0054">The chamber <b>110</b>, the evaporator <b>120</b>, the exhauster <b>130</b>, the vacuum pump <b>140</b>, the roughing line <b>154</b>, and the controller <b>170</b> may be configured identically or similarly to those shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. <b>7</b></figref> is a schematic diagram illustrating an example of the analyzer <b>160</b> illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0057" num="0056">Referring to <figref idref="DRAWINGS">FIG. <b>7</b></figref>, the housing <b>180</b> of the analyzer <b>160</b> may have an inlet <b>181</b> and an outlet <b>191</b> that are connected in series to the second foreline <b>158</b>. The inlet <b>181</b>, the aperture <b>184</b>, and the outlet <b>191</b> may all be aligned in one direction. The outlet <b>191</b> may be connected to the second foreline <b>158</b> between the housing <b>180</b> and the third foreline valve <b>157</b>. The outlet <b>191</b> may thus be connected to the high vacuum pump <b>144</b>. The derived molecule <b>129</b> may be introduced through the inlet <b>181</b> into the housing <b>180</b>, and may be discharged through the outlet <b>191</b> from the housing <b>180</b>. The mass filter <b>186</b> may filter the source gas <b>128</b>. The outlet <b>191</b> may raise a flow rate of the derived molecule <b>129</b> in the housing <b>180</b>, and thus the detector <b>188</b> may increase efficiency in detection of the derived molecule <b>129</b>. A second heater <b>190</b> may be disposed adjacent to the detector <b>188</b>. The second heater <b>190</b> may be disposed between the detector <b>188</b> and the inner wall of the housing <b>180</b>. The second heater <b>190</b> may heat and clean the detector <b>188</b>.</p>
+<p id="p-0058" num="0057">The first ionizer <b>182</b>, the aperture <b>184</b>, the mass filter <b>186</b>, and the first heater <b>189</b> of the analyzer <b>160</b> may be configured identically or similarly to those shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>.</p>
+<p id="p-0059" num="0058">The following describes a semiconductor device manufacturing method using the semiconductor device manufacturing apparatus <b>100</b> configured as described above.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. <b>8</b></figref> is a flow chart illustrating a method of manufacturing a semiconductor device according to some example embodiments of the present inventive concepts.</p>
+<p id="p-0061" num="0060">Referring to <figref idref="DRAWINGS">FIG. <b>8</b></figref>, a semiconductor device manufacturing method may include heating the organic source <b>122</b> in the evaporator <b>120</b> to provide the source gas <b>128</b> on the substrate W in the chamber <b>110</b> (S<b>10</b>), pumping the source gas <b>128</b>, the derived molecule <b>129</b>, and air through the exhaust line <b>150</b> connected to the chamber <b>110</b> (S<b>20</b>), detecting the derived molecule <b>129</b> of the organic source <b>122</b> using the analyzer <b>160</b> connected to the exhaust line <b>150</b> (S<b>30</b>), determining whether or not the partial pressure <b>113</b> of the derived molecule <b>129</b> is equal to or greater than the reference partial pressure <b>115</b> (S<b>40</b>), and replacing the evaporator <b>120</b> (S<b>50</b>).</p>
+<p id="p-0062" num="0061">At the step S<b>10</b>, the evaporator <b>120</b> may heat the organic source <b>122</b> to provide the source gas <b>128</b> on the substrate W in the chamber <b>110</b>. The evaporator <b>120</b> may heat the organic source <b>122</b> to a high temperature equal to or greater than about 300&#xb0; C. to produce the source gas <b>128</b>. The organic source <b>122</b> may have a molecular weight equal to or greater than about 300. For example, the organic source <b>122</b> may have a molecular weight of about 400 to about 1500. The source gas <b>128</b> may be dispensed through the showerhead <b>112</b> onto the substrate W. The substrate W may be provided thereon with the source gas <b>128</b> to form an organic thin film. When the evaporator <b>120</b> heats the organic source <b>122</b> for a certain time or more, the organic source <b>122</b> may create the derived molecule <b>129</b>. The derived molecule <b>129</b> may have a molecular weight of about 50 to about 250. For example, the derived molecule <b>129</b> may include anthracene, carbazole, thiophene, or aniline. The derived molecule <b>129</b> may be provided on the substrate W. The derived molecule <b>129</b> may be exhausted through the chamber <b>110</b> and the exhaust line <b>150</b>, without depositing an organic thin film.</p>
+<p id="p-0063" num="0062">At the step S<b>20</b>, the vacuum pump <b>140</b> may operate such that the source gas <b>128</b>, the derived molecule <b>129</b>, and air are pumped through the exhaust line <b>150</b> from the chamber <b>110</b>. The chamber <b>110</b> may have a high vacuum pressure of about 1.0&#xd7;10<sup>&#x2212;6 </sup>Torr.</p>
+<p id="p-0064" num="0063">At the step S<b>30</b>, the analyzer <b>160</b> may detect the derived molecule <b>129</b> in the exhaust line <b>150</b>. The analyzer <b>160</b> may measure the derived molecule <b>129</b> at a regular time intervals (e.g., at one hour intervals). In addition, the analyzer <b>160</b> may measure the derived molecule <b>129</b> based on a molecular weight of the derived molecule <b>129</b>.</p>
+<p id="p-0065" num="0064">At the step S<b>40</b>, the controller <b>170</b> may determine whether or not the partial pressure <b>113</b> of the measured derived molecule <b>129</b> is equal to or greater than the reference partial pressure <b>115</b>. The controller <b>170</b> may count the number of derived molecules <b>129</b> per unit time, and then may obtain the partial pressure <b>113</b> of the derived molecule <b>129</b>. When the evaporator <b>120</b> is initially used, the partial pressure <b>113</b> may be less than the reference partial pressure <b>115</b>. After the evaporator <b>120</b> is used for a certain length of time, the partial pressure <b>113</b> may increase to a value equal to or greater than the reference partial pressure <b>115</b>. The controller <b>170</b> may periodically acquire the partial pressure <b>113</b> of the derived molecule <b>129</b>, and may compare the partial pressure <b>113</b> and the reference partial pressure <b>115</b> with each other to monitor an organic thin-film deposition process. In addition, the controller <b>170</b> may measure a molecular weight of the derived molecule <b>129</b> and then may determine a kind of the derived molecule <b>129</b>.</p>
+<p id="p-0066" num="0065">When the partial pressure <b>113</b> of the derived molecule <b>129</b> is less than the reference partial pressure <b>115</b>, the steps S<b>10</b> to S<b>40</b> may be repeatedly performed.</p>
+<p id="p-0067" num="0066">At the step S<b>50</b>, when the partial pressure <b>113</b> of the derived molecule <b>129</b> increases to a value equal to or greater than the reference partial pressure <b>115</b>, the controller <b>170</b> may output an interlock control signal to replace the evaporator <b>120</b>. When the interlock control signal is output, an operator or a replacement tool may replace the evaporator <b>120</b>.</p>
+<p id="p-0068" num="0067">As discussed above, a semiconductor device manufacturing apparatus according to some example embodiments of the present inventive concepts may be configured such that an analyzer between a chamber and a vacuum pump is used to detect a derived molecule of an organic source and to determine a replacement time of an evaporator.</p>
+<p id="p-0069" num="0068">Although exemplary embodiments of the present invention have been described in connection with the accompanying drawings, it will be understood to those skilled in the art that various changes and modifications may be made without departing from the present disclosure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method of manufacturing a semiconductor device, the method comprising:
+<claim-text>heating an organic source in an evaporator to provide a source gas on a substrate;</claim-text>
+<claim-text>pumping the source gas, a derived molecule, and air through an exhaust line connected to a chamber;</claim-text>
+<claim-text>using an analyzer to detect the derived molecule, the analyzer being connected to the exhaust line; and</claim-text>
+<claim-text>determining whether or not a partial pressure of the derived molecule is equal to or greater than a reference partial pressure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising, when the partial pressure of the derived molecule is equal to or greater than the reference partial pressure, outputting an interlock control signal to replace the evaporator.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the organic source has a molecular weight equal to or greater than 300, and</claim-text>
+<claim-text>the derived molecule has a molecular weight within a range of 50 to 250.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the derived molecule includes anthracene, carbazole, thiophene, and/or aniline.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reference partial pressure is 2.0&#xd7;10<sup>&#x2212;10 </sup>Torr.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,5 @@
+{
+ "text": "You are given a text from chimestry research patent, extract all the measurements mentinoed in the text. Extract Measurments Details, Unit, Value or Value ranges.",
+
+ "output_format": "Your output should follow be a list of json objects, good output format : [ { 'measurement ' : 'string ', 'unit ' : 'string ', 'value ' : 'string ' }, { 'measurement ' : 'string ', 'unit ' : 'string ', 'value ' : 'string ' }", "id": "000"
+}

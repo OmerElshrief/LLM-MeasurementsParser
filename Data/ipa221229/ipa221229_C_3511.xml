@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411901A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411901</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17361961</doc-number>
+<date>20210629</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>30</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>0458</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>05</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>30</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">OXIDE DISPERSION STRENGTHENED REFRACTORY BASED ALLOY</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>General Electric Company</orgname>
+<address>
+<city>Schenectady</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DiDomizio</last-name>
+<first-name>Richard</first-name>
+<address>
+<city>Charlton</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Detor</last-name>
+<first-name>Andrew Joseph</first-name>
+<address>
+<city>Albany</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Ruud</last-name>
+<first-name>James Anthony</first-name>
+<address>
+<city>Delmar</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>McLasky</last-name>
+<first-name>Christopher Thomas</first-name>
+<address>
+<city>Glenville</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An oxide dispersion strengthened refractory-based alloy is provided, along with methods of its formation and use. The oxide dispersion strengthened refractory-based alloy may include a refractory-based alloy comprising two or more refractory elements and forming a continuous phase; and a rare earth refractory oxide comprising at least one rare earth element and at least one of the two or more refractory elements. The rare earth refractory oxide forms discrete particles within the continuous phase, and the oxide dispersion strengthened refractory-based alloy comprises 0.1 volume % to 5 volume % of the rare earth refractory oxide.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="188.81mm" wi="150.88mm" file="US20220411901A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="198.71mm" wi="152.91mm" file="US20220411901A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="212.26mm" wi="165.61mm" file="US20220411901A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?federal-research-statement description="Federal Research Statement" end="lead"?>
+<heading id="h-0001" level="1">GOVERNMENT SUPPORT CLAUSE</heading>
+<p id="p-0002" num="0001">This invention was made with government support under FA8650-20-C-7011 awarded by DARPA. The government has certain rights in the invention.</p>
+<?federal-research-statement description="Federal Research Statement" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present subject matter generally relates to oxide dispersion strengthened refractory-based alloys. For example, the oxide dispersion strengthened refractory-based alloys may have improved properties that may be particularly useful in high temperature structural applications.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Oxide dispersion strengthened refractory-based alloys can be used in high temperature structural applications. For example, in an application involving hypersonic aircrafts, leading edge surfaces (e.g., the nose, engine cowls, and the leading edges of wings and stabilizers) may be subjected to very high heat load when operating in the hypersonic speed range (e.g., Mach 5 or greater) as the incident airflow passes through a bow shock and comes to rest at the vehicle surface, which converts the kinetic energy of the gas to internal energy and greatly increasing its temperature.</p>
+<p id="p-0005" num="0004">Improvements in materials and manufacturing techniques have enabled hypersonic aircraft to operate at higher speeds and temperatures. For example, materials have been developed to increase the temperatures that a component can withstand while maintaining its structural integrity. In this regard, for example, nickel-based superalloys might be used to 800&#xb0; C., single-crystal materials might be used to 1200&#xb0; C., and refractory metals may be required for even higher temperatures. In addition, various cooling technologies have been developed to provide cooling to the leading edges of hypersonic vehicles. However, corresponding advancements in vehicle speed and duration of high-speed flight times have created the need for further improvement in the high temperature durability of the leading edges of high-speed vehicles.</p>
+<p id="p-0006" num="0005">Accordingly, improved oxide dispersion strengthened refractory-based alloys are desired in the art for high temperature structural applications, including but not limited to improvements to hypersonic aircraft and propulsion technologies (e.g., improvements in materials of leading edges for hypersonic vehicles).</p>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION</heading>
+<p id="p-0007" num="0006">Aspects and advantages of the invention will be set forth in part in the following description, or may be obvious from the description, or may be learned through practice of the invention.</p>
+<p id="p-0008" num="0007">An oxide dispersion strengthened refractory-based alloy is generally provided, along with methods of its formation and use. In one embodiment, the oxide dispersion strengthened refractory-based alloy includes a refractory-based alloy comprising two or more refractory elements and forming a continuous phase and an in-situ precipitated rare earth refractory oxide comprising at least one rare earth element and at least one of the two or more refractory elements. The rare earth refractory oxide forms discrete particles within the continuous phase, and the oxide dispersion strengthened refractory-based alloy comprises 0.1 volume % to 5 volume % of the rare earth refractory oxide (e.g., 0.5 volume % to 2.5 volume % of the rare earth refractory oxide). In one embodiment, the in-situ precipitated rare earth refractory oxide has a pyrochlore structure.</p>
+<p id="p-0009" num="0008">In one embodiment, a method of forming an oxide dispersion strengthened refractory-based alloy is also provided. For example, the method may include forming a physical powder mixture from a refractory powder and a rare earth oxide powder; mechanically alloying the physical powder mixture to form an alloyed mixture having the rare earth oxide at least partially dissolved therein; and thereafter, consolidating the alloyed mixture to form the oxide dispersion strengthened refractory-based alloy. The refractory powder comprises at least two refractory elements, and the rare earth oxide powder comprises a rare earth oxide. The consolidating reacts the dissolved rare earth oxide with at least one of the at least two refractory elements to precipitate dispersed discrete particles therein to form the oxide dispersion strengthened refractory-based alloy. The continuous phase includes the two or more refractory elements, and the discrete precipitated particles comprise a rare earth refractory oxide.</p>
+<p id="p-0010" num="0009">These and other features, aspects and advantages of the present invention will become better understood with reference to the following description and appended claims. The accompanying drawings, which are incorporated in and constitute a part of this specification, illustrate embodiments of the invention and, together with the description, serve to explain the principles of the invention.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010">A full and enabling disclosure of the present invention, including the best mode thereof, directed to one of ordinary skill in the art, is set forth in the specification, which makes reference to the appended figures.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a schematic of an exemplary milling system for use in particular embodiments;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a close-up, cross-sectional, schematic view of an exemplary leading edge of an exemplary hypersonic vehicle in accordance with an embodiment of the present disclosure; and</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a diagram of an exemplary method in accordance with an embodiment of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DEFINITIONS</heading>
+<p id="p-0015" num="0014">The word &#x201c;exemplary&#x201d; is used herein to mean &#x201c;serving as an example, instance, or illustration.&#x201d; Any implementation described herein as &#x201c;exemplary&#x201d; is not necessarily to be construed as preferred or advantageous over other implementations. Moreover, each example is provided by way of explanation of the invention, not limitation of the invention. In fact, it will be apparent to those skilled in the art that various modifications and variations can be made in the present invention without departing from the scope of the invention. For instance, features illustrated or described as part of one embodiment can be used with another embodiment to yield a still further embodiment. Thus, it is intended that the present invention covers such modifications and variations as come within the scope of the appended claims and their equivalents.</p>
+<p id="p-0016" num="0015">As used herein, the terms &#x201c;first,&#x201d; &#x201c;second,&#x201d; and &#x201c;third&#x201d; may be used interchangeably to distinguish one component from another and are not intended to signify location or importance of the individual components. The singular forms &#x201c;a,&#x201d; &#x201c;an,&#x201d; and &#x201c;the&#x201d; include plural references unless the context clearly dictates otherwise.</p>
+<p id="p-0017" num="0016">Here and throughout the specification and claims, range limitations are combined and interchanged, such ranges are identified and include all the sub-ranges contained therein unless context or language indicates otherwise. For example, all ranges disclosed herein are inclusive of the endpoints, and the endpoints are independently combinable with each other.</p>
+<p id="p-0018" num="0017">Chemical elements are discussed in the present disclosure using their common chemical abbreviation, such as commonly found on a periodic table of elements. For example, hydrogen is represented by its common chemical abbreviation H; helium is represented by its common chemical abbreviation He; and so forth.</p>
+<p id="p-0019" num="0018">As used herein, &#x201c;Ln&#x201d; refers to a rare earth element or a mixture of rare earth elements. More specifically, the &#x201c;Ln&#x201d; refers to the rare earth elements of scandium (Sc), yttrium (Y), lanthanum (La), cerium (Ce), praseodymium (Pr), neodymium (Nd), promethium (Pm), samarium (Sm), europium (Eu), gadolinium (Gd), terbium (Tb), dysprosium (Dy), holmium (Ho), erbium (Er), thulium (Tm), ytterbium (Yb), lutetium (Lu), or mixtures thereof.</p>
+<p id="p-0020" num="0019">As used herein, &#x201c;refractory elements&#x201d; refers to a refractory element or a mixture of refractory elements. More specifically, &#x201c;refractory elements&#x201d; refers to the elements of niobium (Nb), molybdenum (Mo), tantalum (Ta), tungsten (W), rhenium (Re), titanium (Ti), vanadium (V), chromium (Cr), zirconium (Zr), hafnium (Hf), ruthenium (Ru), rhodium (Rh), osmium (Os), iridium (Ir), or a mixture thereof.</p>
+<p id="p-0021" num="0020">As used herein, a &#x201c;refractory-based alloy&#x201d; refers to an alloy that includes 50 atomic percent or greater of a refractory element or a mixture of refractory elements.</p>
+<p id="p-0022" num="0021">As used herein, the term &#x201c;hypersonic&#x201d; refers generally to air speeds of about Mach 4 up to about Mach 10 or greater, such as Mach 5 and up. However, it should be appreciated that aspects of the present subject matter are not limited only to hypersonic flight, but may instead apply to applications involving other high speed vehicles, projectiles, objects, etc. The description of leading edges herein with respect to use on a hypersonic aircraft are only examples intended to facilitate the explanation of aspects of the present subject matter, and may include leading edge assemblies and other components. The present subject matter is not limited to such exemplary embodiments and applications.</p>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0023" num="0022">Reference now will be made in detail to present embodiments of the invention, one or more examples of which are illustrated in the accompanying drawings. The detailed description uses numerical and letter designations to refer to features in the drawings. Like or similar designations in the drawings and description have been used to refer to like or similar parts of the invention.</p>
+<p id="p-0024" num="0023">An oxide dispersion strengthened refractory-based alloy is generally provided, along with methods of its formation. In particular embodiments, the refractory-based alloy is a refractory-based, high entropy alloy. The oxide dispersions strengthening drives an increase in strength over the base metal solid solution strengthening whereby an initial rare earth oxide is added to a refractory metal matrix and is at least partially dissolved during a mechanical alloying process (e.g., a milling process). In particular embodiments, the mixture of the initial rare earth oxide and the refractory metal matrix is milled until mostly all of the initial rare earth oxide is dissolved therein (e.g., greater than 75% by weight, such as greater than 85% by weight) or until substantially all of the initial rare earth oxide is dissolved therein (e.g., greater than 99% by weight). Thereafter, the milled product may be subjected to a hot consolidation into an oxide dispersion strengthened refractory-based alloy and/or an oxide dispersion strengthened refractory-based alloy component. During the hot consolidation, a new rare earth refractory oxide precipitates within the metal matrix. The new rare earth refractory oxide is chemically different from the starting rare earth oxide and includes those elements from the starting oxide plus at least one additional refractory element from the refractory metal matrix. In particular, the rare earth refractory oxides have a pyrochlore structure, such as having a chemical formula: Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub>where Ln is at least one rare earth element and A is at least one refractory element.</p>
+<p id="p-0025" num="0024">This dispersion of these highly stable precipitated rare earth refractory oxides provides the mechanism for improved strength of the resulting alloy. Without wishing to be bound by any particular theory, it is believed that the rare earth refractory oxides act as hard pinning particles and reduce the mobility of grain boundaries and dislocations. Thus, the presence of the rare earth refractory oxide results in both grain boundary strengthening (Hall-Petch strengthening) as well as direct dispersion strengthening.</p>
+<p id="p-0026" num="0025">The alloying strategy for the formation of the oxide dispersion strengthened refractory-based alloys may provide a high temperature stable way to increase the strength of the alloy while preserving the required ductility. For example, the oxide dispersion strengthened refractory-based alloy may be utilized as a hypersonic vehicle leading edge. By utilizing a metal leading edge, a cost reduction over the currently used composites could be achieved, along with an increase in the geometric stability.</p>
+<p id="p-0027" num="0026">The refractory-based alloy includes two or more refractory elements (e.g., two or more of niobium, molybdenum, tantalum, tungsten, rhenium, titanium, vanadium, chromium, zirconium, hafnium, ruthenium, rhodium, osmium, or iridium). In particular embodiments, hafnium is included in the refractory-based alloy. Additionally or alternatively, tantalum is included in the refractory-based alloy. The refractory-based alloy may include a single phase or multiple phases. In one particular embodiment, the refractory-based alloy may form a single phase, such as a high entropy alloy (HEA) having a single phase crystal structure that is face-centered cubic (FCC), body-centered cubic (BCC), hexagonal close-packed (HCP), or orthorhombic.</p>
+<p id="p-0028" num="0027">In the formation of the refractory-based alloy, the refractory elements may be provided as individual refractory element powders formed from substantially pure refractory elements (e.g., greater than 99% purity by weight, such as greater than 99.9% purity by weight). That is, each refractory element may be provided as its own refractory element powder. In such an embodiment, the relative amounts of each refractory element may be more easily controlled in the resulting refractory-based alloy. However, in other embodiments, the refractory elements may be provided as an alloy powder.</p>
+<p id="p-0029" num="0028">The relative amounts of refractory elements in the refractory-based alloy may vary depending on the application of the resulting component. However, the refractory-based alloy has 50 atomic % or greater in most embodiments so as to ensure the desired high temperature properties. The refractory-based alloy may have greater than 50 atomic % of the mixture of refractory elements (e.g., 50 atomic % to 99.9 atomic %), such as 75 atomic % of refractory elements or greater (e.g., 75 atomic % to 99 atomic %). In particular embodiments, the amount of refractory elements is 90 atomic % or greater to ensure the desired properties in the refractory-based alloy. For example, the refractory-based alloy is formed from 90 atomic % of refractory elements or greater (e.g., 90 atomic % to 99.9 atomic %), such as 95 atomic % of refractory elements or greater (e.g., 95 atomic % to 99 atomic %).</p>
+<p id="p-0030" num="0029">In one embodiment, the oxide dispersion strengthened refractory-based alloy may be formed of two or more refractory elements, the rare earth element(s) and oxygen, without any other elements present other than unavoidable impurities. That is, the oxide dispersion strengthened refractory-based alloy may consist essentially of two or more refractory elements, the rare earth element(s), and oxygen. In these embodiments, the characteristics of the oxide dispersion strengthened refractory-based alloy may be fully realized.</p>
+<p id="p-0031" num="0030">In other embodiments, non-refractory metal elements may be added to the refractory-based alloy, either intentionally or as an accounted for contaminate that may be introduced during processing. For example, non-refractory metal elements may include iron, cobalt, nickel, aluminum, or mixtures thereof. When present, the non-refractory metal elements may be included in an amount of 25 atomic % or less (e.g., in an amount of 10 atomic % or less, such as in an amount of 0.1 atomic % to 5 atomic %). For example, such non-refractory metal elements may be introduced during processing via the milling process due to the use of steel components therein, particularly iron. Additionally or alternatively, non-metal alloying elements may be included in the refractory-based alloy. For example, non-metal alloying elements may include carbon, nitrogen, boron, or mixtures thereof. When present, the non-metal alloying elements may be included in an amount of 5 atomic % or less (e.g., in an amount of 2 atomic % or less, such as 0.1 atomic % to 2 atomic %).</p>
+<p id="p-0032" num="0031">As stated, a rare earth refractory oxide is present in the oxide dispersion strengthened refractory-based alloy. The rare earth refractory oxide is initially provided as a rare earth oxide in a powder form (i.e., a rare earth oxide powder). For example, the rare earth oxide powder may include the rare earth element and oxygen (e.g., only the rare earth element and oxygen), such as in the form of Ln<sub>x</sub>O<sub>y </sub>where x is the number of atoms of Ln in the rare earth oxide (e.g., 1, 2, 4, or 6) and y is the number of atoms of oxygen in the rare earth oxide (e.g., 2, 3, 7, 11). In particular embodiments, the rare earth oxide powder may include, but is not limited to, scandium oxide (Sc<sub>2</sub>O<sub>3</sub>), yttrium oxide (Y<sub>2</sub>O<sub>3</sub>), lanthanum oxide (La<sub>2</sub>O<sub>3</sub>), cerium oxide (CeO<sub>2</sub>), praseodymium oxide (Pr<sub>6</sub>O<sub>11</sub>), neodymium oxide (Nd<sub>2</sub>O<sub>3</sub>), samarium oxide (Sm<sub>2</sub>O<sub>3</sub>), europium oxide (Eu<sub>2</sub>O<sub>3</sub>), gadolinium oxide (Gd<sub>2</sub>O<sub>3</sub>), terbium oxide (Tb<sub>4</sub>O<sub>7</sub>), dysprosium oxide (Dy<sub>2</sub>O<sub>3</sub>), holmium oxide (Ho<sub>2</sub>O<sub>3</sub>), erbium oxide (Er<sub>2</sub>O<sub>3</sub>), thulium oxide (Tm<sub>2</sub>O<sub>3</sub>), ytterbium oxide (Yb<sub>2</sub>O<sub>3</sub>), lutetium oxide (Lu<sub>2</sub>O<sub>3</sub>), or mixtures thereof.</p>
+<p id="p-0033" num="0032">The relative amount of rare earth refractory oxide may be controlled as desired with the amount of rare earth oxide powder added to the powder mixture. For example, the rare earth oxide powder may be included in the oxide dispersion strengthened refractory-based alloy in an amount of 0.1% by volume to 5% by volume, such as 0.5% by volume to 4.5% by volume (e.g., 0.5% by volume to 2.5% by volume). Without wishing to be bound by any particular theory, it is believed that the inclusion of the rare earth refractory oxide in the oxide dispersion strengthened refractory-based alloy serves to strengthen the refractory-based alloy, even at relatively low amounts (e.g., 1 volume %, or even 0.1 volume %). However, including too much of the rare earth refractory oxide in the oxide dispersion strengthened refractory-based alloy (e.g., greater than 5 volume %) may begin to change other properties of the oxide dispersion strengthened refractory-based alloy. Thus, adding too much of the rare earth refractory oxide in the oxide dispersion strengthened refractory-based alloy may be undesirable.</p>
+<p id="p-0034" num="0033">Generally, the powder mixture is mechanically alloyed to form an alloyed mixture. Mechanical alloying may, in one particular embodiment, be a milling process, such as milling with the use of the powder mixture and milling media to enhance the transfer of kinetic energy to the powder mixture. In one embodiment, a powder mixing system <b>10</b> is provided as shown in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The powder mixing system <b>10</b> may be any powder mixing, or powder processing equipment. In one embodiment, the powder mixing system <b>10</b> used herein is a mechanical alloying equipment, such as a mill. Non-limiting examples of the mill will include an attritor mill and ball-mill. In one embodiment, the powder mixing system <b>10</b> is a high-energy attritor mill. Mechanical alloying is a solid-state powder processing technique involving the repeated working of powder particles in a high-energy mill. The powder particles may be ground, cold-welded, and fractured during the mechanical alloying process. A high-energy ball mill may be used for processing powder particles that may have to undergo the mechanical alloying process.</p>
+<p id="p-0035" num="0034">The powder mixing system <b>10</b> may include a cylindrical or spherical container <b>12</b> having a processing volume <b>14</b> that is used for milling powder materials such as for example metallic particles, and ceramic materials. In a normal milling process, the container is partially filled with the materials to be milled and some milling medium and normally rotated in one, two, three, or more axes. The milling process results in the repeated cold welding and fracturing of powder particles. Depending on the materials to be milled, different milling media <b>16</b> may be used. The &#x201c;milling media&#x201d; as used herein is a plurality of media, such as balls, rods, or beads that can be used to mill and cold-weld the particles. In general, the milling media <b>16</b> may include ceramic balls, flint pebbles and metallic balls. Key properties of milling media <b>16</b> include its size, density, hardness, and composition.</p>
+<p id="p-0036" num="0035">The materials to be processed inside the processing volume <b>14</b> of the container are referred to as &#x201c;feedstock&#x201d; <b>18</b>, which is provided in the form of the powders as discussed above. That is, the feedstock <b>18</b> used herein includes a powder mixture formed from the refractory powder (e.g., two or more elemental refractory powders and/or a refractory alloy powder) and the rare earth oxide powder(s). The processing volume <b>14</b> is the total volume available for milling enclosed by the container <b>12</b> walls.</p>
+<p id="p-0037" num="0036">Different factors such as for example, extent of filling of the mill, ratio of the milling media <b>16</b> verses feedstock <b>18</b>, the toughness and smoothness of the milling media <b>16</b>, speed of the mill rotation, and time of milling, have an effect on the final size and composition of the material that are processed in the mill. In the mechanical alloying process, the mill is used for fracturing and cold welding of the materials, thereby producing an alloyed powder from the starting powder mixture.</p>
+<p id="p-0038" num="0037">The feedstock <b>18</b> in the processing volume of the container may have to be milled with high speed and energy to get the desired result after milling. Different factors that may influence the milling energy and the final milled materials include strength, hardness, size, speed, and ratio of the milling media <b>16</b> with respect to the feedstock <b>18</b> material, and overall time and temperature of milling. The milling media <b>16</b> may be desired to have higher strength and hardness than the overall feedstock <b>18</b> material.</p>
+<p id="p-0039" num="0038">The feedstock <b>18</b> may mechanically milled at a milling temperature of 20&#xb0; C. to 150&#xb0; C., such as 20&#xb0; C. to 50&#xb0; C. In one embodiment, the container <b>12</b> may be cooled to keep the milling temperature relatively low. For example, the container <b>12</b> may have cooled walls.</p>
+<p id="p-0040" num="0039">In one embodiment, the milling media <b>16</b> may comprise balls, beads, or rods. The milling media <b>16</b> may have an interior portion and a surface portion with the same or different compositions. In one particular embodiment, the surface portion of the milling media <b>16</b> has a refractory alloy composition, such a refractory alloy composition similar to that of the refractory powder of the feedstock <b>18</b>. In such an embodiment, the elemental composition can be more precisely controlled in the resulting refractory alloy, since impurities from the milling media may be minimized.</p>
+<p id="p-0041" num="0040">Mechanical alloying is generally performed in an inert environment (e.g., comprising argon, nitrogen, etc.) and/or under a vacuum to avoid introduction of unwanted impurities. Without wishing to be bound by any particular theory, it is believed that when milling under an inert gas environment, the environmental gas may become incorporated and trapped in the milled material as an impurity. Upon high temperature exposure, these gas bubbles expand, causing a porous structure. This thermally induced porosity may reduce the mechanical properties of the material. Therefore, in one embodiment, the feedstock <b>18</b> is milled under a rough vacuum, rather than in an inert gas environment (e.g., after purging with an inert gas environment). A &#x201c;rough vacuum&#x201d; as used herein indicates an environmental pressure less than the atmospheric pressure in the process volume of the container. In one embodiment, the pressure inside the container in the processing volume is less than 10<sup>&#x2212;4 </sup>atmosphere. In one embodiment, the pressure is less than 10<sup>&#x2212;5 </sup>atmosphere. This low pressure is maintained in the process volume throughout the milling process.</p>
+<p id="p-0042" num="0041">After mechanically alloying the powder mixture, the resulting alloyed mixture may be consolidated to form the oxide dispersion strengthened refractory-based alloy. For instance, the alloyed mixture may be subjected to a high temperature consolidation resulting in an alloy matrix having some dispersed microfeatures. As used herein, the term &#x201c;microfeatures&#x201d; means discrete particles of matter having a largest diameter of 10 micrometers (&#x3bc;m) or less, such as 0.001 &#x3bc;m to 5 &#x3bc;m (e.g., 0.001 &#x3bc;m to 2 &#x3bc;m, such as 0.001 &#x3bc;m to 1 &#x3bc;m). The microfeatures used herein are typically in-situ formed by the dissolution of the starting rare earth oxide and precipitation of the rare earth refractory oxide as micrometer-sized clusters that can serve to pin the alloy structure, thus providing enhanced mechanical properties (e.g., strength).</p>
+<p id="p-0043" num="0042">Consolidation may be performed by heating the alloyed mixture at a consolidation temperature that is 50% of the melting point of the refractory-based alloy or greater (e.g., a consolidation temperature that is 50% to 90% of the melting point of the refractory-based alloy).</p>
+<p id="p-0044" num="0043">In one particular embodiment, consolidation of the alloyed mixture reacts the rare earth oxide with at least one of the at least two refractory elements to form a rare earth refractory oxide as discrete particles (e.g., the microparticles) within the refractory-based alloy matrix, such as within a continuous phase of the refractory-based alloy.</p>
+<p id="p-0045" num="0044">The rare earth refractory oxide includes, in most embodiments, a pyrochlore structure. For instance, the rare earth refractory oxide having a pyrochlore structure may have a chemical formula of Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element and A is at least one refractory element. For example, the at least one rare earth element may include scandium, yttrium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, or mixtures thereof.</p>
+<p id="p-0046" num="0045">In particular embodiments, hafnium is included in the two or more refractory elements such that the rare earth refractory oxide having a pyrochlore structure has a chemical formula of Ln<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element, such as Y<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>. Additionally or alternatively, tantalum is included in the two or more refractory elements.</p>
+<p id="p-0047" num="0046">As stated above, the oxide dispersion strengthened refractory-based alloy is particularly useful as a high strength component, such as a leading edge of a hypersonic aircraft. Notably, high speed vehicles, such as a hypersonic aircraft, typically experience extremely high temperatures and thermal gradients during high speed or hypersonic operation. The temperature gradients that are caused by the high heat flux are often a more severe problem than the temperature itself. For example, the thermal conductivity of the structural material, in combination with the heat flux, sets the temperature gradient within the material, and at high heat loads this gradient leads to mechanical stresses that cause plastic deformation or fracture of the material. The heat load to the structural material should be reduced to maintain the structural integrity of the components.</p>
+<p id="p-0048" num="0047">As explained above, the leading edges of such high speed vehicles often experience the highest thermal loading. <figref idref="DRAWINGS">FIG. <b>2</b></figref> shows an exemplary component <b>300</b> of a hypersonic vehicle with a leading edge <b>302</b>. Generally, the component <b>300</b> may be a single component or may include a plurality of leading edge assemblies (e.g., identified generally herein by component <b>300</b>) which experience high thermal loads during hypersonic flight. In this regard, the leading edge <b>302</b> may be provided on a forward end of the aircraft wings, the nose cone, the vertical stabilizer, the engine cowls of the propulsion engines, or other leading edges or surfaces of the hypersonic aircraft.</p>
+<p id="p-0049" num="0048">Notably, it is typically desirable to for the leading edge <b>302</b> of the component <b>300</b> to have a contoured point <b>304</b> in order to reduce drag on the hypersonic vehicle. It should be appreciated that the leading edge <b>302</b> illustrated herein is a simplified cross section illustration of exemplary leading edges. The size, configuration, geometry, and application of such leading edge technologies may vary while remaining within the scope of the present subject matter. At least a portion, if not its entirety, of the component <b>300</b> may be formed from oxide dispersion strengthened refractory-based alloy discussed herein.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. <b>3</b></figref> shows an exemplary method <b>310</b> of forming a oxide dispersion strengthened refractory-based alloy. The method <b>310</b> may include any of the features described above. For example, a physical powder mixture may optionally be formed at <b>312</b>, such as from at least two individual refractory element powders and a rare earth oxide powder(s). Then, the physical powder mixture may be mechanically alloyed to form an alloyed mixture at <b>314</b> (e.g., such that dissolution of the starting oxide may occur), such as utilizing the system <b>10</b> described above. Then, the alloyed mixture may be consolidated to form the oxide dispersion strengthened refractory-based alloy at <b>316</b> (e.g., such that reaction and precipitation may occur), such as described above, which includes the pyrochlore oxide.</p>
+<p id="p-0051" num="0050">Further aspects of the invention are provided by the subject matter of the following clauses:</p>
+<p id="p-0052" num="0051">1. An oxide dispersion strengthened refractory-based alloy, comprising: a refractory-based alloy comprising two or more refractory elements and forming a continuous phase; and an in-situ precipitated rare earth refractory oxide comprising at least one rare earth element and at least one of the two or more refractory elements, wherein the rare earth refractory oxide forms discrete particles within the continuous phase, and wherein the oxide dispersion strengthened refractory-based alloy comprises 0.1 volume % to 5 volume % of the rare earth refractory oxide.</p>
+<p id="p-0053" num="0052">2. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the oxide dispersion strengthened refractory-based alloy comprises 0.5 volume % to 2.5 volume % of the rare earth refractory oxide.</p>
+<p id="p-0054" num="0053">3. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the in-situ precipitated rare earth refractory oxide has a pyrochlore structure.</p>
+<p id="p-0055" num="0054">4. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the in-situ precipitated rare earth refractory oxide has a chemical formula of Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element and A is the at least one of the two or more refractory elements, wherein the at least one rare earth element comprises scandium, yttrium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, or mixtures thereof.</p>
+<p id="p-0056" num="0055">5. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the refractory-based alloy is a high entropy alloy.</p>
+<p id="p-0057" num="0056">6. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the two or more refractory elements comprise hafnium and wherein the at least one of the two or more refractory elements comprises hafnium.</p>
+<p id="p-0058" num="0057">7. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein rare earth refractory oxide comprises Ln<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>.</p>
+<p id="p-0059" num="0058">8. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the discrete particles have an average diameter of 0.001 &#x3bc;m to 5 &#x3bc;m.</p>
+<p id="p-0060" num="0059">9. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the refractory-based alloy comprises greater than 75 atomic % of refractory elements.</p>
+<p id="p-0061" num="0060">10. The oxide dispersion strengthened refractory-based alloy of any preceding clause, wherein the refractory-based alloy comprises greater than 95 atomic % of refractory elements.</p>
+<p id="p-0062" num="0061">11. A leading edge for a hypersonic vehicle, the leading edge comprising the oxide dispersion strengthened refractory-based alloy of any preceding clause.</p>
+<p id="p-0063" num="0062">12. A method of forming an oxide dispersion strengthened refractory-based alloy, the method comprising: forming a physical powder mixture from a refractory powder and a rare earth oxide powder, wherein the refractory powder comprises at least two refractory elements, and wherein the rare earth oxide powder comprises a rare earth oxide; mechanically alloying the physical powder mixture to form an alloyed mixture having the rare earth oxide at least partially dissolved therein; and thereafter, consolidating the alloyed mixture to form the oxide dispersion strengthened refractory-based alloy, wherein consolidating reacts the dissolved rare earth oxide with at least one of the at least two refractory elements to precipitate dispersed discrete particles therein to form the oxide dispersion strengthened refractory-based alloy, wherein the continuous phase includes the two or more refractory elements, and wherein the discrete precipitated particles comprise a rare earth refractory oxide.</p>
+<p id="p-0064" num="0063">13. The method of any preceding clause, wherein the rare earth refractory oxide has a pyrochlore structure.</p>
+<p id="p-0065" num="0064">14. The method of any preceding clause, wherein the rare earth oxide powder comprises 0.1% by volume to 5% by volume of the powder mixture.</p>
+<p id="p-0066" num="0065">15. The method of any preceding clause, and wherein the oxide dispersion strengthened refractory-based alloy comprises 0.5% by volume to 2.5% by volume of the rare earth refractory oxide.</p>
+<p id="p-0067" num="0066">16. The method of any preceding clause, wherein the rare earth refractory oxide having a pyrochlore structure has a chemical formula of Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element and A is the at least one of the two or more refractory elements, wherein the at least one rare earth element comprises scandium, yttrium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, or mixtures thereof.</p>
+<p id="p-0068" num="0067">17. The method of any preceding clause, wherein hafnium is included in the two or more refractory elements such that the rare earth refractory oxide having a pyrochlore structure has a chemical formula of Ln<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element.</p>
+<p id="p-0069" num="0068">18. The method of any preceding clause, wherein mechanically alloying the powder mixture comprises: milling the powder mixture until greater than 75% by weight of all of the starting rare earth oxide is dissolved.</p>
+<p id="p-0070" num="0069">19. The method of any preceding clause, wherein mechanically alloying the powder mixture comprises: milling the powder mixture until greater than 85% by weight of all of the starting rare earth oxide is dissolved.</p>
+<p id="p-0071" num="0070">19. The method of any preceding clause, wherein mechanically alloying the powder mixture comprises: milling the powder mixture until greater than 99% by weight of all of the starting rare earth oxide is dissolved.</p>
+<p id="p-0072" num="0071">20. The method of any preceding clause, wherein milling the powder mixture is performed in an inert atmosphere or under vacuum,</p>
+<p id="p-0073" num="0072">21. The method of any preceding clause, wherein milling is performed a temperature of 20&#xb0; C. to 150&#xb0; C.</p>
+<p id="p-0074" num="0073">22. The method of any preceding clause, wherein consolidating the powder mixture comprises: heating the alloyed mixture at a consolidation temperature that is 50% of the melting point of the refractory-based alloy or greater.</p>
+<p id="p-0075" num="0074">23. The method of any preceding clause, wherein the consolidation temperature is 50% to 90% of the melting point of the refractory-based alloy.</p>
+<p id="p-0076" num="0075">24. The method of any preceding clause, wherein each refractory element in the refractory powder is supplied to the physical powder mixture via a substantially pure refractory element powder.</p>
+<p id="p-0077" num="0076">25. The method of any preceding clause, wherein each refractory element in the refractory powder is supplied to the physical powder mixture via a refractory alloy powder.</p>
+<heading id="h-0008" level="1">Example 1</heading>
+<p id="p-0078" num="0077">A refractory metal matrix having a composition of 76.3 Hf 26.7 Ta (at %) was mechanically alloyed with Y<sub>2</sub>O<sub>3 </sub>under an inert atmosphere of argon. These alloy constituents were provided in the form of three powders: a first powder of Hf, a second powder of Ta, and a third powder of Y<sub>2</sub>O<sub>3</sub>. These powders were added in the relative atomic amounts to form the desired alloy. The Y<sub>2</sub>O<sub>3 </sub>was varied from 0.5 wt % to 4.8 wt % to form multiple alloys having varied amounts of rare earth oxides added (0% as a comparative example, 0.5 wt %, 1.0 wt, 2.0 wt %, and 4.8 wt %). XRD showed the presence of Y<sub>2</sub>O<sub>3 </sub>in the physical mixture (above 1% by weight) and the absence of Y<sub>2</sub>O<sub>3 </sub>after mechanical alloying suggesting the Y<sub>2</sub>O<sub>3 </sub>was dissolved during mechanical alloying.</p>
+<p id="p-0079" num="0078">Following consolidation, a new oxide was found: Y<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>and no Y<sub>2</sub>O<sub>3 </sub>was seen. Thus, a new oxide was precipitated in-situ during hot consolidation and it is different than the starting Y<sub>2</sub>O<sub>3</sub>. TEM analysis supported this result with selected area diffraction on the precipitated oxides. The diffraction patterns matched Y<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>.</p>
+<p id="p-0080" num="0079">The microhardness (HRC) improved significantly with the addition of the rare earth refractory oxide when compared to the comparative example and increased in hardness with higher relative amounts of the rare earth refractory oxide.</p>
+<heading id="h-0009" level="1">Example 2</heading>
+<p id="p-0081" num="0080">A refractory metal matrix having a composition of HfNbTaTiZr (equal at % for each constituent) was mechanically alloyed with 2 wt % Y<sub>2</sub>O<sub>3 </sub>under an inert atmosphere of argon. These alloy constituents were provided in the form of six powders: a first powder of Hf, a second powder of Nb, a third powder of Ta, a fourth powder of Ti, and a fifth powder of Zr, and a sixth powder of Y<sub>2</sub>O<sub>3</sub>. These powders were added in the relative atomic amounts to form the desired alloy. XRD showed the presence of Y<sub>2</sub>O<sub>3 </sub>in the physical mixture and the absence of Y<sub>2</sub>O<sub>3 </sub>after mechanical alloying suggesting the Y<sub>2</sub>O<sub>3 </sub>was dissolved during mechanical alloying.</p>
+<p id="p-0082" num="0081">Again, following consolidation, a new oxide was found: Y<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>and no Y<sub>2</sub>O<sub>3 </sub>was seen. Thus, a new oxide was precipitated in-situ during hot consolidation and it is different than the starting Y<sub>2</sub>O<sub>3</sub>. TEM analysis supported this result with selected area diffraction on the precipitated oxides. The diffraction patterns matched Y<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>. Without wishing to be bound by any particular theory, it is believed that other rare earth oxides are formed, but in a smaller amount, than Y<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>. However, Y<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>is a primary constituent due to the relatively low Gibbs free energy of formation compared to the other potential oxides that could be formed.</p>
+<p id="p-0083" num="0082">The microhardness (HRC) improved significantly with the precipitation of the rare earth refractory oxide when compared to the comparative example.</p>
+<p id="p-0084" num="0083">This written description uses examples to disclose the invention, including the best mode, and also to enable any person skilled in the art to practice the invention, including making and using any devices or systems and performing any incorporated methods. The patentable scope of the invention is defined by the claims, and may include other examples that occur to those skilled in the art. Such other examples are intended to be within the scope of the claims if they include structural elements that do not differ from the literal language of the claims, or if they include equivalent structural elements with insubstantial differences from the literal language of the claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An oxide dispersion strengthened refractory-based alloy, comprising:
+<claim-text>a refractory-based alloy comprising two or more refractory elements and forming a continuous phase; and</claim-text>
+<claim-text>an in-situ precipitated rare earth refractory oxide comprising at least one rare earth element and at least one of the two or more refractory elements, wherein the rare earth refractory oxide forms discrete particles within the continuous phase, and wherein the oxide dispersion strengthened refractory-based alloy comprises 0.1 volume % to 5 volume % of the rare earth refractory oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the oxide dispersion strengthened refractory-based alloy comprises 0.5 volume % to 2.5 volume % of the rare earth refractory oxide.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the in-situ precipitated rare earth refractory oxide has a pyrochlore structure.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>,
+<claim-text>wherein the in-situ precipitated rare earth refractory oxide has a chemical formula of
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+</claim-text>
+<claim-text>where Ln is the at least one rare earth element and A is the at least one of the two or more refractory elements, wherein the at least one rare earth element comprises scandium, yttrium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, or mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the refractory-based alloy is a high entropy alloy.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein rare earth refractory oxide comprises Ln<sub>2</sub>Hf<sub>2</sub>O<sub>7</sub>.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the discrete particles have an average diameter of 0.001 &#x3bc;m to 5 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the refractory-based alloy comprises greater than 75 atomic % of refractory elements.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the refractory-based alloy comprises greater than 95 atomic % of refractory elements.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A leading edge for a hypersonic vehicle, the leading edge comprising the oxide dispersion strengthened refractory-based alloy of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A method of forming an oxide dispersion strengthened refractory-based alloy, the method comprising:
+<claim-text>forming a physical powder mixture from a refractory powder and a rare earth oxide powder, wherein the refractory powder comprises at least two refractory elements, and wherein the rare earth oxide powder comprises a rare earth oxide;</claim-text>
+<claim-text>mechanically alloying the physical powder mixture to form an alloyed mixture having the rare earth oxide at least partially dissolved therein; and</claim-text>
+<claim-text>thereafter, consolidating the alloyed mixture to form the oxide dispersion strengthened refractory-based alloy, wherein consolidating reacts the dissolved rare earth oxide with at least one of the at least two refractory elements to precipitate dispersed discrete particles therein to form the oxide dispersion strengthened refractory-based alloy, wherein the continuous phase includes the two or more refractory elements, and wherein the discrete precipitated particles comprise a rare earth refractory oxide.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the rare earth refractory oxide has a pyrochlore structure.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the rare earth oxide powder comprises 0.1% by volume to 5% by volume of the powder mixture.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the rare earth refractory oxide having a pyrochlore structure has a chemical formula of
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>Ln<sub>2</sub>A<sub>2</sub>O<sub>7 </sub><?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+<claim-text>where Ln is the at least one rare earth element and A is the at least one of the two or more refractory elements, wherein the at least one rare earth element comprises scandium, yttrium, lanthanum, cerium, praseodymium, neodymium, promethium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium, lutetium, or mixtures thereof.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein hafnium is included in the two or more refractory elements such that the rare earth refractory oxide having a pyrochlore structure has a chemical formula of Ln<sub>2</sub>Hf<sub>2</sub>O<sub>7 </sub>where Ln is the at least one rare earth element.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein mechanically alloying the powder mixture comprises:
+<claim-text>milling the powder mixture until greater than 75% by weight of all of the starting rare earth oxide is dissolved.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein milling the powder mixture is performed in an inert atmosphere or under vacuum, and wherein milling is performed a temperature of 20&#xb0; C. to 150&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein consolidating the powder mixture comprises:
+<claim-text>heating the alloyed mixture at a consolidation temperature that is 50% of the melting point of the refractory-based alloy or greater.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the consolidation temperature is 50% to 90% of the melting point of the refractory-based alloy.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein each refractory element in the refractory powder is supplied to the physical powder mixture via a substantially pure refractory element powder.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411904A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411904</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17778511</doc-number>
+<date>20201013</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>19210812.4</doc-number>
+<date>20191122</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>054</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20220101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>1</main-group>
+<subgroup>054</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>F</subclass>
+<main-group>2005</main-group>
+<subgroup>002</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">TUNGSTEN CARBIDE-BASED CEMENTED HARD MATERIAL</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>CERATIZIT Luxembourg S.a.r.l.</orgname>
+<address>
+<city>Mamer</city>
+<country>LU</country>
+</address>
+</addressbook>
+<residence>
+<country>LU</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Bertalan</last-name>
+<first-name>Claudio</first-name>
+<address>
+<city>Mamer</city>
+<country>LU</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Useldinger</last-name>
+<first-name>Ralph</first-name>
+<address>
+<city>Mamer</city>
+<country>LU</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Koesters</last-name>
+<first-name>Rolf</first-name>
+<address>
+<city>Mamer</city>
+<country>LU</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2020/078715</doc-number>
+<date>20201013</date>
+</document-id>
+<us-371c12-date><date>20220520</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A tungsten-carbide-based hard material includes the following components: tungsten carbide with an average particle size of 0.1-1.3 &#x3bc;m; 1.0-5.0 wt. % (Co+Ni), with a ratio of Co/(Co+Ni) in wt. % of 0.4&#x2264;Co/(Co+Ni)&#x2264;0.95; 0.1-1.0 wt. % Cr, with a ratio of Cr to (Co+Ni) in wt. % of 0.05 Cr/(Co+Ni) 0.20; 0.01-0.3 wt. % Mo; and 0.02-0.45 wt. % Me, where Me represents one or more elements from the group Ta, Nb, Hf and Ti, preferably Ta and/or Nb; and wherein 0.01&#x2264;Me/(Co+Ni)&#x2264;0.13.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="94.40mm" wi="100.41mm" file="US20220411904A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="189.06mm" wi="112.61mm" file="US20220411904A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="162.39mm" wi="127.93mm" file="US20220411904A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="189.82mm" wi="113.62mm" file="US20220411904A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="180.09mm" wi="101.01mm" file="US20220411904A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="101.35mm" wi="120.90mm" file="US20220411904A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The present invention relates to a tungsten carbide-based cemented hard material, use of this material for a woodworking tool or forming tool, and also a woodworking tool having a working region composed of this cemented hard material and a forming tool having a working region composed of this material.</p>
+<p id="p-0003" num="0002">Tungsten carbide-based cemented hard materials are composite materials in which hard material particles formed at least predominantly by tungsten carbide form the predominant part of the composite material and interstices between the hard material particles are filled by a ductile metallic binder. Such cemented hard materials have been used for many years in a variety of fields, for example in cutting machining of metal, in wear parts, in woodworking tools, in forming tools, etc., because of their advantageous materials properties, in particular high hardness in combination with good fracture toughness. The demands made of the material when such cemented hard materials are employed in the various fields of use are very different. In particular, mainly a high hardness is of importance in some applications, while in other applications a very balanced combination of hardness and toughness is important and in still other applications a good corrosion resistance, for example, is also important.</p>
+<p id="p-0004" num="0003">Especially when such cemented hard materials are used in woodworking tools and forming tools, a high fracture toughness K<sub>Ic </sub>and a high transverse rupture strength TRS are critical in addition to a high hardness and good corrosion resistance of the cemented hard material.</p>
+<p id="p-0005" num="0004">It is an object of the present invention to provide an improved tungsten carbide-based cemented hard material which has, especially for use in woodworking tools or forming tools, a particularly advantageous combination of hardness, corrosion resistance, fracture toughness and transverse rupture strength, and also to provide an improved woodworking tool and an improved forming tool. The object is achieved by a tungsten carbide-based cemented hard material according to Claim <b>1</b>. Advantageous embodiments are indicated in the dependent claims.</p>
+<p id="p-0006" num="0005">The cemented hard material comprises: tungsten carbide having an average particle size of 0.1-1.3 &#x3bc;m; 1.0-5.0% by weight of (Co+Ni), with a Co/(Co+Ni) ratio in % by weight of 0.4&#x2264;Co/(Co+Ni) 0.95; 0.1-1.0% by weight of Cr, with a ratio of Cr to (Co+Ni) in % by weight of 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.20; 0.01-0.3% by weight of Mo; and 0.02-0.45% by weight of Me, where Me=one or more elements from the group consisting of Ta, Nb, Hf and Ti, preferably Ta and/or Nb; and also <b>0</b>.<b>01</b>&#x2264;Me/(Co+Ni)&#x2264;0.13.</p>
+<p id="p-0007" num="0006">The proportion of tungsten carbide in the cemented hard material can particularly preferably be from 92 to 98.5% by weight. Here, % by weight of (Co+Ni) means the total proportion of Co and Ni in per cent by weight. The Me/(Co+Ni) ratio is also to be determined in per cent by weight. The cemented hard material of the invention achieves an advantageous combination of high hardness, good corrosion resistance and at the same time a high fracture toughness and transverse rupture strength for the high hardness, which is particularly advantageous, especially for use in woodworking tools and forming tools. The advantageous properties are attributed to the combination of Co and Ni in the range indicated, the targeted addition of Cr and Mo in the ranges indicated and also the targeted addition of at least one of the elements Ti, Ta, Hf and Nb in the amount indicated. The cemented hard material thus comprises WC, Co, Ni, Cr and Mo together with at least one of the elements Ta, Nb, Hf and Ti, but can also comprise a plurality of these elements. The cemented hard material can preferably comprise Ta, Nb or Ta and Nb in combination. Unless indicated otherwise in the present description, amounts and ratios in each case relate to per cent by weight of the constituents. Chromium can be added in powder-metallurgical production of the cemented hard material, e.g. as pure metal or in the form of Cr<sub>3</sub><sub>2 </sub>or Cr<sub>2</sub>N powder. Mo can preferably be added in the form of Mo<sub>2</sub>C powder, but addition as, for example, pure metal or, for example, as (W, Mo)C mixed carbide is also possible. The further element or elements can, for example, be added in particular as carbide MeC, thus TaC, NbC, etc., or as mixed carbide such as (Ta, Nb)C or (W, Me)C, in particular, for example, (W, Ta)C or, for example, (W, Ti, Ta, Nb)C, etc. The cemented hard material can further optionally comprise small amounts of vanadium of up to 0.2% by weight, preferably up to maximum 0.15% by weight. The cemented hard material can preferably have only the composition indicated and unavoidable impurities, i.e. consist essentially of the composition indicated.</p>
+<p id="p-0008" num="0007">In one embodiment, the cemented hard material has an average particle size of the tungsten carbide of 0.1-0.8 &#x3bc;m, which represents a particularly advantageous compromise between hardness and fracture toughness and also transverse rupture strength, especially for use in woodworking tools or forming ii tools. The cemented hard material can preferably have an average particle size of the tungsten carbide of 0.2-0.5 &#x3bc;m.</p>
+<p id="p-0009" num="0008">In one embodiment, the Co/(Co+Ni) ratio is such that: 0.6&#x2264;Co/(Co+Ni)&#x2264;0.9. At this ratio in particular, a good balance between good wetting of the tungsten carbide particles with the binder on the one hand and a high corrosion resistance and fracture toughness of the cemented hard material on the other hand is achieved.</p>
+<p id="p-0010" num="0009">In one embodiment, the Cr/(Co+Ni) ratio in % by weight is such that: 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.15. In this range, in particular, the amount of Cr relative to the main binder constituents Co and Ni is such that high hardness and corrosion resistance are achieved but at the same time the process parameters in the production process are still sufficiently insensitive within conventional tolerances.</p>
+<p id="p-0011" num="0010">In one embodiment, the ratio of Mo to Cr in % by weight is such that: Mo/Cr&#x3c;0.5; preferably Mo/Cr&#x3c;0.4. The significantly higher proportion of Cr in the ratio to Mo has a positive effect on the compromise between hardness and corrosion resistance and secondly fracture toughness and transverse rupture strength.</p>
+<p id="p-0012" num="0011">In one embodiment, 0.02&#x2264;Me/(Co+Ni)&#x2264;0.08. Here too, the ratio is to be determined in % by weight. In this range in particular, the addition of one or more elements from among Ta, Nb, Hf and/or Ti has a positive effect on the materials properties. Particular preference is given to Me=Ta and/or Nb.</p>
+<p id="p-0013" num="0012">The ratio of Me to Cr in % by weight is preferably such that: Me/Cr&#x3c;0.65. In particular, Me/Cr can be &#x3e;0.05 in order to achieve a sufficient influence of the additional addition but on the other hand avoid disadvantageous effects.</p>
+<p id="p-0014" num="0013">In one embodiment, the cemented hard material has a Vickers hardness HV10 in the range from 2050 to 2450. Such a high hardness is advantageous especially for use in a woodworking tool or a forming tool. The Vickers hardness HV10 in accordance with ISO 3878:1991 (&#x201c;Hardmetals&#x2014;Vickers hardness test&#x201d;) is particularly preferably in the range</p>
+<p id="p-0015" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>HV</i>10=2550&#x2212;100&#xb7;% by weight of (Co+Ni)&#xb1;150.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0016" num="0014">In one embodiment, the cemented hard material has a fracture toughness K<sub>IC </sub>in the range from 7.1 to 8.5 MPa&#xb7;m<sup>1/2</sup>. The measurement is carried out in accordance with ISO 28079:2009 using an indentation load of 10 kgf (corresponding to 98.0665 N). The fracture toughness K<sub>IC </sub>in MPa&#xb7;m<sup>1/2 </sup>can, in particular, be in the range</p>
+<p id="p-0017" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>K</i><sub>IC</sub>=6.8+(&#x2153;)&#xb7;% by weight of (Co+Ni)&#xb1;&#xb1;0.5,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0018" num="0000">preferably in the range</p>
+<p id="p-0019" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>K</i><sub>IC</sub>=6.8+(&#x2153;)&#xb7;% by weight of (Co+Ni)&#xb1;0.3.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0020" num="0015">In one embodiment, the cemented hard material has a transverse rupture strength in the range from 2560 MPa to 4230 MPa. The transverse rupture strength is determined in accordance with the standard ISO 3327:2009 using a test specimen having a cylindrical cross section (shape C). The transverse rupture strength in MPa can, in particular, be in the range:</p>
+<p id="p-0021" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>TRS=2150+(2500/6)&#xb7;% by weight of (Co+Ni)&#xb1;500,<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0022" num="0000">preferably in the range:</p>
+<p id="p-0023" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>TRS=2150+(2500/6)&#xb7;% by weight of (Co+Ni)&#xb1;300.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0024" num="0016">The object is also achieved by the use of the cemented hard material for a woodworking tool or a forming tool according to Claim <b>11</b>.</p>
+<p id="p-0025" num="0017">The object is also achieved by a woodworking tool according to Claim <b>12</b> having a working region which is made of such a tungsten carbide-based cemented hard material.</p>
+<p id="p-0026" num="0018">The object is also achieved by a forming tool according to Claim <b>13</b> having a working region which is made of such a tungsten carbide-based cemented hard ii material.</p>
+<p id="p-0027" num="0019">In one embodiment, the forming tool is a tool for cold forming, in particular a drawing die for wire production or a deep-drawing tool.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0028" num="0020">Further advantages and useful aspects of the invention may be derived from the following description of working examples with reference to the accompanying figures.</p>
+<p id="p-0029" num="0021">The figures show:</p>
+<p id="p-0030" num="0022"><figref idref="DRAWINGS">FIG. <b>1</b></figref>: a schematic depiction of a woodworking tool having a working region composed of a cemented hard material according to one illustrative embodiment;</p>
+<p id="p-0031" num="0023"><figref idref="DRAWINGS">FIG. <b>2</b></figref>: an enlarged schematic depiction of a detail II of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0032" num="0024"><figref idref="DRAWINGS">FIG. <b>3</b></figref>: a schematic depiction of a forming tool having a working region composed of a cemented hard material according to another illustrative embodiment;</p>
+<p id="p-0033" num="0025"><figref idref="DRAWINGS">FIG. <b>4</b></figref>: a schematic plan of the forming tool of <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0034" num="0026"><figref idref="DRAWINGS">FIG. <b>5</b></figref>: a schematic cross-sectional view of the forming tool of <figref idref="DRAWINGS">FIG. <b>3</b></figref>;</p>
+<p id="p-0035" num="0027"><figref idref="DRAWINGS">FIG. <b>6</b></figref>: an optical micrograph of a cemented hard material as per comparative example 1;</p>
+<p id="p-0036" num="0028"><figref idref="DRAWINGS">FIG. <b>7</b></figref>: an optical micrograph of a cemented hard material as per Example 1;</p>
+<p id="p-0037" num="0029"><figref idref="DRAWINGS">FIG. <b>8</b></figref>: an optical micrograph of a cemented hard material as per Example 2;</p>
+<p id="p-0038" num="0030"><figref idref="DRAWINGS">FIG. <b>9</b></figref>: an optical micrograph of a cemented hard material as per Example 3; and</p>
+<p id="p-0039" num="0031"><figref idref="DRAWINGS">FIG. <b>10</b></figref>: an optical micrograph of a cemented hard material as per Example 4.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0001" level="1">ILLUSTRATIVE EMBODIMENT</heading>
+<p id="p-0040" num="0032">An illustrative embodiment of the tungsten carbide-based cemented hard material will firstly be described in general terms below.</p>
+<p id="p-0041" num="0033">The cemented hard material has a specific composition which will be described in more detail below.</p>
+<p id="p-0042" num="0034">The cemented hard material consists predominantly of tungsten carbide having an average particle size in the range 0.1-1.3 &#x3bc;m. The average particle size can preferably be in the range 0.1-0.8 &#x3bc;m. The average particle size is particularly preferably in the range 0.2-0.5 &#x3bc;m.</p>
+<p id="p-0043" num="0035">The proportion of tungsten carbide in the cemented hard material can be, in particular, from 92 to 98.5% by weight. The cemented hard material additionally comprises a ductile metallic binder. In the illustrative embodiment, the metallic binder consists predominantly of Co (cobalt) and Ni (nickel), with the ratio in per cent by weight of Co to the sum of Co and Ni being in the range from 0.4 to 0.95. The ratio is preferably in the range from 0.6 to 0.9; i.e. the proportion of Co in the metallic binder is preferably greater than the proportion of Ni in the metallic binder.</p>
+<p id="p-0044" num="0036">The tungsten carbide-based cemented hard material further comprises from 0.1 to 1% by weight of Cr, with the ratio of Cr to the sum of Co and Ni in per cent by weight being selected so that 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.20. When the Cr content is kept within this range, the desired grain-refining effect is achieved and chromium-containing mixed carbide precipitates can be largely avoided. Preference is given to: 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.15. In this case, chromium-containing mixed carbide precipitates can be avoided particularly reliably without the production parameters in the powder-metallurgical production process having to be kept within narrow tolerance ranges.</p>
+<p id="p-0045" num="0037">The cemented hard material of the illustrative embodiment also additionally comprises 0.01-0.3% by weight of Mo. The Mo content is preferably set so that it is significantly lower than the Cr content, preferably less than half the Cr content, particularly preferably less than 40% of the Cr content.</p>
+<p id="p-0046" num="0038">According to the invention, the cemented hard material further comprises one or more elements from the group consisting of Ta, Nb, Hf and Ti, with the total proportion in the cemented hard material being in the range from 0.02 to 0.45 per cent by weight. The ratio of the total proportion of Ta, Nb, Hf and Ti to the total proportion of Co and Ni is in the range from 0.01 to 0.13. The ratio can particularly preferably be in the range from 0.02 to 0.08. The cemented hard material can preferably comprise only Ta and/or Nb from the group consisting of Ta, Nb, Hf and Ti, which two elements have a particularly positive effect on the physical properties of the cemented hard material. The total proportion of the further elements of the group consisting of Ta, Nb, Hf and Ti in the cemented hard material can preferably be significantly smaller than the proportion of Cr in the cemented hard material, in particular less than 65% of the Cr content. Optionally, the cemented hard material can comprise additionally up to maximum 0.2% by weight vanadium, preferably up to maximum 0.15% by weight.</p>
+<p id="p-0047" num="0039">The cemented hard material as per the illustrative embodiment was produced powder-metallurgically using WC powder having a particle size (FSSS, Fisher sieve sizes) of 0.5 &#x3bc;m; Co powder having an FSSS particle size of 0.9 &#x3bc;m, Ni powder having an FSSS particle size of 2.5 &#x3bc;m, Cr<sub>3</sub>C<sub>2 </sub>powder having an FSSS particle size of 1.5 &#x3bc;m; Mo<sub>2</sub>C powder having an FSSS particle size of 1.35 &#x3bc;mm; NbC powder having an FSSS particle size of 1.2 &#x3bc;m, TaC powder having an FSSS particle size of 0.9 &#x3bc;m and (Ta, Nb)C powder (more precisely: (Ta<sub>0.6</sub>, Nb<sub>0.4</sub>)C powder) having an FSSS particle size of 1.2 &#x3bc;m. Production was carried out by mixing of the respective starting powders with a solvent in a ball mill or an attritor and subsequent spray drying in the customary way. The resulting granular material was pressed and brought to the desired shape and was subsequently sintered in a conventional way in order to obtain the cemented hard material. Drawing dies for steel wire as working region for a forming tool and saw teeth as working region for a woodworking tool in the form of a circular saw were manufactured from the cemented hard material. The determination of the average grain size of the tungsten carbide grains in the cemented hard material was carried out by the &#x201c;equivalent circle diameter (ECD)&#x201d; method from EBSD (electron backscatter diffraction) images. This method is described, for example, in &#x201c;Development of a quantitative method for grain size measurement using EBSD&#x201d;; Master of Science Thesis, Stockholm 2012, by Frederik Josefsson.</p>
+<p id="p-0048" num="0040">A first illustrative embodiment of a woodworking tool <b>100</b> having a working region <b>10</b> made of the tungsten carbide-based cemented hard material as has been described above is depicted in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref>.</p>
+<p id="p-0049" num="0041">In the illustrative embodiment specifically depicted, the woodworking tool <b>100</b> is a circular saw blade which has a plurality of saw teeth which each form a working region <b>10</b> which engages with the wood to be worked. The working region <b>10</b> composed of the cemented hard material in the form of the saw tooth is in each case metallurgically bonded, e.g. via a solder joint, to the main element <b>11</b> of the circular saw blade, which can, for example, be made of steel in the conventional way.</p>
+<p id="p-0050" num="0042">Although a circular saw blade is depicted by way of example as woodworking tool in <figref idref="DRAWINGS">FIG. <b>1</b></figref> and <figref idref="DRAWINGS">FIG. <b>2</b></figref>, the tungsten carbide-based cemented hard material can also be used as working region on other woodworking tools.</p>
+<p id="p-0051" num="0043">An illustrative embodiment of a forming tool <b>200</b> having a working region <b>20</b> made of the tungsten carbide-based cemented hard material as has been described above is depicted in <figref idref="DRAWINGS">FIG. <b>3</b></figref> to <figref idref="DRAWINGS">FIG. <b>5</b></figref>.</p>
+<p id="p-0052" num="0044">In the illustrative embodiment specifically depicted in <figref idref="DRAWINGS">FIG. <b>3</b></figref> to <figref idref="DRAWINGS">FIG. <b>5</b></figref>, the forming tool <b>200</b> is a tool for cold forming, in particular a drawing die for wire production, and the working region <b>20</b> is a draw plate which comes into direct contact with the material to be worked, e.g. steel wire. The working region <b>20</b> composed of ii the cemented hard material is accommodated in a housing <b>21</b> which can, for example, be made of steel.</p>
+<heading id="h-0002" level="1">EXAMPLES</heading>
+<heading id="h-0003" level="1">Comparative Example 1</heading>
+<p id="p-0053" num="0045">As comparative example, a tungsten carbide-based cemented hard material was produced by the powder-metallurgical process indicated above using the following composition: 2.25% by weight of Co; 0.75% by weight of Ni; 0.35% by weight of Cr (corresponds to 0.4% by weight of Cr<sub>3</sub>C<sub>2 </sub>as starting material); 0.047% by weight of Mo (corresponds to 0.05% by weight of Mo<sub>2</sub>C as starting material), balance WC and unavoidable impurities. The proportion of WC is thus about 96.55% by weight. An optical micrograph of the microstructure of this cemented hard material is shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>.</p>
+<p id="p-0054" num="0046">In the production process, the carbon balance was set so that the resulting cemented hard material is at least substantially free of &#x3b7; phase, i.e. of undesirable (W<sub>x</sub>, Co<sub>y</sub>)<sub>z</sub>C mixed phases, and substantially free of carbon precipitates. In this context, substantially free of &#x3b7; phase means that from 0 to not more than 0.5% by volume of &#x3b7; phase is present.</p>
+<p id="p-0055" num="0047">The average grain size of the tungsten carbide grains was in the range 0.2-0.5 &#x3bc;m. A Vickers hardness HV10 of 2140, a fracture toughness K<sub>IC </sub>of 7.8 MPa&#xb7;m<sup>1/2 </sup>and a transverse rupture strength of 3200 MPa were measured.</p>
+<heading id="h-0004" level="1">Example 1</heading>
+<p id="p-0056" num="0048">A tungsten carbide-based cemented hard material was produced by the above-described powder-metallurgical production process using the following composition: 2.7% by weight of Co; 0.9% by weight of Ni; 0.45% by weight of Cr (corresponds to 0.52% by weight of Cr<sub>3</sub>C<sub>2 </sub>as starting material); 0.047% by weight of Mo (corresponds to 0.05% by weight of Mo<sub>2</sub>C as starting material) and 0.094% by weight of Ta (corresponds to 0.1% by weight of TaC as starting material), balance WC and unavoidable impurities. The proportion of WC was thus about 95.73% by weight. The content of Co+Ni was 3.6% by weight, with a Co/(Co+Ni) ratio of 0.75. The Cr/(Co+Ni) ratio was 0.125. The Me/(Co+Ni) ratio was 0.026; with Me=Ta in this Example 1. An optical micrograph of the microstructure of the cemented hard material is shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>.</p>
+<p id="p-0057" num="0049">In this example, too, the carbon balance was set in the production process so that the resulting cemented hard material is at least substantially free of &#x3b7; phase, i.e. of undesirable (W<sub>x</sub>, Co<sub>y</sub>)<sub>z</sub>C mixed phases, and substantially free of carbon precipitates.</p>
+<p id="p-0058" num="0050">The average grain size of the tungsten carbide grains in the cemented hard material was in the range from 0.2 to 0.5 &#x3bc;m. The Vickers hardness HV10 was (in accordance with ISO 3878:1991) determined and was 2145. The fracture toughness K<sub>IC </sub>was also determined as described above and was 8.0 MPa&#xb7;m<sup>1/2</sup>. The determination of the transverse rupture strength by the method indicated above gave 3650 MPa.</p>
+<p id="p-0059" num="0051">It can thus be seen that the tungsten carbide-based cemented hard material of Example 1 has both a higher fracture toughness K<sub>IC </sub>and a higher transverse rupture strength compared to the cemented hard material of Comparative Example 1 at a comparable hardness HV10.</p>
+<heading id="h-0005" level="1">Example 2</heading>
+<p id="p-0060" num="0052">A tungsten carbide-based cemented hard material was produced by the above-described powder-metallurgical production process using the following composition: 3.15% by weight of Co; 1.05% by weight of Ni; 0.83% by weight of Cr (corresponds to 0.96% by weight of Cr<sub>3</sub>C<sub>2 </sub>as starting material); 0.132% by weight of Mo (corresponds to 0.14% by weight of Mo<sub>2</sub>C as starting material) and 0.188% by weight of Ta (corresponds to 0.2% by weight of TaC as starting material), balance WC and unavoidable impurities. The proportion of WC was thus about 94.50% by weight. The content of Co+Ni was 4.2% by weight, with a Co/(Co+Ni) ratio of 0.75. The Cr/(Co+Ni) ratio was 0.198. The Me/(Co+Ni) ratio was 0.045; with Me=Ta in this Example 2 as well. An optical micrograph of the cemented hard material is shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>.</p>
+<p id="p-0061" num="0053">In this example, too, the carbon balance was set so that the cemented hard material was substantially free of &#x192; phase and free of carbon precipitates.</p>
+<p id="p-0062" num="0054">The average grain size of the tungsten carbide grains was in the range 0.2-0.5 &#x3bc;m. A Vickers hardness HV10 of 2180, a fracture toughness K<sub>IC </sub>of 8.1 MPa&#xb7;m<sup>1/2 </sup>and a transverse rupture strength of 3800 MPa were measured.</p>
+<p id="p-0063" num="0055">It can thus be seen that the cemented hard material of Example 2 has both a higher fracture toughness K<sub>IC </sub>and a higher transverse rupture strength compared to comparative example 1 at a higher hardness HV10.</p>
+<heading id="h-0006" level="1">Example 3</heading>
+<p id="p-0064" num="0056">A tungsten carbide-based cemented hard material was produced by the above-described power-metallurgical production process using the following composition: 2.7% by weight of Co; 0.9% by weight of Ni; 0.45% by weight of Cr (corresponds to 0.52% by weight of Cr<sub>3</sub>C<sub>2 </sub>as starting material); 0.094% by weight of Mo (corresponds to 0.1% by weight of Mo<sub>2</sub>C as starting material) and 0.177% by weight of Nb (corresponds to 0.2% by weight of NbC as starting material), balance WC and unavoidable impurities. The proportion of WC was thus about 95.58% by weight. In this example 3, Me was thus Nb. An optical micrograph of the cemented hard material is shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>.</p>
+<p id="p-0065" num="0057">In this example, too, the carbon balance was set so that the cemented hard material was substantially free of &#x3b7; phase and free of carbon precipitates.</p>
+<p id="p-0066" num="0058">The average grain size of the tungsten carbide grains was in the range 0.2-0.5 &#x3bc;m. A Vickers hardness HV10=2235, a fracture toughness K<sub>IC </sub>of 7.9 MPa&#xb7;m<sup>1/2 </sup>and a transverse rupture strength of 3600 MPa were measured.</p>
+<p id="p-0067" num="0059">It can thus be seen that the cemented hard material of Example 3 has both a higher fracture toughness K<sub>IC </sub>and a higher transverse rupture strength compared to comparative example 1 at a significantly higher hardness HV10.</p>
+<heading id="h-0007" level="1">Example 4</heading>
+<p id="p-0068" num="0060">A tungsten carbide-based cemented hard material was produced by the above-described powder-metallurgical reduction process using the following composition: 2.7% by weight of Co; 0.9% by weight of Ni; 0.45% by weight of Cr (corresponds to 0.52% by weight of Cr<sub>3</sub>C<sub>2 </sub>as starting material); 0.094% by weight of Mo (corresponds to 0.10% by weight of Mo<sub>2</sub>C as starting material), 0.113% by weight of Ta (corresponds to 0.2% by weight of (Ta, Nb)C as starting material) and 0.071% by weight of Nb (corresponds to 0.2% by weight of (Ta, Nb)C as starting material), balance WC and unavoidable impurities. The proportion of WC was thus about 95.58% by weight. The content of Co+Ni was 3.6% by weight, with a Co/(Co+Ni) ratio of 0.75. The Cr/(Co+Ni) ratio was 0.125. The Me/(Co+Ni) ratio was 0.051; with Me=Ta+Nb in this Example 4. An optical micrograph of the microstructure of this cemented hard material is shown in <figref idref="DRAWINGS">FIG. <b>10</b></figref>.</p>
+<p id="p-0069" num="0061">In this example, too, the carbon balance was set so that the cemented hard material was substantially free of &#x3b7; phase and free of carbon precipitates.</p>
+<p id="p-0070" num="0062">The average grain size of the tungsten carbide grains in the cemented hard material was in the range from 0.2 to 0.5 &#x3bc;m. The Vickers hardness HV10 was (in accordance with ISO <b>3878</b>:<b>1991</b>) determined and was 2220. The fracture toughness K<sub>IC </sub>was also determined as described above and was 7.9 MPa&#xb7;m<sup>1/2</sup>. The determination of the transverse rupture strength by the method indicated above gave 3500 MPa.</p>
+<p id="p-0071" num="0063">It can thus be seen that the cemented hard material of Example 4 has both a higher fracture toughness K<sub>IC </sub>and a higher transverse rupture strength compared to comparative example 1 at a significantly higher hardness HV10.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-01-14" num="01-14">
+<claim-text><b>1</b>-<b>14</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A tungsten carbide-based cemented hard material, comprising:
+<claim-text>tungsten carbide having an average particle size of 0.1-1.3 &#x3bc;m;</claim-text>
+<claim-text>1.0-5.0% by weight of (Co+Ni), with a ratio of Co to (Co+Ni) in % by weight of 0.4&#x2264;Co/(Co+Ni)&#x2264;0.95;</claim-text>
+<claim-text>0.1-1.0% by weight of Cr, with a ratio of Cr to (Co+Ni) in % by weight of 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.20;</claim-text>
+<claim-text>0.01-0.3% by weight of Mo; and</claim-text>
+<claim-text>0.02-0.45% by weight of Me, where Me is one or more elements selected from the group consisting of Ta, Nb, Hf and Ti; and</claim-text>
+<claim-text>0.01 Me/(Co+Ni)&#x2264;0.13.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein Me is at least one of Ta or Nb.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the tungsten carbide has an average particle size of 0.1-0.8 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the tungsten carbide has an average particle size of 0.2-0.5 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein 0.6&#x2264;Co/(Co+Ni)&#x2264;0.9.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein 0.05&#x2264;Cr/(Co+Ni)&#x2264;0.15.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein a ratio of Mo to Cr in % by weight is Mo/Cr&#x3c;0.5.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the ratio Mo/Cr&#x3c;0.4.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein 0.02 Me/(Co+Ni)&#x2264;0.08.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein a ratio of Me to Cr in % by weight is Me/Cr&#x3c;0.65.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, having a hardness HV10 in a range given by the equation:
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>HV</i>10=2550&#x2212;100&#xb7;% by weight of (Co+Ni)&#xb1;150.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, having a fracture toughness K<sub>IC </sub>in MPa&#xb7;m<sup>1/2 </sup>in a range
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>K</i><sub>IC</sub>=6.8+(&#x2153;)&#xb7;% by weight of (Co+Ni)&#xb1;0.5.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The tungsten carbide-based material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>, having a transverse rupture strength TRS in MPa in a range:
+<claim-text>
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>TRS=2150+(2500/6)&#xb7;% by weight of (Co+Ni)&#xb1;500.<?in-line-formulae description="In-line Formulae" end="tail"?>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. A woodworking tool, comprising a working region made of a tungsten carbide-based cemented hard material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. A forming tool, comprising a working region made of a tungsten carbide-based cemented hard material according to <claim-ref idref="CLM-00015">claim 15</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The forming tool according to <claim-ref idref="CLM-00029">claim 29</claim-ref>, configured as a tool for cold forming.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The forming tool according to <claim-ref idref="CLM-00030">claim 30</claim-ref>, being a drawing die for wire production or a deep-drawing tool.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

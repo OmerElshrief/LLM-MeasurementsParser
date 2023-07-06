@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411898A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411898</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17900136</doc-number>
+<date>20220831</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FR</country>
+<doc-number>1858208</doc-number>
+<date>20180913</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>05</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>03</class>
+<subclass>B</subclass>
+<main-group>37</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>19</main-group>
+<subgroup>055</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>03</class>
+<subclass>B</subclass>
+<main-group>37</main-group>
+<subgroup>047</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ALLOY FOR FIBER-FORMING PLATE</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>17273149</doc-number>
+<date>20210303</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/FR2019/052091</doc-number>
+<date>20190910</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17900136</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SAINT-GOBAIN ISOVER</orgname>
+<address>
+<city>COURBEVOIE</city>
+<country>FR</country>
+</address>
+</addressbook>
+<residence>
+<country>FR</country>
+</residence>
+</us-applicant>
+<us-applicant sequence="01" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SAINT-GOBAIN SEVA</orgname>
+<address>
+<city>CHALON SUR SAONE</city>
+<country>FR</country>
+</address>
+</addressbook>
+<residence>
+<country>FR</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>HERICHER</last-name>
+<first-name>Ludovic</first-name>
+<address>
+<city>CHALON SUR SAONE</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>LABARTHE</last-name>
+<first-name>Jacques</first-name>
+<address>
+<city>MONTMORENCY</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>CONDOLF</last-name>
+<first-name>Cyril</first-name>
+<address>
+<city>CONFLANS-SAINTE-HONORINE</city>
+<country>FR</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An alloy contains the following elements, the proportions being indicated as percentage by weight of the alloy (limit values included) Cr 20 to 35%, Fe 1 to 6%, W 3 to 8%, Nb 0.5 to 3%, Ti 0 to 1%, C 0.4 to 1%, Co 0 to 3%, Si 0.1 to 1.5%, Mn 0.1 to 1%, the remainder consisting of nickel and unavoidable impurities, wherein a (Nb+Ti)/C weight ratio is between 1 to 2.4.</p>
+</abstract>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of U.S. application Ser. No. 17/273,149 filed on Mar. 3, 2021, which is the U.S. National Stage of PCT/FR2019/052091, filed on Sep. 10, 2019, which in turn claims priority to French patent application number 1858208 filed on Sep. 13, 2018. The content of these applications are incorporated herein by reference in their entireties</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a metal alloy for use at very high temperature, in particular which can be used in a process for manufacturing mineral wool by fiberizing a molten mineral composition, or more generally for the formation of tools with mechanical strength at high temperature in an oxidizing environment, such as molten glass, and to nickel-based alloys which can be used at high temperature, especially for the manufacture of articles for the smelting and/or hot conversion of glass or other mineral material, such as components of machines for the manufacture of mineral wool.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0004" num="0003">One fiberizing technique, known as by internal centrifugation, consists in allowing liquid glass to fall continuously inside an assembly of axisymmetric parts rotating at a very high rotational speed around their vertical axis. One key part, known as &#x201c;spinner&#x201d;, receives the glass against a wall referred to as &#x201c;band&#x201d; pierced with holes through which the glass passes under the effect of the centrifugal force in order to escape from all parts thereof in the form of molten filaments. An annular burner located above the outside of the spinner, which produces a descending gas stream tightly surrounding the external wall of the band, deflects these filaments downward, drawing them. Said filaments subsequently &#x201c;solidify&#x201d; in the form of glass wool.</p>
+<p id="p-0005" num="0004">The spinner is a fiberizing tool which is highly stressed thermally (heat shocks during startup and shutdown operations, and establishment, in stabilized use, of a temperature gradient along the part), mechanically (centrifugal force, erosion due to the passage of the glass) and chemically (oxidation and corrosion by the molten glass, and by the hot gases emerging from the burner around the spinner). Its main modes of deterioration are: hot creep deformation of the vertical walls, the appearance of horizontal or vertical cracks and wear by erosion of the fiberizing orifices, which require the outright replacement of the components. Their constituent material must thus resist for a sufficiently long production time (or fiberizing time) to remain compatible with the technical and economic constraints of the process. To this end, materials having a degree of ductility, creep resistance and resistance to corrosion by molten glass and to oxidation at high temperature are sought.</p>
+<p id="p-0006" num="0005">Nickel-based superalloys reinforced by precipitation of carbides are known for the production of these tools. FR 2675818 describes such alloys, for example.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">The present invention aims to provide nickel-based alloys which are further improved, ultimately making it possible to increase the lifetime of the tool formed from said alloy, especially a fiberizing spinner made of such an alloy. The alloy according to the present invention thus has very good properties of creep resistance, resistance to corrosion and/or oxidation, which ultimately make it possible to obtain such an improved lifetime.</p>
+<p id="p-0008" num="0007">More specifically, a subject of the present invention is an alloy which contains the following elements, the proportions being indicated as percentage by weight of the alloy (limit values included):</p>
+<p id="p-0009" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>20 to 35%</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>0 to 6%</entry>
+</row>
+<row>
+<entry/>
+<entry>W</entry>
+<entry>3 to 8%</entry>
+</row>
+<row>
+<entry/>
+<entry>Nb</entry>
+<entry>0.5 to 3%</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>0 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry>C</entry>
+<entry>0.4 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry>Co</entry>
+<entry>0 to 3%</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>0.1 to 1.5%</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>0.1 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+the remainder consisting of nickel and unavoidable impurities.
+</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0010" num="0008">For the purposes of the present invention, unavoidable impurities is intended to mean that the elements in question are not intentionally present in the composition of the alloy but that they are introduced in the form of impurities present in at least one of the main elements of the alloy (or in at least one of the precursors of said main elements).</p>
+<p id="p-0011" num="0009">The alloy according to the present invention differs from the nickel-based alloys generally used for such applications especially in that it contains niobium carbides (NbC) and optionally titanium carbides (TiC), and also a limited amount of iron, or even no iron, or iron solely in the form of unavoidable impurities.</p>
+<p id="p-0012" num="0010">Patent application FR2675818, cited above, indicates that an amount of iron of between 7 and 10% in nickel-based alloys is necessary in order to improve the resistance to corrosion with regard to the molten glass, especially with regard to the sulfur-containing compounds contained in said molten glass. Unexpectedly, and even counter to what could be expected, the properties of the alloy compositions according to the present invention, that is to say having a proportion of iron much lower than that previously described (or even having no iron or iron solely in the form of unavoidable impurities) appeared superior to those of the alloys of the prior art and in particular, the lifetime of the spinners made from such an alloy proved to be greater, as will be demonstrated in the remainder of the description by the examples provided.</p>
+<p id="p-0013" num="0011">Among the elements forming part of the composition of the alloy, mention may especially be made of (all the percentages being given relative to the total weight of the alloy):</p>
+<p id="p-0014" num="0012">Nickel is the base element of the alloys according to the invention, in that it represents more than 50% by weight of the alloy. The nickel content is preferably greater than or equal to 52%, or even greater than or equal to 54%. More preferably still, the nickel content is greater than 55%, or even greater than or equal to 56%. More preferably still, the nickel content is less than or equal to 65%, or even less than or equal to 63%, or even less than or equal to 62%. The alloy may very preferentially comprise a range of between 55.5 and 60% by weight of nickel, or even between 56 and 60% by weight of nickel.</p>
+<p id="p-0015" num="0013">Carbon is an essential constituent of the alloy, necessary for formation of metal carbide precipitates. In particular, the carbon content directly determines the amount of carbides present in the alloy. It is at least 0.4% by weight, in order to obtain the desired minimum reinforcement, preferably at least 0.5% by weight, but preferentially limited to at most 1% by weight, preferably of at most 0.9% by weight, or even at most 0.8% by weight, in order to prevent the alloy from becoming hard and difficult to machine due to an excessively high density of reinforcements. The lack of ductility of the alloy at such contents prevents it from accommodating, without fracturing, an imposed deformation (for example of thermal origin) and from being sufficiently resistant to the propagation of cracks. The alloy may very preferentially comprise a range of between 0.6 and 0.7% by weight of carbon. Most particularly, an alloy according to the invention that has demonstrated very good performance in the meaning described previously comprises between 0.55 and 1% by weight of carbon.</p>
+<p id="p-0016" num="0014">Chromium contributes to the intrinsic mechanical strength of the matrix in which it is present partly in solid solution and, in some cases, also in the form of carbides essentially of Cr<sub>23</sub>C<sub>6 </sub>type in fine dispersion inside the grains, where they provide resistance to intergranular creep, or in the form of carbides of Cr<sub>7</sub>C<sub>3 </sub>or Cr<sub>23</sub>C<sub>6 </sub>type present at the grain boundaries, which prevent grain on grain slipping, thus also contributing to the intergranular strengthening of the alloy. Chromium contributes to the resistance to corrosion as precursor of chromium oxide, which forms a protective layer at the surface exposed to the oxidizing environment. A minimum amount of chromium is therefore necessary for the formation and the maintenance of this protective layer. However, an excessively high chromium content is harmful to the mechanical strength and to the toughness at high temperatures as it results in an excessively high stiffness and an excessively low ability to be elongated under stress incompatible with high-temperature stresses. Preferably, the chromium content of an alloy which can be used according to the invention is greater than or equal to 22%, or even greater than or equal to 25%, or even greater than or equal to 28%. Preferably, the chromium content of an alloy which can be used according to the invention is less than or equal to 32%, or even less than or equal to 30%.</p>
+<p id="p-0017" num="0015">The alloy may very preferentially comprise a range of between 28 and 30% by weight of chromium.</p>
+<p id="p-0018" num="0016">According to the experiments carried out by the applicant company, niobium, like titanium, appears to contribute to the mechanical strength of the alloy, in particular to the creep resistance, at high temperature, for example greater than 1000&#xb0; C., or even greater than 1040&#xb0; C. This is because chromium carbides have a tendency to dissolve at temperatures of greater than 1000&#xb0; C. The presence of niobium carbides and titanium carbides, which are more stable than chromium carbides at high temperature, makes it possible to ensure the mechanical strength of the alloy at high temperature. Moreover, the migration of the chromium at the surface to form the protective chromine layer required for the corrosion resistance induces a local decrease in the chromium at the subsurface and therefore a disappearance of the carbides Cr<sub>7</sub>C<sub>3 </sub>and Cr<sub>23</sub>C<sub>6</sub>. The presence of NbC carbides contributes to maintaining the mechanical properties during the disappearance of the chromium carbides. The niobium content is preferably greater than or equal to 0.6%, or even greater than or equal to 0.7%. More preferably still, the niobium content is less than or equal to 2.5%, or even less than or equal to 2%, or even less than or equal to 1.5%, and very preferably less than 1.2%, or even less than 1.15%.</p>
+<p id="p-0019" num="0017">The alloy may very preferentially comprise a range of between 0.8 and 1.2% by weight of niobium.</p>
+<p id="p-0020" num="0018">A certain proportion of titanium may also contribute to the mechanical strength of the alloy at high temperature by the formation of titanium carbides. However, it has been noted that the presence of titanium could affect the resistance to oxidation of the alloy. Thus, the titanium content is preferably less than 0.5%, or even less than 0.4% by weight. In a particularly preferred embodiment, the alloy does not comprise titanium other than in the form of unavoidable impurity, that is to say at contents of less than 0.1%, or even of less than 0.05% or even of less than 0.01% by weight of the alloy.</p>
+<p id="p-0021" num="0019">The (Nb+Ti)/C weight ratio according to the invention is preferably between 1 and 2, more preferentially between 1.5 and 2. The (Nb+Ti)/C weight ratio according to the invention is in particular between 1.5 and 2.4.</p>
+<p id="p-0022" num="0020">Tungsten also contributes, together with the other metals present in the alloy and mentioned previously, to the hardness of the alloy and to its creep resistance.</p>
+<p id="p-0023" num="0021">Tungsten is present in an amount greater than or equal to 3%, more preferably still greater than or equal to 4%, or even greater than or equal to 5% by weight of the alloy. Tungsten is preferably present in an amount less than or equal to 7%, more preferably still less than or equal to 6% by weight of the alloy.</p>
+<p id="p-0024" num="0022">The alloy may comprise for example from 3 to 8%, 4 to 7%, and very preferentially between 5 and 6% by weight of tungsten.</p>
+<p id="p-0025" num="0023">Cobalt may be present in the alloy in the form of a solid solution with nickel. It is very commonly used in the field of high temperature refractory steels in refractory alloys because it is known that such a solid solution contributes to the corrosion resistance and the mechanical strength of the overall alloy. However, as cobalt is an expensive element, it is deliberately limited according to the invention and present in an amount of less than 3%, or even less than 2%, or even less than 1% by weight of the alloy. Surprisingly, although the presence of a sufficient amount of cobalt is considered to be a requirement in the field of refractory alloys comprising nickel in order to stabilize the latter, it has been found by the applicant company that, in the specific case of the alloy which is the subject of the present invention, it is possible to limit its presence as far as possible, in particular to limit its presence solely in the form of unavoidable impurities. Most generally, the tests carried out by the applicant showed that the cobalt was nonetheless virtually always present in the alloy in the form of unavoidable impurity at an amount of at least 0.3% by weight and most commonly at least 0.5% by weight, or even at least 0.7% by weight. Percentages of cobalt in the alloy of less than 0.3% by weight, or even less than the detection thresholds, must however also be considered as being included in the context of the invention.</p>
+<p id="p-0026" num="0024">As indicated above, the amount of iron, considered to be an essential element in the prior art document FR2675818, is also limited in the present invention. The iron content is preferably less than or equal to 5%, or even less than or equal to 4.5%, or even less than or equal to 4%.</p>
+<p id="p-0027" num="0025">According to one embodiment of the invention, the iron content is greater than or equal to 1%, or even greater than or equal to 2%, or even greater than or equal to 3%. According to another embodiment of the invention, the iron may only be present in the form of unavoidable impurities.</p>
+<p id="p-0028" num="0026">According to another possible embodiment, the iron content is between 4% and 6% by weight.</p>
+<p id="p-0029" num="0027">The alloy may advantageously contain other elements in very minor proportions. It comprises in particular:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0028">silicon, as deoxidant for the molten metal during the smelting and molding of the alloy, preferably at an amount of less than 1.1%, or even less than 0.9%, or even less than 0.8% by weight;</li>
+        <li id="ul0002-0002" num="0029">manganese, also as deoxidant, preferentially at an amount of less than 0.9%, or even less than 0.6% by weight.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0030" num="0030">The cumulative amount of the other elements introduced as impurities with the essential constituents of the alloy (&#x201c;unavoidable impurities&#x201d;) advantageously represents less than 2% by weight of the composition of the alloy, or even less than 1% by weight of the alloy.</p>
+<p id="p-0031" num="0031">Among the possible, and common, unavoidable impurities, mention may be made of sulfur or phosphorus. The individual amount thereof generally does not exceed 0.05% in the alloys according to the invention.</p>
+<p id="p-0032" num="0032">The alloy according to the present invention also differs from certain nickel-based alloys generally used for the manufacture of fiberizing spinners in that it does not contain aluminum other than in the form of unavoidable impurity, that is to say at contents of less than 0.1%, or even less than 0.05%, or even less than 0.01% by weight. This is because it has been noted that the presence of aluminum in the alloy, even at a low amount of the order of 0.1% by weight, could significantly affect its corrosion resistance with regard to the molten glass.</p>
+<p id="p-0033" num="0033">The alloy according to the invention is also devoid of molybdenum, apart from in the form of unavoidable impurity, that is to say that it may comprise contents of less than 0.1%, or even of less than 0.05% or even of less than 0.01% by weight of molybdenum. This is because, although molybdenum is known to provide nickel-based alloys with excellent corrosion resistance, it has been observed that, even at low contents, molybdenum could considerably affect their resistance to oxidation.</p>
+<p id="p-0034" num="0034">In a particular embodiment, the alloy according to the invention comprises, as percentage by weight:</p>
+<p id="p-0035" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="70pt" align="left"/>
+<colspec colname="3" colwidth="98pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>22 to 31%,</entry>
+<entry>preferably 28 to 30%.</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>0 to 6%,</entry>
+<entry>preferably 3 to 4%.</entry>
+</row>
+<row>
+<entry/>
+<entry>W</entry>
+<entry>4 to 7%,</entry>
+<entry>preferably 5 to 6%.</entry>
+</row>
+<row>
+<entry/>
+<entry>Nb</entry>
+<entry>0.5 to 3%,</entry>
+<entry>preferably 0.8 to 1.2%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>0 to 0.5%,</entry>
+<entry>preferably 0.1 to 0.3%,</entry>
+</row>
+<row>
+<entry/>
+<entry>C</entry>
+<entry>0.45 to 0.9%,</entry>
+<entry>preferably 0.6 to 0.7%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Co</entry>
+<entry>less than 3%.</entry>
+<entry>preferably less than 1%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>less than 1.1%,</entry>
+<entry>preferably 0.6 to 0.8%.</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>less than 0.8%,</entry>
+<entry>preferably 0.5 to 0.7%,</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+the remainder consisting of nickel and unavoidable impurities. In particular, nickel may advantageously be present in amounts ranging from 54 to 62% by weight and in particular ranging from 55 to 60% by weight.
+</p>
+<p id="p-0036" num="0035">The alloys which can be used according to the invention, which contain highly reactive elements, can be formed by founding, in particular by inductive melting under an at least partially inert atmosphere and sand mold casting.</p>
+<p id="p-0037" num="0036">The casting can optionally be followed by a heat treatment.</p>
+<p id="p-0038" num="0037">Another subject of the invention is a process for the manufacture of an article by founding, using the alloys described above as subject of the invention.</p>
+<p id="p-0039" num="0038">The process generally comprises a step of appropriate heat treatment which makes it possible to obtain secondary carbides and makes possible their homogeneous distribution in the metal matrix, as described in FR 2675818. The heat treatment is preferably carried out at a temperature of less than 1000&#xb0; C., or even of less than 950&#xb0; C., for example from 800&#xb0; C. to 900&#xb0; C., for a period of at least 5 hours, or even at least 8 hours, for example from 10 to 20 hours.</p>
+<p id="p-0040" num="0039">The process may comprise at least one cooling stage, after the casting and/or after or in the course of a heat treatment, for example by cooling in the air, in particular with a return to ambient temperature.</p>
+<p id="p-0041" num="0040">The alloys which are subjects of the invention can be used to manufacture all kinds of parts which are mechanically stressed at high temperature and/or caused to operate in an oxidizing or corrosive environment. Other subjects of the invention are such articles manufactured from an alloy according to the invention, especially by founding.</p>
+<p id="p-0042" num="0041">Mention may especially be made, among such applications, of the manufacture of articles which can be used for the smelting or the hot conversion of glass, for example fiberizing spinners for the manufacture of mineral wool.</p>
+<p id="p-0043" num="0042">Thus, another subject of the invention is a process for manufacturing mineral wool by internal centrifugation, in which a flow of molten mineral material is poured into a fiberizing spinner, the peripheral band of which is pierced with a multitude of orifices through which filaments of molten mineral material escape and are subsequently drawn to give wool under the action of a gas, the temperature of the mineral material in the spinner being at least 900&#xb0; C., or even at least 950&#xb0; C. or at least 1000&#xb0; C., or even at least 1040&#xb0; C., and the fiberizing spinner consisting of an alloy as defined above.</p>
+<p id="p-0044" num="0043">The alloys according to the invention therefore make it possible to fiberize a molten mineral material having a liquidus temperature (T<sub>liq</sub>) of 800&#xb0; C. or more, for example of 850&#xb0; C., or even 900&#xb0; C. to 1030&#xb0; C., or even 1000&#xb0; C., or even 950&#xb0; C.</p>
+<p id="p-0045" num="0044">The composition of the mineral material to be fiberized is not particularly limited as long as it can be fiberized by an internal centrifugation process. It can vary as a function of the properties desired for the mineral fibers produced, for example biosolubility, fire resistance or thermal insulation properties. The material to be fiberized is preferably a glass composition of soda-lime-silica-borate type. It can in particular have a composition which includes the constituents below, in the proportions by weight defined by the following limits:</p>
+<p id="p-0046" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>SiO<sub>2</sub></entry>
+<entry>35 to 80%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Al<sub>2</sub>O<sub>3</sub></entry>
+<entry>0 to 30%,</entry>
+</row>
+<row>
+<entry/>
+<entry>CaO + MgO</entry>
+<entry>2 to 35%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Na<sub>2</sub>O + K<sub>2</sub>O</entry>
+<entry>0 to 20%,</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<br/>
+it being understood that in general
+<br/>
+SiO<sub>2</sub>+Al<sub>2</sub>O<sub>3 </sub>is within the range extending from 50 to 80% by weight and that Na<sub>2</sub>O+K<sub>2</sub>O+B<sub>2</sub>O<sub>3 </sub>is within the range extending from 5 to 30% by weight.
+</p>
+<p id="p-0047" num="0045">The material to be fiberized may especially have the following composition, in percentage by weight:</p>
+<p id="p-0048" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="42pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>SiO<sub>2</sub></entry>
+<entry>50 to 75%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Al<sub>2</sub>O<sub>3</sub></entry>
+<entry>0 to 8%,</entry>
+</row>
+<row>
+<entry/>
+<entry>CaO + MgO</entry>
+<entry>2 to 20%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe<sub>2</sub>O<sub>3</sub></entry>
+<entry>0 to 3%,</entry>
+</row>
+<row>
+<entry/>
+<entry>Na<sub>2</sub>O + K<sub>2</sub>O</entry>
+<entry>12 to 20%,</entry>
+</row>
+<row>
+<entry/>
+<entry>B<sub>2</sub>O<sub>3</sub></entry>
+<entry>2 to 10%.</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0049" num="0046">The material to be fiberized can be prepared from pure constituents but it is generally obtained by melting a mixture of natural starting materials that provide different impurities.</p>
+<p id="p-0050" num="0047">Although the invention has been described mainly in the context of the manufacture of mineral wool, it can be applied to the glass industry in general for producing furnace, bushing or feeder components or fittings, in particular for the production of yarns of textile glass, of packaging glass, and the like.</p>
+<p id="p-0051" num="0048">Outside the glass industry, the invention can be applied to the manufacture of a very wide variety of articles, when the latter must have high mechanical strength in an oxidizing and/or corrosive environment, in particular at high temperature.</p>
+<p id="p-0052" num="0049">The examples which follow, which are in no way restrictive of the compositions according to the invention or of the conditions for employing the fiberizing spinners according to the invention, illustrate the advantages of the present invention.</p>
+<heading id="h-0006" level="1">EXAMPLES</heading>
+<p id="p-0053" num="0050">A molten charge of a composition I1 (according to the invention) and C1 (according to FR 2675818) which are indicated in table 1 is prepared by the inductive melting technique under an inert atmosphere (in particular argon), which molten charge is subsequently formed by simple casting in a sand mold. Table 1 indicates the proportions as percentage by weight of each element in the alloy, the remainder to 100% consisting of nickel and unavoidable impurities.</p>
+<p id="p-0054" num="0000">
+<tables id="TABLE-US-00005" num="00005">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="91pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="98pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>I1</entry>
+<entry>C1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="35pt" align="left"/>
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="char" char="."/>
+<colspec colname="3" colwidth="98pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>27.1</entry>
+<entry>27.5</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>5.45</entry>
+<entry>7</entry>
+</row>
+<row>
+<entry/>
+<entry>W</entry>
+<entry>5.83</entry>
+<entry>7.2</entry>
+</row>
+<row>
+<entry/>
+<entry>Nb</entry>
+<entry>0.86</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>0.14</entry>
+<entry>&#x2014;</entry>
+</row>
+<row>
+<entry/>
+<entry>C</entry>
+<entry>0.62</entry>
+<entry>0.67</entry>
+</row>
+<row>
+<entry/>
+<entry>Co</entry>
+<entry>0.78</entry>
+<entry>0.80</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>0.79</entry>
+<entry>0.75</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>0.70</entry>
+<entry>0.75</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="left" id="FOO-00001">* optionally present in the form of unavoidable impurity</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0055" num="0051">The casting is followed by a heat treatment for precipitation of the secondary carbides at 865&#xb0; C. for 12 hours, finishing with a cooling in air down to ambient temperature.</p>
+<p id="p-0056" num="0052">In this way, 200&#xd7;110&#xd7;25 mm ingots were manufactured.</p>
+<p id="p-0057" num="0053">The properties of resistance to creep, to oxidation and to corrosion of the alloys I1 and C1 were subsequently evaluated.</p>
+<p id="p-0058" num="0054">The resistance to creep was measured by a creep-traction test on test specimens 30.0 mm long, 8.0 mm wide and 2.0 mm thick. The tests were carried out at 1000&#xb0; C. (normal operating temperature of a spinner), under loads of 45 MPa (corresponding to a normal stressing of the spinner), 63 MPa (corresponding to an extreme stressing of the spinner) and 100 MPa. Table 2 indicates the creep rate (in the secondary mode) in &#x3bc;m/h.</p>
+<p id="p-0059" num="0055">The resistance to oxidation depends, on the one hand, on the kinetics of oxidation of the alloy and, on the other hand, on the quality of adhesion of the oxide layer formed on the surface of the alloy. This is because poor adhesion of the oxide layer to the surface of the alloy accelerates oxidation of the latter: when the oxide layer comes off, a nonoxidized alloy surface is then exposed directly to the oxygen of the air, which brings about the formation of a new oxide layer, in its turn capable of coming off, thus propagating the oxidation. On the other hand, when the oxide layer remains adherent to the surface of the alloy, it forms a barrier layer which limits, indeed even halts, the progression of the oxidation. The oxidation rate constants Kp, expressed in g.cm<sup>&#x2212;2</sup>.s<sup>&#x2212;</sup>&#xbd;, were calculated from monitoring the increase in weight resulting from the oxidation of samples placed at 1000&#xb0; C. for 50 h in a furnace equipped with a microbalance under a stream of air. Table 2 indicates these constants in g.cm<sup>&#x2212;2</sup>.s<sup>&#x2212;1/2</sup>.</p>
+<p id="p-0060" num="0056">The tests of resistance to corrosion are carried out using a three-electrode assembly, which electrodes are immersed in a rhodium/platinum crucible containing the molten glass. The rhodium/platinum crucible is used as counterelectrode. The comparison electrode is conventionally the air-fed stabilized zirconia electrode. The cylindrical samples of alloys to be evaluated, which underwent a heat treatment in air at 1000&#xb0; C. for 2 h, are sealed with zirconia cement to an alumina sheath to form the working electrode. The sample constituting the working electrode is fitted to a rotating axis, in order to represent the frictional exertions of the glass on the surface of the alloy, and immersed in the molten glass at 1000&#xb0; C. (composition as percentage by weight: SiO<sub>2 </sub>65.6; Al<sub>2</sub>O<sub>3</sub>1.7; Na<sub>2</sub>O 16.4; K<sub>2</sub>O 0.7; CaO 7.4; MgO 3.1; B<sub>2</sub>O<sub>3 </sub>4.8). The resistance of the alloys to corrosion by the glass is evaluated by measuring the polarization resistance (Rp). In order to measure the corrosion potential (E<sub>c</sub>), no current is applied between the working electrode and the counterelectrode, and the potential measured between the working electrode and the comparison electrode is that of the metal/glass pair at the given temperature. This thermodynamic information makes it possible to determine the corrosion reactions and the passivable nature of the metal studied. The measurement of the polarization resistance (Rp) is obtained by periodically varying the electric potential in the vicinity of the potential E<sub>c </sub>and by measuring the change in the current density which results. The slope of the current/potential curve recorded over this range is inversely proportional to Rp. The greater Rp (expressed in ohm.cm<sup>2</sup>), the more resistant the material is to corrosion, the rate of degradation being inversely proportional to Rp. The determination of Rp thus makes it possible to evaluate comparatively the rate of corrosion of the alloys.</p>
+<p id="p-0061" num="0000">
+<tables id="TABLE-US-00006" num="00006">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="126pt" align="left"/>
+<colspec colname="1" colwidth="42pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>I1</entry>
+<entry>C1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="42pt" align="char" char="."/>
+<colspec colname="5" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Creep</entry>
+<entry>1000&#xb0; C.</entry>
+<entry>45 MPa</entry>
+<entry>0.38</entry>
+<entry>0.72</entry>
+</row>
+<row>
+<entry>&#x3bc;m/h</entry>
+<entry/>
+<entry>63 MPa</entry>
+<entry>1.03</entry>
+<entry>2.48</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>100 MPa&#x2002;</entry>
+<entry>32.51</entry>
+<entry>54.47</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="42pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="char" char="."/>
+<colspec colname="4" colwidth="49pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Solidus</entry>
+<entry>T<sub>Solidus </sub>(&#xb0; C.)</entry>
+<entry>1292</entry>
+<entry>1288</entry>
+</row>
+<row>
+<entry>Oxidation</entry>
+<entry>Kinetic constant Kp</entry>
+<entry>8.7 &#xd7; 10<sup>&#x2212;12</sup></entry>
+<entry>5.5 &#xd7; 10<sup>&#x2212;12</sup></entry>
+</row>
+<row>
+<entry/>
+<entry>(g &#xb7; cm<sup>&#x2212;2 </sup>&#xb7; s<sup>&#x2212;1/2</sup>)</entry>
+</row>
+<row>
+<entry>Corrosion</entry>
+<entry>Polarization resistance</entry>
+<entry>770 &#xb1; 15%</entry>
+<entry>870 &#xb1; 15%</entry>
+</row>
+<row>
+<entry/>
+<entry>Rp (Ohm/cm<sup>2</sup>)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0062" num="0057">Comparing the data reported in table 2, there is observed, for the alloy I1 according to the invention, a significantly improved resistance to creep compared to the alloy C<sub>1 </sub>and substantially equivalent resistance to corrosion and to oxidation to that of the alloy C1. Moreover, the stability of the NbC carbides during the chromium migration process makes it possible to retain the mechanical properties required for the good resistance of the material and will be fully appreciated when analyzing the results of the application of this alloy to fiberizing spinners.</p>
+<p id="p-0063" num="0058">Fiberizing spinners, respectively of diameter 400 mm and 600 mm, are subsequently formed with the alloy according to the prior art C<sub>1 </sub>and with the alloy I1 according to the invention.</p>
+<p id="p-0064" num="0059">The spinners are prepared by the inductive melting technique under an inert argon atmosphere: a molten charge of the chosen composition (i.e. I1 or C1, see table 1 above) is prepared, which molten charge is subsequently formed by simple casting in a sand mold.</p>
+<p id="p-0065" num="0060">The casting is followed by a heat treatment of 12 hours at 865&#xb0; C. for precipitation of the secondary carbides. This treatment is followed by quenching with blown air.</p>
+<p id="p-0066" num="0061">In this way, series of fiberizing spinners of diameter 400 mm and 600 mm are manufactured in the two alloys.</p>
+<p id="p-0067" num="0062">The capacity of the spinners thus formed was evaluated in the application of glass wool fiberizing. More specifically, the spinners were placed in an industrial line for fiberizing a glass of the composition (in percentage by weight):</p>
+<p id="p-0068" num="0000">
+<tables id="TABLE-US-00007" num="00007">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>SiO<sub>2</sub></entry>
+<entry>Al<sub>2</sub>O<sub>3</sub></entry>
+<entry>(B<sub>2</sub>O<sub>3</sub>)</entry>
+<entry>CaO</entry>
+<entry>MgO</entry>
+<entry>Na<sub>2</sub>O</entry>
+<entry>K<sub>2</sub>O</entry>
+<entry>Others</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>65.3</entry>
+<entry>2.1</entry>
+<entry>4.5</entry>
+<entry>8.1</entry>
+<entry>2.4</entry>
+<entry>16.4</entry>
+<entry>0.7</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0069" num="0063">This is a glass with a liquidus temperature of 900&#xb0; C.</p>
+<p id="p-0070" num="0064">The spinners are used until their stoppage is dictated following the ruin of the spinner, observed by visible deterioration on said spinner or by a quality of fiber produced becoming insufficient.</p>
+<p id="p-0071" num="0065">The lifetimes of the spinners are reported in table 1. The results are indicated as tons of fiberized material before the spinner is ruined. The results reported in table 3 are a mean taken across at least three spinners from each category.</p>
+<p id="p-0072" num="0000">
+<tables id="TABLE-US-00008" num="00008">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="84pt" align="left"/>
+<colspec colname="1" colwidth="112pt" align="center"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" rowsep="1">TABLE 3</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Composition spinner</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="84pt" align="center"/>
+<colspec colname="2" colwidth="49pt" align="center"/>
+<colspec colname="3" colwidth="84pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Diameter</entry>
+<entry>Alloy C1</entry>
+<entry>Alloy I1</entry>
+</row>
+<row>
+<entry>spinner</entry>
+<entry>(comparative)</entry>
+<entry>(inventive)</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>400 mm</entry>
+<entry>170 tons</entry>
+<entry>225 tons</entry>
+</row>
+<row>
+<entry>600 mm</entry>
+<entry>303 tons</entry>
+<entry>381 tons</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0073" num="0066">It can be seen in table 3 that the spinners made with the alloys according to the invention always have the longest lifetimes for comparable conditions of use.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An alloy, that contains the following elements, the proportions being indicated as percentage by weight of the alloy (limit values included):</claim-text>
+<claim-text>
+<tables id="TABLE-US-00009" num="00009">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="49pt" align="left"/>
+<colspec colname="1" colwidth="70pt" align="left"/>
+<colspec colname="2" colwidth="98pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Cr</entry>
+<entry>20 to 35%</entry>
+</row>
+<row>
+<entry/>
+<entry>Fe</entry>
+<entry>1 to 6%</entry>
+</row>
+<row>
+<entry/>
+<entry>W</entry>
+<entry>3 to 8%</entry>
+</row>
+<row>
+<entry/>
+<entry>Nb</entry>
+<entry>0.5 to 3%</entry>
+</row>
+<row>
+<entry/>
+<entry>Ti</entry>
+<entry>0 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry>C</entry>
+<entry>0.4 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry>Co</entry>
+<entry>0 to 3%</entry>
+</row>
+<row>
+<entry/>
+<entry>Si</entry>
+<entry>0.1 to 1.5%</entry>
+</row>
+<row>
+<entry/>
+<entry>Mn</entry>
+<entry>0.1 to 1%</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+<claim-text>the remainder consisting of nickel and unavoidable impurities,</claim-text>
+<claim-text>wherein a (Nb+Ti)/C weight ratio is between 1 to 2.4.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing less than 0.5% by weight of Ti.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The alloy as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref>, containing less than 0.4% by weight of Ti.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 0.6% and 0.9% by weight of carbon.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The alloy as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, containing between 0.6 and 0.7% by weight of carbon.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the (Nb+Ti)/C ratio is from 1 to 2.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The alloy as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the (Nb+Ti)/C ratio is from 1.5 to 2.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 22 and 32% by weight of chromium.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The alloy as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, containing between 28 and 30% by weight of chromium.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 3 and 4% by weight of iron.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 4 and 6% by weight of iron.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing from 0.6 to 2.0% by weight of niobium.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The alloy as claimed in <claim-ref idref="CLM-00012">claim 12</claim-ref>, containing from 0.8 to 1.2% by weight of niobium.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 4 and 7% by weight of tungsten.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The alloy as claimed in <claim-ref idref="CLM-00014">claim 14</claim-ref>, containing between 5 and 6% by weight of tungsten.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing less than 2% by weight of cobalt.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The alloy as claimed in <claim-ref idref="CLM-00016">claim 16</claim-ref>, containing less than 1% by weight of cobalt.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing between 55% and 65% by weight of nickel.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The alloy as claimed in <claim-ref idref="CLM-00018">claim 18</claim-ref>, containing between 56 and 62% of nickel.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, containing less than 1.1% by weight of silicon.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. An article for the conversion of glass, made of an alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. An article for the manufacture of mineral wool, made of an alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A fiberizing spinner for the manufacture of mineral wool, made of an alloy as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. A process for manufacturing mineral wool by internal centrifugation, comprising pouring a flow of molten mineral material into a fiberizing spinner as claimed in <claim-ref idref="CLM-00023">claim 23</claim-ref>, a peripheral band of which is pierced with a multitude of orifices through which filaments of molten mineral material escape and are subsequently drawn to give wool under the action of a gas, the temperature of the mineral material in the spinner being at least 1000&#xb0; C.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

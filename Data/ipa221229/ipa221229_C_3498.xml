@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411888A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411888</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17780461</doc-number>
+<date>20201127</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="regional">
+<country>EP</country>
+<doc-number>19212178.8</doc-number>
+<date>20191128</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>21</class>
+<subclass>B</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>21</class>
+<subclass>B</subclass>
+<main-group>13</main-group>
+<subgroup>0026</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">APPARATUS FOR THE PRODUCTION OF MOLTEN IRON</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>TATA STEEL IJMUIDEN B.V.</orgname>
+<address>
+<city>JZ Velsen-Noord</city>
+<country>NL</country>
+</address>
+</addressbook>
+<residence>
+<country>NL</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>MEIJER</last-name>
+<first-name>Hendrikus Koenraad Albertus</first-name>
+<address>
+<city>Bergen</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>BROERSEN</last-name>
+<first-name>Petrus Gerardus Jacobus</first-name>
+<address>
+<city>Lisse</city>
+<country>NL</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>TATA STEEL IJMUIDEN B.V.</orgname>
+<role>03</role>
+<address>
+<city>JZ Velsen-Noord</city>
+<country>NL</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2020/083697</doc-number>
+<date>20201127</date>
+</document-id>
+<us-371c12-date><date>20220526</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Apparatus for the production of molten iron including a metallurgical vessel, having a surrounding wall, a cyclone part provided on top of a smelt reduction part, the cyclone part being in open connection with the smelt reduction part and having at least one supply apparatus around the circumference of the surrounding wall adjusted to introduce oxygen gas into the cyclone part, wherein the at least one supply apparatus is further adjusted to introduce a mixture of oxygen gas and a combustible gas.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="184.15mm" wi="130.05mm" file="US20220411888A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="206.84mm" wi="132.08mm" file="US20220411888A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="193.55mm" wi="156.04mm" file="US20220411888A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">The invention relates to an apparatus for the production of molten iron comprising a metallurgical vessel, having a surrounding wall, a cyclone part provided on top of a smelt reduction part, the cyclone part being in open connection with the smelt reduction part and having at least one supply means around the circumference of the surrounding wall adjusted to introduce oxygen gas into the cyclone part. The invention also relates to a method of producing molten iron in a metallurgical vessel.</p>
+<p id="p-0003" num="0002">Apparatuses for the production of molten iron are known in the art. EP 0726 326 A1 describes such an apparatus, which is also known as the Hlsarna process by Tata Steel. Supply means around the circumference of the surrounding wall adjusted to introduce oxygen gas are known as well. For example EP 2794 931 B1 describes supply means adjusted for the introduction of oxygen gas into the cyclone part of the metallurgical vessel.</p>
+<p id="p-0004" num="0003">Unfortunately, this type of metallurgical vessel, having a cyclone part and a smelt reduction part, has the disadvantage that both parts cannot be controlled in an independent manner. Especially the temperature control inside the metallurgical vessel is difficult, as both parts are in open connection with each other. This means that an adjustment in the smelt reduction part influences the cyclone part and vice versa.</p>
+<p id="p-0005" num="0004">The temperature control in the smelt reduction part is usually controlled by inserting a carbon containing material in the slag layer. However, the insertion does not generate enough heat for the conversion from carbon, via carbon monoxide to carbon dioxide. The injection of oxygen gas in this part does generate enough energy, and therefore heat, as it converts the carbon monoxide to carbon dioxide. In order to keep the temperature within the processing window in the cyclone part, carbon containing material could be added in the smelt reduction part in the desired content. However, this still can lead to a lower than desired temperature in the cyclone part and the current way to solve this is by the addition of even more oxygen gas in the smelt reduction vessel. This in turn will then lead to a temperature that may be too high in the smelt reduction part. The balance in temperature between the cyclone part and the smelt reduction part is therefore a delicate one and both parts are not controlled well enough.</p>
+<p id="p-0006" num="0005">The inventors, being involved in finding more environmentally friendly solutions for molten iron production, found that this process could be controlled in a better way.</p>
+<p id="p-0007" num="0006">The object of this invention is to provide an apparatus and method that has a better control over the process. It is a further object to make better use of waste materials and to produce less waste material during the ironmaking process, with an emphasis on lowering the emission of CO<sub>2 </sub>per tonne of molten iron.</p>
+<p id="p-0008" num="0007">Accordingly, an apparatus and method for the production of molten iron is provided wherein the at least one supply means is further adjusted to introduce a mixture of oxygen gas and a combustible gas. This has the advantage that the temperature control of the process in the cyclone part is more independent from the temperature control of the smelt reduction part, since introducing the combustible gas together with the oxygen gas releases a lot of energy during the combustion process. The supply means is not particularly limited and may be a lance or an injector. By controlling the amount of combustible gas that is introduced, the energy, and therefore the heat that is released in the process can also be controlled.</p>
+<p id="p-0009" num="0008">Tests and simulations have proven that introducing the combustible gas and the oxygen gas with a predetermined mixture in the cyclone part of the metallurgical vessel can be done without any further adjustments. When the combustible gas is introduced, it will introduce more heat just below the cyclone part, leading to a higher temperature, especially in the cyclone part, but, at least partly, in the smelt reduction part as well. In this way it will lead to a better control over the cyclone part of the metallurgical vessel since the flow of both gases can be controlled and therefore a predetermined mixture can be introduced. Furthermore, the control of flow, and therefore temperature will be more independent from the smelt reduction part.</p>
+<p id="p-0010" num="0009">The combustible gas can be introduced in the cyclone part or at the top of the smelt reduction part, or a combination thereof. If the combustible gas is introduced at the top of the smelt reduction part, this will lead to a partial combustion of the gas and therefore a lower required quantity of coal.</p>
+<p id="p-0011" num="0010">Preferably the combustible gas is selected from the group of coke oven gas, converter gas, natural gas, hydrogen gas and liquefied petroleum gas. Coke oven gas contains +/&#x2212;3% carbon dioxide, +/&#x2212;6% carbon monoxide, 60-65% hydrogen, +/&#x2212;3% nitrogen and 25-30% methane. Converter gas roughly consists of 17-20% carbon dioxide, 60-65% carbon monoxide, +/&#x2212;1.5% hydrogen and 15-20% nitrogen. The main requirement is that the nitrogen content of the combustible gas should be relatively low, less than 20% (v/v). In this way any combustible gas having a low nitrogen content could be introduced. The control of the temperature will be at its best when the combustible gas is fully combusted during the process.</p>
+<p id="p-0012" num="0011">The inventors have found particularly good results with natural gas. Natural gas is predominantly methane (CH<sub>4</sub>) and the amount thereof depends on the source. An advantage of the use of coke oven gas and converter gas is that they are at times considered to be waste material leading to undesired emissions. Therefore the use of these gases is a preferable option to combat climate change and reduce the amount of carbon dioxide in the atmosphere. The inventors feel the responsibility to act and do something, however small the steps may be, about climate change. They have the desire to make the earth a more sustainable place for future generations and make climate activists happy, if at all possible.</p>
+<p id="p-0013" num="0012">If natural gas is used in a mixture containing 25% natural gas and 75% oxygen gas then an up to 2% reduction in CO<sub>2 </sub>emissions was calculated by means of a simulation programme called IRMA (IRon MAking) model. The IRMA programme uses a flow sheet design to break down the total process in building blocks. These building blocks are connected through material stream blocks. In this way a complex process can be divided in a number of simple steps. Calculations are based on a mix of thermodynamic equilibrium relations and empirical relations. Thermodynamic calculations are carried out by the ChemApp library, which also furnishes the library for the thermodynamic data. ChemApp is a product of GTTTechnologies and is based on the SimuSage package. The empirical theory is based on the &#x201c;Cyclone-converter heat and mass balance model&#x201d; developed at Tata Steel (Corus). Most of the building blocks are validated using other model results or literature.</p>
+<p id="p-0014" num="0013">A further advantage of using natural gas is that methane will be converted under the processing conditions into carbon dioxide and water. As is commonly known, methane is also a greenhouse gas and has an even bigger greenhouse effect than carbon dioxide. In general, the addition of a combustible gas, like natural gas, leads to a reduced use of coal. And therefore also less carbon dioxide will be formed during the process, bringing the environmental benefits that the inventors are after.</p>
+<p id="p-0015" num="0014">Preferably, the supply means are symmetrically distributed over the circumference of the surrounding wall of the cyclone part or at the top of the smelt reduction unit. This is beneficial for a good gas distribution within the cyclone part of the metallurgical vessel and thereby also the temperature distribution. The top of the smelt reduction unit is located at or near the roof of the smelt reduction unit, just below the cyclone part.</p>
+<p id="p-0016" num="0015">Preferably, the supply means are adjusted to mix the oxygen gas and the combustible gas before entering the cyclone part. This is beneficial since this premixing increases the control of the mixture that is introduced into the cyclone part of the metallurgical vessel.</p>
+<p id="p-0017" num="0016">Preferably, a group of oxygen gas outlets is surrounding one or more combustible gas outlets. Preferably, a group of combustible gas outlets is surrounding one or more oxygen gas outlets. These embodiments both have the advantage that the mixture will be premixed just before being introduced into the cyclone part, even further improving control. A further advantage is that the mixture will be evenly distributed into the cyclone part.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0018" num="0017">The invention will hereinafter be further elucidated with reference to the drawing of an exemplary embodiment of an apparatus operating according to the invention that is not limiting as to the appended claims.</p>
+<p id="p-0019" num="0018">In the drawing:</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an overview of the metallurgical vessel;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows a top view of the configuration of the supply means in the wall of the cyclone part;</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0022" num="0021">Whenever in the figures the same reference numerals are applied, these numerals refer to the same parts.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. <b>1</b></figref> shows an overview of the metallurgical vessel according to the process disclosed in patent application EP-A-0 726 326, wherein a metallurgical vessel <b>1</b> is applied with on top of the metallurgical vessel <b>1</b> a cyclone part <b>10</b>. <figref idref="DRAWINGS">FIG. <b>1</b></figref> clearly shows the introduction point <b>7</b> where oxygen gas or a mixture of oxygen gas and a combustible gas is injected in the smelt cyclone <b>10</b> at the top of the metallurgical vessel <b>1</b>. Further <figref idref="DRAWINGS">FIG. <b>1</b></figref> shows the bath of molten iron <b>2</b>, a layer of slag <b>3</b>, the introduction points for carbon containing material <b>5</b> and metalliferous feed <b>4</b>, iron outlet <b>8</b>, slag outlet <b>9</b> and the reaction gases outlet <b>11</b>. For this invention only the introduction point of the oxygen gas <b>7</b> or a mixture of oxygen gas and a combustible gas <b>7</b> are of importance.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. <b>2</b></figref> shows, in a top view, an example of the position of the supply means <b>12</b> in the surrounding wall <b>13</b> of the cyclone part <b>10</b>. In this example six supply means <b>12</b> are symmetrically distributed around the circumference of the surrounding wall <b>13</b> of the cyclone part <b>10</b>. This has found to give good results with respect to the control of the temperature in the cyclone part <b>10</b>. Naturally, other configurations may be possible.</p>
+<p id="p-0025" num="0024">Although the invention has been discussed in the foregoing with reference to exemplary embodiments of the invention, the invention is not restricted to these particular embodiments which can be varied in many ways without departing from the invention. The discussed exemplary embodiments shall therefore not be used to construe the appended claims strictly in accordance therewith. On the contrary, the embodiments are merely intended to explain the wording of the appended claims, without intent to limit the claims to these exemplary embodiments. The scope of protection of the invention shall therefore be construed in accordance with the appended claims only, wherein a possible ambiguity in the wording of the claims shall be resolved using these exemplary embodiments.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An apparatus for the production of molten iron comprising a metallurgical vessel having a surrounding wall, a cyclone part provided on top of a smelt reduction part, the cyclone part being in open connection with the smelt reduction part and having at least one supply means around the circumference of the surrounding wall adjusted to introduce oxygen gas into the cyclone part, characterised in that the at least one supply means is further adjusted to introduce a mixture of oxygen gas and a combustible gas.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the combustible gas is selected from the group of coke oven gas, converter gas, natural gas, hydrogen gas and liquefied petroleum gas.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the combustible gas contains less than 20% nitrogen gas.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are located at the top of the smelt reduction part.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are symmetrically distributed over the circumference of the surrounding wall of the cyclone part.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are symmetrically distributed over the circumference of the surrounding wall at the top of the smelt reduction part.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are adjusted to mix the oxygen gas and the combustible gas before entering the cyclone part.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are configured such that a group of oxygen gas outlets is surrounded by one or more combustible gas outlets.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The apparatus for the production of molten iron according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the supply means are configured such that a group of combustible gas outlets is surrounded by one or more oxygen gas outlets.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A method of producing molten iron by means of a metallurgical vessel having a surrounding wall, a cyclone part provided on top of a smelt reduction part, the cyclone part being in open connection with the smelt reduction part and having at least one supply means around the circumference of the surrounding wall introducing oxygen gas into the cyclone part, wherein a mixture of oxygen gas and a combustible gas is introduced by means of the at least one supply means.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of producing molten iron according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the combustible gas is selected from the group of coke oven gas, converter gas, natural gas, hydrogen gas and liquefied petroleum gas.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of producing molten iron according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the combustible gas contains less than 20% nitrogen gas.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of producing molten iron according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the supply means are symmetrically distributed over the circumference of the surrounding wall of the cyclone part.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of producing molten iron according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the supply means are symmetrically distributed over the circumference of the surrounding wall at the top of the smelt reduction part.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of producing molten iron according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the oxygen gas and the combustible gas are mixed by the supply means before entering the cyclone part.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

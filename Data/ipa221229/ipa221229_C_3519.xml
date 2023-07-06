@@ -1,0 +1,2524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411909A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411909</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17780264</doc-number>
+<date>20210331</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2020-064501</doc-number>
+<date>20200331</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>42</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>88</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>58</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>44</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>42</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>38</main-group>
+<subgroup>001</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>88</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>65</class>
+<subclass>D</subclass>
+<main-group>2588</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">WELDED STRUCTURE AND STORAGE TANK</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>NIPPON STEEL STAINLESS STEEL CORPORATION</orgname>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>ISHIMARU</last-name>
+<first-name>Eiichiro</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>SAKURABA</last-name>
+<first-name>Takuya</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>KAGA</last-name>
+<first-name>Yuji</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>KAKIHARA</last-name>
+<first-name>Toyohiko</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>NIPPON STEEL STAINLESS STEEL CORPORATION</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2021/013907</doc-number>
+<date>20210331</date>
+</document-id>
+<us-371c12-date><date>20220526</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A welded structure including a base material made of duplex stainless steel and a welded portion formed by welding the base materials to each other, wherein the base material has a predetermined chemical composition, a volume fraction of a ferrite phase in a metallographic structure of a weld metal of the welded portion is 45 to 75%, a ratio of a hardness of the weld metal to a hardness of the base material is 0.80 to 1.20, and an amount of precipitates formed in the ferrite phase of the weld metal is less than 10% in area fraction.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="79.16mm" wi="158.75mm" file="US20220411909A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="84.58mm" wi="167.56mm" file="US20220411909A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a welded structure, particularly a welded structure and a storage tank that are suitably applicable to a hot water storage tank for storing hot water and a beverage storage tank for storing beverages.</p>
+<p id="p-0003" num="0002">Priority is claimed on Japanese Patent Application No. 2020-064501, filed Mar. 31, 2020, the content of which is incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">Stainless steel is used as a material for hot water storage tanks that store hot water and beverage storage tanks that store beverages due to exceptional corrosion resistance in a wet environment. The hot water to be stored includes, for example, tap water, well water, hot spring water, and the like, and a temperature thereof ranges from room temperature to a temperature less than 100&#xb0; C. Further, examples of the beverage to be stored include beverages containing fruit juice, various electrolytes, weak acids and the like and having a relatively low pH. Conventionally, ferritic stainless steel and austenitic stainless steel have been used as stainless steels applicable to such applications. For example, Patent Literature 1 below describes a hot water container made of ferritic stainless steel. Further, Patent literature 2 below describes a container for hot water in which a container wall is made of ferritic stainless steel and a material to be welded thereto is made of austenitic stainless steel.</p>
+<p id="p-0005" num="0004">However, ferritic stainless steels and austenitic stainless steels have a lower proof stress than duplex stainless steels. Therefore, it is necessary to increase the thickness in order to have a predetermined strength, and thus there is a problem that the demand for a thin wall and a light weight cannot be sufficiently met. Further, since austenitic stainless steel contains a large amount of relatively expensive alloy components, there is a problem that it is disadvantageous in terms of cost. On the other hand, since duplex stainless steel has a relatively high proof stress, it can meet the demand for a thin wall and a light weight, and since the content of expensive alloy components is relatively small, it is advantageous in terms of cost.</p>
+<p id="p-0006" num="0005">However, in a base material of the duplex stainless steel, the ratio of a ferrite phase to an austenite phase is controlled to be approximately 1:1 by heat treatment in order to ensure exceptional corrosion resistance. However, when welding is performed on duplex stainless steel, a fraction of the ferrite phase in a weld metal becomes higher than that of the base material when the weld metal is cooled from a molten state in a short time. When the fraction of the ferrite phase in the weld metal is high, the austenite phase having a large amount of solid solution of N is reduced, and N is concentrated in the ferrite phase. However, since the amount of solid solution of N in the ferrite phase is very small, excess N that exceeds a solution limit binds to Cr to precipitate Cr nitride. As a result, in the duplex stainless steel, there is a problem that a Cr-depleted zone is formed in the weld metal, and thus, the corrosion resistance of the weld metal and a weld heat-affected portion is lowered.</p>
+<heading id="h-0003" level="1">CITATION LIST</heading>
+<heading id="h-0004" level="1">Patent Document</heading>
+<heading id="h-0005" level="2">[Patent Document 1]</heading>
+<p id="p-0007" num="0006">Japanese Patent No. 5010323</p>
+<heading id="h-0006" level="2">[Patent Document 2]</heading>
+<p id="p-0008" num="0007">Japanese Patent No. 3179194</p>
+<heading id="h-0007" level="1">SUMMARY OF INVENTION</heading>
+<heading id="h-0008" level="1">Problems to be Solved by the Invention</heading>
+<p id="p-0009" num="0008">The present invention has been made in view of the above circumstances, and an object of the present invention is to provide a welded structure made of duplex stainless steel which has exceptional proof stress and corrosion resistance at a welded portion. Another object of the present invention is to provide a storage tank having such a welded structure.</p>
+<heading id="h-0009" level="1">Means for Solving the Problem</heading>
+<p id="p-0010" num="0009">In order to solve the above problems, a welded structure according to one aspect of the present invention has the following requirements.</p>
+<p id="p-0011" num="0010">[1] A welded structure according to one aspect of the present invention is a welded structure including a base material made of duplex stainless steel and a welded portion in which the base materials are welded to each other, wherein a chemical composition of the base material includes, in mass %, C: 0.050% or less, Si: 0.03 to 5.00%, Mn: 0.01 to 8.00%. P: 0.070% or less, S: 0.0500% or less, Ni: 1.0 to 30.0%, Cr: 15.0 to 30.0%. Mo: 0.010 to 8.000%, Cu: 0.010 to 5.000%, N: 0.050 to 0.800%, Al: 0 to 1.00%, Ti: 0 to 0.400%, Nb: 0 to 0.40%, V: 0 to 0.50%, W: 0 to 1.0%, Zr: 0 to 0.200%, Ta: 0 to 0.100%, Sn: 0 to 0.50%, Sb: 0 to 0.50%, Ga: 0 to 0.50%, B: 0 to 0.0050%, Ca: 0 to 0.0050%, Mg: 0 to 0.0050%, and REM: 0 to 0.10%, and the remainder of Fe and impurities, a volume fraction of a ferrite phase in a metallographic structure of a weld metal of the welded portion is 45 to 75%, a ratio of a hardness of the weld metal to a hardness of the base material is 0.80 to 1.20, and an amount of precipitates formed in the ferrite phase of the weld metal is less than 10% in area fraction.</p>
+<p id="p-0012" num="0011">In the welded structure described in [1], the base material may contain one or more selected from the following first and second groups.</p>
+<p id="p-0013" num="0000">First group: in mass %,
+<br/>
+Al: 1.00% or less,
+</p>
+<heading id="h-0010" level="2">Ti: 0.010 to 0.400%,</heading>
+<heading id="h-0011" level="2">Nb: 0.01 to 0.40%,</heading>
+<heading id="h-0012" level="2">V: 0.01 to 0.50%,</heading>
+<heading id="h-0013" level="2">W: 0.01 to 1.0%,</heading>
+<heading id="h-0014" level="2">Zr: 0.001 to 0.200%,</heading>
+<heading id="h-0015" level="2">Ta: 0.001 to 0.100%,</heading>
+<heading id="h-0016" level="2">Sn: 0.001 to 0.50%,</heading>
+<heading id="h-0017" level="2">Sb: 0.001 to 0.50%, and</heading>
+<heading id="h-0018" level="2">Ga: 0.001 to 0.50%.</heading>
+<p id="p-0014" num="0012">Second group: in mass %,</p>
+<heading id="h-0019" level="2">B: 0.0002 to 0.0050%,</heading>
+<heading id="h-0020" level="2">Ca: 0.0002 to 0.0050%,</heading>
+<heading id="h-0021" level="2">Mg: 0.0002 to 0.0050%, and</heading>
+<heading id="h-0022" level="2">REM: 0.001 to 0.10%.</heading>
+<p id="p-0015" num="0013">[3] In the welded structure described in [1] or [2], a proof stress of the base material may be 500 MPa or mare, and a proof stress of the welded portion may be 440 MPa or more.</p>
+<p id="p-0016" num="0014">[4] A welded structure described in any one of [1] to [3] may be for a storage tank for hot water.</p>
+<p id="p-0017" num="0015">[5] A welded structure described in any one of [1] to [3] may be for a storage tank for beverages.</p>
+<p id="p-0018" num="0016">[6] A storage tank according to another aspect of the present invention is a storage tank for liquids and has the welded structure described in any one of [1] to [3].</p>
+<p id="p-0019" num="0017">[7] In the storage tank described in [6], the liquid may be one or more of water, beverages, hot water, and dairy products.</p>
+<heading id="h-0023" level="1">Effects of the Invention</heading>
+<p id="p-0020" num="0018">According to the above aspect of the present invention, it is possible to provide a welded structure made of duplex stainless steel having exceptional proof stress and exceptional corrosion resistance in a welded portion, and a storage tank having such a welded structure.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0024" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0021" num="0019"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a graph showing a relationship between an area fraction of precipitates in a ferrite phase of a weld metal and the presence or absence of rust after a corrosion test.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0025" level="1">EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0022" num="0020">Hereinafter, one embodiment of the welded structure of the present embodiment and one embodiment of the storage tank of the present embodiment will be described in detail.</p>
+<p id="p-0023" num="0021">&#x3c;Welded Structure&#x3e;</p>
+<p id="p-0024" num="0022">The welded structure of the present embodiment includes a base material made of duplex stainless steel and a welded portion in which the base materials are welded to each other. The base material is, for example, a duplex stainless steel sheet.</p>
+<p id="p-0025" num="0023">Hereinafter, the base material and the welded portion will be described.</p>
+<p id="p-0026" num="0024">(Base Material)</p>
+<p id="p-0027" num="0025">Limiting ranges in an amount of content of a chemical composition of duplex stainless steel and reasons therefor will be explained. Hereinafter, the % symbol indicating a composition of steel means &#x201c;mass %&#x201d; unless otherwise specified.</p>
+<p id="p-0028" num="0026">C: 0.050% or Less</p>
+<p id="p-0029" num="0027">When C is contained in an amount of more than 0.050%, Cr carbide is generated, and corrosion resistance is deteriorated. Therefore, in order to ensure the corrosion resistance of the base material, a C content is limited to 0.050% or less. The C content is preferably 0.030% or less.</p>
+<p id="p-0030" num="0028">On the other hand, C is an element that forms austenite that constitutes a two-phase structure. Therefore, the C content is preferably 0.005% or more, and more preferably 0.010% or more.</p>
+<p id="p-0031" num="0029">Si: 0.03 to 5.00%</p>
+<p id="p-0032" num="0030">Si is contained in an amount of 0.03% or more for deoxidation. A Si content is preferably 0.10% or more, and more preferably 0.30% or more. However, when Si is contained in excess of 5.00%, precipitation of an a phase is promoted. Therefore, the Si content is limited to 5.00% or less. The Si content is preferably 2.00% or less, and more preferably 0.60% or less.</p>
+<p id="p-0033" num="0031">Mn: 0.01 to 8.00%</p>
+<p id="p-0034" num="0032">Mn is contained in an amount of 0.01% or more as a deoxidizing material and an austenite stabilizing element for forming a two-phase structure. A Mn content is preferably 0.10% or more, and more preferably 1.50% or more. However, when Mn is contained in excess of 8.00%, the corrosion resistance is deteriorated. Therefore, the Mn content is limited to 8.00% or less. The Mn content is preferably 5.00% or less, and more preferably 4.00% or less.</p>
+<p id="p-0035" num="0033">P: 0.070% or Less</p>
+<p id="p-0036" num="0034">Since P deteriorates hot workability and toughness, a P content is limited to 0.070% or less. The P content is preferably 0.050% or less, and more preferably 0.035% or less. On the other hand, although it is preferable that the P content be low, when the P content is excessively reduced, refining costs become high. Therefore, from the viewpoint of cost, the P content is preferably 0.005% or more.</p>
+<p id="p-0037" num="0035">S: 0.0500% or Less</p>
+<p id="p-0038" num="0036">Since S deteriorates the hot workability, the toughness and the corrosion resistance, an S content is limited to 0.0500% or less. The S content is preferably 0.0100% or less, and more preferably 0.0010% or less. On the other hand, although it is preferable that the S content be low, when the S content is excessively reduced, raw material costs and refining costs will increase. Therefore, from the viewpoint of cost, the S content is preferably 0.0003% or more.</p>
+<p id="p-0039" num="0037">Ni: 1.0 to 30.0%</p>
+<p id="p-0040" num="0038">When Ni is contained in a passivation film of stainless steel, generation of pitting corrosion is curbed (reduced) when the Fe concentration of the passivation film is high and progress of corrosion is curbed when the corrosion occurs. When the Ni content is less than 1.0%, sufficient corrosion resistance cannot be obtained. Therefore, the Ni content is set to 1.0% or more. The Ni content is preferably 2.0% or more, and more preferably 4.0% or more.</p>
+<p id="p-0041" num="0039">On the other hand, when the Ni content exceeds 30.0%, a Cr concentration of the film is too low, and thus sufficient corrosion resistance cannot be obtained. Therefore, it is necessary to reduce the Ni content to 30.0% or less. The Ni content is preferably 15.0% or less, more preferably 10.0% or less, and still more preferably 7.0% or less.</p>
+<p id="p-0042" num="0040">Cr: 15.0 to 30.0%</p>
+<p id="p-0043" num="0041">When a Cr content is less than 15.0%, sufficient corrosion resistance cannot be obtained. Therefore, it is necessary to increase the Cr content to 15.0% or more. The Cr content is preferably 18.0% or more, more preferably 20.0% or more, and still more preferably 21.0% or more.</p>
+<p id="p-0044" num="0042">On the other hand, when the Cr content exceeds 30.0%, the Cr concentration in the passivation film becomes high, and sufficient corrosion resistance cannot be obtained in an environment in which a natural potential of stainless steel is high. In addition, the precipitation of the a phase increases, and the corrosion resistance and hot manufacturability are deteriorated. Therefore, it is necessary to reduce the Cr content to 30.0% or less. The Cr content is preferably 28.0% or less, and more preferably 25.0% or less.</p>
+<p id="p-0045" num="0043">Mo: 0.010 to 8.000%</p>
+<p id="p-0046" num="0044">Mo is an element that improves the corrosion resistance of the base material, and an effect thereof is exhibited when it is contained in an amount of 0.010% or more. Therefore, a Mo content is 0.010% or more. The Mo content is preferably 0.050% or more, and more preferably 1.000% or more.</p>
+<p id="p-0047" num="0045">On the other hand, as long as there is 8.000% or less thereof, Mo may be contained, but when the Mo content exceeds 4.000%, the 6 phase is likely to precipitate during hot working. Therefore, the Mo content is 8.000% or less, preferably 4.000% or less, and more preferably 1.500% or less.</p>
+<p id="p-0048" num="0046">Cu: 0.010 to 5.000%</p>
+<p id="p-0049" num="0047">When 0.010% or more of Cu is contained, the curbing effect on the progress of corrosion when corrosion occurs can be obtained. Therefore, a Cu content is 0.010% or more. The Cu content is preferably 0.050% or more, and more preferably 0.200% or more.</p>
+<p id="p-0050" num="0048">On the other hand, when an amount thereof is 5.000% or less, Cu may be contained, but when the Cu content exceeds 3.000%, cracks are likely to occur during casting. Therefore, the Cu content is 5.000% or less, preferably 3.000% or less, and more preferably 0.500% or less.</p>
+<p id="p-0051" num="0049">N: 0.050 to 0.800%</p>
+<p id="p-0052" num="0050">N is an effective element for enhancing corrosion resistance, and when 0.050% or more of N is contained, the corrosion resistance is improved. Therefore, an N content is 0.050% or more. The N content is preferably 0.100% or more, and more preferably 0.120% or more.</p>
+<p id="p-0053" num="0051">On the other hand, when more than 0.800% of N is contained, bubbles are likely to be generated during casting. Therefore, the N content is 0.800% or less. The N content is preferably 0.300% or less, and more preferably 0.180% or less.</p>
+<p id="p-0054" num="0052">In the present embodiment, in addition to the above-described elements, the base material may contain one or more alloying elements selected from the following first group and second group for the purpose of adjusting various properties of steel. However, since these elements do not have to be contained, a lower limit is 0%.</p>
+<p id="p-0055" num="0053">First group: Al: 1.00% or less, TI: 0.010 to 0.400%, Nb: 0.01 to 0.40%, V: 0.01 to 0.50%, W: 0.01 to 1.0%, Zr: 0.001 to 0.200%, Ta: 0.001 to 0.100%, Sn: 0.001 to 0.50%, Sb: 0.001 to 0.50%, and Ga: 0.001 to 0.50% in mass %.</p>
+<p id="p-0056" num="0054">Second group: B: 0.0002 to 0.0050%, Ca: 0.0002 to 0.0050%, Mg: 0.0002 to 0.0050%, and REM: 0.001 to 0.10% in mass %.</p>
+<p id="p-0057" num="0055">First group: Al. Ti, Nb, V, W, Zr, Ta, Sn, Sb, Ga</p>
+<p id="p-0058" num="0056">Al: Al is useful as a deoxidizing element, but it should not be contained in a large amount because it deteriorates workability. An Al content should be limited to 1.00% or less. A preferred range of the Al content is 0.50% or less. The Al content may be 0.01% or more.</p>
+<p id="p-0059" num="0057">Ti, Nb, V, W, Zr, Ta, Sn, Sb, and Ga are elements that improve corrosion resistance, and may be contained alone or in combination of two or more within the following ranges.</p>
+<p id="p-0060" num="0058">Ti: 0.010 to 0.400%, Nb: 0.01 to 0.40%. V: 0.01 to 0.50%, W: 0.01 to 1.0%, Zr: 0.001 to 0.200%, Ta: 0.001 to 0.100%, Sn: 0.001 to 0.50%, Sb: 0.001 to 0.50%, and Ga: 0.001 to 0.50%.</p>
+<p id="p-0061" num="0059">Ti: 0.010 to 0.400%</p>
+<p id="p-0062" num="0060">Nb: 0.01 to 0.40%</p>
+<p id="p-0063" num="0061">Ti and Nb have an action of fixing C and N as carbonitride to improve corrosion resistance, and particularly an action of curbing intergranular corrosion. Therefore, one or both of Ti and Nb may be contained. The effects thereof are exhibited when at least one of a Ti content is 0.010% or more and a Nb content is 0.01% or more.</p>
+<p id="p-0064" num="0062">On the other hand, even when it is contained in an excessive amount, the effects become saturated. Therefore, the Ti content is 0.400% or less, and the Nb content is 0.40% or less.</p>
+<p id="p-0065" num="0063">An appropriate content of Ti and Nb is preferably such that the total content of Ti and Nb is 5 times or more and 30 times or less the total content of C and N. More preferably, the total content of Ti and Nb is 10 times or more and 25 times or less the total content of C and N.</p>
+<p id="p-0066" num="0064">V: 0 to 0.50%, W: 0 to 1.0%</p>
+<p id="p-0067" num="0065">V and W are elements that improve corrosion resistance, particularly crevice corrosion resistance, and may be contained as necessary. When this effect is obtained, the content of each of V and W is preferably 0.01% or more. The V content and the W content are preferably 0.04% or more.</p>
+<p id="p-0068" num="0066">On the other hand, the inclusion of an excessive amount of V or W lowers the workability and also saturates the effect of improving the corrosion resistance. Thus, the V content is set to 0.50% or less, and the W content is set to 1.0% or less. The V content is preferably 0.30% or less. The W content is preferably 0.6% or less, and more preferably 0.5% or less.</p>
+<p id="p-0069" num="0067">Zr: 0 to 0.200%</p>
+<p id="p-0070" num="0068">Ta: 0 to 0.100%</p>
+<p id="p-0071" num="0069">Zr and Ta are elements that improve corrosion resistance by modifying inclusions and may be contained as necessary.</p>
+<p id="p-0072" num="0070">Further, since Zr is stably present as an oxide in the passivation film, it functions to strengthen the passivation film. Since the effect is exhibited by a Zr content of 0.001% or more, the Zr content is preferably 0.001% or more. The Zr content is preferably 0.010% or more.</p>
+<p id="p-0073" num="0071">On the other hand, when the Zr content is more than 0.200%, defects due to aggregation of oxides frequently occur. Therefore, the Zr content is set to 0.200% or less. The Zr content is preferably 0.100% or less.</p>
+<p id="p-0074" num="0072">Further, since the effect of Ta is exhibited by a content of 0.001% or more, it is preferable to set the lower limit of the Ta content to 0.001% or more.</p>
+<p id="p-0075" num="0073">On the other hand, when the Ta content is more than 0.100%, it causes a decrease in ductility at room temperature and a decrease in toughness. Therefore, the Ta content is preferably 0.100% or less, and more preferably 0.050% or less. When the effect is exhibited with a small amount of Ta content, the Ta content is preferably 0.020% or less.</p>
+<p id="p-0076" num="0074">Sn: 0 to 0.50%</p>
+<p id="p-0077" num="0075">Sb: 0 to 0.50%</p>
+<p id="p-0078" num="0076">When a small amount of Sn or Sb is contained, the corrosion resistance is improved. Therefore, Sn and Sb are elements useful for improving corrosion resistance and may be contained within a range that does not impair low cost. When Sn content or Sb content is less than 0.001%, the effect of improving corrosion resistance is not exhibited, and thus, it is preferable that the content of each of Sn and Sb be 0.001% or more. The content of each of Sn and Sb is preferably 0.01% or more.</p>
+<p id="p-0079" num="0077">On the other hand, when the content of Sn or Sb exceeds 0.50%, an increase in cost becomes apparent, and the workability also decreases. Therefore, the content of each of Sn and Sb is set to 0.50% or less. The content of each of Sn and Sb is preferably 0.30% or less.</p>
+<p id="p-0080" num="0078">Ga: 0 to 0.50%</p>
+<p id="p-0081" num="0079">Ga is an element that contributes to improvement of the corrosion resistance and the workability and may be contained. When the effect is obtained, a Ga content is preferably 0.001% or more. The Ga content is preferably 0.01% or more, and more preferably 0.015% or more.</p>
+<p id="p-0082" num="0080">On the other hand, when the Ga content exceeds 0.50%, the toughness is lowered, and manufacturability is significantly lowered. Therefore, the Ga content is set to 0.50% or less. The Ga content is preferably 0.30% or less.</p>
+<p id="p-0083" num="0081">Second group: B, Ca, Mg, REM</p>
+<p id="p-0084" num="0082">B: 0 to 0.0050%</p>
+<p id="p-0085" num="0083">Ca: 0 to 0.0050%</p>
+<p id="p-0086" num="0084">Mg: 0 to 0.0050%</p>
+<p id="p-0087" num="0085">REM: 0 to 0.10%</p>
+<p id="p-0088" num="0086">B, Ca, Mg, and REM are elements that improve hot workability, and one or more of them may be contained for that purpose. Since the effect of B, Ca, and Mg is exhibited at a content of 0.0002% or more, it is preferable that the content of each of B, Ca, and Mg be 0.0002% or more. In the case of REM, the content is preferably 0.001% or more. The content of each of B, Ca and Mg is more preferably 0.0005% or more. The REM content is more preferably 0.005% or more.</p>
+<p id="p-0089" num="0087">On the other hand, when an excessive amount of any of them is contained, the hot workability is deteriorated. Therefore, it is preferable to set the content as follows. That is, the content of each of B, Ca, and Mg is 0.0050% or less, and the REM content is 0.10% or less.</p>
+<p id="p-0090" num="0088">The content of each of B, Ca and Mg is preferably 0.0015% or less. The REM content is preferably 0.03% or less.</p>
+<p id="p-0091" num="0089">Here, REM (rare earth elements) refers to a general term for 2 elements including scandium (Sc) and yttrium (Y) and 15 elements (lanthanoids) from lanthanum (La) to lutetium (Lu) according to a general definition. These may be contained alone or as a mixture. The REM content is the total amount of these elements.</p>
+<p id="p-0092" num="0090">In the duplex stainless steel constituting the base material of the present embodiment, the remainder other than the above-described elements are Fe and impurities, but in addition to the above-described elements, other elements can be contained within a range that does not impair the effects of the present embodiment.</p>
+<p id="p-0093" num="0091">(Welded Portion)</p>
+<p id="p-0094" num="0092">Next, the welded portion will be described. A weld metal that has been melted and resolidified and a heat-affected portion that has not been melted but has been heat-affected during welding are formed in the welded portion. Hereinafter, a structure of the weld metal included in the welded portion will be described.</p>
+<p id="p-0095" num="0093">The fraction of the ferrite phase in the weld metal is set to a range of 45 to 75% in volume %.</p>
+<p id="p-0096" num="0094">The weld metal begins to solidify in the ferrite phase, becomes a complete solid phase and is then transformed into an austenite phase. When a cooling rate is relatively high as in welding, a sufficient time for solid phase transformation cannot be obtained, thus a ratio of the austenite phase decreases, and the ratio of the ferrite phase inevitably increases. However, it is difficult to obtain sufficient time for solid phase transformation during welding. The weld metal is hardened when the austenite phase is increased. In the welded structure of the present embodiment, a ferrite phase having a volume fraction of 45% or more is required in the weld metal in order to maintain sufficient workability in the welded portion. On the other hand, since solution limit concentrations of C and N in the ferrite phase are low, carbonitride is formed when the ferrite phase is increased. In this case, when Cr carbonitride is formed, a Cr-depleted zone is formed, but the Cr-depleted zone becomes a starting point of rust, which is a problem. Therefore, the volume fraction of the ferrite phase is set to 75% or less.</p>
+<p id="p-0097" num="0095">In the weld metal, the amount of precipitates is important in addition to the volume fraction of the ferrite phase. The precipitates are the starting point of rust in the welded portion of the duplex stainless steel. Therefore, when the duplex stainless steel is welded, welding conditions are often set so that forming of the precipitates are curbed, but in the welded structure of the present embodiment, since Cr carbonitride is difficult to be precipitated, and even when the Cr carbonitride is precipitated, Cr diffusion proceeds and the Cr-depleted zone is innocuous at the time when solid phase transformation to the austenite phase is possible, and when the precipitates are less than 10%, it does not serve as the starting point of rust. Therefore, the amount of precipitates formed in the ferrite phase is set to less than 10% in area fraction. Examples of the precipitates include Cr carbonitride.</p>
+<p id="p-0098" num="0096">In addition, the hardness of the weld metal has a great effect on the strength of the welded structure. The weld metal generally contains minute defects, and it is difficult to detect the minute defects. However, when the minute defects affect the strength of the structure, the weld metal itself shows a large change in hardness as compared with the base material. Therefore, the hardness of an arbitrary portion of the weld metal is measured, and the ratio of the hardness of the weld metal to the hardness of the base material (the hardness of the weld metal/the hardness of the base material) is set in a range of 0.8 to 1.2. The ratio of hardness is preferably in a range of 0.9 to 1.1.</p>
+<p id="p-0099" num="0097">Further, the welded structure of the present embodiment preferably has a base material having a proof stress of 500 MPa or more. Further, it is preferable that the proof stress of the welded portion (the proof stress of a welded joint containing the weld metal) be 440 MPa or more. It is possible to reduce the thickness and weight of the welded structure by setting the proof stress of the base material to 500 MPa or more and the proof stress of the welded portion to 440 MPa or more. Further, the strength of the entire welded structure can be increased, and the capacity of a hot water tank and a beverage tank can be increased.</p>
+<p id="p-0100" num="0098">The proof stress of the base material and the proof stress of the welded portion are measured by a tensile test. The tensile test is carried out under the conditions in accordance with JIS Z2241:2011.</p>
+<p id="p-0101" num="0099">For the proof stress of the base material, a JIS No. 13 B test piece is prepared, a test of n=2 is carried out, and a lower value is adopted.</p>
+<p id="p-0102" num="0100">For the proof stress of the welded part, when a JIS No. 13 B test piece in which the welded portion is disposed at a center of a parallel portion of the test piece is prepared, and when the welded portion is thicker than the base metal and is in a built-up state, grinding was performed to match a cross-sectional area shape with a parallel portion of the base metal. The test of n=2 is carried out, and a lower value is adopted.</p>
+<p id="p-0103" num="0101">The welded structure of the present embodiment can be suitably used as a storage tank for hot water.</p>
+<p id="p-0104" num="0102">Further, the welded structure of the present embodiment can be suitably used as a storage tank for beverages.</p>
+<p id="p-0105" num="0103">Duplex stainless steel is easily assumed to have a high proof stress and resistance to deformation. On the other hand, it is also known that the structure of the welded portion is coarsened and softened because it melts and changes to a solidified structure. That is, it is necessary to consider the deformation of the welded structure with the welded portion as a reference. Increasing a sheet thickness is a countermeasure to increase the strength against deformation but increasing the sheet thickness is accompanied by an increase in weight. When the weight increases, laying construction cost and transportation cost will increase, which will cause an economic disadvantage, and thus it is desirable to reduce the weight when possible. Therefore, the welded structure of the present embodiment in which the decrease in the strength of the welded portion is small has exceptional characteristics as the welded structure. Further, since the decrease in the strength is curbed by the structure control, the duplex stainless steel can also curb deterioration of corrosion resistance.</p>
+<p id="p-0106" num="0104">When a storage tank is manufactured from the welded structure of the present embodiment, for example, an end plate as the base material is manufactured by molding such as press working, and a tank body portion as the base material is manufactured, and these are welded to form a welded structure, and the welded structure is used to manufacture a storage tank.</p>
+<p id="p-0107" num="0105">In the welded structure of the present embodiment, since the strength of the base material is high, springback of the end plate is strong. Therefore, it becomes difficult to form a crevice structure in the vicinity of the welded portion between the tank body portion and the end plate. That is, usually, when a tank is manufactured, an end portion of the end plate overlaps an end portion of the tank body portion, and the welded portion is formed in the overlapping portion, but when the strength of the end plate is high, it becomes difficult to form the crevice structure in the vicinity of the welded portion.</p>
+<p id="p-0108" num="0106">Therefore, when a storage tank is manufactured using the welded structure of the present embodiment, crevice corrosion is less likely to occur, and corrosion resistance can be further improved.</p>
+<p id="p-0109" num="0107">&#x3c;Storage Tank&#x3e;</p>
+<p id="p-0110" num="0108">The storage tank of the present embodiment is a storage tank for liquids and has the above-described welded structure of the present embodiment. It may be made of the welded structure of the present embodiment.</p>
+<p id="p-0111" num="0109">The storage tank of the present embodiment includes an end plate and a body portion, and the end plate and the cylindrical body portion are joined by welding. The end plate and the body portion may be made of one stainless steel sheet or two or more stainless steel sheets joined by welding.</p>
+<p id="p-0112" num="0110">Next, a method of manufacturing the welded structure of the present embodiment will be described.</p>
+<p id="p-0113" num="0111">The welded structure of the present embodiment can be manufactured by welding duplex stainless steel having the above-described chemical composition according to predetermined welding conditions.</p>
+<p id="p-0114" num="0112">As a welding method, arc welding such as TIG welding, MIG welding, MAG welding, and coated arc welding can be applied. A welding material may or may not be used. When a welding material is used, a commonly used duplex stainless steel welding material can be used. Preferably, a welding material having a chemical composition close to the chemical composition of the base material is selected. As the chemical component of the welding material, for example, Type 2209 which is a welding material for duplex stainless steel manufactured by Nippon Steel Stainless Steel Corporation can be used, but the welding material is not limited thereto.</p>
+<p id="p-0115" num="0113">The welding material may be a welding rod, a solid wire, or a flux-cored wire.</p>
+<p id="p-0116" num="0114">A shield gas is used when the welding is performed. Any one of N<sub>2</sub>, Ar, Ar+O<sub>2</sub>, and He is used as the shield gas.</p>
+<p id="p-0117" num="0115">Due to the use of any one of these shield gases, it is possible to curb the suspension of oxygen in the atmosphere in the molten metal during welding and to avoid generation of finely dispersed oxides, and a hardness ratio of the weld metal to the hardness of the base material and an amount of precipitates in the welded portion can be set in preferable ranges.</p>
+<p id="p-0118" num="0116">When a shield gas other than these is used, the hardness ratio of the weld metal to the hardness of the base material and the amount of precipitates in the ferrite phase of the weld metal cannot be set in the preferable ranges. Further, for example, when the shield gas is H<sub>2</sub>, it causes hydrogen embrittlement.</p>
+<heading id="h-0026" level="1">Embodiments</heading>
+<p id="p-0119" num="0117">Hereinafter, in order to confirm the effects of the present invention, the following tests were carried out. One of embodiments of the present invention was tested, but the present invention is not limited to the following configurations. The present invention may adopt various conditions as long as requirements of the present invention are met and the object of the present invention is achieved.</p>
+<p id="p-0120" num="0118">The underlines in the tables indicate that it is out of the scope of the present invention.</p>
+<p id="p-0121" num="0119">Stainless steels having chemical components shown in Tables 1 and 2 were melted and cast in a vacuum induction melting furnace. Then, soaking was performed at 1200&#xb0; C., and hot forging was performed. Steels were hot rolled to a thickness of 6.0 mm, annealed, and pickled. Then, the steals were cold-rolled to a thickness of 0.6 to 4.0 mm and further subjected to annealing, pickling, and an electrolytic treatment. From the above, a stainless steel sheet was manufactured as a base material.</p>
+<p id="p-0122" num="0120">Next, TIG welding or MIG welding was performed using the obtained stainless steel sheet as the base material. A welding material was supplied by a welding wire as needed. Specifically, two stainless steel sheets that were the base materials were prepared, and as an end face treatment, when the sheet thickness was less than 1.5 mm, it was as cut, and when the sheet thickness was 1.5 mm or more, a V groove was provided, and a welded joint was manufactured by performing butt welding by supplying a welding material with a welding wire as needed. The shield gas was as shown in Table 3, and a flow rate of the shield gas was adjusted so that external air did not come into contact with the welded portion.</p>
+<p id="p-0123" num="0121">The volume fraction of the ferrite phase in the obtained welded joint, a ratio (the hardness ratio) of the hardness of the weld metal to the hardness of the base material, and the amount of precipitates in the ferrite phase in the weld metal were measured. The results are shown in Table 4.</p>
+<p id="p-0124" num="0122">The weld metal shown here indicates a portion that has been melted and resolidified during welding and indicates a region in which a continuous layered structure from a base material portion is discontinuous when the etching treatment shown below is performed. A method for measuring a volume fraction of the ferrite phase in the weld metal, a hardness ratio, and an amount of precipitates in the weld metal was as follows. Oxalic acid etching was performed on the weld metal in accordance with JIS G 0571: 2003. An electrolytic current was 0.1 A per 1 cm<sup>2</sup>. Using a photograph taken with an optical microscope at a magnification of 500 times with respect to an etched surface after etching, a measurement area in a range of 200 &#x3bc;m&#xd7;200 &#x3bc;m was photographed in 10 fields of view, and measurement was performed in each of the fields of view by a point counting method specified in ASTM E 562. That is, when a 10 mm grid is drawn on the photograph and the number of grid points is 100, a ratio of the number of ferrites or precipitates present on the grid points was defined as the fraction (volume %) of the ferrite phase or the amount of precipitates (area %) in the weld metal.</p>
+<p id="p-0125" num="0123">For the hardness of the base material and the hardness of the weld metal, the hardness was measured at an arbitrary 10 points in each with a load of 100 gf the Vickers hardness test, and an average value of 8 points excluding a minimum value and a maximum value was obtained.</p>
+<p id="p-0126" num="0124">Furthermore, the proof stress of the base material and the proof stress of the welded joint containing the weld metal were measured. The proof stress of the base material and the proof stress of the weld were measured by a tensile test, and the test was carried out under the conditions in accordance with JIS Z 2241: 2011. For the proof stress of the base material, a JIS No. 13 B test piece was prepared, a test of n=2 was carried out, and a lower value was adopted. For the proof stress of the welded part, when a JIS No. 13 B test piece in which the welded portion is disposed at a center of a parallel portion of the test piece is prepared, and when the welded portion is thicker than the base material and is in a built-up state, grinding was performed to match the cross-sectional area shape with a parallel portion of the base material. The test of n=2 was carried out and a lower value was adopted. It was determined to be passed when the proof stress of the base material was 500 MPa or more, and the proof stress of the tensile test piece containing the weld metal was 440 MPa or more.</p>
+<p id="p-0127" num="0125">In addition, a dry and wet cycle accelerated corrosion test was conducted in accordance with JIS G 0597: 2017. The test period was 20 cycles. The appearance of the weld metal after the test was observed, and the presence or absence of rust was visually confirmed.</p>
+<p id="p-0128" num="0126">As shown in Table 4 and <figref idref="DRAWINGS">FIG. <b>1</b></figref>, in Examples No. 1 to 15 of the present invention, no rust was generated in the weld metal, and the proof stress of the base material and the proof stress of the welded portion were also satisfactory values. On the other hand, in Comparative examples Nos. 16 to 36, rust was generated in the weld metal, and the proof stress of the welded portion was not a satisfactory value for some samples.</p>
+<p id="p-0129" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="343pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Chemical composition (mass %) of base material The remainder: Fe and impurities</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="14">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="42pt" align="left"/>
+<colspec colname="13" colwidth="42pt" align="left"/>
+<colspec colname="14" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>First group</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>(Al, Ti,</entry>
+<entry>Second</entry>
+</row>
+<row>
+<entry>Kind</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Nb, V, W;</entry>
+<entry>group (B,</entry>
+</row>
+<row>
+<entry>of base</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ta, Zr, Sn,</entry>
+<entry>Ca, Mg,</entry>
+</row>
+<row>
+<entry>material</entry>
+<entry>C</entry>
+<entry>Si</entry>
+<entry>Mn</entry>
+<entry>P</entry>
+<entry>S</entry>
+<entry>Ni</entry>
+<entry>Cr</entry>
+<entry>Mo</entry>
+<entry>Cu</entry>
+<entry>N</entry>
+<entry>Sb, Ga)</entry>
+<entry>REM)</entry>
+<entry>Note</entry>
+</row>
+<row>
+<entry namest="1" nameend="14" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="14">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="21pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="char" char="."/>
+<colspec colname="8" colwidth="21pt" align="char" char="."/>
+<colspec colname="9" colwidth="21pt" align="char" char="."/>
+<colspec colname="10" colwidth="21pt" align="char" char="."/>
+<colspec colname="11" colwidth="21pt" align="char" char="."/>
+<colspec colname="12" colwidth="42pt" align="left"/>
+<colspec colname="13" colwidth="42pt" align="left"/>
+<colspec colname="14" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>a1</entry>
+<entry>0.005</entry>
+<entry>0.35</entry>
+<entry>1.90</entry>
+<entry>0.035</entry>
+<entry>0.0012</entry>
+<entry>2.3</entry>
+<entry>20.8</entry>
+<entry>0.530</entry>
+<entry>2.700</entry>
+<entry>0.088</entry>
+<entry/>
+<entry/>
+<entry>Example of</entry>
+</row>
+<row>
+<entry>a2</entry>
+<entry>0.014</entry>
+<entry>0.90</entry>
+<entry>1.62</entry>
+<entry>0.026</entry>
+<entry>0.0006</entry>
+<entry>6.4</entry>
+<entry>23.1</entry>
+<entry>0.811</entry>
+<entry>1.200</entry>
+<entry>0.267</entry>
+<entry/>
+<entry>B: 0.0008</entry>
+<entry>the present</entry>
+</row>
+<row>
+<entry>a3</entry>
+<entry>0.021</entry>
+<entry>0.51</entry>
+<entry>1.31</entry>
+<entry>0.027</entry>
+<entry>0.0008</entry>
+<entry>5.3</entry>
+<entry>23.8</entry>
+<entry>1.404</entry>
+<entry>0.500</entry>
+<entry>0.167</entry>
+<entry>Ti: 0.012,</entry>
+<entry>B: 0.0018,</entry>
+<entry>invention</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Nb: 0.04,</entry>
+<entry>Ca: 0.0015</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>V: 0.10</entry>
+</row>
+<row>
+<entry>a4</entry>
+<entry>0.021</entry>
+<entry>0.87</entry>
+<entry>2.11</entry>
+<entry>0.016</entry>
+<entry>0.0014</entry>
+<entry>4.1</entry>
+<entry>29.4</entry>
+<entry>1.102</entry>
+<entry>3.100</entry>
+<entry>0.181</entry>
+</row>
+<row>
+<entry>a5</entry>
+<entry>0.013</entry>
+<entry>1.40</entry>
+<entry>2.70</entry>
+<entry>0.021</entry>
+<entry>0.0009</entry>
+<entry>3.1</entry>
+<entry>21.6</entry>
+<entry>0.703</entry>
+<entry>0.500</entry>
+<entry>0.332</entry>
+<entry/>
+<entry>B: 0.0005,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>REM: 0.05</entry>
+</row>
+<row>
+<entry>a6</entry>
+<entry>0.016</entry>
+<entry>0.43</entry>
+<entry>2.93</entry>
+<entry>0.035</entry>
+<entry>0.0011</entry>
+<entry>7.2</entry>
+<entry>29.6</entry>
+<entry>0.313</entry>
+<entry>0.600</entry>
+<entry>0.154</entry>
+<entry>Ti: 0.014,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ta: 0.003</entry>
+</row>
+<row>
+<entry>a7</entry>
+<entry>0.011</entry>
+<entry>1.20</entry>
+<entry>3.50</entry>
+<entry>0.021</entry>
+<entry>0.0010</entry>
+<entry>3.5</entry>
+<entry>23.9</entry>
+<entry>0.920</entry>
+<entry>1.800</entry>
+<entry>0.271</entry>
+</row>
+<row>
+<entry>a8</entry>
+<entry>0.018</entry>
+<entry>0.37</entry>
+<entry>1.87</entry>
+<entry>0.025</entry>
+<entry>0.0007</entry>
+<entry>5.8</entry>
+<entry>23.2</entry>
+<entry>2.032</entry>
+<entry>0.700</entry>
+<entry>0.179</entry>
+<entry>Nb: 0.05</entry>
+<entry>Mg: 0.0008</entry>
+</row>
+<row>
+<entry>a9</entry>
+<entry>0.042</entry>
+<entry>0.16</entry>
+<entry>1.72</entry>
+<entry>0.031</entry>
+<entry>0.0006</entry>
+<entry>1.9</entry>
+<entry>17.3</entry>
+<entry>0.802</entry>
+<entry>0.800</entry>
+<entry>0.138</entry>
+<entry>Sn: 0.03</entry>
+</row>
+<row>
+<entry>a10</entry>
+<entry>0.028</entry>
+<entry>0.73</entry>
+<entry>2.41</entry>
+<entry>0.022</entry>
+<entry>0.0003</entry>
+<entry>1.4</entry>
+<entry>15.2</entry>
+<entry>1.613</entry>
+<entry>1.300</entry>
+<entry>0.271</entry>
+<entry>Sb: 0.08,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ga: 0.01</entry>
+</row>
+<row>
+<entry>a11</entry>
+<entry>0.018</entry>
+<entry>0.43</entry>
+<entry>1.44</entry>
+<entry>0.018</entry>
+<entry>0.0014</entry>
+<entry>4.8</entry>
+<entry>22.5</entry>
+<entry>1.804</entry>
+<entry>0.310</entry>
+<entry>0.172</entry>
+<entry/>
+<entry>REM: 0.03</entry>
+</row>
+<row>
+<entry>a12</entry>
+<entry>0.012</entry>
+<entry>4.30</entry>
+<entry>2.87</entry>
+<entry>0.025</entry>
+<entry>0.0011</entry>
+<entry>2.2</entry>
+<entry>23.7</entry>
+<entry>3.080</entry>
+<entry>1.200</entry>
+<entry>0.242</entry>
+<entry>Al: 0.04,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>W: 0.6</entry>
+</row>
+<row>
+<entry>a13</entry>
+<entry>0.028</entry>
+<entry>0.73</entry>
+<entry>0.08</entry>
+<entry>0.022</entry>
+<entry>0.0003</entry>
+<entry>1.4</entry>
+<entry>15.2</entry>
+<entry>1.820</entry>
+<entry>1.300</entry>
+<entry>0.431</entry>
+<entry>Sb: 0.08,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Ga: 0.01,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Zr: 0.060</entry>
+</row>
+<row>
+<entry>a14</entry>
+<entry>0.018</entry>
+<entry>0.05</entry>
+<entry>6.54</entry>
+<entry>0.018</entry>
+<entry>0.0014</entry>
+<entry>4.8</entry>
+<entry>22.5</entry>
+<entry>1.530</entry>
+<entry>0.030</entry>
+<entry>0.172</entry>
+<entry/>
+<entry>REM: 0.03</entry>
+</row>
+<row>
+<entry>a15</entry>
+<entry>0.017</entry>
+<entry>0.53</entry>
+<entry>2.87</entry>
+<entry>0.025</entry>
+<entry>0.0011</entry>
+<entry>15.2</entry>
+<entry>28.7</entry>
+<entry>0.028</entry>
+<entry>1.200</entry>
+<entry>0.072</entry>
+<entry>Al: 0.04,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>W: 0.6</entry>
+</row>
+<row>
+<entry>a16</entry>
+<entry>0.004</entry>
+<entry>0.47</entry>
+<entry>3.10</entry>
+<entry>0.028</entry>
+<entry>0.0026</entry>
+<entry>3.1</entry>
+<entry>20.5</entry>
+<entry>1.200</entry>
+<entry>1.418</entry>
+<entry>0.314</entry>
+<entry>Zr: 0.060</entry>
+</row>
+<row>
+<entry namest="1" nameend="14" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0130" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="357pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="1" rowsep="1">TABLE 2</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry namest="offset" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Chemical composition (mass %) of base material The rest: Fe and impurities</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="14">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="21pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="21pt" align="center"/>
+<colspec colname="9" colwidth="21pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="21pt" align="center"/>
+<colspec colname="12" colwidth="49pt" align="left"/>
+<colspec colname="13" colwidth="49pt" align="left"/>
+<colspec colname="14" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>First group</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Kind</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>(Al, Ti, Nb, V,</entry>
+<entry>Second group</entry>
+</row>
+<row>
+<entry>of base</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>W, Ta, Zr, Sn,</entry>
+<entry>(B, Ca, Mg,</entry>
+</row>
+<row>
+<entry>material</entry>
+<entry>C</entry>
+<entry>Si</entry>
+<entry>Mn</entry>
+<entry>P</entry>
+<entry>S</entry>
+<entry>Ni</entry>
+<entry>Cr</entry>
+<entry>Mo</entry>
+<entry>Cu</entry>
+<entry>N</entry>
+<entry>Sb, Ga)</entry>
+<entry>REM)</entry>
+<entry>Note</entry>
+</row>
+<row>
+<entry namest="1" nameend="14" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>b1</entry>
+<entry><u style="single">0.056</u></entry>
+<entry>0.21</entry>
+<entry>3.40</entry>
+<entry>0.025</entry>
+<entry>0.0021</entry>
+<entry>1.2</entry>
+<entry>20.1</entry>
+<entry>1.300</entry>
+<entry>0.612</entry>
+<entry>0.168</entry>
+<entry/>
+<entry/>
+<entry>Comparative</entry>
+</row>
+<row>
+<entry>b2</entry>
+<entry>0.014</entry>
+<entry><u style="single">0.01</u></entry>
+<entry>2.90</entry>
+<entry>0.021</entry>
+<entry>0.0029</entry>
+<entry>1.4</entry>
+<entry>21.1</entry>
+<entry>2.500</entry>
+<entry>0.822</entry>
+<entry>0.204</entry>
+<entry/>
+<entry/>
+<entry>examples</entry>
+</row>
+<row>
+<entry>b3</entry>
+<entry>0.025</entry>
+<entry>0.47</entry>
+<entry>3.40</entry>
+<entry><u style="single">0.075</u></entry>
+<entry>0.0041</entry>
+<entry>2.1</entry>
+<entry>19.1</entry>
+<entry>1.100</entry>
+<entry>1.916</entry>
+<entry>0.160</entry>
+</row>
+<row>
+<entry>b4</entry>
+<entry>0.031</entry>
+<entry>0.38</entry>
+<entry>4.60</entry>
+<entry>0.025</entry>
+<entry>0.0061</entry>
+<entry><u style="single">0.9</u></entry>
+<entry>21.3</entry>
+<entry>0.800</entry>
+<entry>0.800</entry>
+<entry>0.229</entry>
+</row>
+<row>
+<entry>b5</entry>
+<entry>0.022</entry>
+<entry>0.32</entry>
+<entry>4.20</entry>
+<entry>0.028</entry>
+<entry>0.0037</entry>
+<entry><u style="single">0.6</u></entry>
+<entry>20.8</entry>
+<entry>3.600</entry>
+<entry>0.368</entry>
+<entry>0.238</entry>
+</row>
+<row>
+<entry>b6</entry>
+<entry>0.021</entry>
+<entry>0.29</entry>
+<entry>3.80</entry>
+<entry>0.033</entry>
+<entry>0.0040</entry>
+<entry>1.6</entry>
+<entry><u style="single">12.9</u></entry>
+<entry>4.500</entry>
+<entry>0.641</entry>
+<entry>0.195</entry>
+</row>
+<row>
+<entry>b7</entry>
+<entry>0.016</entry>
+<entry>0.49</entry>
+<entry>3.60</entry>
+<entry>0.035</entry>
+<entry>0.0017</entry>
+<entry>1.4</entry>
+<entry>20.9</entry>
+<entry><u style="single">0.005</u></entry>
+<entry>0.428</entry>
+<entry>0.236</entry>
+</row>
+<row>
+<entry>b8</entry>
+<entry>0.013</entry>
+<entry>2.11</entry>
+<entry>3.20</entry>
+<entry>0.045</entry>
+<entry>0.0008</entry>
+<entry>1.6</entry>
+<entry>19.5</entry>
+<entry>1.800</entry>
+<entry><u style="single">0.006</u></entry>
+<entry>0.201</entry>
+</row>
+<row>
+<entry>b9</entry>
+<entry>0.020</entry>
+<entry>0.68</entry>
+<entry>2.70</entry>
+<entry>0.031</entry>
+<entry>0.0011</entry>
+<entry>1.0</entry>
+<entry>20.3</entry>
+<entry>1.400</entry>
+<entry>0.998</entry>
+<entry><u style="single">0.034</u></entry>
+</row>
+<row>
+<entry>b10</entry>
+<entry>0.027</entry>
+<entry>3.56</entry>
+<entry>6.80</entry>
+<entry>0.041</entry>
+<entry>0.0020</entry>
+<entry>2.6</entry>
+<entry>20.5</entry>
+<entry>1.200</entry>
+<entry>0.655</entry>
+<entry>0.147</entry>
+<entry><u style="single">Al:&#x2009;1.10,</u></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">Ti:&#x2009;0.500</u></entry>
+</row>
+<row>
+<entry>b11</entry>
+<entry>0.017</entry>
+<entry><u style="single">5.50</u></entry>
+<entry>2.80</entry>
+<entry>0.028</entry>
+<entry>0.0016</entry>
+<entry>1.6</entry>
+<entry>19.3</entry>
+<entry>2.300</entry>
+<entry>1.508</entry>
+<entry>0.120</entry>
+</row>
+<row>
+<entry>b12</entry>
+<entry>0.023</entry>
+<entry>0.94</entry>
+<entry><u style="single">9.40</u></entry>
+<entry>0.031</entry>
+<entry>0.0011</entry>
+<entry>1.1</entry>
+<entry>20.8</entry>
+<entry>3.700</entry>
+<entry>1.809</entry>
+<entry>0.168</entry>
+</row>
+<row>
+<entry>b13</entry>
+<entry>0.023</entry>
+<entry>0.16</entry>
+<entry>3.60</entry>
+<entry>0.030</entry>
+<entry>0.0014</entry>
+<entry><u style="single">32.1</u>&#x2002;</entry>
+<entry>28.4</entry>
+<entry>5.500</entry>
+<entry>0.112</entry>
+<entry><u style="single">0.045</u></entry>
+</row>
+<row>
+<entry>b14</entry>
+<entry>0.019</entry>
+<entry>0.38</entry>
+<entry><u style="single">8.50</u></entry>
+<entry>0.015</entry>
+<entry>0.0020</entry>
+<entry>7.6</entry>
+<entry><u style="single">33.8</u></entry>
+<entry>1.600</entry>
+<entry>1.204</entry>
+<entry>0.558</entry>
+</row>
+<row>
+<entry>b15</entry>
+<entry>0.014</entry>
+<entry>4.88</entry>
+<entry>4.10</entry>
+<entry>0.025</entry>
+<entry>0.0038</entry>
+<entry>12.3&#x2002;</entry>
+<entry>22.7</entry>
+<entry><u style="single">9.300</u></entry>
+<entry>2.108</entry>
+<entry>0.364</entry>
+</row>
+<row>
+<entry>b16</entry>
+<entry>0.008</entry>
+<entry>0.41</entry>
+<entry>7.90</entry>
+<entry>0.030</entry>
+<entry>0.0012</entry>
+<entry>2.0</entry>
+<entry>21.0</entry>
+<entry>1.400</entry>
+<entry><u style="single">6.117</u></entry>
+<entry>0.174</entry>
+</row>
+<row>
+<entry>b17</entry>
+<entry>0.011</entry>
+<entry>0.38</entry>
+<entry>2.40</entry>
+<entry>0.025</entry>
+<entry>0.0011</entry>
+<entry>1.8</entry>
+<entry>21.4</entry>
+<entry>1.200</entry>
+<entry>0.884</entry>
+<entry><u style="single">0.819</u></entry>
+</row>
+<row>
+<entry>b18</entry>
+<entry>0.021</entry>
+<entry>0.36</entry>
+<entry>3.40</entry>
+<entry>0.026</entry>
+<entry>0.0024</entry>
+<entry>11.1&#x2002;</entry>
+<entry>20.1</entry>
+<entry>3.500</entry>
+<entry>0.910</entry>
+<entry>0.167</entry>
+<entry>Al: 0.04,</entry>
+<entry>B: 0.0020,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Nb: 0.05,</entry>
+<entry>Ca: 0.0028</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">W:&#x2009;1.1</u>,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>Sn: 0.03</entry>
+</row>
+<row>
+<entry>b19</entry>
+<entry>0.014</entry>
+<entry>0.34</entry>
+<entry>3.30</entry>
+<entry>0.031</entry>
+<entry>0.0039</entry>
+<entry>1.7</entry>
+<entry>20.6</entry>
+<entry>2.800</entry>
+<entry>1.226</entry>
+<entry>0.253</entry>
+<entry>Ti: 0.020,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">Nb:&#x2009;0.60</u>,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>V: 0.07,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">Ta:&#x2009;0.150</u></entry>
+</row>
+<row>
+<entry>b20</entry>
+<entry>0.004</entry>
+<entry>0.47</entry>
+<entry>3.10</entry>
+<entry>0.028</entry>
+<entry>0.0026</entry>
+<entry>3.1</entry>
+<entry>20.5</entry>
+<entry>1.200</entry>
+<entry>1.418</entry>
+<entry>0.314</entry>
+<entry><u style="single">Al:&#x2009;1.10,</u></entry>
+<entry>B: 0.0023,</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">Ti:&#x2009;0.600,</u></entry>
+<entry><u style="single">REM:&#x2009;0.20</u></entry>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry><u style="single">Ga:&#x2009;0.60</u></entry>
+</row>
+<row>
+<entry namest="1" nameend="14" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="14" align="left" id="FOO-00001">The underline indicates that it is outside the scope of the present invention.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0131" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<colspec colname="6" colwidth="35pt" align="left"/>
+<colspec colname="7" colwidth="42pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="7" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Sheet</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>Kind</entry>
+<entry/>
+<entry>thick-</entry>
+</row>
+<row>
+<entry/>
+<entry>of base</entry>
+<entry/>
+<entry>ness</entry>
+<entry>Welding</entry>
+<entry>Welding</entry>
+<entry>Atmosphere</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>material</entry>
+<entry>Kind</entry>
+<entry>(mm)</entry>
+<entry>method</entry>
+<entry>wire</entry>
+<entry>Shield gas</entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="1" colwidth="21pt" align="char" char="."/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="left"/>
+<colspec colname="4" colwidth="21pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="left"/>
+<colspec colname="6" colwidth="35pt" align="left"/>
+<colspec colname="7" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>a1</entry>
+<entry>Examples</entry>
+<entry>0.8</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>a2</entry>
+<entry>of the</entry>
+<entry>1.2</entry>
+<entry>TIG</entry>
+<entry>Type 2209</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>a3</entry>
+<entry>present</entry>
+<entry>1.0</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>a5</entry>
+<entry>invention</entry>
+<entry>0.8</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>a6</entry>
+<entry/>
+<entry>1.0</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>a7</entry>
+<entry/>
+<entry>1.2</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>a8</entry>
+<entry/>
+<entry>4.0</entry>
+<entry>MIG</entry>
+<entry>Y308L</entry>
+<entry>Ar + O<sub>2</sub></entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>a9</entry>
+<entry/>
+<entry>1.0</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>a11</entry>
+<entry/>
+<entry>3.5</entry>
+<entry>MIG</entry>
+<entry>ER308LSi</entry>
+<entry>Ar + O<sub>2</sub></entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>a4</entry>
+<entry/>
+<entry>1.0</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>He</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>a10</entry>
+<entry/>
+<entry>0.6</entry>
+<entry>TIG</entry>
+<entry>Type2209</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>a12</entry>
+<entry/>
+<entry>4.5</entry>
+<entry>MIG</entry>
+<entry>ER308LSi</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>a13</entry>
+<entry/>
+<entry>5.0</entry>
+<entry>MAG</entry>
+<entry>ER308LSi</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>a14</entry>
+<entry/>
+<entry>1.5</entry>
+<entry>TIG</entry>
+<entry>Type2209</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>a15</entry>
+<entry/>
+<entry>0.8</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>b1</entry>
+<entry>Compar-</entry>
+<entry>1.5</entry>
+<entry>TIG</entry>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>b2</entry>
+<entry>ative</entry>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>b3</entry>
+<entry>examples</entry>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>b4</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>b5</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>308</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>b6</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>b7</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>b8</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>309 MoL</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>b9</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>b10</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>26</entry>
+<entry>b11</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>27</entry>
+<entry>b12</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>28</entry>
+<entry>b13</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>29</entry>
+<entry>b14</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>30</entry>
+<entry>b15</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>31</entry>
+<entry>b16</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>32</entry>
+<entry>b17</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>Type 2209</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>33</entry>
+<entry>b18</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>Type 2209</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>34</entry>
+<entry>b19</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar</entry>
+</row>
+<row>
+<entry>35</entry>
+<entry>b20</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>N<sub>2</sub></entry>
+</row>
+<row>
+<entry>36</entry>
+<entry>a16</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>None</entry>
+<entry>Ar + N<sub>2</sub></entry>
+</row>
+<row>
+<entry namest="1" nameend="7" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0132" num="0000">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="center"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="center"/>
+<colspec colname="9" colwidth="28pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="left"/>
+<colspec colname="11" colwidth="42pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="11" rowsep="1">TABLE 4</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Volume</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>Area</entry>
+<entry>Proof</entry>
+<entry>Proof</entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>fraction</entry>
+<entry>Hardness</entry>
+<entry>Hardness</entry>
+<entry/>
+<entry>fraction of</entry>
+<entry>stress</entry>
+<entry>stress of</entry>
+</row>
+<row>
+<entry/>
+<entry>Kind</entry>
+<entry>of ferrite</entry>
+<entry>of base</entry>
+<entry>of weld</entry>
+<entry>Hard-</entry>
+<entry>precipitates</entry>
+<entry>of base</entry>
+<entry>welded</entry>
+<entry>Presence</entry>
+</row>
+<row>
+<entry/>
+<entry>of base</entry>
+<entry>phase Weld</entry>
+<entry>material</entry>
+<entry>metal</entry>
+<entry>ness</entry>
+<entry>in ferrite</entry>
+<entry>material</entry>
+<entry>portion</entry>
+<entry>or absence</entry>
+</row>
+<row>
+<entry>No.</entry>
+<entry>material</entry>
+<entry>metal (%)</entry>
+<entry>(HV0.1)</entry>
+<entry>(HV0.1)</entry>
+<entry>ratio</entry>
+<entry>phase (%)</entry>
+<entry>(MPa)</entry>
+<entry>(MPa)</entry>
+<entry>of rust</entry>
+<entry>Kind</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="21pt" align="char" char="."/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="char" char="."/>
+<colspec colname="5" colwidth="35pt" align="char" char="."/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<colspec colname="7" colwidth="42pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="28pt" align="char" char="."/>
+<colspec colname="10" colwidth="35pt" align="left"/>
+<colspec colname="11" colwidth="42pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry>1</entry>
+<entry>a1</entry>
+<entry>50</entry>
+<entry>212</entry>
+<entry>182</entry>
+<entry>0.86</entry>
+<entry>&#x2002;6</entry>
+<entry>551</entry>
+<entry>489</entry>
+<entry>Absence</entry>
+<entry>Examples</entry>
+</row>
+<row>
+<entry>2</entry>
+<entry>a2</entry>
+<entry>70</entry>
+<entry>230</entry>
+<entry>241</entry>
+<entry>1.05</entry>
+<entry>&#x2002;8</entry>
+<entry>598</entry>
+<entry>553</entry>
+<entry>Absence</entry>
+<entry>of the</entry>
+</row>
+<row>
+<entry>3</entry>
+<entry>a3</entry>
+<entry>60</entry>
+<entry>243</entry>
+<entry>210</entry>
+<entry>0.86</entry>
+<entry>&#x2002;5</entry>
+<entry>631</entry>
+<entry>589</entry>
+<entry>Absence</entry>
+<entry>present</entry>
+</row>
+<row>
+<entry>4</entry>
+<entry>a5</entry>
+<entry>55</entry>
+<entry>210</entry>
+<entry>178</entry>
+<entry>0.85</entry>
+<entry>&#x2002;8</entry>
+<entry>547</entry>
+<entry>486</entry>
+<entry>Absence</entry>
+<entry>invention</entry>
+</row>
+<row>
+<entry>5</entry>
+<entry>a6</entry>
+<entry>50</entry>
+<entry>238</entry>
+<entry>228</entry>
+<entry>0.96</entry>
+<entry>&#x2002;8</entry>
+<entry>618</entry>
+<entry>573</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>6</entry>
+<entry>a7</entry>
+<entry>60</entry>
+<entry>200</entry>
+<entry>174</entry>
+<entry>0.87</entry>
+<entry>&#x2002;6</entry>
+<entry>521</entry>
+<entry>467</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>7</entry>
+<entry>a8</entry>
+<entry>75</entry>
+<entry>214</entry>
+<entry>203</entry>
+<entry>0.95</entry>
+<entry>&#x2002;6</entry>
+<entry>556</entry>
+<entry>473</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>8</entry>
+<entry>a9</entry>
+<entry>70</entry>
+<entry>199</entry>
+<entry>192</entry>
+<entry>0.96</entry>
+<entry>&#x2002;8</entry>
+<entry>517</entry>
+<entry>460</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>9</entry>
+<entry>a11</entry>
+<entry>70</entry>
+<entry>247</entry>
+<entry>218</entry>
+<entry>0.88</entry>
+<entry>&#x2002;8</entry>
+<entry>641</entry>
+<entry>611</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>a4</entry>
+<entry>45</entry>
+<entry>231</entry>
+<entry>203</entry>
+<entry>0.88</entry>
+<entry>&#x2002;2</entry>
+<entry>662</entry>
+<entry>636</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>a10</entry>
+<entry>55</entry>
+<entry>223</entry>
+<entry>211</entry>
+<entry>0.95</entry>
+<entry>&#x2002;3</entry>
+<entry>612</entry>
+<entry>567</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>12</entry>
+<entry>a12</entry>
+<entry>70</entry>
+<entry>227</entry>
+<entry>199</entry>
+<entry>0.88</entry>
+<entry>&#x2002;6</entry>
+<entry>606</entry>
+<entry>577</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>13</entry>
+<entry>a13</entry>
+<entry>70</entry>
+<entry>212</entry>
+<entry>185</entry>
+<entry>0.87</entry>
+<entry>&#x2002;8</entry>
+<entry>593</entry>
+<entry>505</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>14</entry>
+<entry>a14</entry>
+<entry>55</entry>
+<entry>226</entry>
+<entry>207</entry>
+<entry>0.92</entry>
+<entry>&#x2002;6</entry>
+<entry>612</entry>
+<entry>601</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>15</entry>
+<entry>a15</entry>
+<entry>65</entry>
+<entry>212</entry>
+<entry>189</entry>
+<entry>0.89</entry>
+<entry>&#x2002;7</entry>
+<entry>627</entry>
+<entry>601</entry>
+<entry>Absence</entry>
+</row>
+<row>
+<entry>16</entry>
+<entry>b1</entry>
+<entry>50</entry>
+<entry>223</entry>
+<entry>188</entry>
+<entry>0.84</entry>
+<entry><u style="single">15</u></entry>
+<entry>581</entry>
+<entry>526</entry>
+<entry>Presence</entry>
+<entry>Comparative</entry>
+</row>
+<row>
+<entry>17</entry>
+<entry>b2</entry>
+<entry>55</entry>
+<entry>217</entry>
+<entry>189</entry>
+<entry>0.87</entry>
+<entry><u style="single">20</u></entry>
+<entry>563</entry>
+<entry>528</entry>
+<entry/>
+<entry>examples</entry>
+</row>
+<row>
+<entry>18</entry>
+<entry>b3</entry>
+<entry>65</entry>
+<entry>227</entry>
+<entry>193</entry>
+<entry>0.85</entry>
+<entry><u style="single">30</u></entry>
+<entry>589</entry>
+<entry>539</entry>
+</row>
+<row>
+<entry>19</entry>
+<entry>b4</entry>
+<entry>55</entry>
+<entry>208</entry>
+<entry>174</entry>
+<entry>0.84</entry>
+<entry><u style="single">20</u></entry>
+<entry>542</entry>
+<entry>487</entry>
+</row>
+<row>
+<entry>20</entry>
+<entry>b5</entry>
+<entry>55</entry>
+<entry>215</entry>
+<entry>176</entry>
+<entry>0.82</entry>
+<entry><u style="single">25</u></entry>
+<entry>559</entry>
+<entry>492</entry>
+</row>
+<row>
+<entry>21</entry>
+<entry>b6</entry>
+<entry>60</entry>
+<entry>205</entry>
+<entry>173</entry>
+<entry>0.84</entry>
+<entry><u style="single">15</u></entry>
+<entry>533</entry>
+<entry>484</entry>
+</row>
+<row>
+<entry>22</entry>
+<entry>b7</entry>
+<entry>50</entry>
+<entry>232</entry>
+<entry>196</entry>
+<entry>0.84</entry>
+<entry><u style="single">15</u></entry>
+<entry>602</entry>
+<entry>549</entry>
+</row>
+<row>
+<entry>23</entry>
+<entry>b8</entry>
+<entry>60</entry>
+<entry>237</entry>
+<entry>190</entry>
+<entry>0.80</entry>
+<entry><u style="single">20</u></entry>
+<entry>615</entry>
+<entry>533</entry>
+</row>
+<row>
+<entry>24</entry>
+<entry>b9</entry>
+<entry>55</entry>
+<entry>195</entry>
+<entry>164</entry>
+<entry>0.84</entry>
+<entry><u style="single">20</u></entry>
+<entry>508</entry>
+<entry>459</entry>
+</row>
+<row>
+<entry>25</entry>
+<entry>b10</entry>
+<entry><u style="single">80</u></entry>
+<entry>212</entry>
+<entry>154</entry>
+<entry><u style="single">0.73</u></entry>
+<entry><u style="single">25</u></entry>
+<entry>551</entry>
+<entry>432</entry>
+</row>
+<row>
+<entry>26</entry>
+<entry>b11</entry>
+<entry>60</entry>
+<entry>211</entry>
+<entry>180</entry>
+<entry>0.85</entry>
+<entry><u style="single">20</u></entry>
+<entry>549</entry>
+<entry>505</entry>
+</row>
+<row>
+<entry>27</entry>
+<entry>b12</entry>
+<entry>65</entry>
+<entry>210</entry>
+<entry>179</entry>
+<entry>0.85</entry>
+<entry><u style="single">25</u></entry>
+<entry>546</entry>
+<entry>501</entry>
+</row>
+<row>
+<entry>28</entry>
+<entry>b13</entry>
+<entry><u style="single">40</u></entry>
+<entry>193</entry>
+<entry>143</entry>
+<entry><u style="single">0.74</u></entry>
+<entry><u style="single">20</u></entry>
+<entry>502</entry>
+<entry>401</entry>
+</row>
+<row>
+<entry>29</entry>
+<entry>b14</entry>
+<entry>55</entry>
+<entry>242</entry>
+<entry>212</entry>
+<entry>0.88</entry>
+<entry><u style="single">15</u></entry>
+<entry>628</entry>
+<entry>594</entry>
+</row>
+<row>
+<entry>30</entry>
+<entry>b15</entry>
+<entry><u style="single">80</u></entry>
+<entry>216</entry>
+<entry>149</entry>
+<entry><u style="single">0.69</u></entry>
+<entry><u style="single">15</u></entry>
+<entry>561</entry>
+<entry>418</entry>
+</row>
+<row>
+<entry>31</entry>
+<entry>b16</entry>
+<entry><u style="single">80</u></entry>
+<entry>224</entry>
+<entry>152</entry>
+<entry><u style="single">0.68</u></entry>
+<entry><u style="single">30</u></entry>
+<entry>583</entry>
+<entry>426</entry>
+</row>
+<row>
+<entry>32</entry>
+<entry>b17</entry>
+<entry>70</entry>
+<entry>196</entry>
+<entry>167</entry>
+<entry>0.85</entry>
+<entry><u style="single">25</u></entry>
+<entry>510</entry>
+<entry>468</entry>
+</row>
+<row>
+<entry>33</entry>
+<entry>b18</entry>
+<entry>65</entry>
+<entry>240</entry>
+<entry>206</entry>
+<entry>0.86</entry>
+<entry><u style="single">25</u></entry>
+<entry>624</entry>
+<entry>577</entry>
+</row>
+<row>
+<entry>34</entry>
+<entry>b19</entry>
+<entry>50</entry>
+<entry>224</entry>
+<entry>183</entry>
+<entry>0.82</entry>
+<entry><u style="single">20</u></entry>
+<entry>582</entry>
+<entry>513</entry>
+</row>
+<row>
+<entry>35</entry>
+<entry>b20</entry>
+<entry>55</entry>
+<entry>224</entry>
+<entry>188</entry>
+<entry>0.84</entry>
+<entry><u style="single">15</u></entry>
+<entry>582</entry>
+<entry>525</entry>
+</row>
+<row>
+<entry>36</entry>
+<entry>a16</entry>
+<entry>50</entry>
+<entry>236</entry>
+<entry>214</entry>
+<entry>0.91</entry>
+<entry><u style="single">15</u></entry>
+<entry>601</entry>
+<entry>533</entry>
+</row>
+<row>
+<entry namest="1" nameend="11" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="11" align="left" id="FOO-00002">The underline indicates that it is outside the scope of the present invention.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0027" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0133" num="0127">According to the above aspect of the present invention, it is possible to provide a welded structure made of duplex stainless steel having exceptional proof stress and exceptional corrosion resistance in a welded portion, and a storage tank having such a welded structure.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-001-7" num="001-7">
+<claim-text><b>1</b>.-<b>7</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A welded structure including a base material made of duplex stainless steel and a welded portion in which the base materials are welded to each other,
+<claim-text>wherein a chemical composition of the base material includes, in mass %,</claim-text>
+<claim-text>C: 0.050% or less,</claim-text>
+<claim-text>Si: 0.03 to 5.00%,</claim-text>
+<claim-text>Mn: 0.01 to 8.00%,</claim-text>
+<claim-text>P: 0.070% or less,</claim-text>
+<claim-text>S: 0.0500% or less,</claim-text>
+<claim-text>Ni: 1.0 to 30.0%,</claim-text>
+<claim-text>Cr: 15.0 to 30.0%,</claim-text>
+<claim-text>Mo: 0.010 to 8.000%,</claim-text>
+<claim-text>Cu: 0.010 to 5.000%,</claim-text>
+<claim-text>N: 0.050 to 0.800%,</claim-text>
+<claim-text>Al: 0 to 1.00%,</claim-text>
+<claim-text>Ti: 0 to 0.400%,</claim-text>
+<claim-text>Nb: 0 to 0.40%,</claim-text>
+<claim-text>V: 0 to 0.50%,</claim-text>
+<claim-text>W: 0 to 1.0%,</claim-text>
+<claim-text>Zr: 0 to 0.200%,</claim-text>
+<claim-text>Ta: 0 to 0.100%,</claim-text>
+<claim-text>Sn: 0 to 0.50%,</claim-text>
+<claim-text>Sb: 0 to 0.50%,</claim-text>
+<claim-text>Ga: 0 to 0.50%,</claim-text>
+<claim-text>B: 0 to 0.0050%,</claim-text>
+<claim-text>Ca: 0 to 0.0050%,</claim-text>
+<claim-text>Mg: 0 to 0.0050%, and</claim-text>
+<claim-text>REM: 0 to 0.10%, and</claim-text>
+<claim-text>the remainder of Fe and impurities,</claim-text>
+<claim-text>a volume fraction of a ferrite phase in a metallographic structure of a weld metal of the welded portion is 45 to 75%,</claim-text>
+<claim-text>a ratio of a hardness of the weld metal to a hardness of the base material is 0.80 to 1.20, and</claim-text>
+<claim-text>an amount of precipitates formed in the ferrite phase of the weld metal is less than 10% in area fraction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The welded structure according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the base material contains one or more selected from the following first and second groups:
+<claim-text>First group: in mass %,</claim-text>
+<claim-text>Al: 1.00% or less,</claim-text>
+<claim-text>Ti: 0.010 to 0.400%,</claim-text>
+<claim-text>Nb: 0.01 to 0.40%,</claim-text>
+<claim-text>V: 0.01 to 0.50%,</claim-text>
+<claim-text>W: 0.01 to 1.0%,</claim-text>
+<claim-text>Zr: 0.001 to 0.200%,</claim-text>
+<claim-text>Ta: 0.001 to 0.100%,</claim-text>
+<claim-text>Sn: 0.001 to 0.50%,</claim-text>
+<claim-text>Sb: 0.001 to 0.50%, and</claim-text>
+<claim-text>Ga: 0.001 to 0.50%; and</claim-text>
+<claim-text>Second group: in mass %,</claim-text>
+<claim-text>B: 0.0002 to 0.0050%,</claim-text>
+<claim-text>Ca: 0.0002 to 0.0050%,</claim-text>
+<claim-text>Mg: 0.0002 to 0.0050%, and</claim-text>
+<claim-text>REM: 0.001 to 0.10%.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The welded structure according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein a proof stress of the base material is 500 MPa or more, and a proof stress of the welded portion is 440 MPa or more.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The welded structure according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein a proof stress of the base material is 500 MPa or more, and a proof stress of the welded portion is 440 MPa or more.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A welded structure according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, which is for a storage tank for hot water.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. A welded structure according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, which is for a storage tank for beverages.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. A storage tank for liquids, which has the welded structure according to <claim-ref idref="CLM-00008">claim 8</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The storage tank according to <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the liquid is one or more of water, beverages, hot water, and dairy products.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

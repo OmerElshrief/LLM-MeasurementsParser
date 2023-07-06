@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411899A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411899</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17358858</doc-number>
+<date>20210625</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>12</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>22</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>22</class>
+<subclass>D</subclass>
+<main-group>11</main-group>
+<subgroup>003</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>33</main-group>
+<subgroup>121</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>C</subclass>
+<main-group>2204</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">BEARING FORMED OF AN ALUMINUM ALLOY MATERIAL AND METHOD OF MANUFACTURING</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Tenneco Inc.</orgname>
+<address>
+<city>Lake Forest</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Saxton</last-name>
+<first-name>David Michael</first-name>
+<address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Zeagler</last-name>
+<first-name>Andrew R.</first-name>
+<address>
+<city>Ferndale</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Giroux</last-name>
+<first-name>Terri Ann</first-name>
+<address>
+<city>Howell</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Wagner</last-name>
+<first-name>Michael</first-name>
+<address>
+<city>Wiesbaden</city>
+<country>DE</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Vaida</last-name>
+<first-name>Katherine Theresa</first-name>
+<address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A sliding element, such as a bearing, and a method of manufacturing the sliding element, is provided. The sliding element is formed of an aluminum alloy material which includes zinc in an amount of 5 wt. % to 83 wt. %. The sliding element may also include silicon and/or magnesium. The sliding element is typically formed by casting, heat treating at a temperature of 400&#xb0; C. to 577&#xb0; C., and cooling at a rate of less than 50&#xb0; C. per hour to a temperature ranging from 400&#xb0; C. to 200&#xb0; C. The aluminum alloy material is then heat treated at a temperature of 100&#xb0; to 275&#xb0; C. for at least 5 hours to form a soft phase consisting essentially of the zinc. The second heat treatment, or possibly both heat treatments, may not be required when the aluminum alloy material includes the magnesium.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="88.14mm" wi="113.71mm" file="US20220411899A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="218.27mm" wi="128.69mm" file="US20220411899A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="208.70mm" wi="138.94mm" file="US20220411899A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<heading id="h-0002" level="1">1. Field of the Invention</heading>
+<p id="p-0002" num="0001">This invention relates generally to a sliding element, such as a bearing, bushing, or washer formed of an aluminum alloy material, and a method of manufacturing the same.</p>
+<heading id="h-0003" level="1">2. Related Art</heading>
+<p id="p-0003" num="0002">Internal combustion engines typically include sliding elements, such as bearings, bushings, or washers, to support rotating shafts and allow them to rotate more smoothly and with less friction. Existing bearings formed of aluminum alloy materials typically contain tin to provide a soft phase that improves sliding properties, conformability, and embeddability. However, tin is expensive and can lead to numerous challenges related to quality and processing. The amount of tin in an aluminum alloy material for a bearing is typically limited to less than 10 weight percent (wt. %) in roll cast and hot bonded aluminum alloy materials.</p>
+<p id="p-0004" num="0003">Zinc is another element that can provide a soft phase in an aluminum alloy material. However, the use of zinc in current aluminum alloy materials is limited. The amount of zinc present in aluminum alloy materials for bearings is typically limited to about 5 weight percent, as the zinc causes hardening and strengthening of the alloy that is unsuitable for a bearing application. In addition, zinc is more soluble in aluminum at engine operating temperatures compared to tin, which limits is ability to improve embeddability.</p>
+<p id="p-0005" num="0004">Silicon is also oftentimes added to aluminum alloy materials for bearings, such as materials containing tin or zinc, to form a hard phase which provides wear resistance and prevents seizure. However, the aluminum alloy material must be heat treated to confer the appropriate size and distribution of the hard silicon phase.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">One aspect of the invention provides a sliding element, such as a bearing for an internal combustion engine, which overcomes many of the challenges described above. The sliding element includes an aluminum alloy material. The aluminum alloy material includes aluminum in an amount of 17 weight percent (wt. %) to 95 wt. % and zinc in an amount of 5 wt. % to 83 wt. %, based on the total weight of the aluminum alloy material. The aluminum alloy material includes a soft phase consisting essentially of zinc, and the soft phase has a Vickers hardness of not greater than 60 HV<sub>0.01 kg</sub>.</p>
+<p id="p-0007" num="0006">Another aspect of the invention provides a method of manufacturing a sliding element. The sliding element includes casting an aluminum alloy material. The aluminum alloy material includes zinc in an amount of at least 5 wt. %, based on the total weight of the material. Typically, the zinc is in an amount of greater than 5 wt. % or at least 10 wt. %, based on the total weight of the aluminum alloy material. The method further includes heat treating the cast aluminum alloy material at a temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours to form a soft phase consisting essentially of the zinc.</p>
+<p id="p-0008" num="0007">Yet another aspect of the invention provides a method of manufacturing a sliding element formed of an aluminum alloy material which includes magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material. The aluminum alloy material also includes zinc in an amount of at least 5 wt. %, based on the total weight of the material.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">These and other features and advantages of the present invention will become more readily appreciated when considered in connection with the following detailed description and appended drawing:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a side perspective view of an engine bearing containing a cast aluminum alloy material on a steel backing according to an example embodiment;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a bottom perspective view of the engine bearing of <figref idref="DRAWINGS">FIG. <b>1</b></figref>;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>3</b></figref> is a side cross-sectional view of the engine bearing of <figref idref="DRAWINGS">FIG. <b>1</b></figref>; and</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a side view of a typical thrust washer which could include the cast aluminum alloy material.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF EXAMPLE EMBODIMENTS</heading>
+<p id="p-0014" num="0013">One aspect of the invention provides a sliding element <b>10</b>, such as a bearing, bushing, or washer for an internal combustion engine. An example of the sliding element <b>10</b> in the form of the bearing is shown in <figref idref="DRAWINGS">FIGS. <b>1</b>-<b>3</b></figref>. An example of the sliding element <b>10</b> in the form of the washer, specifically a typical thrust washer, is shown in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. It is to be understood that the description primarily refers to the bearing, but the description is equally applicable to the bushing, washer, or another type of sliding element.</p>
+<p id="p-0015" num="0014">The sliding element <b>10</b> includes at least one layer formed of an improved aluminum alloy material <b>12</b>. The aluminum alloy material <b>12</b> is typically bonded to a backing <b>14</b> formed of steel. The sliding element <b>10</b> can include various other layers and/or materials, in addition to the layer of the aluminum alloy material <b>12</b> and the backing <b>14</b>. For example, the aluminum alloy material <b>12</b> can be disposed directly on the backing <b>14</b>, or other layers could be located between the aluminum alloy material <b>12</b> and the backing <b>14</b>. The sliding element <b>10</b> can also have various different designs and/or dimensions depending on the particular application for which it is designed. In the example embodiment of <figref idref="DRAWINGS">FIG. <b>1</b></figref>, the sliding element <b>10</b> is a bearing and includes a first half shell <b>16</b> and a second half shell <b>18</b>. The half shells <b>16</b>, <b>18</b> extend circumferentially around a center axis A and are joined to one another at opposite ends. The aluminum alloy material <b>12</b> typically has a thickness ranging from 100 to 1000 microns, and the steel backing <b>14</b> typically has a thickness ranging from 1000 to 5000 microns.</p>
+<p id="p-0016" num="0015">The aluminum alloy material <b>12</b> has a composition and microstructure which can provide a combination of wear and seizure advantages, controlled hardening, conformability, and embeddability.</p>
+<p id="p-0017" num="0016">The aluminum alloy material <b>12</b> includes aluminum in an amount of 17 weight percent (wt. %) to 95 wt. % and zinc in an amount of 5 wt. % to 83 wt. %, based on the total weight of the aluminum alloy material <b>12</b>. More preferably, the aluminum alloy material <b>12</b> includes the aluminum in an amount of 52.5 wt. % to 88.5 wt. %, based on the total weight of the aluminum alloy material <b>12</b>, and the zinc in an amount of 10 wt. % to 40 wt. %, based on the total weight of the aluminum alloy material <b>12</b>. Even more preferably, the aluminum alloy material <b>12</b> includes the aluminum in an amount of 58.5 wt. % to 78.5 wt. %, based on the total weight of the aluminum alloy material <b>12</b>, and the zinc in an amount of 20 wt. % to 40 wt. %, based on the total weight of the aluminum alloy material <b>12</b>.</p>
+<p id="p-0018" num="0017">Typically, the aluminum alloy material <b>12</b> does not include lead. Lead additions in the aluminum alloy material <b>12</b> could provide performance benefits, but could also present health and environmental concerns. If present, the lead is typically in an amount of not greater than 0.1 wt. %.</p>
+<p id="p-0019" num="0018">According to certain embodiments, the aluminum alloy material <b>12</b> further includes silicon. The silicon in preferably present in an amount of 0.5 wt. % to 12 wt. %, and more preferably 1 wt. % to 6 wt. %, based on the total weight of the aluminum alloy material <b>12</b>. The aluminum alloy material <b>12</b> can also include magnesium. The magnesium is preferably present in an amount of 0.5 wt. % to 12 wt. %, more preferably 1 wt. % to 6 wt. %, based on the total weight of the aluminum alloy material <b>12</b>. According to one example embodiment, the aluminum alloy material <b>12</b> includes the silicon in an amount of 0.5 wt. % to 12 wt. % and the magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material <b>12</b>. When the aluminum alloy material <b>12</b> includes the magnesium and/or silicon, then after a heat treatment process, the aluminum alloy material <b>12</b> includes a hard phase consisting essentially of magnesium and/or silicon.</p>
+<p id="p-0020" num="0019">Additional elements can be added to the aluminum alloy material <b>12</b>. For example, bismuth and/or tin each in an amount of less than 5 wt. %, based on the total weigh of the aluminum alloy material <b>12</b>, can be added to improve sliding properties.</p>
+<p id="p-0021" num="0020">The aluminum alloy material <b>12</b> of the sliding element <b>10</b> typically has an ultimate tensile strength of 150-300 MPa, a yield strength of 100-300 MPa, and Vickers hardness of 50-150 HV<sub>0.01 kg</sub>. ASTM E-8 or E-8M (metric) are test methods that can be used to measure the ultimate tensile strength and the yield strength. ASTM E384 is a test method that can be used to measure the Vickers hardness.</p>
+<p id="p-0022" num="0021">Another aspect of the invention provides a method of manufacturing the sliding element <b>10</b>. The method comprises casting the aluminum alloy material <b>12</b> and heat treating the cast aluminum alloy material <b>12</b> at a temperature of 100&#xb0; to 275&#xb0; C. for at least 5 hours to form a soft phase consisting essentially of the zinc. The soft phase has a Vickers hardness of not greater than 60 HV<sub>0.01 kg</sub>. Small amounts of other elements may be present in the soft phase, but they are in a total amount of less than 1 wt. %. According to one embodiment, the casting step is a continuous process and includes twin roll casting, belt casting, and/or extraction casting. The zinc of the aluminum alloy material <b>12</b> forms the soft phase during the step of heat treating the aluminum alloy material <b>12</b> at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours.</p>
+<p id="p-0023" num="0022">According to one embodiment, before the step of heat treating the aluminum alloy material <b>12</b> at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours, the method can include rolling the cast aluminum alloy material <b>12</b> and bonding the rolled aluminum alloy material <b>12</b> to the steel backing <b>14</b>.</p>
+<p id="p-0024" num="0023">According to a preferred embodiment, before the step of heat treating the aluminum alloy material <b>12</b> at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours, the method includes heat treating the cast aluminum alloy material <b>12</b> at a temperature of 400&#xb0; C. to 577&#xb0; C. and cooling the cast aluminum alloy material <b>12</b> at cooling rate of less than 50&#xb0; C. per hour to a temperature ranging from 400&#xb0; C. to 200&#xb0; C.</p>
+<p id="p-0025" num="0024">In the embodiment wherein the aluminum alloy material <b>12</b> includes the silicon and/or magnesium, the silicon and/or magnesium typically forms a hard phase during the step of heat treating the cast aluminum alloy material <b>12</b> at the temperature of 400&#xb0; C. to 577&#xb0; C. For example, the hard phase can form when the aluminum alloy material <b>12</b> includes the silicon in an amount of 0.5 wt. % to 12 wt. % and/or the magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material <b>12</b>.</p>
+<p id="p-0026" num="0025">The aluminum alloy material <b>12</b> processed according to the methods described above can provide several advantages, including the wear and seizure advantages of silicon, control and hardening conferred by zinc additions, and the soft phase to improve conformability and embeddability. In addition, the zinc is less expensive than tin or aluminum, and the difference in liquidus and solidus temperatures for aluminum-zinc is much smaller than that of aluminum-tin. This results in a more homogenous cast structure, which eliminates many of the processing problems associated with tin. Zinc can be used in combination with silicon as a hard particle, with zinc acting as both a solution hardening element and the soft phase.</p>
+<p id="p-0027" num="0026">Several other advantages are achieved when the aluminum alloy material <b>12</b> includes the magnesium. First, it enables the formation of large-scale zinc precipitates, which increase embeddability relative to small-scale zinc precipitates. The magnesium may also significantly reduce heat treatment time and costs, or even obviate the need for the lower temperature heat treatment, and expedites the formation of hard phase particles, such as Mg&#x2014;Si particles and Si particles. For example, the aluminum alloy material <b>12</b> including the magnesium could be cast, heated to a temperature of 400&#xb0; C. to 577&#xb0; C., and then cooled at a cooling rate of less than 50&#xb0; C. per hour to a temperature ranging from 400&#xb0; C. to 200&#xb0; C., without the second heat treating step.</p>
+<p id="p-0028" num="0027">Obviously, many modifications and variations of the present invention are possible in light of the above teachings and may be practiced otherwise than as specifically described while within the scope of the following claims. In particular, all features of all claims and of all embodiments can be combined with each other, as long as they do not contradict each other.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A sliding element, comprising:
+<claim-text>an aluminum alloy material, the aluminum alloy material including aluminum in an amount of 17 weight percent (wt. %) to 95 wt. % and zinc in an amount of 5 wt. % to 83 wt. %, based on the total weight of the aluminum alloy material,</claim-text>
+<claim-text>the aluminum alloy material including a soft phase consisting essentially of zinc, and the soft phase having a Vickers hardness of not greater than 60 HV<sub>0.01 kg</sub>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The sliding element of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the aluminum alloy material includes the aluminum in an amount of at least 52.5 wt. %, the zinc in an amount of 10 wt. % to 40 wt. %, and lead, if present, in an amount of not greater than 0.1 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The sliding element of <claim-ref idref="CLM-00002">claim 2</claim-ref> including the aluminum in an amount of at least 58.5 wt. % and the zinc in an amount of 20 wt. % to 40 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The sliding element of <claim-ref idref="CLM-00001">claim 1</claim-ref> including silicon in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The sliding element of <claim-ref idref="CLM-00004">claim 4</claim-ref> including the silicon in an amount of 1 wt. % to 6 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The sliding element of <claim-ref idref="CLM-00001">claim 1</claim-ref> including magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The sliding element of <claim-ref idref="CLM-00006">claim 6</claim-ref> including the magnesium in an amount of 1 wt. % to 6 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The sliding element of <claim-ref idref="CLM-00001">claim 1</claim-ref> including silicon in an amount of 0.5 wt. % to 12 wt. % and magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The sliding element of <claim-ref idref="CLM-00008">claim 8</claim-ref> including a hard phase consisting essentially of magnesium and/or silicon.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The sliding element of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the aluminum alloy material has an ultimate tensile strength of 150-300 MPa, a yield strength of 100-300 MPa, and Vickers hardness of 50-150 HV<sub>0.01 kg</sub>.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A method of manufacturing a sliding element, comprising the steps of:
+<claim-text>casting an aluminum alloy material, the aluminum alloy material including zinc in an amount of at least 5 wt. %, based on the total weight of the material, and</claim-text>
+<claim-text>heat treating the cast aluminum alloy material at a temperature of 100&#xb0; to 275&#xb0; C. for at least 5 hours to form a soft phase consisting essentially of the zinc.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> including heat treating the cast aluminum alloy material at a temperature of 400&#xb0; C. to 577&#xb0; C. and cooling the cast aluminum alloy material at cooling rate of less than 50&#xb0; C. per hour to a temperature ranging from 400&#xb0; C. to 200&#xb0; C., before the step of heat treating the aluminum alloy material at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the aluminum alloy material includes silicon and/or magnesium, and the silicon and/or magnesium forms a hard phase during the step of heat treating the cast aluminum alloy material to the temperature of 400&#xb0; C. to 577&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref> including the silicon in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the zinc of the aluminum alloy material forms a soft phase during the step of heat treating the aluminum alloy material at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the casting step is a continuous process and includes twin roll casting, belt casting, and/or extraction casting.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> including rolling the cast aluminum alloy material and bonding the rolled aluminum alloy material to a steel backing before the step of heat treating the aluminum alloy material at the temperature of 100&#xb0; C. to 275&#xb0; C. for at least 5 hours.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the aluminum alloy material includes the aluminum in an amount of 17 weight percent (wt. %) to 95 wt. %, the zinc in an amount of 5 wt. % to 83 wt. %, and lead, if present, in an amount not greater than 0.1 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> including the aluminum in an amount of at least 52.5 wt. % and the zinc in an amount of 20 wt. % to 40 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A method of manufacturing a sliding element, comprising the step of:
+<claim-text>casting an aluminum alloy material, the aluminum alloy material including zinc in an amount of at least 5 wt. % and magnesium in an amount of 0.5 wt. % to 12 wt. %, based on the total weight of the aluminum alloy material.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

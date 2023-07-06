@@ -1,0 +1,236 @@
+2023-07-05 15:18:33,472 - INFO - Initializing chat API..
+2023-07-05 15:18:40,277 - INFO - Loading file from Data/text_data_ipa221229_30_patents.txt.
+2023-07-05 15:18:40,670 - INFO - File loaded and splitted into 770 chunks each with 3000 size .
+2023-07-05 15:18:43,468 - INFO - Sending 585 tokens.
+2023-07-05 15:18:53,726 - INFO - Sending 559 tokens.
+2023-07-05 15:19:01,584 - INFO - Sending 547 tokens.
+2023-07-05 15:19:05,765 - INFO - Sending 599 tokens.
+2023-07-05 15:19:13,444 - INFO - Sending 589 tokens.
+2023-07-05 15:19:23,419 - INFO - Sending 585 tokens.
+2023-07-05 15:19:28,684 - INFO - Sending 496 tokens.
+2023-07-05 15:19:39,056 - INFO - Sending 401 tokens.
+2023-07-05 15:19:55,049 - INFO - Sending 703 tokens.
+2023-07-05 15:19:55,734 - INFO - Sending 656 tokens.
+2023-07-05 15:20:03,149 - INFO - Sending 692 tokens.
+2023-07-05 15:20:08,693 - INFO - Sending 655 tokens.
+2023-07-05 15:20:24,707 - INFO - Sending 698 tokens.
+2023-07-05 15:20:32,327 - INFO - Sending 697 tokens.
+2023-07-05 15:20:39,064 - INFO - Sending 631 tokens.
+2023-07-05 15:20:44,709 - INFO - Sending 633 tokens.
+2023-07-05 15:20:49,343 - INFO - Sending 757 tokens.
+2023-07-05 15:20:59,370 - INFO - Sending 624 tokens.
+2023-07-05 15:21:05,449 - INFO - Sending 649 tokens.
+2023-07-05 15:21:10,154 - INFO - Sending 564 tokens.
+2023-07-05 15:21:14,492 - INFO - Sending 709 tokens.
+2023-07-05 15:21:22,603 - INFO - Sending 732 tokens.
+2023-07-05 15:21:37,509 - INFO - Sending 833 tokens.
+2023-07-05 15:21:52,682 - INFO - Sending 559 tokens.
+2023-07-05 15:21:57,698 - INFO - Sending 661 tokens.
+2023-07-05 15:22:04,186 - INFO - Sending 813 tokens.
+2023-07-05 15:22:13,620 - INFO - Sending 583 tokens.
+2023-07-05 15:22:18,576 - INFO - Sending 786 tokens.
+2023-07-05 15:22:26,727 - INFO - Sending 735 tokens.
+2023-07-05 15:22:41,507 - INFO - Sending 786 tokens.
+2023-07-05 15:22:53,994 - INFO - Sending 260 tokens.
+2023-07-05 15:23:00,684 - INFO - Sending 720 tokens.
+2023-07-05 15:23:52,633 - INFO - Sending 571 tokens.
+2023-07-05 15:24:08,187 - INFO - Sending 606 tokens.
+2023-07-05 15:24:14,521 - INFO - Sending 781 tokens.
+2023-07-05 15:24:36,494 - INFO - Sending 864 tokens.
+2023-07-05 15:25:07,199 - INFO - Sending 760 tokens.
+2023-07-05 15:25:29,297 - INFO - Sending 723 tokens.
+2023-07-05 15:25:38,444 - INFO - Sending 1003 tokens.
+2023-07-05 15:25:42,289 - INFO - Sending 863 tokens.
+2023-07-05 15:25:58,071 - INFO - Sending 18 tokens.
+2023-07-05 15:25:59,124 - INFO - Sending 710 tokens.
+2023-07-05 15:26:10,092 - INFO - Sending 715 tokens.
+2023-07-05 15:26:21,142 - INFO - Sending 553 tokens.
+2023-07-05 15:26:26,423 - INFO - Sending 72 tokens.
+2023-07-05 15:26:27,448 - INFO - Sending 685 tokens.
+2023-07-05 15:26:36,940 - INFO - Sending 737 tokens.
+2023-07-05 15:26:46,857 - INFO - Sending 213 tokens.
+2023-07-05 15:26:49,503 - INFO - Sending 612 tokens.
+2023-07-05 15:26:58,864 - INFO - Sending 309 tokens.
+2023-07-05 15:27:01,718 - INFO - Sending 789 tokens.
+2023-07-05 15:27:09,408 - INFO - Sending 789 tokens.
+2023-07-05 15:27:22,879 - INFO - Sending 680 tokens.
+2023-07-05 15:27:30,869 - INFO - Sending 746 tokens.
+2023-07-05 15:27:57,607 - INFO - Sending 682 tokens.
+2023-07-05 15:28:13,459 - INFO - Sending 753 tokens.
+2023-07-05 15:28:22,301 - INFO - Sending 631 tokens.
+2023-07-05 15:28:29,090 - INFO - Sending 227 tokens.
+2023-07-05 15:28:31,676 - INFO - Sending 288 tokens.
+2023-07-05 15:28:41,966 - INFO - Sending 577 tokens.
+2023-07-05 15:28:46,033 - INFO - Sending 517 tokens.
+2023-07-05 15:28:50,263 - INFO - Sending 711 tokens.
+2023-07-05 15:29:05,498 - INFO - Sending 666 tokens.
+2023-07-05 15:29:18,219 - INFO - Sending 600 tokens.
+2023-07-05 15:29:24,803 - INFO - Sending 648 tokens.
+2023-07-05 15:29:29,406 - INFO - Sending 614 tokens.
+2023-07-05 15:29:37,642 - INFO - Sending 424 tokens.
+2023-07-05 15:29:40,893 - INFO - Sending 735 tokens.
+2023-07-05 15:29:44,488 - INFO - Sending 749 tokens.
+2023-07-05 15:29:54,100 - INFO - Sending 700 tokens.
+2023-07-05 15:30:04,326 - INFO - Sending 675 tokens.
+2023-07-05 15:30:11,414 - INFO - Sending 606 tokens.
+2023-07-05 15:30:18,335 - INFO - Sending 623 tokens.
+2023-07-05 15:30:25,216 - INFO - Sending 716 tokens.
+2023-07-05 15:30:31,404 - INFO - Sending 787 tokens.
+2023-07-05 15:30:41,110 - INFO - Sending 587 tokens.
+2023-07-05 15:31:09,955 - INFO - Sending 683 tokens.
+2023-07-05 15:31:16,377 - INFO - Sending 796 tokens.
+2023-07-05 15:31:27,267 - INFO - Sending 783 tokens.
+2023-07-05 15:31:47,637 - INFO - Sending 630 tokens.
+2023-07-05 15:31:52,894 - INFO - Sending 715 tokens.
+2023-07-05 15:32:00,812 - INFO - Sending 658 tokens.
+2023-07-05 15:32:11,835 - INFO - Sending 630 tokens.
+2023-07-05 15:32:23,258 - INFO - Sending 543 tokens.
+2023-07-05 15:32:31,432 - INFO - Sending 516 tokens.
+2023-07-05 15:32:36,761 - INFO - Sending 630 tokens.
+2023-07-05 15:32:44,376 - INFO - Sending 616 tokens.
+2023-07-05 15:32:52,591 - INFO - Sending 577 tokens.
+2023-07-05 15:32:59,922 - INFO - Sending 629 tokens.
+2023-07-05 15:33:04,306 - INFO - Sending 80 tokens.
+2023-07-05 15:33:09,488 - INFO - Sending 400 tokens.
+2023-07-05 15:33:35,949 - INFO - Sending 666 tokens.
+2023-07-05 15:33:56,405 - INFO - Sending 334 tokens.
+2023-07-05 15:34:04,639 - INFO - Sending 645 tokens.
+2023-07-05 15:34:09,849 - INFO - Sending 785 tokens.
+2023-07-05 15:34:29,778 - INFO - Sending 653 tokens.
+2023-07-05 15:34:48,261 - INFO - Sending 641 tokens.
+2023-07-05 15:35:06,642 - INFO - Sending 649 tokens.
+2023-07-05 15:35:16,223 - INFO - Sending 740 tokens.
+2023-07-05 15:35:27,263 - INFO - Sending 769 tokens.
+2023-07-05 15:35:34,755 - INFO - Sending 641 tokens.
+2023-07-05 15:35:45,677 - INFO - Sending 630 tokens.
+2023-07-05 15:35:53,897 - INFO - Sending 834 tokens.
+2023-07-05 15:36:19,099 - INFO - Sending 429 tokens.
+2023-07-05 15:36:27,148 - INFO - Sending 548 tokens.
+2023-07-05 15:36:54,416 - INFO - Sending 711 tokens.
+2023-07-05 15:37:17,866 - INFO - Sending 675 tokens.
+2023-07-05 15:37:24,890 - INFO - Sending 564 tokens.
+2023-07-05 15:37:47,765 - INFO - Sending 725 tokens.
+2023-07-05 15:38:06,093 - INFO - Sending 695 tokens.
+2023-07-05 15:38:19,050 - INFO - Sending 696 tokens.
+2023-07-05 15:38:40,797 - INFO - Sending 673 tokens.
+2023-07-05 15:38:48,125 - INFO - Sending 675 tokens.
+2023-07-05 15:38:54,615 - INFO - Sending 608 tokens.
+2023-07-05 15:39:04,349 - INFO - Sending 688 tokens.
+2023-07-05 15:39:12,061 - INFO - Sending 756 tokens.
+2023-07-05 15:39:27,621 - INFO - Sending 648 tokens.
+2023-07-05 15:39:37,546 - INFO - Sending 763 tokens.
+2023-07-05 15:39:52,173 - INFO - Sending 605 tokens.
+2023-07-05 15:39:59,325 - INFO - Sending 731 tokens.
+2023-07-05 15:40:13,963 - INFO - Sending 650 tokens.
+2023-07-05 15:40:16,248 - INFO - Sending 923 tokens.
+2023-07-05 15:40:23,571 - INFO - Sending 655 tokens.
+2023-07-05 15:40:32,491 - INFO - Sending 847 tokens.
+2023-07-05 15:40:42,197 - INFO - Sending 921 tokens.
+2023-07-05 15:40:51,968 - INFO - Sending 652 tokens.
+2023-07-05 15:41:02,680 - INFO - Sending 687 tokens.
+2023-07-05 15:41:14,187 - INFO - Sending 687 tokens.
+2023-07-05 15:50:18,847 - INFO - Initializing chat API..
+2023-07-05 15:50:20,280 - INFO - Loading file from Data/text_data_ipa221229_30_patents.txt.
+2023-07-05 15:50:20,736 - INFO - File loaded and splitted into 770 chunks each with 3000 size .
+2023-07-05 15:50:24,716 - INFO - Loading file from Data/text_data_ipa221229_30_patents.txt.
+2023-07-05 15:50:25,125 - INFO - File loaded and splitted into 770 chunks each with 3000 size .
+2023-07-05 15:53:42,483 - INFO - Initializing chat API..
+2023-07-05 15:53:43,762 - INFO - Loading file from Data/text_data_ipa221229_30_patents.txt.
+2023-07-05 15:53:44,296 - INFO - File loaded and splitted into 407 chunks each with 6000 size .
+2023-07-05 15:53:44,613 - INFO - Sending 1144 tokens.
+2023-07-05 15:54:15,352 - INFO - Initializing chat API..
+2023-07-05 15:54:15,881 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 15:54:16,218 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 15:54:16,518 - INFO - Sending 1144 tokens.
+2023-07-05 15:54:54,543 - INFO - Loading file from Data/text_data_ipa221229_30_patents.ddtxt.
+2023-07-05 15:55:04,771 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 15:55:05,076 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 16:01:42,510 - INFO - Initializing chat API..
+2023-07-05 16:01:42,684 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 16:01:43,049 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 16:01:50,369 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 16:01:50,676 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 16:01:50,958 - INFO - Sending 1144 tokens.
+2023-07-05 16:02:04,988 - INFO - Sending 1148 tokens.
+2023-07-05 16:02:13,483 - INFO - Sending 1174 tokens.
+2023-07-05 16:02:21,577 - INFO - Sending 495 tokens.
+2023-07-05 16:02:34,862 - INFO - Sending 401 tokens.
+2023-07-05 16:02:49,801 - INFO - Sending 1360 tokens.
+2023-07-05 16:02:55,788 - INFO - Sending 1346 tokens.
+2023-07-05 16:03:02,907 - INFO - Sending 1395 tokens.
+2023-07-05 16:03:07,473 - INFO - Sending 1264 tokens.
+2023-07-05 16:12:29,782 - INFO - Initializing chat API..
+2023-07-05 16:12:31,219 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 16:12:31,536 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 16:13:35,540 - INFO - Loading file from Data/text_data_ipa221229_10_patents.txt.
+2023-07-05 16:13:35,851 - INFO - File loaded and splitted into 252 chunks each with 6000 size .
+2023-07-05 16:21:02,380 - INFO - Initializing chat API..
+2023-07-05 16:21:03,131 - INFO - Loading file from Data/text_data_ipa221229_5_patents.txt.
+2023-07-05 16:21:03,199 - INFO - File loaded and splitted into 54 chunks each with 6000 size .
+2023-07-05 16:21:14,522 - INFO - Loading file from Data/text_data_ipa221229_5_patents.txt.
+2023-07-05 16:21:14,578 - INFO - File loaded and splitted into 54 chunks each with 6000 size .
+2023-07-05 16:21:14,875 - INFO - Sending 1343 tokens.
+2023-07-05 16:21:21,313 - INFO - Sending 255 tokens.
+2023-07-05 16:21:32,198 - INFO - Sending 1327 tokens.
+2023-07-05 16:21:35,935 - INFO - Sending 1362 tokens.
+2023-07-05 16:21:49,439 - INFO - Sending 1318 tokens.
+2023-07-05 16:21:56,521 - INFO - Sending 1334 tokens.
+2023-07-05 16:23:05,344 - INFO - Initializing chat API..
+2023-07-05 16:23:05,523 - INFO - Loading file from Data/text_data_ipa221229_5_patents.txt.
+2023-07-05 16:23:05,583 - INFO - File loaded and splitted into 54 chunks each with 6000 size .
+2023-07-05 16:23:06,666 - INFO - Loading file from Data/text_data_ipa221229_5_patents.txt.
+2023-07-05 16:23:06,718 - INFO - File loaded and splitted into 54 chunks each with 6000 size .
+2023-07-05 16:23:07,008 - INFO - Sending 1343 tokens.
+2023-07-05 16:23:12,863 - INFO - Sending 255 tokens.
+2023-07-05 16:23:18,045 - INFO - Sending 1327 tokens.
+2023-07-05 16:23:20,327 - INFO - Sending 1362 tokens.
+2023-07-05 16:23:37,863 - INFO - Sending 1318 tokens.
+2023-07-05 16:23:50,477 - INFO - Sending 1334 tokens.
+2023-07-05 16:24:03,701 - INFO - Sending 1327 tokens.
+2023-07-05 16:24:09,269 - INFO - Sending 647 tokens.
+2023-07-05 16:24:20,580 - INFO - Sending 1505 tokens.
+2023-07-05 16:28:43,530 - INFO - Sending 1618 tokens.
+2023-07-05 16:29:31,424 - INFO - Sending 955 tokens.
+2023-07-05 16:29:36,517 - INFO - Sending 886 tokens.
+2023-07-05 16:29:44,742 - INFO - Sending 1298 tokens.
+2023-07-05 16:29:48,741 - INFO - Sending 1311 tokens.
+2023-07-05 16:29:53,599 - INFO - Sending 555 tokens.
+2023-07-05 16:29:56,071 - INFO - Sending 116 tokens.
+2023-07-05 16:29:58,521 - INFO - Sending 1267 tokens.
+2023-07-05 16:30:03,829 - INFO - Sending 1308 tokens.
+2023-07-05 16:30:09,537 - INFO - Sending 267 tokens.
+2023-07-05 16:30:11,867 - INFO - Sending 1236 tokens.
+2023-07-05 16:30:16,769 - INFO - Sending 1316 tokens.
+2023-07-05 16:30:23,467 - INFO - Sending 604 tokens.
+2023-07-05 16:30:25,875 - INFO - Sending 1116 tokens.
+2023-07-05 16:30:34,199 - INFO - Sending 1462 tokens.
+2023-07-05 16:30:56,606 - INFO - Sending 1488 tokens.
+2023-07-05 16:31:19,779 - INFO - Sending 1486 tokens.
+2023-07-05 16:31:41,536 - INFO - Sending 830 tokens.
+2023-07-05 16:31:48,025 - INFO - Sending 257 tokens.
+2023-07-05 16:31:54,441 - INFO - Sending 1280 tokens.
+2023-07-05 16:32:01,404 - INFO - Sending 217 tokens.
+2023-07-05 16:32:05,635 - INFO - Sending 462 tokens.
+2023-07-05 16:32:06,652 - INFO - Sending 1277 tokens.
+2023-07-05 16:32:09,860 - INFO - Sending 3 tokens.
+2023-07-05 16:32:11,189 - INFO - Sending 1263 tokens.
+2023-07-05 16:32:22,155 - INFO - Sending 1662 tokens.
+2023-07-05 16:32:33,324 - INFO - Sending 1947 tokens.
+2023-07-05 16:32:39,618 - INFO - Sending 1277 tokens.
+2023-07-05 16:32:50,366 - INFO - Sending 602 tokens.
+2023-07-05 16:32:51,123 - INFO - Sending 1335 tokens.
+2023-07-05 16:32:59,622 - INFO - Sending 1254 tokens.
+2023-07-05 16:33:11,770 - INFO - Sending 965 tokens.
+2023-07-05 16:33:20,867 - INFO - Sending 1573 tokens.
+2023-07-05 16:33:29,568 - INFO - Sending 828 tokens.
+2023-07-05 16:33:51,623 - INFO - Sending 8 tokens.
+2023-07-05 16:33:52,949 - INFO - Sending 1364 tokens.
+2023-07-05 16:34:00,230 - INFO - Sending 1411 tokens.
+2023-07-05 16:34:09,982 - INFO - Sending 1400 tokens.
+2023-07-05 16:34:19,480 - INFO - Sending 1000 tokens.
+2023-07-05 16:34:28,161 - INFO - Sending 2899 tokens.
+2023-07-05 16:35:02,761 - INFO - Sending 2412 tokens.
+2023-07-05 16:37:44,736 - INFO - Sending 2009 tokens.
+2023-07-05 16:40:33,240 - INFO - Sending 1389 tokens.
+2023-07-05 16:40:44,728 - INFO - Sending 173 tokens.
+2023-07-05 16:40:49,539 - INFO - Sending 1528 tokens.

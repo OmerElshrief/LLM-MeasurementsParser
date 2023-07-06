@@ -1,0 +1,199 @@
+[
+  {
+    "measurement": "sample-specific sars-cov-2 nucleic acid sequencing",
+    "unit": "N/A",
+    "value": "N/A"
+  },
+  {
+    "measurement": "viral genome sequencing",
+    "unit": "N/A",
+    "value": "N/A"
+  },
+  {
+    "measurement": "percentage of entire viral genome sequencing",
+    "unit": "%",
+    "value": "at least 80%, or optionally at least 85%, or optionally at least 90%, or optionally at least 95%"
+  },
+  {
+    "measurement": "nucleic acid amplification",
+    "unit": "N/A",
+    "value": "N/A"
+  },
+  {
+    "measurement": "tiled primers spacing",
+    "unit": "bp",
+    "value": "60"
+  }
+]
+[
+  {
+    "measurement": "nucleic acid sequencing",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "rt-pcr",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "pacbio sequencing protocol",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "geographic location",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "barcode",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "zip code",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "prevalence of variants",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "geographic region",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "corelation of variants with infectivity",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "virus transmission",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "disease severity",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "data deposition",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "CDC database",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "government databases",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "university databases",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "private databases",
+    "unit": "",
+    "value": ""
+  }
+]
+[
+{"measurement": "surface area", "unit": "m^2/g", "value": "5 to 350"},
+{"measurement": "concentration", "unit": "g/ml", "value": "1 to 9"},
+{"measurement": "coated Substrate support", "unit": "g/in", "value": "1.5 to 7.0"},
+{"measurement": "nitrogen oxide surface area", "unit": "m^2/g", "value": "30 and 80"}
+]
+[ 
+{ 
+  "measurement": "covid-19 rt-pcr test", 
+  "unit": "NA", 
+  "value": "labcorp eua201 and/or eua203057" 
+}, 
+{ 
+  "measurement": "tiled primers spacing", 
+  "unit": "bp", 
+  "value": "60" 
+}, 
+{ 
+  "measurement": "percentage of entire viral genome sequencing", 
+  "unit": "%", 
+  "value": "at least 80%, or optionally at least 85%, or optionally at least 90%, or optionally at least 95%" 
+}, 
+{ 
+  "measurement": "probe spacing", 
+  "unit": "bp", 
+  "value": "about 10, 20, 30, 40, 50, 60, 70, 80, 90 or more than 100" 
+}, 
+{ 
+  "measurement": "length of tiled probes", 
+  "unit": "%", 
+  "value": "greater than 9% (e.g., 9.6%)" 
+}, 
+{ 
+  "measurement": "bases covered by 2 mips", 
+  "unit": "NA", 
+  "value": "most bases" 
+}, 
+{ 
+  "measurement": "nucleic acid sequencing type", 
+  "unit": "NA", 
+  "value": "next generation sequencing (ngs), sanger sequencing, shot gun sequencing, smrt sequencing, pyrosequencing or nanopore sequencing" 
+}, 
+{ 
+  "measurement": "percentage of entire viral genome sequencing", 
+  "unit": "%", 
+  "value": "at least 80%, or optionally 85%, or optionally 90% or greater" 
+}, 
+{ 
+  "measurement": "pacbio whole genome sequencing test", 
+  "unit": "NA", 
+  "value": "for sars-cov-2 strain identification using residual total nucleic acid extracts from positive samples" 
+} 
+]
+[
+  {
+    "measurement": "geographic location",
+    "unit": null,
+    "value": null
+  },
+  {
+    "measurement": "polypeptide concentration",
+    "unit": "g/ml",
+    "value": "1 to 9"
+  },
+  {
+    "measurement": "nitrogen oxide surface area",
+    "unit": "m^2/g",
+    "value": "30 and 80"
+  },
+  {
+    "measurement": "refractory metal oxide support surface area",
+    "unit": "m^2/g",
+    "value": "100 to 200"
+  },
+  {
+    "measurement": "coated Substrate support",
+    "unit": "g/in",
+    "value": "1.5 to 7.0"
+  },
+  {
+    "measurement": "ceria crystallite size",
+    "unit": "nm",
+    "value": "10 to 20"
+  },
+  {
+    "measurement": "alkaline earth oxides crystallite size",
+    "unit": "nm",
+    "value": "20 to 40"
+  }
+]

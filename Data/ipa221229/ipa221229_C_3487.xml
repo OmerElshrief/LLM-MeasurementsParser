@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411881A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411881</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17853102</doc-number>
+<date>20220629</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6886</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6883</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>20</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>20</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>30</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6886</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>1</main-group>
+<subgroup>6883</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190201</date></cpc-version-indicator>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>20</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190201</date></cpc-version-indicator>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>20</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20190201</date></cpc-version-indicator>
+<section>G</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>30</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>2600</main-group>
+<subgroup>112</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>2600</main-group>
+<subgroup>156</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>12</class>
+<subclass>Q</subclass>
+<main-group>2600</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">METHODS AND SYSTEMS FOR IDENTIFYING DISEASE-INDUCED MUTATIONS</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16106996</doc-number>
+<date>20180821</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11447828</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17853102</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>14517451</doc-number>
+<date>20141017</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>10053736</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>16106996</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61892670</doc-number>
+<date>20131018</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Seven Bridges Genomics Inc.</orgname>
+<address>
+<city>Charlestown</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Kural</last-name>
+<first-name>Deniz</first-name>
+<address>
+<city>Somerville</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Seven Bridges Genomics Inc.</orgname>
+<role>02</role>
+<address>
+<city>Charlestown</city>
+<state>MA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention includes methods and systems for identifying diseased-induced mutations by producing multi-dimensional reference sequence constructs that account for variations between individuals, different diseases, and different stages of those diseases. Once constructed, these reference sequence constructs can be used to align sequence reads corresponding to genetic samples from patients suspected of having a disease, or who have had the disease and are in suspected remission. The reference sequence constructs also provide insight to the genetic progression of the disease.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="162.81mm" wi="139.36mm" file="US20220411881A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="196.85mm" wi="128.95mm" file="US20220411881A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="200.07mm" wi="152.40mm" file="US20220411881A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="194.65mm" wi="175.34mm" file="US20220411881A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="166.96mm" wi="166.20mm" file="US20220411881A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="228.77mm" wi="101.52mm" file="US20220411881A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="201.85mm" wi="173.06mm" file="US20220411881A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="153.59mm" wi="175.01mm" orientation="landscape" file="US20220411881A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="212.77mm" wi="129.20mm" file="US20220411881A1-20221229-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="171.87mm" wi="183.39mm" orientation="landscape" file="US20220411881A1-20221229-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="160.78mm" wi="134.96mm" file="US20220411881A1-20221229-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="170.77mm" wi="167.81mm" file="US20220411881A1-20221229-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit of priority under 35 U.S.C. &#xa7; 120 and is a continuation of U.S. application Ser. No. 16/106,996, filed Aug. 21, 2018, entitled &#x201c;METHODS AND SYSTEMS FOR DETECTING SEQUENCE VARIANTS&#x201d;, which claims the benefit of priority under 35 U.S.C. &#xa7; 120 and is a continuation of U.S. application Ser. No. 14/517,451, filed Oct. 17, 2014, entitled &#x201c;METHODS AND SYSTEMS FOR IDENTIFYING DISEASE-INDUCED MUTATIONS&#x201d;, which claims the benefit of priority under 35 U.S.C. &#xa7; 119(e) of U.S. Provisional Patent Application No. 61/892,670, filed Oct. 18, 2013, entitled &#x201c;METHODS FOR IDENTIFYING DISEASE INDUCED MUTATIONS,&#x201d; each of which is incorporated by reference herein in its entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">REFERENCE TO A SEQUENCE LISTING SUBMITTED AS A TEXT FILE VIA EFS-WEB</heading>
+<p id="p-0003" num="0002">This application contains a Sequence Listing which has been submitted in ASCII format via EFS-Web and is hereby incorporated by reference in its entirety. Said ASCII copy, created on Jun. 24, 2022, is named S1961.70008US03-SEQ and is 3,454 bytes in size.</p>
+<heading id="h-0003" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The invention relates to methods and systems for identifying disease-induced mutations, such as caused by cancer. The invention additionally provides methods for identifying mutations that may be causative of advanced disease, such as metastatic cancers.</p>
+<heading id="h-0004" level="1">BACKGROUND</heading>
+<p id="p-0005" num="0004">Many diseases result from inherited or random mutations in a patient's genetic sequence. Additionally, in diseases such as cancer, advanced stages of disease may manifest as new changes in the genetic sequence of diseased cells. Accordingly, there is increased interest in sequencing diseased cells, e.g., from a biopsy or freely circulating, to determine the type or stage of a disease. Thus, patients who have undergone treatment for a disease may have new biopsy samples sequenced to monitor disease recurrence and/or progression. Such monitoring allows for early intervention in the event of recurrence, and also avoids unnecessary treatment when changes are not detected.</p>
+<p id="p-0006" num="0005">While there are many diseases that can be typed and tracked with genetic screening, cancer mutation screening has received the most attention. In some instances, the type of cancer can be immediately identified because of one tell-tale mutation, such as BRCA1. In most instances, however, cancer typing involves discovering and analyzing several sequences from a patient. Because these samples originate from the same patient, the samples are not independent of each other, but rather, are interrelated both developmentally and structurally. Furthermore, in most instances, accurate typing of a tumor requires knowledge of three sequences: the subject's healthy sequence (as found in non-cancerous parts of the body), the sequence of a major cancerous clone, and the sequences of minor clones (which may often be metastatic).</p>
+<p id="p-0007" num="0006">The prospect of sequencing several samples to obtain a complete picture of a disease is less intimidating due to recent advances in genetic sequencing. Next-generation sequencing (e.g., whole-transcriptome shotgun sequencing, pyrosequencing, ion semiconductor sequencing, sequencing by synthesis) can generate millions of reads, covering an entire genome, in just a few days. To achieve this throughput, NGS sequencing uses massive parallelization on smaller nucleic acid sequences that together make up a larger body of genetic information, e.g., a chromosome or a genome. Starting from a genetic sample, the nucleic acids (e.g., DNA) are broken up, amplified, and read with extreme speed. Once the reads are produced, the reads are aligned to a reference genome, e.g., GRCh37, with a computer to produce longer, assembled sequences, known as contigs. Because the sequence data from next generation sequencers often comprises millions of shorter sequences that together represent the totality of the target sequence, aligning the reads is complex and computationally expensive. Additionally, in order to minimize sequence distortions caused by random sequencing errors (i.e., incorrect sequencing machine outputs), each portion of the probed sequence is sequenced multiple times (e.g., 2 to 100 times, or more) to minimize the influence of any random sequencing errors on the final alignments and output sequences generated.</p>
+<p id="p-0008" num="0007">Once all of the data, corresponding to all of the nucleic acid reads is collected, and the reads are aligned against the reference, the reads are assembled and compared to the reference, as well as to each other, to determine the relationship between the samples. The workflow for this analysis is shown pictorially in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Each assembled read is typically compared to the reference whereupon the variations between the assembled sequence and the reference are cataloged in a file, known as a variant file, which may be in one of several accepted formats. These variant files can then be compared to each other, in order to determine how different the genetic material varies between cells with varying stages of the disease. The variant files can also be the basis for later comparison with new samples from the patient to screen for recurrence or disease progression.</p>
+<p id="p-0009" num="0008">The workflow illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref> suffers from several drawbacks. Because there may be millions of genetic differences between the reference sequence and the sequences of the samples of the patient, it is often very difficult to pinpoint the key differences between the non-diseased and diseased tissues. In theory, this problem can be avoided by comparing the sequences of the diseased and non-diseased samples directly, however the use of the reference sequence for the original alignment &#x201c;infects&#x201d; the downstream analysis. Typically, certain portions of the patient's samples that did not align with the reference are treated as equivalent mutations in the variant files, even though they are not, in fact, equivalent. Furthermore, structural variations between the reference sequence and the patient's samples, and between the patient's samples themselves, result in variant files with differing indexes for the same (or similar) mutations. Especially in the instance of recurrence screening, the lack of a stable index makes it very difficult to identify new smaller mutations.</p>
+<p id="p-0010" num="0009">Typically a sequence alignment is constructed by aggregating pairwise alignments between two linear strings of sequence information, one of which is a standard reference. As an example of alignment, two strings, Si (SEQ ID NO. 15: AGCTACGTACACTACC) and S2 (SEQ ID NO. 16: AGCTATCGTACTAGC) can be aligned against each other. Si typically corresponds to a read and S2 correspond to a portion of the reference sequence. With respect to each other, S1 and S2 can consist of substitutions, deletions, and insertions. Typically, the terms are defined with regard to transforming string Si into string S2: a substitution occurs when a letter or sequence in S2 is replaced by a different letter or sequence of the same length in S1, a deletion occurs when a letter or sequence in S2 is &#x201c;skipped&#x201d; in the corresponding section of S1, and an insertion occurs when a letter or sequence occurs in Si between two positions that are adjacent in S2. For example, the two sequences Si and S2 can be aligned as below. The alignment below represents thirteen matches, a deletion of length one, an insertion of length two, and one substitution:</p>
+<p id="p-0011" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" tabstyle="monospace">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="offset" colwidth="70pt" align="left"/>
+<colspec colname="1" colwidth="147pt" align="left"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>(S1)</entry>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO.&#x2003;15)</entry>
+</row>
+<row>
+<entry/>
+<entry>AGCTA-CGTACACTACC</entry>
+</row>
+<row>
+<entry/>
+<entry> </entry>
+</row>
+<row>
+<entry/>
+<entry>(S2)&#x2003;</entry>
+</row>
+<row>
+<entry/>
+<entry>(SEQ&#x2003;ID&#x2003;NO.&#x2003;16)</entry>
+</row>
+<row>
+<entry/>
+<entry>AGCTATCGTAC--TAGC</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0012" num="0010">One of skill in the art will appreciate that there are exact and approximate algorithms for sequence alignment. Exact algorithms will find the highest scoring alignment, but can be computationally expensive. The two most well-known exact algorithms are Needleman-Wunsch (J Mol Biol, 48(3):443-453, 1970) and Smith-Waterman (J Mol Biol, 147(1):195-197, 1981; Adv. in Math. 20(3), 367-387, 1976). A further improvement to Smith-Waterman by Gotoh (J Mol Biol, 162(3), 705-708, 1982) reduces the calculation time from O(m<sup>2</sup>n) to O(mn) where m and n are the sequence sizes being compared and is more amendable to parallel processing. In the field of bioinformatics, it is Gotoh's modified algorithm that is often referred to as the Smith-Waterman algorithm. Smith-Waterman approaches are being used to align larger sequence sets against larger reference sequences as parallel computing resources become more widely and cheaply available. See, e.g., Amazon.com's cloud computing resources available at http://aws.amazon.com. All of the above journal articles are incorporated herein by reference in their entireties.</p>
+<p id="p-0013" num="0011">The Smith-Waterman (SW) algorithm aligns linear sequences by rewarding overlap between bases in the sequences, and penalizing gaps between the sequences. Smith-Waterman also differs from Needleman-Wunsch, in that SW does not require the shorter sequence to span the string of letters describing the longer sequence. That is, SW does not assume that one sequence is a read of the entirety of the other sequence. Furthermore, because SW is not obligated to find an alignment that stretches across the entire length of the strings, a local alignment can begin and end anywhere within the two sequences.</p>
+<p id="p-0014" num="0012">The SW algorithm is easily expressed for an n&#xd7;m matrix H, representing the two strings of length n and m, in terms of equation (1) below:</p>
+<p id="p-0015" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>H</i><sub>k0</sub><i>=H</i><sub>0l</sub>=0 (for 0<i>&#x2264;k&#x2264;n </i>and 0<i>&#x2264;l&#x2264;m</i>)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0016" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>H</i><sub>ij</sub>=max{<i>H</i><sub>i&#x2212;1,j&#x2212;1</sub><i>+s</i>(<i>a</i><sub>i</sub><i>, b</i><sub>j</sub>), <i>H</i><sub>i&#x2212;1,j</sub><i>W</i><sub>in</sub><i>, H</i><sub>i,j&#x2212;1</sub><i>W</i><sub>del</sub>, 0}(for 1<i>&#x2264;i&#x2264;n </i>and 1<i>&#x2264;j&#x2264;m</i>) &#x2003;&#x2003;(1)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0017" num="0000">In the equations above, s(a<sub>i</sub>,b<sub>j</sub>) represents either a match bonus (when a<sub>i</sub>=b<sub>j</sub>) or a mismatch penalty (when a b<sub>1</sub>), and insertions and deletions are given the penalties W<sub>in </sub>and W<sub>del</sub>, respectively. In most instance, the resulting matrix has many elements that are zero. This representation makes it easier to backtrace from high-to-low, right-to-left in the matrix, thus identifying the alignment.</p>
+<p id="p-0018" num="0013">Once the matrix has been fully populated with scores, the SW algorithm performs a backtrack to determine the alignment. Starting with the maximum value in the matrix, the algorithm will backtrack based on which of the three values (H<sub>i-1,j&#x2212;1</sub>, H<sub>i-1,j</sub>, or H<sub>i,j&#x2212;1</sub>) was used to compute the final maximum value for each cell. The backtracking stops when a zero is reached. See, e.g., <figref idref="DRAWINGS">FIG. <b>4</b>(B)</figref>, which does not represent the prior art, but illustrates the concept of a backtrack, and the corresponding local alignment when the backtrack is read. Accordingly, the &#x201c;best alignment,&#x201d; as determined by the algorithm, may contain more than the minimum possible number of insertions and deletions, but will contain far less than the maximum possible number of substitutions.</p>
+<p id="p-0019" num="0014">When applied as SW or SW-Gotoh, the techniques use a dynamic programming algorithm to perform local sequence alignment of the two strings, S and A, of sizes m and n, respectively. This dynamic programming technique employs tables or matrices to preserve match scores and avoid recomputation for successive cells. Each element of the string can be indexed with respect to a letter of the sequence, that is, if S is the string ATCGAA, S[1]=A, S[4]=G, etc. Instead of representing the optimum alignment as H<sub>i,j </sub>(above), the optimum alignment can be represented as B[j,k] in equation (2) below:</p>
+<p id="p-0020" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>B</i>[<i>j, k</i>]=max(<i>p</i>[<i>j, k</i>], <i>i</i>[<i>j, k</i>], <i>d</i>[<i>j, k</i>], 0) (for 0<i>&#x3c;j&#x2264;m</i>, 0&#x3c;<i>k&#x2264;n</i>) &#x2003;&#x2003;(2)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0015">The arguments of the maximum function, B[j,k], are outlined in equations (3)-(5) below, wherein MISMATCH_PENALTY, MATCH_BONUS, INSERTION_PENALTY, DELETION_PENALTY, and OPENING_PENALTY are all constants, and all negative except for MATCH_BONUS. The match argument, p[j,k], is given by equation (3), below:</li>
+</ul>
+</p>
+<p id="p-0021" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>p</i>[<i>j, k</i>]=max (<i>p</i>[<i>j&#x2212;</i>1, <i>k&#x2212;</i>1], <i>i</i>[<i>j&#x2212;</i>1, <i>k&#x2212;</i>1], <i>d</i>[<i>j&#x2212;</i>1, <i>k&#x2212;</i>1])+MISMARCH_PENALTHY, if <i>S</i>[<i>j</i>]&#x2260;<i>A</i>[<i>k</i>]=max(<i>p</i>[<i>j&#x2212;</i>1<i>, k&#x2212;</i>1], <i>i</i>[<i>j&#x2212;</i>1<i>, k&#x2212;</i>1], <i>d</i>[<i>j&#x2212;</i>1<i>, k&#x2212;</i>1])+MARCH_BONUS, if <i>S</i>[<i>j</i>]=<i>A</i>[<i>k]</i>&#x2003;&#x2003;(3)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0016">the insertion argument i[j,k], is given by equation (4), below:</li>
+</ul>
+</p>
+<p id="p-0022" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>i</i>[<i>j,k</i>]=max(<i>p</i>[<i>j&#x2212;</i>1,<i>k</i>]+OPENING_PENALTY, <i>i</i>[<i>j&#x2212;</i>1,<i>k</i>], <i>d</i>[<i>j&#x2212;</i>1,<i>k</i>]+OPENING_PENALTY)+INSERTION_PENALTY &#x2003;&#x2003;(4)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0017">and the deletion argument d[j,k], is given by equation (5), below:</li>
+</ul>
+</p>
+<p id="p-0023" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>d</i>[<i>j,k</i>]=max(<i>p</i>[<i>j,k&#x2212;</i>1]+OPENING_PENALTY, <i>i</i>[<i>j,k&#x2212;</i>1]+OPENING_PENALTY, <i>d</i>[<i>j,k&#x2212;</i>1])+DELETION_PENALTY &#x2003;&#x2003;(5)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<ul id="ul0004" list-style="none">
+    <li id="ul0004-0001" num="0018">For all three arguments, the [0,0] element is set to zero to assure that the backtrack goes to completion, i.e., p[0,0]=[40,0]=d[0,0]=0.</li>
+</ul>
+</p>
+<p id="p-0024" num="0019">The scoring parameters are somewhat arbitrary, and can be adjusted to achieve the behavior of the computations. One example of the scoring parameter settings (Huang, Chapter 3: <i>Bio</i>-<i>Sequence Comparison </i>and <i>Alignment</i>, ser. <i>Curr Top Comp Mol Biol. </i>Cambridge, Mass.: The MIT Press, 2002) for DNA would be:</p>
+<p id="p-0025" num="0020">MATCH_BONUS: 10</p>
+<p id="p-0026" num="0021">MISMATCH_PENALTY: &#x2212;20</p>
+<p id="p-0027" num="0022">INSERTION_PENALTY: &#x2212;40</p>
+<p id="p-0028" num="0023">OPENING_PENALTY: &#x2212;10</p>
+<p id="p-0029" num="0024">DELETION_PENALTY: &#x2212;5
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0025">The relationship between the gap penalties (INSERTION_PENALTY, OPENING_PENALTY) above help limit the number of gap openings, i.e., favor grouping gaps together, by setting the gap insertion penalty higher than the gap opening cost. Of course, alternative relationships between MISMATCH_PENALTY, MATCH_BONUS, INSERTION_PENALTY, OPENING_PENALTY and DELETION_PENALTY are possible.</li>
+</ul>
+</p>
+<p id="p-0030" num="0026">While the alignment methods, described above, have been useful for assembling reads produced with next-generation sequencing techniques, they are complex and time-consuming. Additionally, these techniques are ill-suited for identifying the important nuances between diseased cells of varying disease states because the uncertainty due to aligning the reads to a common reference often drowns out small changes in the genome.</p>
+<heading id="h-0005" level="1">SUMMARY</heading>
+<p id="p-0031" num="0027">The invention provides improved methods and systems for identifying mutations that are induced by, or associated with, disease, especially cancer. The methods allow specific changes associated with advanced stages of the disease to be easily differentiated from lesser diseased cells, thus providing insight into the relationship between the size and location of the mutations and progression of the disease. This insight can be used to identify disease progression in other patients, and the relationship also provides for faster and more accurate typing of samples later collected from the same patient to monitor for disease progression or recurrence.</p>
+<p id="p-0032" num="0028">The invention employs multi-dimensional reference sequence constructs and alignment algorithms that allow new sequence samples to be simultaneously compared to multiple sequences relevant to the disease, thereby providing increased speed and accuracy in disease identification and typing. Furthermore, the reference sequence constructs of the invention accommodate structural variations, deletions, insertions, and polymorphisms between samples in a straightforward way, allowing a single construct to be assembled spanning an entire chromosome or the whole genome of a patient. Using a &#x201c;look&#x2212;back&#x201d; type analysis, the described algorithms can also be used to align new reads in a multi-dimensional space including elements from sequences of various states of disease progression to provide more accurate alignment of sequence reads, while achieving lower error rates. Alternatively, constructs of the invention can be used to identify and/or study variations between individuals or cohorts having similar disease stages. In an embodiment, the invention is implemented by aligning sequence reads to a series of directed, acyclic sequences spanning branch points that account for sequence variation in the samples, including insertions, deletions, and substitutions. Such constructs, often represented as directed acyclic graphs (DAGs) can be assembled from existing variable sequence files or the constructs can be fabricated de novo using a standard reference as a starting point.</p>
+<p id="p-0033" num="0029">Once a sequence construct has been fabricated to account for sequence variation among differently diseased samples, those constructs can be used to identify disease risk in new samples from the same individual or, in some instances, from other individuals. In particular, because portions of the sequence construct can be tagged with secondary information, such as &#x201c;metastatic,&#x201d; the subsequent step of comparing a mutation, vis-&#xe0;-vis the reference genome, to a table of known mutations can be eliminated. Thus, it is merely a matter of identifying a sample as being aligned to sequences in the construct that are indicative of the disease or stage. Alternatively, when a mutation is not known (i.e., not represented in the reference sequence construct), an alignment will be found, whereby the variant can be identified as a new mutation.</p>
+<p id="p-0034" num="0030">Thus, using this iterative process, it is possible to compare and/or identify differences between major and minor cancer clones, or between pre-cancerous and cancerous samples.</p>
+<p id="p-0035" num="0031">The invention additionally includes systems for executing the methods of the invention. In one embodiment, a system comprises a distributed network of processors and storage capable of comparing a plurality of sequences (i.e., nucleic acid sequences, amino acid sequences) to a reference sequence construct (e.g., a DAG) representing observed variation in a genome or a region of a genome. The system is additionally capable of aligning the nucleic acid reads to produce a continuous sequence using an efficient alignment algorithm. Because the reference sequence construct compresses a great deal of redundant information, and because the alignment algorithm is so efficient, the reads can be tagged and assembled on an entire genome using commercially-available resources. The system comprises a plurality of processors that simultaneously execute a plurality of comparisons between a plurality of reads and the reference sequence construct. The comparison data may be accumulated and provided to a health care provider. Because the comparisons are computationally tractable, analyzing sequence reads will no longer represent a bottleneck between NGS sequencing and a meaningful discussion of a patient's genetic risks.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0036" num="0032"><figref idref="DRAWINGS">FIG. <b>1</b></figref> depicts the state-of-the-art methods for aligning sequence reads to a reference sequence, identifying variant files, and then comparing variant files to determine variations associated with disease types or disease progression;</p>
+<p id="p-0037" num="0033"><figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref> and <figref idref="DRAWINGS">FIG. <b>2</b>(B)</figref> depict the construction of a directed acyclic graph (DAG) representing genetic variation in a reference sequence. <figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref> shows the starting reference sequence and the addition of a deletion. <figref idref="DRAWINGS">FIG. <b>2</b>(B)</figref> shows the addition of an insertion and a SNP, thus arriving at the Final DAG used for alignment;</p>
+<p id="p-0038" num="0034"><figref idref="DRAWINGS">FIG. <b>3</b></figref> depicts three variant call format (VCF) entries represented as directed acyclic graphs;</p>
+<p id="p-0039" num="0035"><figref idref="DRAWINGS">FIG. <b>4</b>(A)</figref> shows a pictorial representation of aligning a nucleic acid sequence read against a construct that accounts for an insertion event as well as the reference sequence;</p>
+<p id="p-0040" num="0036"><figref idref="DRAWINGS">FIG. <b>4</b>(B)</figref> shows the matrices and the backtrack used to identify the proper location of the nucleic acid sequence read &#x201c;ATCGAA&#x201d;;</p>
+<p id="p-0041" num="0037"><figref idref="DRAWINGS">FIG. <b>5</b></figref> depicts a workflow for producing a reference sequence construct that accounts for variations between the &#x201c;normal&#x201d; genome of a patient and an accepted reference in addition to variations between the &#x201c;normal&#x201d; genome of the patient and a genome of the patient corresponding to a diseased sample;</p>
+<p id="p-0042" num="0038"><figref idref="DRAWINGS">FIG. <b>6</b></figref> illustrates a reference sequence construct based upon a reference sequence, a non-diseased sample that differs from the reference sequence by an insertion, and a diseased sample that differs from the non-diseased sample by a polymorphism associated with cancer;</p>
+<p id="p-0043" num="0039"><figref idref="DRAWINGS">FIG. <b>7</b></figref> depicts a workflow for producing a reference sequence construct that accounts for variations between the &#x201c;normal&#x201d; genome of a patient, a major cancerous clone, and a minor cancerous clone. The minor cancerous clone may result in metastatic disease;</p>
+<p id="p-0044" num="0040"><figref idref="DRAWINGS">FIG. <b>8</b></figref> depicts a workflow for producing a reference sequence construct that accounts for variations between the &#x201c;normal&#x201d; genome of a patient, a major cancerous clone, and several minor cancerous clones;</p>
+<p id="p-0045" num="0041"><figref idref="DRAWINGS">FIG. <b>9</b></figref> depicts a workflow for producing a reference sequence construct that accounts for variations between the &#x201c;normal&#x201d; genome of a patient, a major cancerous clone, and several minor cancerous clones;</p>
+<p id="p-0046" num="0042"><figref idref="DRAWINGS">FIG. <b>10</b></figref> depicts an associative computing model for parallel processing;</p>
+<p id="p-0047" num="0043"><figref idref="DRAWINGS">FIG. <b>11</b></figref> depicts an architecture for parallel computation.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0048" num="0044">The invention includes methods and systems for identifying diseased-induced mutations by producing multi-dimensional reference sequence constructs that account for variations between individuals, different diseases, and different stages of those diseases. Once constructed, these reference sequence constructs can be used to align sequence reads corresponding to genetic samples from patients suspected of having a disease, or who have had the disease and are in suspected remission. The aligned sequences give immediate information about the nature of the samples, e.g., being of a metastatic nature. Thus, the reference sequence constructs can be used to monitor patients for recurrence or progression of a disease, such as cancer. The reference sequence constructs can also be used to study structural relationships between diseases and/or between disease states. The reference sequence constructs can be fabricated from previously determined variant files, or the reference sequence constructs can be created de novo, e.g., from samples originating from a patient.</p>
+<p id="p-0049" num="0045">In some embodiments, the reference sequence constructs are directed acyclic graphs (DAG), as described below, however the reference sequence can be any representation reflecting genetic variability in the sequences of different organisms within a species, provided the construct is formatted for alignment. The genetic variability represented in the construct may be between different tissues or cells within an individual. The genetic variability represented in the construct may be between different individuals or between different organisms. The genetic variability represented in the construct may be between similar tissues or cells that are at different stages of a disease.</p>
+<p id="p-0050" num="0046">In general, the reference sequence construct will comprise portions that are identical and portions that vary between sampled sequences. Accordingly, the constructs can be thought of as having positions (i.e., according to some canonical ordering) that comprise the same sequence(s) and some positions that comprise alternative sequences, reflecting genetic variability. The application additionally discloses methods for identifying a disease or a disease stage based upon alignment of a nucleic acid read to a location in the construct. The methods are broadly applicable to the fields of genetic sequencing and mutation screening.</p>
+<heading id="h-0008" level="2">Reference Sequence Constructs</heading>
+<p id="p-0051" num="0047">Unlike prior art sequence alignment methods that use a single reference sequence to align and genotype nucleic acid reads, the invention uses a construct that can account for the variability in genetic sequences within a species, population, or even among different cells in a single organism. Representations of the genetic variation can be presented as directed acyclic graphs (DAGs) (discussed above) or row-column alignment matrices, and these constructs can be used with the alignment methods of the invention provided that the parameters of the alignment algorithms are set properly (discussed below).</p>
+<p id="p-0052" num="0048">In preferred embodiments of the invention, the construct is a directed acyclic graph (DAG), i.e., having a direction and having no cyclic paths. (That is, a sequence path cannot travel through a position on the reference construct more than once.) In the DAG, genetic variation in a sequence is represented as alternate nodes. The nodes can be a section of conserved sequence or a gene, or simply a nucleic acid. The different possible paths through the construct represent known genetic variation. A DAG may be constructed for an entire genome of an organism, or the DAG may be constructed only for a portion of the genome, e.g., a chromosome, or smaller segment of genetic information. In some embodiments, the DAG represents greater than 1000 nucleic acids, e.g., greater than 10,000 nucleic acids, e.g., greater than 100,000 nucleic acids, e.g., greater than 1,000,000 nucleic acids. A DAG may represent a species (e.g., horno sapiens) or a selected population (e.g., women having breast cancer), or even smaller subpopulations, such as genetic variation among different tumor cells in the same individual.</p>
+<p id="p-0053" num="0049">A simple example of DAG construction is shown in <figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref> and <figref idref="DRAWINGS">FIG. <b>2</b>(B)</figref>. As shown in <figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref>, the DAG begins with a reference sequence, shown in <figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref> as SEQ ID NO. 1: CATAGTACCTAGGTCTTGGAGCTAGTC. In practice, the reference sequence is often much longer, and may be an entire genome. In some embodiments, the sequence is a FASTA or FASTQ file. (FASTQ has become the default format for sequence data produced from next generation sequencers). In some embodiments, the reference sequence may be a standard reference, such as GRCh37. In some embodiment, the reference sequence is a sequence from non-diseased cells of a patient. As recognized by those of skill, each letter (or symbol) in the sequence actually corresponds to a nucleotide (e.g., a deoxyribonucleotide or a ribonucleotide) or an amino acid (e.g., histidine, leucine, lysine, etc.).</p>
+<p id="p-0054" num="0050">At the next step, a variant is added to the reference sequence, as shown in the bottom image of <figref idref="DRAWINGS">FIG. <b>1</b>(A)</figref>. As shown in <figref idref="DRAWINGS">FIG. <b>1</b>(A)</figref> the variant is the deletion of the sequence &#x201c;AG&#x201d; from the reference between the lines in the figure, i.e., SEQ ID NO. 2. Graphically, this deletion is represented by breaking the reference sequence into nodes before and after the deletion, and connecting the nodes with an edge and also creating a path from one node to the &#x201c;AG&#x201d; and then to the other node. Thus, one path between the nodes represents the reference sequence, while the other path represents the deletion.</p>
+<p id="p-0055" num="0051">In practice, the variants are called to the DAG by applying the entries in a variant call format (VCF) file, such as can be found at the 1000 Genomes Project website. Because each VCF file is keyed to a specific reference genome, it is not difficult to identify where the strings should be located. In fact, each entry in a VCF file can be thought of as combining with the reference to create separate graph, as displayed in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. Note the VCF entries in <figref idref="DRAWINGS">FIG. <b>2</b>(A)</figref> and <figref idref="DRAWINGS">FIG. <b>2</b>(B)</figref> do not correspond to the VCF entries of <figref idref="DRAWINGS">FIG. <b>3</b></figref>. It is also possible to identify variants for inclusion into the DAG by comparing the sequences of non-diseased and diseased cells of an individual.</p>
+<p id="p-0056" num="0052">Moving to <figref idref="DRAWINGS">FIG. <b>2</b>(B)</figref>, a second VCF entry, corresponding to an insertion &#x201c;GG&#x201d; at a specific position is added to produce an expanded DAG, i.e., including SEQ ID NO. 3 and SEQ ID NO. 4. Next, a third VCF entry can be added to the expanded DAG to account for a SNP earlier in the reference sequence, i.e., including SEQ ID NOS. 5-8. Thus, in three steps, a DAG has been created against which nucleic acid reads can be aligned (as discussed below.)</p>
+<p id="p-0057" num="0053">In practice, the DAGs are represented in computer memory (hard disk, FLASH, cloud memory, etc.) as a set of nodes, S, wherein each node is defined by a string, a set of parent nodes, and a position. The string is the node's &#x201c;content,&#x201d; i.e., sequence; the parent nodes define the node's position with respect to the other nodes in the graph; and the position of the node is relative to some canonical ordering in the system, e.g., the reference genome. While it is not strictly necessary to define the graph with respect to a reference sequence, it does make manipulation of the output data simpler. Of course, a further constraint on S is that it cannot include loops.</p>
+<p id="p-0058" num="0054">In many embodiments, the nodes comprise a plurality of characters, as shown in <figref idref="DRAWINGS">FIGS. <b>2</b>(A) and <b>2</b>(B)</figref>, however it is possible that a node may be a single character, e.g., representing a single base, as shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref>. In instances where a node represents a string of characters, all of the characters in the node can be aligned with a single comparison step, rather than character-by-character calculations, as is done with conventional Smith-Waterman techniques. As a result, the computational burden is greatly reduced as compared to state-of-the-are methods. The reduced computational burden allows the alignment to be completed quicker, and with fewer resources. When used in next generation sequencing, where millions of small reads need to be aligned and assembled, this reduction in computational burden has tangible benefits in terms of reducing the cost of the alignment, while making meaningful information, i.e., genotype, available more quickly. In instances where a treatment will be tailored to a patient's genotype, the increased speed may allow a patient to begin treatment days earlier than using state-of-the-art methods.</p>
+<p id="p-0059" num="0055">Extrapolating this DAG method to larger structures, it is possible to construct DAGs that incorporate thousands of VCF entries representing the known variation in genetic sequences for a given region of a reference. Nonetheless, as a DAG becomes bulkier, the computations do take longer, and for many applications a smaller DAG is used that may only represent a portion of the sequence, e.g., a chromosome. In other embodiments, a DAG may be made smaller by reducing the size of the population that is covered by the DAG, for instance going from a DAG representing variation in breast cancer to a DAG representing variation in triple negative breast cancer. Alternatively, longer DAGs can be used that are customized based upon easily identified genetic markers that will typically result in a large portion of the DAG being consistent between samples. For example, aligning a set of nucleic acid reads from an African-ancestry female will be quicker against a DAG created with VCF entries from women of African ancestry as compared to a DAG accounting for all variations known in humans over the same sequence. It is to be recognized that the DAGs of the invention are dynamic constructs in that they can be modified over time to incorporate newly identified mutations. Additionally, algorithms in which the alignment results are recursively added to the DAG are also possible.</p>
+<p id="p-0060" num="0056">In the instance of string-to-DAG alignment, the gap penalties can be adjusted to make gap insertions even more costly, thus favoring an alignment to a sequence rather than opening a new gap in the overall sequence. Of course, with improvements in the DAG (discussed above) the incidence of gaps should decrease even further because mutations are accounted for in the DAG.</p>
+<heading id="h-0009" level="2">Alignment Algorithm</heading>
+<p id="p-0061" num="0057">In one embodiment, an algorithm is used to align sequence reads against a directed acyclic graph (DAG). In contrast to the algorithm expressed in the Background, the alignment algorithm identifies the maximum value for C<sub>i,j </sub>by identifying the maximum score with respect to each sequence contained at a position on the DAG (e.g., the reference sequence construct). In fact, by looking &#x201c;backwards&#x201d; at the preceding positions, it is possible to identify the optimum alignment across a plurality of possible paths.</p>
+<p id="p-0062" num="0058">The algorithm of the invention is carried out on a read (a.k.a. &#x201c;string&#x201d;) and a directed acyclic graph (DAG), discussed above. For the purpose of defining the algorithm, let S be the string being aligned, and let D be the directed acyclic graph to which S is being aligned. The elements of the string, S, are bracketed with indices beginning at 1. Thus, if S is the string ATCGAA, S[1]=A, S[4]=G, etc.</p>
+<p id="p-0063" num="0059">For the DAG, each letter of the sequence of a node will be represented as a separate element, d. A predecessor of d is defined as:</p>
+<p id="p-0064" num="0060">(i) If d is not the first letter of the sequence of its node, the letter preceding d in its node is its (only) predecessor;</p>
+<p id="p-0065" num="0061">(ii) If d is the first letter of the sequence of its node, the last letter of the sequence of any node that is a parent of d&#x2032;s node is a predecessor of d.</p>
+<p id="p-0066" num="0062">The set of all predecessors is, in turn, represented as P[d]. In order to find the &#x201c;best&#x201d; alignment, the algorithm seeks the value of M[j,d], the score of the optimal alignment of the first j elements of S with the portion of the DAG preceding (and including) d. This step is similar to finding H<sub>i,j </sub>in equation 1 in the Background section. Specifically, determining M[j,d] involves finding the maximum of a, i, e, and 0, as defined below:</p>
+<p id="p-0067" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>M[j,d]=max{a, i, e, 0} &#x2003;&#x2003;(6)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0068" num="0063">where</p>
+<p id="p-0069" num="0064">e=max{M[j, p*] +DELETE_PENALTY} for p* in P[d]</p>
+<p id="p-0070" num="0065">i=MU-[1, d]+INSERT_PENALTY</p>
+<p id="p-0071" num="0066">a=max{M[j&#x2212;1, p*] +MATCH_SCORE} for p* in P[d], if S[j]=d;</p>
+<p id="p-0072" num="0067">max{M[j&#x2212;1, p*] +MISMATCH_PENALTY} for p* in P[d], if S[j]&#x2248;s</p>
+<p id="p-0073" num="0068">As described above, e is the highest of the alignments of the first j characters of S with the portions of the DAG up to, but not including, d, plus an additional DELETE_PENALTY. Accordingly, if d is not the first letter of the sequence of the node, then there is only one predecessor, p, and the alignment score of the first j characters of S with the DAG (up-to-and-including p) is equivalent to M[j,p] +DELETE_PENALTY. In the instance where d is the first letter of the sequence of its node, there can be multiple possible predecessors, and because the DELETE_PENALTY is constant, maximizing [ MU, p*]+[DELETE_PENALTY] is the same as choosing the predecessor with the highest alignment score with the first j characters of S.</p>
+<p id="p-0074" num="0069">In equation (6), i is the alignment of the first j&#x2212;1 characters of the string S with the DAG up-to-and-including d, plus an INSERT_PENALTY, which is similar to the definition of the insertion argument in SW (see equation 1).</p>
+<p id="p-0075" num="0070">Additionally, a is the highest of the alignments of the first j characters of S with the portions of the DAG up to, but not including d, plus either a MATCH_SCORE (if the jth character of S is the same as the character d) or a MISMATCH_PENALTY (if the jth character of S is not the same as the character d). As with e, this means that if d is not the first letter of the sequence of its node, then there is only one predecessor, i.e., p. That means a is the alignment score of the first j&#x2212;1 characters of S with the DAG (up-to-and-including p), i.e., M[j&#x2212;1,p], with either a MISMATCH_PENALTY or MATCH_SCORE added, depending upon whether d and the jth character of S match. In the instance where d is the first letter of the sequence of its node, there can be multiple possible predecessors. In this case, maximizing {M[j, p*]+MISMATCH_PENALTY or MATCH_SCORE} is the same as choosing the predecessor with the highest alignment score with the first j&#x2212;1 characters of S (i.e., the highest of the candidate M[j&#x2212;1*] arguments) and adding either a MISMATCH_PENALTY or a MATCH_SCORE depending on whether d and the jth character of S match.</p>
+<p id="p-0076" num="0071">Again, as in the SW algorithm discussed in the Background, the penalties, e.g., DELETE_PENALTY, INSERT_PENALTY, MATCH_SCORE and MISMATCH_PENALTY, can be adjusted to encourage alignment with fewer gaps, etc.</p>
+<p id="p-0077" num="0072">As described in the equations above, the algorithm finds the maximum value for each read by calculating not only the insertion, deletion, and match scores for that element, but looking backward (against the direction of the DAG) to any prior nodes on the DAG to find a maximum score. Thus, the algorithm is able to traverse the different paths through the DAG, which contain the known mutations. Because the graphs are directed, the backtracks, which move against the direction of the graph, follow the preferred variant sequence toward the origin of the graph, and the maximum alignment score identifies the most likely alignment within a high degree of certainty. While the equations above are represented as &#x201c;maximum&#x201d; values, &#x201c;maximum&#x201d; is intended to cover any form of optimization, including, for example, switching the signs on all of the equations and solving for a minimum value.</p>
+<p id="p-0078" num="0073">Implementation of the disclosed algorithm is exemplified in <figref idref="DRAWINGS">FIG. <b>4</b>(A)</figref> and <figref idref="DRAWINGS">FIG. <b>4</b>(B)</figref>, where a sequence &#x201c;ATCGAA&#x201d; is aligned against a DAG that represents a reference sequence SEQ ID NO. 10: TTGGATATGGG and a known insertion event SEQ ID NO. 11: TTGGATCGAATTATGGG, where the insertion is underlined. <figref idref="DRAWINGS">FIG. <b>4</b>(A)</figref> shows a pictorial representation of the read being compared to the DAG while <figref idref="DRAWINGS">FIG. <b>4</b>(B)</figref> shows the actual matrices that correspond to the comparison. Like the Smith-Waterman technique discussed in the Background, the algorithm of the invention identifies the highest score and performs a backtrack to identify the proper location of the read. <figref idref="DRAWINGS">FIG. <b>4</b>(A)</figref> and (B) also highlights that the invention produces an actual match for the string against the construct, whereas the known methods (e.g., SW) would have been more likely to align the string to the wrong part of the reference, or reject the string as not generating a sufficiently-high alignment score to be included in the alignment. In the instances where the sequence reads include variants that were not included in the DAG, the aligned sequence will be reported out with a gap, insertion, etc.</p>
+<heading id="h-0010" level="2">Fabricating Constructs to Accommodate Disease Variability</heading>
+<p id="p-0079" num="0074">As mentioned above, the reference sequence construct can be prepared from existing variant files, or the construct can be prepared de novo, by comparing certain sampled sequences to a reference sequence. An example of such de novo construction is shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Starting with a reference genome, e.g., GRCh37, a non-cancerous sample is sequenced and compared to the reference to produce a file of variants. This file of variants is incorporated into a reference sequence construct, e.g., a DAG, as described above. The variants may include insertions, deletions, polymorphisms, structural variants, etc. The resulting construct can then be used to align reads from a diseased sample from the individual. This alignment step will provide immediate information about the location of &#x201c;new&#x201d; mutations that are likely correlated with a diseased state (i.e., the major clone), immediately differentiating them from mutations that already existed in the non-cancerous sample (because the latter are already included in the construct). Moreover, because the major clone sample is not aligned directly to the reference, but rather to a reference sequence construct, most of the major clone sample should align completely to the construct, and any unaligned reads will give immediate clues about the nature of the disease.</p>
+<p id="p-0080" num="0075">Taking the example to the next level, the variants between the non-diseased and major clone sample can be incorporated into a new reference construct, &#x201c;Reference with major clone&#x201d; as shown in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. Such a reference construct is shown in greater detail in <figref idref="DRAWINGS">FIG. <b>6</b></figref>. <figref idref="DRAWINGS">FIG. <b>6</b></figref> uses three arbitrary sequences (SEQ ID NOS. 12-14) to illustrate the construction of the reference sequence and the incorporation of a reference, a non-diseased sequence, and a major clone. SEQ ID NO. 12 represents a portion of the reference sequence, which has been determined to be a good starting point. The individual in question, however, has a 15 bp insert that is not present in the reference sequence (SEQ ID NO. 13). Additionally, the individual, who has been identified as having cancer, has a sample of a tumor sequenced. Upon sequencing the tumor sample is found to have a polymorphism within the insert (SEQ ID NO. 14). As shown in the reference sequence construct at the bottom of <figref idref="DRAWINGS">FIG. <b>6</b></figref>, it is possible to account for all three sequences in this construct.</p>
+<p id="p-0081" num="0076">This construct in <figref idref="DRAWINGS">FIG. <b>6</b></figref> is useful for at least two purposes. First, without any additional analysis, the reference sequence construct shows the relationship between the polymorphism and the major clone, separately from the insert, which arguably is not linked to the cancer. It should also be noted that the presence of a polymorphism within the insert would likely have been missed if SEQ ID NO. 14 was directly compared to SEQ ID NO. 12, as is typically done with contemporary cancer sequencing. Second, the reference sequence construct provides a new alignment tool against which new samples can be compared. For example a read (not shown) that aligns partially to the insert and includes the polymorphism is likely cancerous, whereas a read (not shown) that aligns partially to the insert, but contains &#x201c;AC&#x201d; instead of &#x201c;GG&#x201d; in the region of the polymorphism is likely not cancerous. Additionally, a new read that contained the polymorphism in addition to other mutations that did not align to the reference sequence construct suggests that the cancer may have progressed further and that greater testing, e.g., whole body MRI, may be in order.</p>
+<p id="p-0082" num="0077">The reference sequence construct shown in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, may be improved iteratively, with the addition of more sequences, e.g., corresponding to identified minor clones, as shown in <figref idref="DRAWINGS">FIG. <b>7</b></figref>. In some cases the minor clones may represent metastatic cells or other progressed forms of the disease. Using the alignment algorithms described above, sequence reads corresponding to the minor clones can be aligned to the &#x201c;Reference with the major clone&#x201d; making clear where the mutations are located. Like the incorporation of the major clone mutation in <figref idref="DRAWINGS">FIG. <b>6</b></figref>, the minor clone mutations can also be incorporated into the reference sequence construct to create yet another new reference sequence construct &#x201c;Reference with minor clone.&#x201d; Like &#x201c;Reference with the major clone,&#x201d; &#x201c;Reference with minor clone&#x201d; can then provide information about the evolution of disease in the individual and be used to type new samples from the individual (or other individuals, as appropriate).</p>
+<p id="p-0083" num="0078">The process of aligning new samples to the reference sequence construct and then subsequently adding the newly-identified variants to the construct to create a new construct can be repeated indefinitely. In reality, because the reference sequence constructs are multivariate constructions stored on a non-transitory computer readable medium, the addition of new structures is trivial. Furthermore, the alignment of new reads to these highly complex reference constructs is computationally feasible and far less taxing than comparing new reads to each previous sequence individually. The process of aligning and improving on the constructs can be done in parallel, as shown in <figref idref="DRAWINGS">FIG. <b>8</b></figref>, or in series, as shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref>. Whether the method is completed in parallel or in series, the resultant reference sequence construct should be identical. Nonetheless differing information about the evolution of the disease can be gleaned from the process depending upon the order in which new elements are added.</p>
+<heading id="h-0011" level="2">Opportunities for Parallelization</heading>
+<p id="p-0084" num="0079">The sequential version of the Smith-Waterman-Gotoh algorithm has been adapted and significantly modified for massive parallelization. For example, an ASC model, called Smith-Waterman using Associative Massive Parallelism (SWAMP) is described in U.S. Patent Publication No. 2012/0239706, incorporated herein by reference in its entirety. Part of the parallelization for SWAMP (and other parallel processing systems) stems from the fact that the values along any anti-diagonal are independent of each other. Thus, all of the cells along a given anti-diagonal can be done in parallel to distribute the computational resources. The data dependencies shown in the above recursive equations limit the level of achievable parallelism but using a wavefront approach will still speed up this useful algorithm. A wavefront approach implemented by Wozniak (<i>Comput Appl in the Biosciences </i>(CABIOS), 13(2):145-150, 1997) on the Sun Ultra SPARC uses specialized SIMD-like video instructions. Wozniak used the SIMD registers to store the values parallel to the minor diagonal, reporting a two-fold speedup over a traditional implementation on the same machine. Following Wozniak's example, a similar way to parallelize code is to use the Streaming SIMD Extension (SSE) set for the x86 architecture. Designed by Intel, the vector-like operations complete a single operation/instruction on a small number of values (usually four, eight or sixteen) at a time. Many AMD and Intel chips support the various versions of SSE, and Intel has continued developing this technology with the Advanced Vector Extensions (AVX) for their modern chipsets.</p>
+<p id="p-0085" num="0080">In other implementations, Rognes and Seeberg (<i>Bioinformatics </i>(Oxford, England), 16(8):699-706, 2000) use the Intel Pentium processor with SSE's predecessor, MMX SIMD instructions for their implementation. The approach that developed out of the work of Rognes and Seeberg (<i>Bioinformatics, </i>16(8):699-706, 2000) for ParAlign does not use the wavefront approach (Rognes, Nuc Acids Res, 29(7):1647-52, 2001; Saebo et al., Nuc Acids Res, 33(suppl 2):W535-W539, 2005). Instead, they align the SIMD registers parallel to the query sequence, computing eight values at a time, using a pre-computed query-specific score matrix. Additional details of this method can be found in U.S. Pat. No. 7,917,302, incorporated by reference herein. The way Rognes and Seeberg layout the SIMD registers, the north neighbor dependency could remove up to one third of the potential speedup gained from the SSE parallel &#x201c;vector&#x201d; calculations. To overcome this, they incorporate SWAT-like optimizations. With large affine gap penalties, the northern neighbor will be zero most of the time. If this is true, the program can skip computing the value of the north neighbor, referred to as the &#x201c;lazy F evaluation&#x201d; by Farrar (Bioinformatics, 23(2):156-161, 2007). Rognes and Seeberg are able to reduce the number of calculations of Equation 1 to speed up their algorithm by skipping it when it is below a certain threshold. A six-fold speedup was reported in (Rognes and Seeberg, Bioinformatics, 16(8):699-706, 2000) using 8-way vectors via the MMX/SSE instructions and the SWAT-like extensions.</p>
+<p id="p-0086" num="0081">In the SSE work done by Farrar (<i>Bioinformatics, </i>23(2):156-161, 2007), a striped or strided pattern of access is used to line up the SIMD registers parallel to the query registers. Doing so avoids any overlapping dependencies. Again incorporating the SWAT-like optimizations (Farrar, <i>Bioinformatics </i>23(2):156-161, 2007) achieves a 2-8 time speedup over Wozniak (CABIOS 13(2):145-150, 1997) and Rognes and Seeberg (<i>Bioinformatics </i>(Oxford, England), 16(8):699-706, 2000) SIMD implementations. The block substitution matrices and efficient and clever inner loop with the northern (F) conditional moved outside of that inner loop are important optimizations. The strided memory pattern access of the sixteen, 8-bit elements for processing improves the memory access time as well, contributing to the overall speedup.</p>
+<p id="p-0087" num="0082">Farrar (<i>Sequence Analysis, </i>2008) extended his work for a Cell Processor manufactured by Sony, Toshiba and IBM. This Cell Processor has one main core and eight minor cores. The Cell Broadband Engine was the development platform for several more Smith-Waterman implementations including SWPS3 by Szalkowski, et. al (<i>BMC Res Notes </i>1(107), 2008) and CBESW by Wirawan, et. al (<i>BMC Bioinformatics </i>9 (377) 2008) both using Farrar's striping approach. Rudnicki, et. al. (<i>Fund Inform. </i>96, 181-194, 2009) used the PS3 to develop a method that used parallelization over multiple databases sequences.</p>
+<p id="p-0088" num="0083">Rognes (<i>BMC Bioinformatics </i>12 (221), 2011) also developed a multi-threaded approach called SWIPE that processes multiple database sequences in parallel. The focus was to use a SIMD approach on &#x201c;ordinary CPUs.&#x201d; This investigation using coarse-grained parallelism split the work using multiple database sequences in parallel is similar to the graphics processor units (GPU)-based tools described in the CUDASW by Liu, et al. (BMC Res Notes 2(73), 2009) and Ligowski and Rudnicki (<i>Eight Annual International Workshop on High Performance Computational Biology</i>, Rome, 2009). There have been other implementations of GPU work with CUDASW++2.0 by Liu, et. al. (<i>BMC Res Notes </i>3(93), 2010) and Ligowski, et. al (<i>GPU Computing Gems, Emerald Edition</i>, Morgan Kaufmann, 155-157, 2011).</p>
+<p id="p-0089" num="0084">In other variations, small-scale vector parallelization (8, 16 or 32-way parallelism) can be used to make the calculations accessible via GPU implementations that align multiple sequences in parallel. The theoretical peak speedup for the calculations is a factor of m, which is optimal. A 96-fold speedup for the ClearSpeed implementation using 96 processing elements, confirming the theoretical speedup.</p>
+<heading id="h-0012" level="2">Parallel Computing Models</heading>
+<p id="p-0090" num="0085">The main parallel model used to develop and extend Smith-Waterman sequence alignment is the ASsociative Computing (ASC) (Potter et al., <i>Computer, </i>27(11):19-25, 1994). Efficient parallel versions of the Smith-Waterman algorithm are described herein. This model and one other model are described in detail in this section.</p>
+<p id="p-0091" num="0086">Some relevant vocabulary is defined here. Two terms of interest from Flynn's Taxonomy of computer architectures are MIMD and SIMD, two different models of parallel computing. A cluster of computers, classified as a multiple-instruction, multiple-data (MIMD) model is used as a proof-of-concept to overcome memory limitations in extremely large-scale alignments. Section 8 describes usage of the MIMD model. An extended data-parallel, single-instruction multiple-data (SIMD) model known as ASC is also described.</p>
+<p id="p-0092" num="0087">Multiple Instruction, Multiple Data (MIMD)</p>
+<p id="p-0093" num="0088">The multiple-data, multiple-instruction model or MIMD model describes the majority of parallel systems currently available, and include the currently popular cluster of computers. The MIMD processors have a full-fledged central processing unit (CPU), each with its own local memory (Quinn, Parallel Computing: Theory and Practice, 2nd ed., New York: McGraw-Hill, 1994). In contrast to the SIMD model, each of the MIMD processors stores and executes its own program asynchronously. The MIMD processors are connected via a network that allows them to communicate but the network used can vary widely, ranging from an Ethernet, Myrinet, and InfiniBand connection between machines (cluster nodes). The communications tend to employ a much looser communications structure than SIMDs, going outside of a single unit. The data is moved along the network asynchronously by individual processors under the control of their individual program they are executing. Typically, communication is handled by one of several different parallel languages that support message-passing. A very common library for this is known as the Message Passing Interface (MPI). Communication in a &#x201c;SIMD-like&#x201d; fashion is possible, but the data movements will be asynchronous. Parallel computations by MIMDs usually require extensive communication and frequent synchronizations unless the various tasks being executed by the processors are highly independent (i.e. the so-called &#x201c;embarrassingly parallel&#x201d; or &#x201c;pleasingly parallel&#x201d; problems). The work presented in Section 8 uses an AMD Opteron cluster connected via InfiniBand.</p>
+<p id="p-0094" num="0089">Unlike SIMDs, the worst-case time required for the message-passing is difficult or impossible to predict. Typically, the message-passing execution time for MIMD software is determined using the average case estimates, which are often determined by trial, rather than by a worst case theoretical evaluation, which is typical for SIMDs. Since the worst case for MIMD software is often very bad and rarely occurs, average case estimates are much more useful. As a result, the communication time required for a MIMD on a particular problem can be and is usually significantly higher than for a SIMD. This leads to the important goal in MIMD programming (especially when message-passing is used) to minimize the number of inter-processor communications required and to maximize the amount of time between processor communications. This is true even at a single card acceleration level, such as using graphics processors or GPUs.</p>
+<p id="p-0095" num="0090">Data-parallel programming is also an important technique for MIMD programming, but here all the tasks perform the same operation on different data and are only synchronized at various critical points. The majority of algorithms for MIMD systems are written in the Single-Program, Multiple-Data (SPMD) programming paradigm. Each processor has its own copy of the same program, executing the sections of the code specific to that processor or core on its local data. The popularity of the SPMD paradigm stems from the fact that it is quite difficult to write a large number of different programs that will be executed concurrently across different processors and still be able to cooperate on solving a single problem. Another approach used for memory-intensive but not compute-intensive problems is to create a virtual memory server, as is done with JumboMem, using the work presented in Section 8. This uses MPI in its underlying implementation.</p>
+<p id="p-0096" num="0091">Single Instruction, Multiple Data (SIMD)</p>
+<p id="p-0097" num="0092">The SIMD model consists of multiple, simple arithmetic processing elements called PEs. Each PE has its own local memory that it can fetch and store from, but it does not have the ability to compile or execute a program. As used herein, the term &#x201c;parallel memory&#x201d; refers to the local memories, collectively, in a computing system. For example, a parallel memory can be the collective of local memories in a SIMD computer system (e.g., the local memories of PEs), the collective of local memories of the processors in a MIMD computer system (e.g., the local memories of the central processing units) and the like. The compilation and execution of programs are handled by a processor called a control unit (or front end) (Quinn, <i>Parallel Computing: Theory and Practice, </i>2nd ed., New York: McGraw-Hill, 1994). The control unit is connected to all PEs, usually by a bus.</p>
+<p id="p-0098" num="0093">All active PEs execute the program instructions received from the control unit synchronously in lockstep. &#x201c;In any time unit, a single operation is in the same state of execution on multiple processing units, each manipulating different data&#x201d; (Quinn, <i>Parallel Computing: Theory and Practice, </i>2nd ed., New York: McGraw-Hill, 1994), at page 79. While the same instruction is executed at the same time in parallel by all active PEs, some PEs may be allowed to skip any particular instruction (Baker, SIMD and MASC: Course notes from CS 6/73301: Parallel and Distributed Computing&#x2014;power point slides, (2004)2004). This is usually accomplished using an &#x201c;if-else&#x201d; branch structure where some of the PEs execute the if instructions and the remaining PEs execute the else part. This model is ideal for problems that are &#x201c;data-parallel&#x201d; in nature that have at most a small number of if-else branching structures that can occur simultaneously, such as image processing and matrix operations.</p>
+<p id="p-0099" num="0094">Data can be broadcast to all active PEs by the control unit and the control unit can also obtain data values from a particular PE using the connection (usually a bus) between the control unit and the PEs. Additionally, the set of PE are connected by an interconnection network, such as a linear array, 2-D mesh, or hypercube that provides parallel data movement between the PEs. Data is moved through this network in synchronous parallel fashion by the PEs, which execute the instructions including data movement, in lockstep. It is the control unit that broadcasts the instructions to the PEs. In particular, the SIMD network does not use the message-passing paradigm used by most parallel computers today. An important advantage of this is that SIMD network communication is extremely efficient and the maximum time required for the communication can be determined by the worst-case time of the algorithm controlling that particular communication.</p>
+<p id="p-0100" num="0095">The remainder of this section is devoted to describing the extended SIMD ASC model. ASC is at the center of the algorithm design and development for this discussion.</p>
+<p id="p-0101" num="0096">Associative Computing Model</p>
+<p id="p-0102" num="0097">The ASsocative Computing (ASC) model is an extended SIMD based on the STARAN associative SIMD computer, designed by Dr. Kenneth Batcher at Goodyear Aerospace and its heavily Navy-utilized successor, the ASPRO.</p>
+<p id="p-0103" num="0098">Developed within the Department of Computer Science at Kent State University, ASC is an algorithmic model for associative computing (Potter et al., Computer, 27(11):19-25, 1994) (Potter, <i>Associative Computing: A Programming Paradigm for Massively Parallel Computers, Plenum Publishing, </i>1992). The ASC model grew out of work on the STARAN and MPP, associative processors built by Goodyear Aerospace. Although it is not currently supported in hardware, current research efforts are being made to both efficiently simulate and design a computer for this model.</p>
+<p id="p-0104" num="0099">As an extended SIMD model, ASC uses synchronous data-parallel programming, avoiding both multi-tasking and asynchronous point-to-point communication routing. Multi-tasking is unnecessary since only one task is executed at any time, with multiple instances of this task executed in lockstep on all active processing elements (PEs). ASC, like SIMD programmers, avoid problems involving load balancing, synchronization, and dynamic task scheduling, issues that must be explicitly handled in MPI and other MIMD cluster paradigms.</p>
+<p id="p-0105" num="0100"><figref idref="DRAWINGS">FIG. <b>10</b></figref> shows a conceptual model of an ASC computer. There is a single control unit, also known as an instruction stream (IS), and multiple processing elements (PEs), each with its own local memory. The control unit and PE array are connected through a broadcast/reduction network and the PEs are connected together through a PE data interconnection network.</p>
+<p id="p-0106" num="0101">As seen in <figref idref="DRAWINGS">FIG. <b>10</b></figref>, a PE has access to data located in its own local memory. The data remains in place and responding (active) PEs process their local data in parallel. The reference to the word associative is related to the use of searching to locate data by content rather than memory addresses. The ASC model does not employ associative memory, instead it is an associative processor where the general cycle is to search-process-retrieve. An overview of the model is available in (Potter et al., <i>Computer, </i>27(11):19-25, 1994).</p>
+<p id="p-0107" num="0102">The tabular nature of the algorithm lends itself to computation using ASC due to the natural tabular structure of ASC data structures. Highly efficient communication across the PE interconnection network for the lockstep shifting of data of the north and northwest neighbors, and the fast constant time associative functions for searching and for maximums across the parallel computations are well utilized by SWAMP</p>
+<p id="p-0108" num="0103">The associative operations are executed in constant time (Jin et al., 15th <i>International Parallel and Distributed Processing Symposium </i>(IPDPS'01) Workshops, San Francisco, p. 193, 2001), due to additional hardware required by the ASC model. These operations can be performed efficiently (but less rapidly) by any SIMD-like machine, and has been successfully adapted to run efficiently on several SIMD hardware platforms (Yuan et al., <i>Parallel and Distributed Computing Systems </i>(PDCS), Cambridge, M A, 2009; Trahan et al., <i>J. of Parallel and Distributed Computing </i>(<i>JPDC</i>), 2009). SWAMP and other ASC algorithms can therefore be efficiently implemented on other systems that are closely related to SIMDs including vector machines, which is why the model is used as a paradigm.</p>
+<p id="p-0109" num="0104">The control unit fetches and decodes program instructions and broadcasts control signals to the PEs. The PEs, under the direction of the control unit, execute these instructions using their own local data. All PEs execute instructions in a lockstep manner, with an implicit synchronization between instructions. ASC has several relevant high-speed global operations: associative search, maximum/minimum search, and responder selection/detection. These are described in the following section.</p>
+<p id="p-0110" num="0105">Associative Functions</p>
+<p id="p-0111" num="0106">The functions relevant to the SWAMP algorithms are discussed below. Associative Search</p>
+<p id="p-0112" num="0107">The basic operation in an ASC algorithm is the associative search. An associative search simultaneously locates the PEs whose local data matches a given search key. Those PEs that have matching data are called responders and those with non-matching data are called non-responders. After performing a search, the algorithm can then restrict further processing to only affect the responders by disabling the non-responders (or vice versa). Performing additional searches may further refine the set of responders. Associative search is heavily utilized by SWAMP+in selecting which PEs are active within a parallel act within a diagonal.</p>
+<p id="p-0113" num="0108">Maximum/Minimum Search</p>
+<p id="p-0114" num="0109">In addition to simple searches, where each PE compares its local data against a search key using a standard comparison operator (equal, less than, etc.), an associative computer can also perform global searches, where data from the entire PE array is combined together to determine the set of responders. The most common type of global search is the maximum/minimum search, where the responders are those PEs whose data is the maximum or minimum value across the entire PE array. The maximum value is used by SWAMP+ in every diagonal it processes to track the highest value calculated so far. Use of the maximum search occurs frequently, once in a logical parallel act, m+n times per alignment.</p>
+<p id="p-0115" num="0110">Responder Selection/Detection</p>
+<p id="p-0116" num="0111">An associative search can result in multiple responders and an associative algorithm can process those responders in one of three different modes: parallel, sequential, or single selection. Parallel responder processing performs the same set of operations on each responder simultaneously. Sequential responder processing selects each responder individually, allowing a different set of operations for each responder. Single responder selection (also known as pickOne) selects one, arbitrarily chosen, responder to undergo processing. In addition to multiple responders, it is also possible for an associative search to result in no responders. To handle this case, the ASC model can detect whether there were any responders to a search and perform a separate set of actions in that case (known as anyResponders). In SWAMP, multiple responders that contain characters to be aligned are selected and processed in parallel, based on the associative searches mentioned above. Single responder selection occurs if and when there are multiple values that have the exact same maximum value when using the maximum/minimum search.</p>
+<p id="p-0117" num="0112">PE Interconnection Network</p>
+<p id="p-0118" num="0113">Most associative processors include some type of PE interconnection network to allow parallel data movement within the array. The ASC model itself does not specify any particular interconnection network and, in fact, many useful associative algorithms do not require one. Typically associative processors implement simple networks such as 1D linear arrays or 2D meshes. These networks are simple to implement and allow data to be transferred quickly in a synchronous manner. The 1D linear array is sufficient for the explicit communication between PEs in the SWAMP algorithms, for example.</p>
+<p id="p-0119" num="0114">Parallel Computing Systems</p>
+<p id="p-0120" num="0115">A generalized parallel processing architecture is shown in <figref idref="DRAWINGS">FIG. <b>11</b></figref>. While each component is shown as having a direct connection, it is to be understood that the various elements may be geographically separated but connected via a network, e.g., the internet. While hybrid configurations are possible, the main memory in a parallel computer is typically either shared between all processing elements in a single address space, or distributed, i.e., each processing element has its own local address space. (Distributed memory refers to the fact that the memory is logically distributed, but often implies that it is physically distributed as well.) Distributed shared memory and memory virtualization combine the two approaches, where the processing element has its own local memory and access to the memory on non-local processors. Accesses to local memory are typically faster than accesses to non-local memory.</p>
+<p id="p-0121" num="0116">Computer architectures in which each element of main memory can be accessed with equal latency and bandwidth are known as Uniform Memory Access (UMA) systems. Typically, that can be achieved only by a shared memory system, in which the memory is not physically distributed. A system that does not have this property is known as a Non-Uniform Memory Access (NUMA) architecture. Distributed memory systems have non-uniform memory access.</p>
+<p id="p-0122" num="0117">Processor&#x2014;processor and processor&#x2014;memory communication can be implemented in hardware in several ways, including via shared (either multiported or multiplexed) memory, a crossbar switch, a shared bus or an interconnect network of a myriad of topologies including star, ring, tree, hypercube, fat hypercube (a hypercube with more than one processor at a node), or n-dimensional mesh.</p>
+<p id="p-0123" num="0118">Parallel computers based on interconnected networks must incorporate routing to enable the passing of messages between nodes that are not directly connected. The medium used for communication between the processors is likely to be hierarchical in large multiprocessor machines. Such resources are commercially available for purchase for dedicated use, or these resources can be accessed via &#x201c;the cloud,&#x201d; e.g., Amazon Cloud Computing.</p>
+<p id="p-0124" num="0119">A computer generally includes a processor coupled to a memory via a bus. Memory can include RAM or ROM and preferably includes at least one tangible, non-transitory medium storing instructions executable to cause the system to perform functions described herein. As one skilled in the art would recognize as necessary or best-suited for performance of the methods of the invention, systems of the invention include one or more processors (e.g., a central processing unit (CPU), a graphics processing unit (GPU), etc.), computer-readable storage devices (e.g., main memory, static memory, etc.), or combinations thereof which communicate with each other via a bus.</p>
+<p id="p-0125" num="0120">A processor may be any suitable processor known in the art, such as the processor sold under the trademark XEON E7 by Intel (Santa Clara, Calif.) or the processor sold under the trademark OPTERON 6200 by AMD (Sunnyvale, Calif.).</p>
+<p id="p-0126" num="0121">Memory may refer to a computer-readable storage device and can include any machine-readable medium on which is stored one or more sets of instructions (e.g., software embodying any methodology or function found herein), data (e.g., embodying any tangible physical objects such as the genetic sequences found in a patient's chromosomes), or both. While the computer-readable storage device can in an exemplary embodiment be a single medium, the term &#x201c;computer-readable storage device&#x201d; should be taken to include a single medium or multiple media (e.g., a centralized or distributed database, and/or associated caches and servers) that store the one or more sets of instructions or data. The term &#x201c;computer-readable storage device&#x201d; shall accordingly be taken to include, without limit, solid-state memories (e.g., subscriber identity module (SIM) card, secure digital card (SD card), micro SD card, or solid-state drive (SSD)), optical and magnetic media, and any other tangible storage media. Preferably, a computer-readable storage device includes a tangible, non-transitory medium. Such non-transitory media excludes, for example, transitory waves and signals. &#x201c;Non-transitory memory&#x201d; should be interpreted to exclude computer readable transmission media, such as signals, per se.</p>
+<p id="p-0127" num="0122">Input/output devices according to the invention may include a video display unit (e.g., a liquid crystal display (LCD) or a cathode ray tube (CRT) monitor), an alphanumeric input device (e.g., a keyboard), a cursor control device (e.g., a mouse or trackpad), a disk drive unit, a signal generation device (e.g., a speaker), a touchscreen, an accelerometer, a microphone, a cellular radio frequency antenna, and a network interface device, which can be, for example, a network interface card (NIC), Wi-Fi card, or cellular modem.</p>
+<heading id="h-0013" level="2">Sample Acquisition and Preparation</heading>
+<p id="p-0128" num="0123">The invention includes methods for producing sequences (e.g., nucleic acid sequences, amino acid sequences) corresponding to nucleic acids recovered from biological samples. In some embodiments the resulting information can be used to identify mutations present in nucleic acid material obtained from a subject. In some embodiments, a sample, i.e., nucleic acids (e.g. DNA or RNA) are obtained from a subject, the nucleic acids are processed (lysed, amplified, and/or purified) and the nucleic acids are sequenced using a method described below. In many embodiments, the result of the sequencing is not a linear nucleic acid sequence, but a collection of thousands or millions of individual short nucleic acid reads that must be re-assembled into a sequence for the subject. Once the reads are aligned to produce a sequence, the aligned sequence can be compared to reference sequences to identify mutations that may be indicative of disease, for example. In other embodiments, the subject may be identified with particular mutations based upon the alignment of the reads against a reference sequence construct, i.e., a directed acyclic graph (&#x201c;DAG&#x201d;) as described above.</p>
+<p id="p-0129" num="0124">For any of the above purposes, methods may be applied to biological samples. The biological samples may, for example, comprise samples of blood, whole blood, blood plasma, tears, nipple aspirate, serum, stool, urine, saliva, circulating cells, tissue, biopsy samples, hair follicle or other samples containing biological material of the patient. One issue in conducting tests based on such samples is that, in most cases only a tiny amount of DNA or RNA containing a mutation of interest may be present in a sample. This is especially true in non-invasive samples, such as a buccal swab or a blood sample, where the mutant nucleic acids are present in very small amounts. In some embodiments, the nucleic acid fragments may be naturally short, that is, random shearing of relevant nucleic acids in the sample can generate short fragments. In other embodiments, the nucleic acids are purposely fragmented for ease of processing or because the sequencing techniques can only sequence reads of less than 1000 bases, e.g., less than 500 bases, e.g., less than 200 bases, e.g., less than 100 bases, e.g., less than 50 bases. While the methods described herein can be used to align sequences of varying length, in some embodiments, the majority of the plurality of nucleic acid reads will follow from the sequencing method and comprise less than 1000 bases, e.g., less than 500 bases, e.g., less than 200 bases, e.g., less than 100 bases, e.g., less than 50 bases.</p>
+<p id="p-0130" num="0125">Nucleic acids may be obtained by methods known in the art. Generally, nucleic acids can be extracted from a biological sample by a variety of techniques such as those described by Maniatis, et al., Molecular Cloning: A Laboratory Manual, Cold Spring Harbor, N. Y., pp. 280-281, (1982), the contents of which is incorporated by reference herein in its entirety.</p>
+<p id="p-0131" num="0126">It may be necessary to first prepare an extract of the sample and then perform further steps&#x2014;i.e., differential precipitation, column chromatography, extraction with organic solvents and the like&#x2014;in order to obtain a sufficiently pure preparation of nucleic acid. Extracts may be prepared using standard techniques in the art, for example, by chemical or mechanical lysis of the cell. Extracts then may be further treated, for example, by filtration and/or centrifugation and/or with chaotropic salts such as guanidinium isothiocyanate or urea or with organic solvents such as phenol and/or HCCl3 to denature any contaminating and potentially interfering proteins.</p>
+<p id="p-0132" num="0127">In some embodiments, the sample may comprise RNA, e.g., mRNA, collected from a subject sample, e.g., a blood sample. General methods for RNA extraction are well known in the art and are disclosed in standard textbooks of molecular biology, including Ausubel et al., Current Protocols of Molecular Biology, John Wiley and Sons (1997). Methods for RNA extraction from paraffin embedded tissues are disclosed, for example, in Rupp and Locker, Lab Invest. 56:A67 (1987), and De Andres et al., BioTechniques 18:42044 (1995). The contents of each of these references is incorporated by reference herein in their entirety. In particular, RNA isolation can be performed using a purification kit, buffer set and protease from commercial manufacturers, such as Qiagen, according to the manufacturer's instructions. For example, total RNA from cells in culture can be isolated using Qiagen RNeasy mini-columns. Other commercially available RNA isolation kits include MASTERPURE Complete DNA and RNA Purification Kit (EPICENTRE, Madison, Wis.), and Paraffin Block RNA Isolation Kit (Ambion, Inc.). Total RNA from tissue samples can be isolated using RNA Stat-60 (Tel-Test). RNA prepared from tumor can be isolated, for example, by cesium chloride density gradient centrifugation.</p>
+<heading id="h-0014" level="2">Analytical Sequencing</heading>
+<p id="p-0133" num="0128">Sequencing may be by any method known in the art. DNA sequencing techniques include classic dideoxy sequencing reactions (Sanger method) using labeled terminators or primers and gel separation in slab or capillary, sequencing by synthesis using reversibly terminated labeled nucleotides, pyrosequencing, 454 sequencing, allele specific hybridization to a library of labeled oligonucleotide probes, sequencing by synthesis using allele specific hybridization to a library of labeled clones that is followed by ligation, real time monitoring of the incorporation of labeled nucleotides during a polymerization step, polony sequencing, and SOLiD sequencing. Sequencing of separated molecules has more recently been demonstrated by sequential or single extension reactions using polymerases or ligases as well as by single or sequential differential hybridizations with libraries of probes. Prior to sequencing it may be additionally beneficial to amplify some or all of the nucleic acids in the sample. In some embodiments, the nucleic acids are amplified using polymerase chain reactions (PCR) techniques known in the art.</p>
+<p id="p-0134" num="0129">One example of a sequencing technology that can be used in the methods of the provided invention is Illumina sequencing (e.g., the MiSeg&#x2122; platform), which is a polymerase-based sequence-by-synthesis that may be utilized to amplify DNA or RNA. Illumina sequencing for DNA is based on the amplification of DNA on a solid surface using fold-back PCR and anchored primers. Genomic DNA is fragmented, and adapters are added to the 5&#x2032; and 3&#x2032; ends of the fragments. DNA fragments that are attached to the surface of flow cell channels are extended and bridge amplified. The fragments become double stranded, and the double stranded molecules are denatured. Multiple cycles of the solid-phase amplification followed by denaturation can create several million clusters of approximately 1,000 copies of single-stranded DNA molecules of the same template in each channel of the flow cell. Primers, DNA polymerase and four fluorophore-labeled, reversibly terminating nucleotides are used to perform sequential sequencing. After nucleotide incorporation, a laser is used to excite the fluorophores, and an image is captured and the identity of the first base is recorded. The 3&#x2032; terminators and fluorophores from each incorporated base are removed and the incorporation, detection and identification steps are repeated. When using Illumina sequencing to detect RNA the same method applies except RNA fragments are being isolated and amplified in order to determine the RNA expression of the sample. After the sequences are interrogated with the sequencer, they may be output in a data file, such as a FASTQ file, which is a text-based format for storing biological sequence and quality scores (see discussion above).</p>
+<p id="p-0135" num="0130">Another example of a DNA sequencing technique that may be used in the methods of the provided invention is Ion Torrent&#x2122; sequencing, offered by Life Technologies. See U.S. patent application numbers 2009/0026082, 2009/0127589, 2010/0035252, 2010/0137143, 2010/0188073, 2010/0197507, 2010/0282617, 2010/0300559, 2010/0300895, 2010/0301398, and 2010/0304982, the content of each of which is incorporated by reference herein in its entirety. In Ion Torrent&#x2122; sequencing, DNA is sheared into fragments of approximately 300-800 base pairs, and the fragments are blunt ended. Oligonucleotide adaptors are then ligated to the ends of the fragments. The adaptors serve as primers for amplification and sequencing of the fragments. The fragments can be attached to a surface and is attached at a resolution such that the fragments are individually resolvable. Addition of one or more nucleotides releases a proton (H<sup>+</sup>), which signal detected and recorded in a sequencing instrument. The signal strength is proportional to the number of nucleotides incorporated. Ion Torrent data may also be output as a FASTQ file.</p>
+<p id="p-0136" num="0131">Another example of a DNA and RNA sequencing technique that can be used in the methods of the provided invention is 454&#x2122; sequencing (Roche) (Margulies, M et al. 2005, Nature, 437, 376-380). 454&#x2122; sequencing is a sequencing-by-synthesis technology that utilizes also utilizes pyrosequencing. 454&#x2122; sequencing of DNA involves two steps. In the first step, DNA is sheared into fragments of approximately 300-800 base pairs, and the fragments are blunt ended. Oligonucleotide adaptors are then ligated to the ends of the fragments. The adaptors serve as primers for amplification and sequencing of the fragments. The fragments can be attached to DNA capture beads, e.g., streptavidin-coated beads using, e.g., Adaptor B, which contains 5&#x2032;-biotin tag. The fragments attached to the beads are PCR amplified within droplets of an oil-water emulsion. The result is multiple copies of clonally amplified DNA fragments on each bead. In the second step, the beads are captured in wells (pico-liter sized). Pyrosequencing is performed on each DNA fragment in parallel. Addition of one or more nucleotides generates a light signal that is recorded by a CCD camera in a sequencing instrument. The signal strength is proportional to the number of nucleotides incorporated. Pyrosequencing makes use of pyrophosphate (PPi) which is released upon nucleotide addition. PPi is converted to ATP by ATP sulfurylase in the presence of adenosine 5&#x2032; phosphosulfate. Luciferase uses ATP to convert luciferin to oxyluciferin, and this reaction generates light that is detected and analyzed. In another embodiment, pyrosequencing is used to measure gene expression. Pyrosequecing of RNA applies similar to pyrosequencing of DNA, and is accomplished by attaching applications of partial rRNA gene sequencings to microscopic beads and then placing the attachments into individual wells. The attached partial rRNA sequence are then amplified in order to determine the gene expression profile. Sharon Marsh, Pyrosequencing&#xae; Protocols in Methods in Molecular Biology, Vol. 373, 15-23 (2007).</p>
+<p id="p-0137" num="0132">Another example of a DNA and RNA detection techniques that may be used in the methods of the provided invention is SOLiD&#x2122; technology (Applied Biosystems). SOLiD&#x2122; technology systems is a ligation based sequencing technology that may utilized to run massively parallel next generation sequencing of both DNA and RNA. In DNA SOLiD&#x2122; sequencing, genomic DNA is sheared into fragments, and adaptors are attached to the 5&#x2032; and 3&#x2032; ends of the fragments to generate a fragment library. Alternatively, internal adaptors can be introduced by ligating adaptors to the 5&#x2032; and 3&#x2032; ends of the fragments, circularizing the fragments, digesting the circularized fragment to generate an internal adaptor, and attaching adaptors to the 5&#x2032; and 3&#x2032; ends of the resulting fragments to generate a mate-paired library. Next, clonal bead populations are prepared in microreactors containing beads, primers, template, and PCR components. Following PCR, the templates are denatured and beads are enriched to separate the beads with extended templates. Templates on the selected beads are subjected to a 3&#x2032; modification that permits bonding to a glass slide. The sequence can be determined by sequential hybridization and ligation of partially random oligonucleotides with a central determined base (or pair of bases) that is identified by a specific fluorophore. After a color is recorded, the ligated oligonucleotide is cleaved and removed and the process is then repeated.</p>
+<p id="p-0138" num="0133">In other embodiments, SOLiD&#x2122; Serial Analysis of Gene Expression (SAGE) is used to measure gene expression. Serial analysis of gene expression (SAGE) is a method that allows the simultaneous and quantitative analysis of a large number of gene transcripts, without the need of providing an individual hybridization probe for each transcript. First, a short sequence tag (about 10-14 bp) is generated that contains sufficient information to uniquely identify a transcript, provided that the tag is obtained from a unique position within each transcript. Then, many transcripts are linked together to form long serial molecules, that can be sequenced, revealing the identity of the multiple tags simultaneously. The expression pattern of any population of transcripts can be quantitatively evaluated by determining the abundance of individual tags, and identifying the gene corresponding to each tag. For more details see, e.g. Velculescu et al., Science 270:484 487 (1995); and Velculescu et al., Cell 88:243 51 (1997, the contents of each of which are incorporated by reference herein in their entirety).</p>
+<p id="p-0139" num="0134">Another sequencing technique that can be used in the methods of the provided invention includes, for example, Helicos True Single Molecule Sequencing (tSMS) (Harris T. D. et al. (2008) Science 320:106-109). In the tSMS technique, a DNA sample is cleaved into strands of approximately 100 to 200 nucleotides, and a polyA sequence is added to the 3&#x2032; end of each DNA strand. Each strand is labeled by the addition of a fluorescently labeled adenosine nucleotide. The DNA strands are then hybridized to a flow cell, which contains millions of oligo-T capture sites that are immobilized to the flow cell surface. The templates can be at a density of about 100 million templates/cm<sup>2</sup>. The flow cell is then loaded into an instrument, e.g., HeliScope&#x2122; sequencer, and a laser illuminates the surface of the flow cell, revealing the position of each template. A CCD camera can map the position of the templates on the flow cell surface. The template fluorescent label is then cleaved and washed away. The sequencing reaction begins by introducing a DNA polymerase and a fluorescently labeled nucleotide. The oligo-T nucleic acid serves as a primer. The polymerase incorporates the labeled nucleotides to the primer in a template directed manner. The polymerase and unincorporated nucleotides are removed. The templates that have directed incorporation of the fluorescently labeled nucleotide are detected by imaging the flow cell surface. After imaging, a cleavage step removes the fluorescent label, and the process is repeated with other fluorescently labeled nucleotides until the desired read length is achieved. Sequence information is collected with each nucleotide addition step. Further description of tSMS is shown for example in Lapidus et al. (U.S. Pat. No. 7,169,560), Lapidus et al. (U.S. patent application number 2009/0191565), Quake et al. (U.S. Pat. No. 6,818,395), Harris (U.S. Pat. No. 7,282,337), Quake et al. (U.S. patent application number 2002/0164629), and Braslaysky, et al., PNAS (USA), 100: 3960-3964 (2003), the contents of each of these references is incorporated by reference herein in its entirety.</p>
+<p id="p-0140" num="0135">Another example of a sequencing technology that may be used in the methods of the provided invention includes the single molecule, real-time (SMRT) technology of Pacific Biosciences to sequence both DNA and RNA. In SMRT, each of the four DNA bases is attached to one of four different fluorescent dyes. These dyes are phospholinked. A single DNA polymerase is immobilized with a single molecule of template single stranded DNA at the bottom of a zero-mode waveguide (ZMW). A ZMW is a confinement structure which enables observation of incorporation of a single nucleotide by DNA polymerase against the background of fluorescent nucleotides that rapidly diffuse in an out of the ZMW (in microseconds). It takes several milliseconds to incorporate a nucleotide into a growing strand. During this time, the fluorescent label is excited and produces a fluorescent signal, and the fluorescent tag is cleaved off. Detection of the corresponding fluorescence of the dye indicates which base was incorporated. The process is repeated. In order to sequence RNA, the DNA polymerase is replaced with a with a reverse transcriptase in the ZMW, and the process is followed accordingly.</p>
+<p id="p-0141" num="0136">Another example of a sequencing technique that can be used in the methods of the provided invention is nanopore sequencing (Soni G V and Meller, AClin Chem 53: 1996-2001) (2007). A nanopore is a small hole, of the order of 1 nanometer in diameter. Immersion of a nanopore in a conducting fluid and application of a potential across it results in a slight electrical current due to conduction of ions through the nanopore. The amount of current which flows is sensitive to the size of the nanopore. As a DNA molecule passes through a nanopore, each nucleotide on the DNA molecule obstructs the nanopore to a different degree. Thus, the change in the current passing through the nanopore as the DNA molecule passes through the nanopore represents a reading of the DNA sequence.</p>
+<p id="p-0142" num="0137">Another example of a sequencing technique that can be used in the methods of the provided invention involves using a chemical-sensitive field effect transistor (chemFET) array to sequence DNA (for example, as described in US Patent Application Publication No. 20090026082). In one example of the technique, DNA molecules can be placed into reaction chambers, and the template molecules can be hybridized to a sequencing primer bound to a polymerase. Incorporation of one or more triphosphates into a new nucleic acid strand at the 3&#x2032; end of the sequencing primer can be detected by a change in current by a chemFET. An array can have multiple chemFET sensors. In another example, single nucleic acids can be attached to beads, and the nucleic acids can be amplified on the bead, and the individual beads can be transferred to individual reaction chambers on a chemFET array, with each chamber having a chemFET sensor, and the nucleic acids can be sequenced.</p>
+<p id="p-0143" num="0138">Another example of a sequencing technique that can be used in the methods of the provided invention involves using an electron microscope (Moudrianakis E. N. and Beer M. Proc Natl Acad Sci USA. 1965 March; 53:564-71). In one example of the technique, individual DNA molecules are labeled using metallic labels that are distinguishable using an electron microscope. These molecules are then stretched on a flat surface and imaged using an electron microscope to measure sequences.</p>
+<p id="p-0144" num="0139">Additional detection methods can utilize binding to microarrays for subsequent fluorescent or non-fluorescent detection, barcode mass detection using a mass spectrometric methods, detection of emitted radiowaves, detection of scattered light from aligned barcodes, fluorescence detection using quantitative PCR or digital PCR methods. A comparative nucleic acid hybridization array is a technique for detecting copy number variations within the patient's sample DNA. The sample DNA and a reference DNA are differently labeled using distinct fluorophores, for example, and then hybridized to numerous probes. The fluorescent intensity of the sample and reference is then measured, and the fluorescent intensity ratio is then used to calculate copy number variations. Methods of comparative genomic hybridization array are discussed in more detail in Shinawi M, Cheung SW The array CGH and its clinical applications, Drug Discovery Today 13 (17-18): 760-70. Microarray detection may not produce a FASTQ file directly, however programs are available to convert the data produced by the microarray sequencers to a FASTQ, or similar, format.</p>
+<p id="p-0145" num="0140">Another method of detecting DNA molecules, RNA molecules, and copy number is fluorescent in situ hybridization (FISH). In Situ Hybridization Protocols (Ian Darby ed., 2000). FISH is a molecular cytogenetic technique that detects specific chromosomal rearrangements such as mutations in a DNA sequence and copy number variances. A DNA molecule is chemically denatured and separated into two strands. A single stranded probe is then incubated with a denatured strand of the DNA. The signals stranded probe is selected depending target sequence portion and has a high affinity to the complementary sequence portion. Probes may include a repetitive sequence probe, a whole chromosome probe, and locus-specific probes. While incubating, the combined probe and DNA strand are hybridized. The results are then visualized and quantified under a microscope in order to assess any variations.</p>
+<p id="p-0146" num="0141">In another embodiment, a MassARRAY&#x2122;-based gene expression profiling method is used to measure gene expression. In the MassARRAY&#x2122;-based gene expression profiling method, developed by Sequenom, Inc. (San Diego, Calif.) following the isolation of RNA and reverse transcription, the obtained cDNA is spiked with a synthetic DNA molecule (competitor), which matches the targeted cDNA region in all positions, except a single base, and serves as an internal standard. The cDNA/competitor mixture is PCR amplified and is subjected to a post-PCR shrimp alkaline phosphatase (SAP) enzyme treatment, which results in the dephosphorylation of the remaining nucleotides. After inactivation of the alkaline phosphatase, the PCR products from the competitor and cDNA are subjected to primer extension, which generates distinct mass signals for the competitor- and cDNA-derives PCR products. After purification, these products are dispensed on a chip array, which is pre-loaded with components needed for analysis with matrix-assisted laser desorption ionization time-of-flight mass spectrometry (MALDI-TOF MS) analysis. The cDNA present in the reaction is then quantified by analyzing the ratios of the peak areas in the mass spectrum generated. For further details see, e.g. Ding and Cantor, Proc. Natl. Acad. Sci. USA 100:3059 3064 (2003).</p>
+<p id="p-0147" num="0142">Further PCR-based techniques include, for example, differential display (Liang and Pardee, Science 257:967 971 (1992)); amplified fragment length polymorphism (iAFLP) (Kawamoto et al., Genome Res. 12:1305 1312 (1999)); BeadArray&#x2122; technology (Illumina, San Diego, Calif.; Oliphant et al., Discovery of Markers for Disease (Supplement to Biotechniques), June 2002; Ferguson et al., Analytical Chemistry 72:5618 (2000)); Beads Array for Detection of Gene Expression (BADGE), using the commercially available Luminex100 LabMAP system and multiple color-coded microspheres (Luminex Corp., Austin, Tex.) in a rapid assay for gene expression (Yang et al., Genome Res. 11:1888 1898 (2001)); and high coverage expression profiling (HiCEP) analysis (Fukumura et al., Nucl. Acids. Res. 31(16) e94 (2003)). The contents of each of which are incorporated by reference herein in their entirety.</p>
+<p id="p-0148" num="0143">In certain embodiments, variances in gene expression can also be identified, or confirmed using a microarray techniques, including nylon membrane arrays, microchip arrays and glass slide arrays, e.g., such as available commercially from Affymetrix (Santa Clara, Calif.). Generally, RNA samples are isolated and converted into labeled cDNA via reverse transcription. The labeled cDNA is then hybridized onto either a nylon membrane, microchip, or a glass slide with specific DNA probes from cells or tissues of interest. The hybridized cDNA is then detected and quantified, and the resulting gene expression data may be compared to controls for analysis. The methods of labeling, hybridization, and detection vary depending on whether the microarray support is a nylon membrane, microchip, or glass slide. Nylon membrane arrays are typically hybridized with P-dNTP labeled probes. Glass slide arrays typically involve labeling with two distinct fluorescently labeled nucleotides. Methods for making microarrays and determining gene product expression (e.g., RNA or protein) are shown in Yeatman et al. (U.S. patent application number 2006/0195269), the content of which is incorporated by reference herein in its entirety.</p>
+<p id="p-0149" num="0144">In some embodiments, mass spectrometry (MS) analysis can be used alone or in combination with other methods (e.g., immunoassays or RNA measuring assays) to determine the presence and/or quantity of the one or more biomarkers disclosed herein in a biological sample. In some embodiments, the MS analysis includes matrix-assisted laser desorption/ionization (MALDI) time-of-flight (TOF) MS analysis, such as for example direct-spot MALDI-TOF or liquid chromatography MALDI-TOF mass spectrometry analysis. In some embodiments, the MS analysis comprises electrospray ionization (ESI) MS, such as for example liquid chromatography (LC) ESI-MS. Mass analysis can be accomplished using commercially-available spectrometers. Methods for utilizing MS analysis, including MALDI-TOF MS and ESI-MS, to detect the presence and quantity of biomarker peptides in biological samples are known in the art. See for example U.S. Pat. Nos. 6,925,389; 6,989,100; and 6,890,763 for further guidance, each of which is incorporated by reference herein in their entirety.</p>
+<p id="p-0150" num="0145">Protein sequences for use with the methods, sequence constructs, and systems of the invention can be determined using a number of techniques known to those skilled in the relevant art. For example, amino acid sequences and amino acid sequence reads may be produced by analyzing a protein or a portion of a protein with mass spectrometry or using Edman degradation. Mass spectrometry may include, for example, matrix-assisted laser desorption/ionization (MALDI) time-of-flight (TOF) MS analysis, such as for example direct-spot MALDI-TOF or liquid chromatography MALDI-TOF mass spectrometry analysis, electrospray ionization (ESI) MS, such as for example liquid chromatography (LC) ESI-MS, or other techniques such as MS-MS. Edman degradation analysis may be performed using commercial instruments such as the Model 49X Procise protein/peptide sequencer (Applied Biosystems/Life Technologies). The sequenced amino acid sequences, i.e., polypeptides, i.e., proteins, may be at least 10 amino acids in length, e.g., at least 20 amino acids in length, e.g., at least 50 amino acids in length.</p>
+<heading id="h-0015" level="1">Incorporation by Reference</heading>
+<p id="p-0151" num="0146">References and citations to other documents, such as patents, patent applications, patent publications, journals, books, papers, web contents, have been made throughout this disclosure. All such documents are hereby incorporated herein by reference in their entirety for all purposes.</p>
+<heading id="h-0016" level="1">Equivalents</heading>
+<p id="p-0152" num="0147">Various modifications of the invention and many further embodiments thereof, in addition to those shown and described herein, will become apparent to those skilled in the art from the full contents of this document, including references to the scientific and patent literature cited herein. The subject matter herein contains important information, exemplification and guidance that can be adapted to the practice of this invention in its various embodiments and equivalents thereof.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-sequence-list-doc id="SEQLST-1">
+<sequence-list file="US20220411881A1-20221229-S00001.XML" carriers="internal-electronic" seq-file-type="ST.25"/>
+</us-sequence-list-doc>
+<claims id="claims">
+<claim id="CLM-01-20" num="01-20">
+<claim-text><b>1</b>-<b>20</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. A method for identifying one or more mutations associated with an advanced stage of cancer, the method comprising:
+<claim-text>using at least one computer hardware processor to perform:
+<claim-text>obtaining, from at least one non-transitory computer-readable storage medium, a graph data structure representing a reference sequence and genetic variation of the reference sequence, wherein a first path through the graph data structure represents a first sequence associated with a first string of one or more symbols and a second path through the graph data structure represents a second sequence associated with a second string of one or more symbols, the first sequence representing at least a first portion of the reference sequence and the second sequence representing a first genetic variation from the at least the first portion of the reference sequence, the first genetic variation being associated with the cancer;</claim-text>
+<claim-text>obtaining a plurality of sequence reads previously obtained from a genetic sample from a subject, wherein the genetic sample is associated with the advanced stage of the cancer;</claim-text>
+<claim-text>aligning a first sequence read of the plurality of sequence reads to the graph data structure, the aligning comprising:
+<claim-text>determining a plurality of scores corresponding to a respective plurality of alignments between the first sequence read and the graph data structure, the plurality of scores including a first score corresponding to a first alignment between the first sequence read and at least a first portion of the graph data structure, the first score being determined based on a degree of overlap between the first sequence read and the first string and a degree of overlap between the first sequence read and the second string; and</claim-text>
+<claim-text>identifying one or more differences between the first sequence read and at least a portion of the graph data structure against which the first sequence read is aligned, wherein the one or more differences represent the one or more mutations associated with the advanced stage of the cancer.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>updating the graph data structure, the updating comprising:
+<claim-text>representing, in the graph data structure, the identified one or more differences between the first sequence read and the at least the portion of the graph data structure.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein a difference of the one or more differences comprises a third sequence associated with a third string of one or more symbols, and wherein representing the difference in the graph data structure comprises representing the difference as a third path through the graph data structure.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00022">claim 22</claim-ref>, further comprising:
+<claim-text>obtaining a second plurality of sequence reads previously obtained from a second genetic sample; and</claim-text>
+<claim-text>aligning at least one sequence read of the second plurality of sequence reads to the updated graph data structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the at least the portion of the graph data structure represents a sequence associated with a string of one or more symbols, and
+<claim-text>where identifying the one or more differences between the first sequence read and the at least the portion of the graph data structure comprises:
+<claim-text>comparing the first sequence read to the sequence represented by the at least the portion of the graph data structure.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein identifying the one or more differences between the first sequence read and the at least the portion of the graph reference comprises:
+<claim-text>determining whether the at least the portion of the graph data structure comprises at least a portion of the second path through the graph data structure; and</claim-text>
+<claim-text>determining that the one or more differences represent the one or more mutations associated with the advanced stage of the cancer when the at least the portion of the graph data structure comprises the at least the portion of the second path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the genetic sample comprises a tumor sample.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the second sequence is associated with a second genetic sample from the subject, the second genetic sample being associated with the cancer.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The method of <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein a third path through the graph data structure represents a third sequence, the third sequence representing a second genetic variation from the at least the first portion of the reference sequence, wherein the second genetic variation represents a non-cancerous genetic variation.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text><b>30</b>. The method of <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein the third sequence is associated with a third genetic sample from the subject, the third genetic sample being non-cancerous.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text><b>31</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>aligning a second sequence read of the plurality of sequence reads to the graph data structure; and</claim-text>
+<claim-text>identifying one or more second differences between the second sequence read and at least a second portion of the graph data structure against which the second sequence read is aligned, wherein the one or more second differences represent one or more second mutations associated with the advanced stage of the cancer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text><b>32</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising:
+<claim-text>determining, based on a presence of the one or more mutations associated with the advanced stage of the cancer, whether the subject should undergo additional testing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text><b>33</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the genetic variation comprises an insertion, a deletion, a polymorphism, or a structural variant.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text><b>34</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the graph data structure comprises a directed acyclic graph (DAG) data structure.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text><b>35</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the graph data structure comprises a plurality of nodes, and wherein the first path comprises a node of the plurality of nodes not included in the second path.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text><b>36</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the graph data structure comprises a plurality of nodes, and wherein the second path comprises a node of the plurality of nodes not included in the first path.</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text><b>37</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the reference sequence comprises a reference genome, and wherein the genetic variation comprises a genetic variation of the reference genome.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text><b>38</b>. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, further comprising providing information indicative of the one or more differences to a health care provider.</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text><b>39</b>. A system comprising:
+<claim-text>at least one computer hardware processor; and</claim-text>
+<claim-text>at least one non-transitory computer-readable storage medium storing processor-executable instructions that, when executed by the at least one computer hardware processor, cause the at least one computer hardware processor to perform:
+<claim-text>obtaining, from at least one non-transitory computer-readable storage medium, a graph data structure representing a reference sequence and genetic variation of the reference sequence, wherein a first path through the graph data structure represents a first sequence associated with a first string of one or more symbols and a second path through the graph data structure represents a second sequence associated with a second string of one or more symbols, the first sequence representing at least a first portion of the reference sequence and the second sequence representing a first genetic variation from the at least the first portion of the reference sequence, the first genetic variation being associated with the cancer;</claim-text>
+<claim-text>obtaining a plurality of sequence reads previously-obtained from a genetic sample, wherein the genetic sample is associated with the advanced stage of the cancer;</claim-text>
+<claim-text>aligning a first sequence read of the plurality of sequence reads to the graph data structure, the aligning comprising:
+<claim-text>determining a plurality of scores corresponding to a respective plurality of alignments between the first sequence read and the graph data structure, the plurality of scores including a first score corresponding to a first alignment between the first sequence read and at least a first portion of the graph data structure, the first score being determined based on a degree of overlap between the first sequence read and the first string and a degree of overlap between the first sequence read and the second string; and</claim-text>
+</claim-text>
+<claim-text>identifying, based on results of the aligning, one or more differences between the first sequence read and at least a portion of the graph data structure, wherein the one or more differences represent the one or more mutations associated with the advanced stage of the cancer.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text><b>40</b>. At least one non-transitory computer-readable storage medium storing processor-executable instructions that, when executed by at least one computer hardware processor, cause the at least one computer-hardware processor to perform:
+<claim-text>obtaining, from at least one non-transitory computer-readable storage medium, a graph data structure representing a reference sequence and genetic variation of the reference sequence, wherein a first path through the graph data structure represents a first sequence associated with a first string of one or more symbols and a second path through the graph data structure represents a second sequence associated with a second string of one or more symbols, the first sequence representing at least a first portion of the reference sequence and the second sequence representing a first genetic variation from the at least the first portion of the reference sequence, the first genetic variation being associated with the cancer;</claim-text>
+<claim-text>obtaining a plurality of sequence reads previously-obtained from a genetic sample, wherein the genetic sample is associated with the advanced stage of the cancer;
+<claim-text>aligning a first sequence read of the plurality of sequence reads to the graph data structure, the aligning comprising:</claim-text>
+</claim-text>
+<claim-text>determining a plurality of scores corresponding to a respective plurality of alignments between the first sequence read and the graph data structure, the plurality of scores including a first score corresponding to a first alignment between the first sequence read and at least a first portion of the graph data structure, the first score being determined based on a degree of overlap between the first sequence read and the first string and a degree of overlap between the first sequence read and the second string; and</claim-text>
+<claim-text>identifying, based on results of the aligning, one or more differences between the first sequence read and at least a portion of the graph data structure, wherein the one or more differences represent the one or more mutations associated with the advanced stage of the cancer.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

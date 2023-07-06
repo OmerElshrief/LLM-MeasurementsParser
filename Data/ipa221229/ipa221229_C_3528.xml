@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411918A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411918</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17361231</doc-number>
+<date>20210628</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>30</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>448</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>305</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>4485</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>16</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>21</main-group>
+<subgroup>0228</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">LOW TEMPERATURE GROWTH OF TRANSITION METAL CHALCOGENIDES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<orgname>Applied Materials, Inc.</orgname>
+<address>
+<city>Santa Clara</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Das</last-name>
+<first-name>Chandan</first-name>
+<address>
+<city>Singapore</city>
+<country>SG</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>Roy</last-name>
+<first-name>Susmit Singha</first-name>
+<address>
+<city>Sunnyvale</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>Bhuyan</last-name>
+<first-name>Bhaskar Jyoti</first-name>
+<address>
+<city>San Jose</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>Sudijono</last-name>
+<first-name>John</first-name>
+<address>
+<city>Singapore</city>
+<country>SG</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>Mallick</last-name>
+<first-name>Abhijit Basu</first-name>
+<address>
+<city>Palo Alto</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="05" designation="us-only">
+<addressbook>
+<last-name>Saly</last-name>
+<first-name>Mark</first-name>
+<address>
+<city>Santa Clara</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Applied Materials, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Santa Clara</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Transition metal dichalcogenide films and methods for depositing transition metal dichalcogenide films on a substrate are described. Methods for converting transition metal oxide films to transition metal dichalcogenide films are also described. The substrate is exposed to a precursor and a chalcogenide reactant to form the transition metal dichalcogenide film. The exposures can be sequential or simultaneous.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="84.84mm" wi="127.76mm" file="US20220411918A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="178.39mm" wi="129.79mm" file="US20220411918A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.74mm" wi="109.39mm" file="US20220411918A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">Embodiments of the disclosure generally relate to methods of forming transition metal dichalcogenides (TMDC). In particular, embodiments of the disclosure are directed to methods of forming TMDC films for memory and logic applications.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The semiconductor processing industry continues to strive for larger production yields while increasing the uniformity of layers deposited on substrates having larger surface areas. These same factors in combination with new materials also provide higher integration of circuits per unit area of the substrate. As circuit integration increases, the need for greater uniformity and process control regarding layer thickness rises. As a result, various technologies have been developed to deposit layers on substrates in a cost-effective manner, while maintaining control over the characteristics of the layer.</p>
+<p id="p-0004" num="0003">Chemical vapor deposition (CVD) is one of the most common deposition processes employed for depositing layers on a substrate. CVD is a flux-dependent deposition technique that requires precise control of the substrate temperature and the precursors introduced into the processing chamber in order to produce a desired layer of uniform thickness. These requirements become more critical as substrate size increases, creating a need for more complexity in chamber design and gas flow technique to maintain adequate uniformity.</p>
+<p id="p-0005" num="0004">A variant of CVD that demonstrates excellent step coverage is cyclical deposition or atomic layer deposition (ALD). Cyclical deposition is based upon atomic layer epitaxy (ALE) and employs chemisorption techniques to deliver precursor molecules on a substrate surface in sequential cycles. The cycle exposes the substrate surface to a first precursor, a purge gas, a second precursor and the purge gas. The first and second precursors react to form a product compound as a film on the substrate surface. The cycle is repeated to form the layer to a desired thickness.</p>
+<p id="p-0006" num="0005">The advancing complexity of advanced microelectronic devices is placing stringent demands on currently used deposition techniques. Unfortunately, there is a limited number of viable chemical precursors available that have the requisite properties of robust thermal stability, high reactivity, and vapor pressure suitable for film growth to occur.</p>
+<p id="p-0007" num="0006">Transition metal dichalcogenides (TMDC) are known to be great candidates to mitigate the issue of metal migration associated with interconnect downscaling of films. Moreover, TMDC possess better conductivity and carrier mobility compared to current processes in 3D NAND devices. Recent TMDC methods require high temperature processes which may not be compatible with device thermal budgets.</p>
+<p id="p-0008" num="0007">There is, therefore, a need in the art for TMDC that can be grown at a lower temperature suitable for device integration in temperature sensitive structures.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0009" num="0008">One or more embodiments of the disclosure are directed to a method of depositing a film comprising forming a transition metal oxide film on a substrate surface; and converting the transition metal oxide film to a transition metal dichalcogenide film</p>
+<p id="p-0010" num="0009">Additional embodiments of the disclosure are directed to a method of depositing a film comprising forming a transition metal dichalcogenide film in a process cycle comprising sequential exposure of a substrate to a transition metal oxide precursor, a purge gas, a chalcogenide reactant, and purge gas.</p>
+<p id="p-0011" num="0010">Further embodiments of the disclosure are directed to a method of depositing a film comprising forming a transition metal oxide film in a metal oxide process cycle comprising sequential exposure of a substrate to a transition metal precursor, a purge gas, an oxide reactant, and a purge gas; and converting the transition metal oxide film to a transition metal dichalcogenide film in a chalcogen process cycle comprising sequential exposure of the transition metal oxide film to a chalcogenide reactant and a purge gas.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">So that the manner in which the above recited features of the disclosure can be understood in detail, a more particular description of the disclosure, briefly summarized above, may be had by reference to embodiments, some of which are illustrated in the appended drawings. It is to be noted, however, that the appended drawings illustrate only typical embodiments of the disclosure and are therefore not to be considered limiting of its scope, for the disclosure may admit to other equally effective embodiments.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>1</b></figref> illustrates a cross-sectional view of a substrate in accordance with one or more embodiments of the disclosure;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>2</b></figref> illustrates a cross-sectional view of a substrate in accordance with one or more embodiments of the disclosure; and</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>3</b></figref> illustrates a process flow diagram of a method in accordance with one or more embodiments of the disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0016" num="0015">Before describing several exemplary embodiments of the disclosure, it is to be understood that the disclosure is not limited to the details of construction or process steps set forth in the following description. The disclosure is capable of other embodiments and of being practiced or being carried out in various ways.</p>
+<p id="p-0017" num="0016">As used in this specification and the appended claims, the term &#x201c;substrate&#x201d; refers to a surface, or portion of a surface, upon which a process acts. It will also be understood by those skilled in the art that reference to a substrate can also refer to only a portion of the substrate unless the context clearly indicates otherwise. Additionally, reference to depositing on a substrate can mean both a bare substrate and a substrate with one or more films or features deposited or formed thereon.</p>
+<p id="p-0018" num="0017">As used herein, the term &#x201c;substantially free&#x201d; means that there is less than less than about 5%, including less than about 4%, less than about 3%, less than about 2%, less than about 1%, and less than about 0.5% of oxygen, on an atomic basis, in the transition metal dichalcogenide film.</p>
+<p id="p-0019" num="0018">A &#x201c;substrate&#x201d; as used herein, refers to any substrate or material surface formed on a substrate upon which film processing is performed during a fabrication process. For example, a substrate surface on which processing can be performed include materials such as silicon, silicon oxide, strained silicon, silicon on insulator (SOI), carbon doped silicon oxides, amorphous silicon, doped silicon, germanium, gallium arsenide, glass, sapphire, and any other materials such as metals, metal nitrides, metal alloys, and other conductive materials, depending on the application. Substrates include, without limitation, semiconductor wafers. Substrates may be exposed to a pretreatment process to polish, etch, reduce, oxidize, hydroxylate, anneal, UV cure, e-beam cure and/or bake the substrate surface. In addition to film processing directly on the surface of the substrate itself, in the present disclosure, any of the film processing steps disclosed may also be performed on an underlayer formed on the substrate as disclosed in more detail below, and the term &#x201c;substrate surface&#x201d; is intended to include such underlayer as the context indicates. Thus, for example, where a film/layer or partial film/layer has been deposited onto a substrate surface, the exposed surface of the newly deposited film/layer becomes the substrate surface.</p>
+<p id="p-0020" num="0019">As used herein, a &#x201c;substrate surface&#x201d; refers to any substrate surface upon which a layer may be formed. The substrate surface may have one or more features formed therein, one or more layers formed thereon, and combinations thereof. The substrate (or substrate surface) may be pretreated prior to the deposition of the transition metal dichalcogenide layer, for example, by polishing, etching, reduction, oxidation, halogenation, hydroxylation, annealing, baking, or the like.</p>
+<p id="p-0021" num="0020">The substrate may be any substrate capable of having material deposited thereon, such as a silicon substrate, a III-V compound substrate, a silicon germanium (SiGe) substrate, an epi-substrate, a silicon-on-insulator (SOI) substrate, a display substrate such as a liquid crystal display (LCD), a plasma display, an electro luminescence (EL) lamp display, a solar array, solar panel, a light emitting diode (LED) substrate, a semiconductor wafer, or the like. In some embodiments, one or more additional layers may be disposed on the substrate such that the transition metal dichalcogenide layer may be at least partially formed thereon. For example, in some embodiments, a layer comprising a metal, a nitride, an oxide, or the like, or combinations thereof may be disposed on the substrate and may have the transition metal dichalcogenide layer formed upon such layer or layers.</p>
+<p id="p-0022" num="0021">According to one or more embodiments, the term &#x201c;on&#x201d;, with respect to a film or a layer of a film, includes the film or layer being directly on a surface, for example, a substrate surface, as well as there being one or more underlayers between the film or layer and the surface, for example the substrate surface. Thus, in one or more embodiments, the phrase &#x201c;on the substrate surface&#x201d; is intended to include one or more underlayers. In other embodiments, the phrase &#x201c;directly on&#x201d; refers to a layer or a film that is in contact with a surface, for example, a substrate surface, with no intervening layers. Thus, the phrase &#x201c;a layer directly on the substrate surface&#x201d; refers to a layer in direct contact with the substrate surface with no layers in between.</p>
+<p id="p-0023" num="0022">According to one or more embodiments, the method uses an atomic layer deposition (ALD) process. In such embodiments, the substrate surface is exposed to the precursors (or reactive gases) sequentially or substantially sequentially. As used herein throughout the specification, &#x201c;substantially sequentially&#x201d; means that a majority of the duration of a precursor exposure does not overlap with the exposure to a co-reagent, although there may be some overlap.</p>
+<p id="p-0024" num="0023">As used in this specification and the appended claims, the terms &#x201c;precursor&#x201d;, &#x201c;reactant&#x201d;, &#x201c;reactive gas&#x201d; and the like are used interchangeably to refer to any gaseous species that can react with the substrate surface.</p>
+<p id="p-0025" num="0024">&#x201c;Atomic layer deposition&#x201d; or &#x201c;cyclical deposition&#x201d; as used herein refers to the sequential exposure of two or more reactive compounds to deposit a layer of material on a substrate surface. As used in this specification and the appended claims, the terms &#x201c;reactive compound&#x201d;, &#x201c;reactive gas&#x201d;, &#x201c;reactive species&#x201d;, &#x201c;precursor&#x201d;, &#x201c;process gas&#x201d; and the like are used interchangeably to mean a substance with a species capable of reacting with the substrate surface or material on the substrate surface in a surface reaction (e.g., chemisorption, oxidation, reduction). The substrate, or portion of the substrate is exposed sequentially to the two or more reactive compounds which are introduced into a reaction zone of a processing chamber. In a time-domain ALD process, exposure to each reactive compound is separated by a time delay to allow each compound to adhere and/or react on the substrate surface. In a spatial ALD process, different portions of the substrate surface, or material on the substrate surface, are exposed simultaneously to the two or more reactive compounds so that any given point on the substrate is substantially not exposed to more than one reactive compound simultaneously. As used in this specification and the appended claims, the term &#x201c;substantially&#x201d; used in this respect means, as will be understood by those skilled in the art, that there is the possibility that a small portion of the substrate may be exposed to multiple reactive gases simultaneously due to diffusion, and that the simultaneous exposure is unintended.</p>
+<p id="p-0026" num="0025">In one aspect of a time-domain ALD process, a first reactive gas (i.e., a first precursor or compound A) is pulsed into the reaction zone followed by a first time delay. Next, a second precursor or compound B is pulsed into the reaction zone followed by a second delay. During each time delay a purge gas, such as argon, is introduced into the processing chamber to purge the reaction zone or otherwise remove any residual reactive compound or by-products from the reaction zone. Alternatively, the purge gas may flow continuously throughout the deposition process so that only the purge gas flows during the time delay between pulses of reactive compounds. The reactive compounds are alternatively pulsed until a desired film or film thickness is formed on the substrate surface. In either scenario, the ALD process of pulsing compound A, purge gas, compound B and purge gas is a cycle. A cycle can start with either compound A or compound B and continue the respective order of the cycle until achieving a film with the desired thickness. In some embodiments, there may be two reactants, A and B, that are alternatingly pulsed and purged. In other embodiments, there may be three or more reactants, A, B, and C, that are alternatingly pulsed and purged.</p>
+<p id="p-0027" num="0026">In an aspect of a spatial ALD process, a first reactive gas and second reactive gas (e.g., hydrogen radicals) are delivered simultaneously to the reaction zone but are separated by an inert gas curtain and/or a vacuum curtain. The substrate is moved relative to the gas delivery apparatus so that any given point on the substrate is exposed to the first reactive gas and the second reactive gas.</p>
+<p id="p-0028" num="0027">Embodiments of the disclosure provide methods of forming high-quality transition metal dichalcogenide films in terms of crystallinity, grain size, continuity, and electrical conductivity for use as a channel material, liner or barrier layer in the miniaturization and scaling of integrated circuits. In one or more embodiments, the transition metal dichalcogenide films act as a barrier layer in logic devices. For example, the transition metal dichalcogenide film may act as a barrier layer between a copper layer and a cobalt layer in a logic device to prevent electromigration of copper atoms and cobalt atoms. In one or more embodiments, transition metal dichalcogenide films act as a liner in 3D NAND applications. For example, the transition metal dichalcogenide film acting as a liner may enable nucleation of a subsequently deposited metal, adhesively bind a metal to underlying dielectric materials, and block diffusion of elements to the underlying dielectric materials. In one or more embodiments, transition metal dichalcogenide films act as a channel material in 3D NAND applications. In one or more embodiments, transition metal dichalcogenide films have better carrier mobility than poly-silicon, as an example. The carrier mobility of the transition metal dichalcogenide films may improve 3D NAND device performance.</p>
+<p id="p-0029" num="0028">Embodiments of the disclosure provide a low thermal budget approach to achieve high-quality 2D-transition metal dichalcogenide films for temperature-sensitive device architectures.</p>
+<p id="p-0030" num="0029">With reference to <figref idref="DRAWINGS">FIG. <b>1</b></figref>, a structure <b>100</b> including a substrate <b>110</b> having at least one feature <b>120</b> thereon is shown. The Figures show substrates having three features for illustrative purposes; however, those skilled in the art will understand that there can be more or less than three features. In one or more embodiments, the substrate <b>110</b> includes at least one feature <b>120</b>. The shape of the feature <b>120</b> can be any suitable shape including, but not limited to, trenches and cylindrical vias. As used in this regard, the term &#x201c;feature&#x201d; means any intentional surface irregularity. Suitable examples of features include but are not limited to trenches which have a top, two sidewalls and a bottom, and peaks which have a top and two sidewalls. Features can have any suitable aspect ratio (ratio of the depth of the feature to the width of the feature). In some embodiments, the aspect ratio is greater than or equal to about 5:1, 10:1, 15:1, 20:1, 25:1, 30:1, 35:1 or 40:1. In one or more embodiments, the at least one feature <b>120</b> is a trench. In one or more embodiments, the at least one feature <b>120</b> is a dielectric material and a conductive material. In one or more embodiments, a transition metal oxide film (not shown) forms selectively on the dielectric material.</p>
+<p id="p-0031" num="0030">With reference to <figref idref="DRAWINGS">FIG. <b>2</b></figref>, a structure <b>100</b> including a substrate <b>110</b> having at least one feature <b>120</b> thereon is shown. In one or more embodiments, each of the at least one feature <b>120</b> has a transition metal dichalcogenide film <b>140</b> deposited thereon. In one or more embodiments, the structure <b>100</b> includes a metal fill <b>150</b> that is deposited on the substrate <b>110</b> and on each of the at least one features <b>120</b> having the transition metal dichalcogenide film <b>140</b> thereon. In one or more embodiments, the metal fill <b>150</b> has a transition metal comprising one or more of tungsten (W), molybdenum (Mo), tantalum (Ta), titanium (Ti), or ruthenium (Ru).</p>
+<p id="p-0032" num="0031">Embodiments of the disclosure are directed to methods of depositing a film. In one or more embodiments, the method of depositing the film comprises forming a transition metal oxide film on a substrate surface; and converting the transition metal oxide film to a transition metal dichalcogenide film.</p>
+<p id="p-0033" num="0032">In one or more embodiments, forming the transition metal oxide film comprises forming a transition metal film followed by oxidizing the transition metal film to form the transition metal oxide film. In one or more embodiments, oxidizing the transition metal film comprises exposing the transition metal film to thermal treatment of one or more of O<sub>2 </sub>and O<sub>3</sub>. In one or more embodiments, the oxidized transition metal film (i.e., the transition metal oxide film) is sulfurized using thermal Ar/H<sub>2</sub>S or H<sub>2</sub>/H<sub>2</sub>S gas. In one or more embodiments, the oxidized transition metal film (i.e., the transition metal oxide film) is sulfurized using plasma Ar/H<sub>2</sub>S or H<sub>2</sub>/H<sub>2</sub>S gas. In specific embodiments, forming the transition metal film comprising tungsten (W) is followed by oxidizing the transition metal film to form the transition metal oxide film. In one or more embodiments, oxidizing the transition metal film having tungsten (W) comprises exposing the transition metal film to thermal treatment of one or more of O<sub>2 </sub>and O<sub>3</sub>. In one or more embodiments, the oxidized transition metal film (i.e., the transition metal oxide film) is sulfurized using thermal Ar/H<sub>2</sub>S or H<sub>2</sub>/H<sub>2</sub>S gas. In one or more embodiments, the oxidized transition metal film (i.e., the transition metal oxide film) is sulfurized using plasma Ar/H<sub>2</sub>S or H<sub>2</sub>/H<sub>2</sub>S gas. In one or more embodiments, the transition metal oxide film having tungsten (W) is converted to WS<sub>2 </sub>by one or more of the sulfurization processes described herein.</p>
+<p id="p-0034" num="0033">In one or more embodiments, oxidizing the transition metal film comprises exposing the transition metal film to plasma treatment of one or more of O<sub>2 </sub>and O<sub>3</sub>. In one or more embodiments, plasma treatment with inert or reactive gases is found to be effective. In one or more embodiments, the plasma treatment is generated by a remote plasma source (RPS) or a capacitively coupled plasma (CCP) or an inductively coupled plasma (ICP) with ambient like argon (Ar), helium (He), ammonia (NH<sub>3</sub>), nitrogen (N<sub>2</sub>), hydrogen (H<sub>2</sub>), or their mixtures.</p>
+<p id="p-0035" num="0034">In one or more embodiments, converting the transition metal oxide film to the transition metal dichalcogenide film is conducted at a plasma power in a range of from 25 watts (W) to 500 watts (W).</p>
+<p id="p-0036" num="0035">In one or more embodiments, the transition metal oxide film is converted to the transition metal dichalcogenide film after forming the transition metal oxide film having a thickness in a range of from 15 &#x212b; to 25 &#x212b;. In one or more embodiments, the transition metal oxide film is converted to the transition metal dichalcogenide film after forming the transition metal oxide film having a thickness in a range of from 16 &#x212b; to 24 &#x212b;, in a range of from 17 &#x212b; to 23 &#x212b;, in a range of from 18 &#x212b; to 22 &#x212b;, or in a range of from 19 &#x212b; to 21 &#x212b;.</p>
+<p id="p-0037" num="0036">In one or more embodiments, the method further comprises repeating forming the transition metal oxide film and converting the transition metal oxide film to form a transition metal dichalcogenide film with a final thickness up to 200 &#x212b;. In one or more embodiments, the transition metal dichalcogenide film has a final thickness up to 150 &#x212b;, up to 100 &#x212b;, or up to 50 &#x212b;.</p>
+<p id="p-0038" num="0037">In one or more embodiments, converting the transition metal oxide film to the transition metal dichalcogenide film is conducted at a temperature in a range of from 350&#xb0; C. to 500&#xb0; C. and at a pressure in a range of from 1 Torr to 10 Torr.</p>
+<p id="p-0039" num="0038">In one or more embodiments, converting the transition metal oxide film to the transition metal dichalcogenide film is conducted for a time period in a range of from 30 minutes to 60 minutes. In one or more embodiments, converting the transition metal oxide film to the transition metal dichalcogenide film comprises pulsing the transition metal oxide film with one or more of sulfur (S), selenium (Se) and tellurium (Te).</p>
+<p id="p-0040" num="0039">With reference to <figref idref="DRAWINGS">FIG. <b>3</b></figref>, one or more embodiments of the disclosure are directed to a method <b>200</b> of depositing a film. The method illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref> is representative of an atomic layer deposition (ALD) process in which the substrate or substrate surface is exposed sequentially to the reactive gases in a manner that prevents or minimizes gas phase reactions of the reactive gases. In some embodiments, the method comprises a chemical vapor deposition (CVD) process in which the reactive gases are mixed in the processing chamber to allow gas phase reactions of the reactive gases and deposition of the thin film.</p>
+<p id="p-0041" num="0040">In one or more embodiments of the disclosure, the method <b>200</b> comprises optionally pre-treating the substrate at operation <b>205</b>, forming a transition metal dichalcogenide film in a process cycle at deposition <b>210</b>, sequential exposure of a substrate to a transition metal oxide precursor at operation <b>212</b>, optionally purging the process chamber at operation <b>214</b>, exposing the substrate to a chalcogenide reactant at operation <b>216</b>, and optionally purging the process chamber at operation <b>218</b>.</p>
+<p id="p-0042" num="0041">In one or more embodiments of the disclosure, a method <b>200</b> comprises converting a transition metal oxide film to a transition metal dichalcogenide film (not shown). In these embodiments, the method <b>200</b> includes using two process cycles. In one or more embodiments, the method <b>200</b> comprises optionally pre-treating the substrate at operation <b>205</b>, forming a transition metal oxide film in a transition metal process cycle at deposition <b>210</b>, sequential exposure of a substrate to a transition metal precursor at operation <b>212</b>, optionally purging the process chamber at operation <b>214</b>, exposing the substrate to an oxide reactant at operation <b>216</b>, and optionally purging the process chamber at operation <b>218</b>. In one or more embodiments, the method <b>200</b> further comprises converting a transition metal oxide film to a transition metal dichalcogenide film (not shown) by forming a transition metal dichalcogenide film in a chalcogen process cycle at deposition <b>210</b>, sequential exposure of the substrate to a chalcogenide reactant at operation <b>216</b>, and optionally purging the process chamber at operation <b>218</b>.</p>
+<p id="p-0043" num="0042">Thus, <figref idref="DRAWINGS">FIG. <b>3</b></figref> illustrates a method <b>200</b> of forming a transition metal dichalcogenide film using one or more process cycles as described herein.</p>
+<p id="p-0044" num="0043">In some embodiments, the method <b>200</b> optionally includes a pre-treatment operation <b>205</b>. The pre-treatment can be any suitable pre-treatment known to the skilled artisan. Suitable pre-treatments include, but are not limited to, pre-heating, cleaning, soaking, native oxide removal, or deposition of an adhesion layer (e.g., titanium nitride (TiN)). In one or more embodiments, an adhesion layer, such as titanium nitride, is deposited at operation <b>205</b>. In other embodiments, an adhesion layer is not deposited. In one or more embodiments, the optional pre-treatment operation <b>205</b> includes flowing plasma gas comprising one or more of Ar/O<sub>2</sub>, Ar/H<sub>2</sub>, and Ar/H<sub>2</sub>S followed by Ar/H<sub>2</sub>.</p>
+<p id="p-0045" num="0044">At deposition <b>210</b>, a process is performed to deposit a transition metal dichalcogenide film on the substrate (or substrate surface). The deposition process can include one or more operations to form a film on the substrate. In one or more embodiments, deposition <b>210</b> comprises forming the transition metal dichalcogenide film in the process cycle.</p>
+<p id="p-0046" num="0045">In one or more embodiments, deposition <b>210</b> comprises forming a transition metal oxide film in a transition metal oxide process cycle. In one or more embodiments, where deposition <b>210</b> comprises forming the transition metal oxide film in the transition metal oxide process cycle.</p>
+<p id="p-0047" num="0046">In one or more embodiments, at operation <b>212</b>, the substrate (or substrate surface) is exposed to a transition metal precursor to deposit a film on the substrate (or substrate surface). The transition metal precursor can be any suitable transition metal containing compound that can react (i.e., adsorb or chemisorb onto) the substrate surface to leave a transition metal containing species on the substrate surface.</p>
+<p id="p-0048" num="0047">In one or more embodiments, at operation <b>212</b>, the substrate (or substrate surface) is exposed to a transition metal oxide precursor to deposit a film on the substrate (or substrate surface). The transition metal oxide precursor can be any suitable transition metal oxide containing compound that can react (i.e., adsorb or chemisorb onto) the substrate surface to leave a transition metal oxide containing species on the substrate surface. In one or more embodiments, the transition metal oxide precursor comprises one or more of WOF<sub>4</sub>, WO<sub>2</sub>F<sub>2</sub>, WOCl<sub>4</sub>, WO<sub>2</sub>Cl<sub>2</sub>, WOBr<sub>4</sub>, WO<sub>2</sub>Br<sub>2</sub>, WOI<sub>4</sub>, WO<sub>2</sub>I<sub>2</sub>, MoOF<sub>4</sub>, MoO<sub>2</sub>F<sub>2</sub>, MoOCl<sub>4</sub>, MoO<sub>2</sub>Cl<sub>2</sub>, MoOBr<sub>4</sub>, MoO<sub>2</sub>Br<sub>2</sub>, MoOI<sub>4</sub>, MoO<sub>2</sub>I<sub>2</sub>, TaOF<sub>4</sub>, TaO<sub>2</sub>F<sub>2</sub>, TaOCl<sub>4</sub>, TaO<sub>2</sub>Cl<sub>2</sub>, TaOBr<sub>4</sub>, TaO<sub>2</sub>Br<sub>2</sub>, TaOI<sub>4</sub>, TaO<sub>2</sub>I<sub>2</sub>, TiOF<sub>4</sub>, TiO<sub>2</sub>F<sub>2</sub>, TiOCl<sub>4</sub>, TiO<sub>2</sub>Cl<sub>2</sub>, TiOBr<sub>4</sub>, TiO<sub>2</sub>Br<sub>2</sub>, TiOI<sub>4</sub>, TiO<sub>2</sub>I<sub>2</sub>, RuOF<sub>4</sub>, RuO<sub>2</sub>F<sub>2</sub>, RuOCl<sub>4</sub>, RuO<sub>2</sub>Cl<sub>2</sub>, RuOBr<sub>4</sub>, RuO<sub>2</sub>Br<sub>2</sub>, RuOI<sub>4</sub>, and RuO<sub>2</sub>I<sub>2</sub>.</p>
+<p id="p-0049" num="0048">At operation <b>214</b>, the processing chamber is optionally purged to remove unreacted transition metal oxide precursor, reaction products and byproducts. As used in this manner, the term &#x201c;processing chamber&#x201d; also includes portions of a processing chamber adjacent the substrate surface without encompassing the complete interior volume of the processing chamber. For example, in a sector of a spatially separated processing chamber, the portion of the processing chamber adjacent the substrate surface is purged of the transition metal oxide precursor by any suitable technique including, but not limited to, moving the substrate through a gas curtain to a portion or sector of the processing chamber that contains none or substantially none of the transition metal precursor or, in some embodiments, the transition metal oxide precursor. In one or more embodiments, purging the processing chamber comprises applying a vacuum. In some embodiments, purging the processing chamber comprises flowing a purge gas over the substrate. In some embodiments, the portion of the processing chamber refers to a micro-volume or small volume process station within a processing chamber. The term &#x201c;adjacent&#x201d; referring to the substrate surface means the physical space next to the surface of the substrate which can provide sufficient space for a surface reaction (e.g., precursor adsorption) to occur. In one or more embodiments, the purge gas is selected from one or more of nitrogen (N<sub>2</sub>), helium (He), and argon (Ar). In one or more embodiments, the substrate surface is purged of the transition metal precursor or, in some embodiments, the transition metal oxide precursor prior to exposing the substrate to a chalcogenide reactant.</p>
+<p id="p-0050" num="0049">In one or more embodiments, at operation <b>214</b>, the processing chamber is optionally purged to remove unreacted transition metal precursor, reaction products and byproducts.</p>
+<p id="p-0051" num="0050">At operation <b>216</b>, the substrate (or substrate surface) is exposed to a chalcogenide reactant to form a transition metal dichalcogenide film on the substrate. The chalcogenide reactant can react with the transition metal containing species on the substrate surface to form the transition metal dichalcogenide film. In some embodiments, the chalcogenide reactant comprises a reducing agent. In one or more embodiments, the reducing agent can comprise any reducing agent known to one of skill in the art. In other embodiments, the chalcogenide reactant comprises an oxidizing agent. In one or more embodiments, the oxidizing agent can comprise any oxidizing agent known to one of skill in the art. In further embodiments, the chalcogenide reactant comprises one or more of oxidizing agent and a reducing agent.</p>
+<p id="p-0052" num="0051">In one or more embodiments, at operation <b>216</b>, the substrate (or substrate surface) is exposed to an oxide reactant to form a transition metal oxide film in a transition metal oxide process cycle. After forming the transition metal oxide film in the transition metal oxide process cycle, the transition metal oxide film is converted to a transition metal dichalcogenide film in another process cycle.</p>
+<p id="p-0053" num="0052">At operation <b>218</b>, the processing chamber is optionally purged after exposure to the chalcogenide reactant. Purging the processing chamber in operation <b>218</b> can be the same process or different process than the purge in operation <b>214</b>. Purging the processing chamber, portion of the processing chamber, area adjacent the substrate surface, etc., removes unreacted chalcogenide reactant, oxide reactant, reaction products and byproducts from the area adjacent the substrate surface. In one or more embodiments, at operation <b>218</b>, the processing chamber is optionally purged after exposure to the oxide reactant.</p>
+<p id="p-0054" num="0053">At decision <b>220</b>, the thickness of the deposited film, or number of cycles of precursor and reactant is considered. If the deposited film has reached a predetermined thickness or a predetermined number of process cycles have been performed, the method <b>200</b> moves to an optional post-processing operation <b>230</b>. If the thickness of the deposited film or the number of process cycles has not reached the predetermined threshold, the method <b>200</b> returns to operation <b>210</b> to expose the substrate surface to the precursor again in operation <b>212</b> and continues processing.</p>
+<p id="p-0055" num="0054">In one or more embodiments, the deposited film is substantially free of oxygen. As used herein, &#x201c;substantially free&#x201d; means that there is less than about 5%, including less than about 4%, less than about 3%, less than about 2%, less than about 1%, and less than about 0.5% of oxygen, on an atomic basis, in the deposited film. Accordingly, without intending to be bound by theory, it is thought that the transition metal dichalcogenide film that is formed is formed without producing oxygen as a byproduct, thus minimizing the potential to etch/corrode underlying metal layers.</p>
+<p id="p-0056" num="0055">The optional post-processing operation <b>230</b> can be, for example, a process to modify film properties (e.g., annealing) or a further film deposition process (e.g., additional ALD or CVD processes) to grow additional films. In some embodiments, the optional post-processing operation <b>230</b> can be a process that modifies a property of the deposited film. In some embodiments, the optional post-processing operation <b>230</b> comprises annealing the as-deposited film. In some embodiments, annealing is done at temperatures in the range of about 300&#xb0; C., 400&#xb0; C., 500&#xb0; C., 600&#xb0; C., 700&#xb0; C., 800&#xb0; C., 900&#xb0; C., or 1000&#xb0; C. The annealing environment of some embodiments comprises one or more of an inert gas (e.g., molecular nitrogen (N<sub>2</sub>), argon (Ar)) or a reducing gas (e.g., molecular hydrogen (H<sub>2</sub>) or ammonia (NH<sub>3</sub>)) or an oxidant, such as, but not limited to, oxygen (O<sub>2</sub>), ozone (O<sub>3</sub>), or peroxides. Annealing can be performed for any suitable length of time. In some embodiments, the film is annealed for a predetermined time in the range of about 15 seconds to about 90 minutes, or in the range of about 1 minute to about 60 minutes. In some embodiments, annealing the as-deposited film increases the density, decreases the resistivity and/or increases the purity of the film and/or increases the crystallinity of the film.</p>
+<p id="p-0057" num="0056">The method <b>200</b> can be performed at any suitable temperature depending on, for example, the transition metal precursor, transition metal oxide precursor, chalcogenide reactant, oxide reactant or thermal budget of the device. In one or more embodiments, the use of high temperature processing may be undesirable for temperature-sensitive substrates, such as logic devices. In some embodiments, exposure to the transition metal precursor or the transition metal oxide precursor (operation <b>212</b>) and the chalcogenide reactant or the oxide reactant (operation <b>216</b>) occur at the same temperature. In some embodiments, the substrate is maintained at a temperature in a range of from 350&#xb0; C. to 500&#xb0; C.</p>
+<p id="p-0058" num="0057">In some embodiments, exposure to the transition metal precursor or the transition metal oxide precursor (operation <b>212</b>) occurs at a different temperature than the exposure to the chalcogenide reactant or the oxide reactant (operation <b>216</b>). In some embodiments, the substrate is maintained at a first temperature in a range of from 350&#xb0; C. to 500&#xb0; C., for the exposure to the transition metal precursor or the transition metal oxide precursor, and at a second temperature in the range of from 350&#xb0; C. to 500&#xb0; C., for exposure the chalcogenide reactant or the oxide reactant. In some embodiments, both the metal and chalcogen/oxidant precursors are delivered at the same substrate temperature. The adsorbed metal precursor alone on the substrate may be self-limiting and, in some embodiments, multiple pulses of the metal precursor shall not provide a multilayer film without the chalcogen/oxidant. In some embodiments, both the precursors make a complete cycle which are carried out at the same substrate temperatures.</p>
+<p id="p-0059" num="0058">In the embodiment illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, at deposition operation <b>210</b> the substrate (or substrate surface) is exposed to the transition metal oxide precursor and the chalcogen reactant sequentially. In another, un-illustrated, embodiment, the substrate (or substrate surface) is exposed to the transition metal oxide precursor and the chalcogen reactant simultaneously in a CVD reaction. In a CVD reaction, the substrate (or substrate surface) can be exposed to a gaseous mixture of the transition metal oxide precursor and the chalcogen reactant to deposit a transition metal dichalcogenide film having a predetermined thickness. In the CVD reaction, the transition metal dichalcogenide film can be deposited in one exposure to the mixed reactive gas or can be multiple exposures to the mixed reactive gas with purges between.</p>
+<p id="p-0060" num="0059">In the embodiment illustrated in <figref idref="DRAWINGS">FIG. <b>3</b></figref>, at deposition operation <b>210</b> the substrate (or substrate surface) is exposed to the transition metal precursor and the oxide reactant sequentially. In another, un-illustrated, embodiment, the substrate (or substrate surface) is exposed to the transition metal precursor and the oxide reactant simultaneously in a CVD reaction. In a CVD reaction, the substrate (or substrate surface) can be exposed to a gaseous mixture of the transition metal precursor and the oxide reactant to deposit a transition metal dichalcogenide film having a predetermined thickness. In the CVD reaction, the transition metal dichalcogenide film can be deposited in one exposure to the mixed reactive gas or can be multiple exposures to the mixed reactive gas with purges between.</p>
+<p id="p-0061" num="0060">In one or more embodiments, the deposition operation <b>210</b> can be repeated to form a film comprising one or more of WOF<sub>4</sub>, WO<sub>2</sub>F<sub>2</sub>, WOCl<sub>4</sub>, WO<sub>2</sub>Cl<sub>2</sub>, WOBr<sub>4</sub>, WO<sub>2</sub>Br<sub>2</sub>, WOI<sub>4</sub>, WO<sub>2</sub>I<sub>2</sub>, MoOF<sub>4</sub>, MoO<sub>2</sub>F<sub>2</sub>, MoOCl<sub>4</sub>, MoO<sub>2</sub>Cl<sub>2</sub>, MoOBr<sub>4</sub>, MoO<sub>2</sub>Br<sub>2</sub>, MoOI<sub>4</sub>, MoO<sub>2</sub>I<sub>2</sub>, TaOF<sub>4</sub>, TaO<sub>2</sub>F<sub>2</sub>, TaOCl<sub>4</sub>, TaO<sub>2</sub>Cl<sub>2</sub>, TaOBr<sub>4</sub>, TaO<sub>2</sub>Br<sub>2</sub>, TaOI<sub>4</sub>, TaO<sub>2</sub>I<sub>2</sub>, TiOF<sub>4</sub>, TiO<sub>2</sub>F<sub>2</sub>, TiOCl<sub>4</sub>, TiO<sub>2</sub>Cl<sub>2</sub>, TiOBr<sub>4</sub>, TiO<sub>2</sub>Br<sub>2</sub>, TiOI<sub>4</sub>, TiO<sub>2</sub>I<sub>2</sub>, RuOF<sub>4</sub>, RuO<sub>2</sub>F<sub>2</sub>, RuOCl<sub>4</sub>, RuO<sub>2</sub>Cl<sub>2</sub>, RuOBr<sub>4</sub>, RuO<sub>2</sub>Br<sub>2</sub>, RuOI<sub>4</sub>, and RuO<sub>2</sub>I<sub>2</sub>, having a predetermined thickness. In some embodiments, the deposition operation <b>210</b> is repeated a number of times to provide a film having a thickness in the range of from 15 &#x212b; to 25 &#x212b;. In some embodiments, deposition to a predetermined thickness is generated by pyrolysis without another reactant, when the precursor is not stable above certain temperature.</p>
+<p id="p-0062" num="0061">One or more embodiments of the disclosure are directed to methods of depositing transition metal dichalcogenide films in high aspect ratio features. A high aspect ratio feature is a trench, via or pillar having a height:width ratio greater than or equal to about 10, 20, or 50, or more. In some embodiments, the transition metal-containing film is deposited conformally on the high aspect ratio feature. As used in this manner, a conformal film has a thickness near the top of the feature that is in the range of about 80-120% of the thickness at the bottom of the feature.</p>
+<p id="p-0063" num="0062">Some embodiments of the disclosure are directed to methods for bottom-up gapfill of a feature. A bottom-up gapfill process fills the feature from the bottom versus a conformal process which fills the feature from the bottom and sides. In some embodiments, the feature has a first material at the bottom (e.g., a nitride) and a second material (e.g., an oxide) at the sidewalls. The transition metal dichalcogenide film deposits selectively on the first material relative to the second material so that the transition metal dichalcogenide film fills the feature in a bottom-up manner.</p>
+<p id="p-0064" num="0063">According to one or more embodiments, the substrate is subjected to processing prior to and/or after forming the layer. This processing can be performed in the same chamber or in one or more separate processing chambers. In some embodiments, the substrate is moved from the first chamber to a separate, second chamber for further processing. The substrate can be moved directly from the first chamber to the separate processing chamber, or it can be moved from the first chamber to one or more transfer chambers, and then moved to the separate processing chamber. Accordingly, the processing apparatus may comprise multiple chambers in communication with a transfer station. An apparatus of this sort may be referred to as a &#x201c;cluster tool&#x201d; or &#x201c;clustered system,&#x201d; and the like.</p>
+<p id="p-0065" num="0064">Generally, a cluster tool is a modular system comprising multiple chambers which perform various functions including substrate center-finding and orientation, degassing, annealing, deposition and/or etching. According to one or more embodiments, a cluster tool includes at least a first chamber and a central transfer chamber. The central transfer chamber may house a robot that can shuttle substrates between and among processing chambers and load lock chambers. The transfer chamber is typically maintained at a vacuum condition and provides an intermediate stage for shuttling substrates from one chamber to another and/or to a load lock chamber positioned at a front end of the cluster tool. Two well-known cluster tools which may be adapted for the present disclosure are the Centura&#xae; and the Endura&#xae;, both available from Applied Materials, Inc., of Santa Clara, Calif. However, the exact arrangement and combination of chambers may be altered for purposes of performing specific steps of a process as described herein. Other processing chambers which may be used include, but are not limited to, cyclical layer deposition (CLD), atomic layer deposition (ALD), chemical vapor deposition (CVD), physical vapor deposition (PVD), etch, pre-clean, chemical clean, thermal treatment such as RTP, plasma nitridation, degas, orientation, hydroxylation, and other substrate processes. By carrying out processes in a chamber on a cluster tool, surface contamination of the substrate with atmospheric impurities can be avoided without oxidation prior to depositing a subsequent film.</p>
+<p id="p-0066" num="0065">According to one or more embodiments, the substrate is continuously under vacuum or &#x201c;load lock&#x201d; conditions and is not exposed to ambient air when being moved from one chamber to the next. The transfer chambers are thus under vacuum and are &#x201c;pumped down&#x201d; under vacuum pressure. Inert gases may be present in the processing chambers or the transfer chambers. In some embodiments, an inert gas is used as a purge gas to remove some or all of the reactants (e.g., reactant). According to one or more embodiments, a purge gas is injected at the exit of the deposition chamber to prevent reactants (e.g., reactant) from moving from the deposition chamber to the transfer chamber and/or additional processing chamber. Thus, the flow of inert gas forms a curtain at the exit of the chamber.</p>
+<p id="p-0067" num="0066">The substrate can be processed in single substrate deposition chambers, where a single substrate is loaded, processed, and unloaded before another substrate is processed. The substrate can also be processed in a continuous manner, similar to a conveyer system, in which multiple substrates are individually loaded into a first part of the chamber, move through the chamber, and are unloaded from a second part of the chamber. The shape of the chamber and associated conveyer system can form a straight path or curved path. Additionally, the processing chamber may be a carousel in which multiple substrates are moved about a central axis and are exposed to deposition, etch, annealing, cleaning, etc. processes throughout the carousel path.</p>
+<p id="p-0068" num="0067">During processing, the substrate can be heated or cooled. Such heating or cooling can be accomplished by any suitable means including, but not limited to, changing the temperature of the substrate support, and flowing heated or cooled gases to the substrate surface. In some embodiments, the substrate support includes a heater/cooler which can be controlled to change the substrate temperature conductively. In one or more embodiments, the gases (either reactive gases or inert gases) being employed are heated or cooled to locally change the substrate temperature. In some embodiments, a heater/cooler is positioned within the chamber adjacent the substrate surface to convectively change the substrate temperature.</p>
+<p id="p-0069" num="0068">The substrate can also be stationary or rotated during processing. A rotating substrate can be rotated (about the substrate axis) continuously or in discrete steps. For example, a substrate may be rotated throughout the entire process, or the substrate can be rotated by a small amount between exposures to different reactive or purge gases. Rotating the substrate during processing (either continuously or in steps) may help produce a more uniform deposition or etch by minimizing the effect of, for example, local variability in gas flow geometries.</p>
+<p id="p-0070" num="0069">Spatially relative terms, such as &#x201c;beneath,&#x201d; &#x201c;below,&#x201d; &#x201c;lower,&#x201d; &#x201c;above,&#x201d; &#x201c;upper&#x201d; and the like, may be used herein for ease of description to describe one element or feature's relationship to another element(s) or feature(s) as illustrated in the figures. It will be understood that the spatially relative terms are intended to encompass different orientations of the device in use or operation in addition to the orientation depicted in the figures. For example, if the device in the figures is turned over, elements described as &#x201c;below&#x201d; or &#x201c;beneath&#x201d; other elements or features would then be oriented &#x201c;above&#x201d; the other elements or features. Thus, the exemplary term &#x201c;below&#x201d; may encompass both an orientation of above and below. The device may be otherwise oriented (rotated 90 degrees or at other orientations) and the spatially relative descriptors used herein interpreted accordingly.</p>
+<p id="p-0071" num="0070">The use of the terms &#x201c;a&#x201d; and &#x201c;an&#x201d; and &#x201c;the&#x201d; and similar referents in the context of describing the materials and methods discussed herein (especially in the context of the following claims) are to be construed to cover both the singular and the plural, unless otherwise indicated herein or clearly contradicted by context. Recitation of ranges of values herein are merely intended to serve as a shorthand method of referring individually to each separate value falling within the range, unless otherwise indicated herein, and each separate value is incorporated into the specification as if it were individually recited herein. All methods described herein can be performed in any suitable order unless otherwise indicated herein or otherwise clearly contradicted by context. The use of any and all examples, or exemplary language (e.g., &#x201c;such as&#x201d;) provided herein, is intended merely to better illuminate the materials and methods and does not pose a limitation on the scope unless otherwise claimed. No language in the specification should be construed as indicating any non-claimed element as essential to the practice of the disclosed materials and methods.</p>
+<p id="p-0072" num="0071">Reference throughout this specification to &#x201c;one embodiment,&#x201d; &#x201c;certain embodiments,&#x201d; &#x201c;one or more embodiments&#x201d; or &#x201c;an embodiment&#x201d; means that a particular feature, structure, material, or characteristic described in connection with the embodiment is included in at least one embodiment of the disclosure. Thus, the appearances of the phrases such as &#x201c;in one or more embodiments,&#x201d; &#x201c;in certain embodiments,&#x201d; &#x201c;in one embodiment&#x201d; or &#x201c;in an embodiment&#x201d; in various places throughout this specification are not necessarily referring to the same embodiment of the disclosure. Furthermore, the particular features, structures, materials, or characteristics may be combined in any suitable manner in one or more embodiments.</p>
+<p id="p-0073" num="0072">Although the disclosure herein has been described with reference to particular embodiments, those skilled in the art will understand that the embodiments described are merely illustrative of the principles and applications of the present disclosure. It will be apparent to those skilled in the art that various modifications and variations can be made to the method and apparatus of the present disclosure without departing from the spirit and scope of the disclosure. Thus, the present disclosure can include modifications and variations that are within the scope of the appended claims and their equivalents.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method of depositing a film, the method comprising:
+<claim-text>forming a transition metal oxide film on a substrate surface; and</claim-text>
+<claim-text>converting the transition metal oxide film to a transition metal dichalcogenide film.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein forming the transition metal oxide film comprises forming a transition metal film followed by oxidizing the transition metal film to form the transition metal oxide film.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein oxidizing the transition metal film comprises exposing the transition metal film to plasma treatment or thermal treatment of one or more of O<sub>2 </sub>and O<sub>3</sub>.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the transition metal oxide film is converted to the transition metal dichalcogenide film after forming the transition metal oxide film having a thickness in a range of from 15 &#x212b; to 25 &#x212b;.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising repeating forming the transition metal oxide film and converting the transition metal oxide film to form a transition metal dichalcogenide film with a final thickness up to 200 &#x212b;.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the substrate surface comprises a dielectric material and a conductive material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the transition metal oxide film forms selectively on the dielectric material.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein converting the transition metal oxide film to the transition metal dichalcogenide film is conducted at a temperature in a range of from 350&#xb0; C. to 500&#xb0; C. and at a pressure in a range of from 1 Torr to 10 Torr.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein converting the transition metal oxide film to the transition metal dichalcogenide film is conducted for a time period in a range of from 30 minutes to 60 minutes.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein converting the transition metal oxide film to the transition metal dichalcogenide film comprises pulsing the transition metal oxide film with one or more of sulfur (S), selenium (Se) and tellurium (Te).</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. A method of depositing a film, the method comprising:
+<claim-text>forming a transition metal dichalcogenide film in a process cycle comprising sequential exposure of a substrate to a transition metal oxide precursor, a purge gas, a chalcogenide reactant, and purge gas.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the transition metal dichalcogenide film has a transition metal comprising one or more of tungsten (W), molybdenum (Mo), tantalum (Ta), titanium (Ti), or ruthenium (Ru).</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the transition metal oxide precursor comprises one or more of WOF<sub>4</sub>, WO<sub>2</sub>F<sub>2</sub>, WOCl<sub>4</sub>, WO<sub>2</sub>Cl<sub>2</sub>, WOBr<sub>4</sub>, WO<sub>2</sub>Br<sub>2</sub>, WOI<sub>4</sub>, WO<sub>2</sub>I<sub>2</sub>, MoOF<sub>4</sub>, MoO<sub>2</sub>F<sub>2</sub>, MoOCl<sub>4</sub>, MoO<sub>2</sub>Cl<sub>2</sub>, MoOBr<sub>4</sub>, MoO<sub>2</sub>Br<sub>2</sub>, MoOI<sub>4</sub>, MoO<sub>2</sub>I<sub>2</sub>, TaOF<sub>4</sub>, TaO<sub>2</sub>F<sub>2</sub>, TaOCl<sub>4</sub>, TaO<sub>2</sub>Cl<sub>2</sub>, TaOBr<sub>4</sub>, TaO<sub>2</sub>Br<sub>2</sub>, TaOI<sub>4</sub>, TaO<sub>2</sub>I<sub>2</sub>, TiOF<sub>4</sub>, TiO<sub>2</sub>F<sub>2</sub>, TiOCl<sub>4</sub>, TiO<sub>2</sub>Cl<sub>2</sub>, TiOBr<sub>4</sub>, TiO<sub>2</sub>Br<sub>2</sub>, TiOI<sub>4</sub>, TiO<sub>2</sub>I<sub>2</sub>, RuOF<sub>4</sub>, RuO<sub>2</sub>F<sub>2</sub>, RuOCl<sub>4</sub>, RuO<sub>2</sub>Cl<sub>2</sub>, RuOBr<sub>4</sub>, RuO<sub>2</sub>Br<sub>2</sub>, RuOI<sub>4</sub>, and RuO<sub>2</sub>I<sub>2</sub>.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the transition metal dichalcogenide film is substantially free of oxygen.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising purging the substrate of the transition metal oxide precursor prior to exposing the substrate to the chalcogenide reactant.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein purging comprises one or more of applying a vacuum or flowing a purge gas over the substrate, the purge gas comprising one or more of nitrogen (N<sub>2</sub>), helium (He), and argon (Ar).</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the chalcogenide reactant is selected from the group consisting of sulfur (S), selenium (Se), and tellurium (Te).</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. A method of depositing a film, the method comprising:
+<claim-text>forming a transition metal oxide film in a transition metal oxide process cycle comprising sequential exposure of a substrate to a transition metal precursor, a purge gas, an oxide reactant, and a purge gas; and</claim-text>
+<claim-text>converting the transition metal oxide film to a transition metal dichalcogenide film in a chalcogen process cycle comprising sequential exposure of the transition metal oxide film to a chalcogenide reactant and a purge gas.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the chalcogen process cycle is performed after each metal oxide process cycle.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the transition metal oxide process cycle is repeated a number of times to form a transition metal oxide film of a predetermined thickness prior to performing the chalcogen process cycle.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

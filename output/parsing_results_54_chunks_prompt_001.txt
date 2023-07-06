@@ -1,0 +1,2717 @@
+[
+    {
+        "measurement": "surface area", 
+        "unit": "m^2/g", 
+        "value": "between about 5 and about 350"
+    }, 
+    {
+        "measurement": "surface area", 
+        "unit": "m/g", 
+        "value": "between about 30 and 80"
+    },
+    {
+        "measurement": "coated Substrate support", 
+        "unit": "g/in", 
+        "value": "about 1.5 to about 7.0"
+    },
+    {
+        "measurement": "polypeptide concentration", 
+        "unit": "g/ml", 
+        "value": "1 to 9"
+    }
+]
+[{"measurement": "nucleic acid sequencing", "unit": "", "value": ""},
+{"measurement": "rt-pcr sequencing", "unit": "", "value": ""},
+{"measurement": "pacbio sequencing protocol", "unit": "", "value": ""},
+{"measurement": "geographic location of infected individuals", "unit": "", "value": ""},
+{"measurement": "barcodes linked to zip code or geographic identifier", "unit": "", "value": ""},
+{"measurement": "prevalence of variants in infected individuals or general population", "unit": "", "value": ""},
+{"measurement": "correlation of specific variants with infectivity and disease severity", "unit": "", "value": ""},
+{"measurement": "data deposition in CDC database", "unit": "", "value": ""}]
+[ 
+{ 'measurement': 'surface area', 'unit': 'm^2/g', 'value': '30 and 80' },
+{ 'measurement': 'polypeptide concentration', 'unit': 'g/ml', 'value': '1 to 9' } 
+]
+[ 
+{ 'measurement ': 'covid-19 rt-pcr test', 'unit ': 'N/A', 'value ': 'labcorp eua201 and/or eua203057' }, 
+{ 'measurement ': 'ceria crystallite size', 'unit ': 'nm', 'value ': '10 to 20' }, 
+{ 'measurement ': 'alkaline earth oxides crystallite size', 'unit ': 'nm', 'value ': '20 to 40' }, 
+{ 'measurement ': 'composite particles BET surface area', 'unit ': 'm/g', 'value ': '30 to 80' }, 
+{ 'measurement ': 'refractory metal oxide support surface area', 'unit ': 'm^2/g', 'value ': '100 to 200' }, 
+{ 'measurement ': 'coated Substrate support', 'unit ': 'g/in', 'value ': '1.5 to 7.0' }, 
+{ 'measurement ': 'Alumina BET surface area', 'unit ': 'm/g', 'value ': '200' }, 
+{ 'measurement ': 'polypeptide concentration', 'unit ': 'g/ml', 'value ': '1 to 9' }, 
+{ 'measurement ': 'nucleic acid sequencing', 'unit ': 'N/A', 'value ': 'at least 80%, 85%, 90% or greater of the entire viral genome' }, 
+{ 'measurement ': 'tiled primers spacing', 'unit ': 'bp', 'value ': '60' }, 
+{ 'measurement ': 'tiled probes coverage', 'unit ': '%', 'value ': 'greater than 9% (e.g., 9.6%)' }, 
+{ 'measurement ': 'probe spacing', 'unit ': 'bp', 'value ': '10, 20, 30, 40, 50, 60, 70, 80, 90 or more than 100' }, 
+{ 'measurement ': 'probe tiled over', 'unit ': 'N/A', 'value ': 'to provide a sequence on average for a given nucleotide 2x, 7x, 2x or more' }, 
+{ 'measurement ': 'sequencing type', 'unit ': 'N/A', 'value ': 'whole genome sequencing, next generation sequencing (ngs), sanger sequencing, shot gun sequencing, smrt sequencing, pyrosequencing or nanopore sequencing' }, 
+{ 'measurement ': 'sequencing method', 'unit ': 'N/A', 'value ': 'pacbio whole genome sequencing with the corresponding smrt link 9 software and analysis tools' } 
+]
+[
+  {
+    "measurement": "nucleic acid sequence ct values",
+    "unit": "",
+    "value": "<31"
+  },
+  {
+    "measurement": "sample plate setup",
+    "unit": "",
+    "value": "hamilton star robots"
+  },
+  {
+    "measurement": "mastermix distribution",
+    "unit": "",
+    "value": "formulatrix mantis liquid handlers"
+  },
+  {
+    "measurement": "production batch size",
+    "unit": "",
+    "value": "760 specimens"
+  },
+  {
+    "measurement": "positive sample aliquot",
+    "unit": "",
+    "value": "95 samples"
+  },
+  {
+    "measurement": "non-template control aliquot",
+    "unit": "",
+    "value": "1 water"
+  },
+  {
+    "measurement": "mean of medium cs reads",
+    "unit": "cs",
+    "value": ">10"
+  },
+  {
+    "measurement": "percent genome coverage",
+    "unit": "",
+    "value": ">90%"
+  },
+  {
+    "measurement": "lineage classification",
+    "unit": "",
+    "value": "nextclade result and pangolin lineage cal"
+  },
+  {
+    "measurement": "ngs data analysis workflow",
+    "unit": "",
+    "value": "clc genomics server version"
+  },
+  {
+    "measurement": "circular consensus sequence (cs) bam files",
+    "unit": "",
+    "value": "generated"
+  },
+  {
+    "measurement": "validated clc genomics server version",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "ct values",
+    "unit": "",
+    "value": "<31"
+  },
+  {
+    "measurement": "genome coverage",
+    "unit": "",
+    "value": ">90%"
+  },
+  {
+    "measurement": "mean of median coverage",
+    "unit": "cs reads",
+    "value": ">10"
+  },
+  {
+    "measurement": "metadata",
+    "unit": "",
+    "value": "coresponding"
+  }
+]
+[ 
+{ 'measurement': 'coverage', 'unit': 'cs reads', 'value': '<10' },
+{ 'measurement': 'nitc control', 'unit': '', 'value': 'failing' },
+{ 'measurement': 'regression analysis', 'unit': '', 'value': '' },
+{ 'measurement': 'nitrogen oxide storage material surface area', 'unit': 'm^2/g', 'value': '30 and 80' },
+{ 'measurement': 'polypeptide concentration', 'unit': 'g/ml', 'value': '1 to 9' },
+{ 'measurement': 'refractory metal oxide support surface area', 'unit': 'm^2/g', 'value': '100 to 200' },
+{ 'measurement': 'coated Substrate support', 'unit': 'g/in', 'value': '1.5 to 7.0' },
+{ 'measurement': 'sample-specific sars-cov-2 nucleic acid', 'unit': '', 'value': '' },
+{ 'measurement': 'probe dna template', 'unit': '', 'value': '' },
+{ 'measurement': 'probe sequences', 'unit': 'base pairs', 'value': '10, 20, 30, 40, 50, 60, 70, 80, 90 or more than 1,0' },
+{ 'measurement': 'sars-cov-2 viral genome', 'unit': '%', 'value': 'greater than 9 (e.g., 9.6%)' },
+{ 'measurement': 'circular single-stranded probe dna template', 'unit': '', 'value': '' },
+{ 'measurement': 'linear dna', 'unit': '', 'value': '' },
+{ 'measurement': 'dna sequencing', 'unit': '', 'value': '' },
+{ 'measurement': 'whole genome sequencing', 'unit': '', 'value': '' },
+{ 'measurement': 'next generation sequencing', 'unit': '', 'value': '' },
+{ 'measurement': 'pacbio whole genome sequencing', 'unit': '', 'value': '' },
+{ 'measurement': 'smrt link 9 software', 'unit': '', 'value': '' },
+{ 'measurement': 'analysis tools', 'unit': '', 'value': '' }
+]
+[{"measurement": "nucleic acid sequence", "unit": null, "value": null},
+ {"measurement": "sars-cov-2 variant sequence", "unit": null, "value": null},
+ {"measurement": "geographic location", "unit": null, "value": null},
+ {"measurement": "polypeptide concentration", "unit": "g/ml", "value": "1 to 9"},
+ {"measurement": "refractory metal oxide support surface area", "unit": "m^2/g", "value": "100 to 200"},
+ {"measurement": "coated Substrate support", "unit": "g/in", "value": "1.5 to 7.0"},
+ {"measurement": "Alumina BET surface area", "unit": "m/g", "value": "200"},
+ {"measurement": "nitrogen oxide surface area", "unit": "m^2/g", "value": "30 and 80"}]
+[
+  {
+    "measurement": "no template control",
+    "unit": "",
+    "value": "molecular grade water"
+  },
+  {
+    "measurement": "software used",
+    "unit": "",
+    "value": "pacbio smrtlnk"
+  },
+  {
+    "measurement": "software used",
+    "unit": "",
+    "value": "clc genomics server version 6.5.6"
+  },
+  {
+    "measurement": "reference genome",
+    "unit": "",
+    "value": "nc_04512v2"
+  },
+  {
+    "measurement": "coverage",
+    "unit": "",
+    "value": "4 cs reads"
+  },
+  {
+    "measurement": "alternate allele frequency",
+    "unit": "",
+    "value": "50%"
+  },
+  {
+    "measurement": "sample-specific genome assembly",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "lineages for individual samples",
+    "unit": "",
+    "value": "asigned using the pangolin package"
+  },
+  {
+    "measurement": "minimum genome coverage",
+    "unit": "",
+    "value": "90%"
+  },
+  {
+    "measurement": "residual total nucleic acid extract",
+    "unit": "",
+    "value": ""
+  },
+  {
+    "measurement": "specimens per production batch",
+    "unit": "",
+    "value": "768"
+  },
+  {
+    "measurement": "molecular loop viral RNA target capture",
+    "unit": "",
+    "value": "on pacbio"
+  },
+  {
+    "measurement": "reverse transcriptase",
+    "unit": "",
+    "value": "thermo fisher vilo"
+  },
+  {
+    "measurement": "target length",
+    "unit": "bp",
+    "value": "60"
+  },
+  {
+    "measurement": "genome length",
+    "unit": "kb",
+    "value": "30"
+  }
+]
+[ 
+{ 
+  "measurement": "incubation step temperature", 
+  "unit": "C",
+  "value": "25" 
+}, 
+{ 
+  "measurement": "incubation time", 
+  "unit": "min", 
+  "value": "10" 
+},
+{ 
+  "measurement": "incubation step temperature", 
+  "unit": "C",
+  "value": "50" 
+}, 
+{ 
+  "measurement": "incubation time", 
+  "unit": "min", 
+  "value": "50" 
+},
+{ 
+  "measurement": "incubation step temperature", 
+  "unit": "C",
+  "value": "95" 
+}, 
+{ 
+  "measurement": "incubation time", 
+  "unit": "min", 
+  "value": "1" 
+},
+{ 
+  "measurement": "incubation step temperature", 
+  "unit": "C",
+  "value": "5" 
+}, 
+{ 
+  "measurement": "incubation time", 
+  "unit": "hours", 
+  "value": "16-24" 
+},
+{ 
+  "measurement": "hybridization incubation step temperature", 
+  "unit": "C",
+  "value": "45" 
+}, 
+{ 
+  "measurement": "hybridization incubation time", 
+  "unit": "hr", 
+  "value": "1" 
+},
+{ 
+  "measurement": "hybridization incubation step temperature", 
+  "unit": "C",
+  "value": "95" 
+}, 
+{ 
+  "measurement": "hybridization incubation time", 
+  "unit": "min", 
+  "value": "3" 
+},
+{ 
+  "measurement": "hybridization incubation step temperature", 
+  "unit": "C",
+  "value": "4" 
+},
+{ 
+  "measurement": "PCR step temperature", 
+  "unit": "C",
+  "value": "95" 
+}, 
+{ 
+  "measurement": "PCR incubation time", 
+  "unit": "min", 
+  "value": "3" 
+},
+{ 
+  "measurement": "PCR step temperature", 
+  "unit": "C",
+  "value": "98" 
+}, 
+{ 
+  "measurement": "PCR incubation time", 
+  "unit": "sec", 
+  "value": "15" 
+},
+{ 
+  "measurement": "PCR step temperature", 
+  "unit": "C",
+  "value": "5" 
+},
+{ 
+  "measurement": "PCR incubation time", 
+  "unit": "sec", 
+  "value": "15" 
+},
+{ 
+  "measurement": "PCR step temperature", 
+  "unit": "C",
+  "value": "72" 
+},
+{ 
+  "measurement": "PCR incubation time", 
+  "unit": "sec", 
+  "value": "90" 
+},
+{ 
+  "measurement": "PCR step temperature", 
+  "unit": "C",
+  "value": "4" 
+},
+{ 
+  "measurement": "PCR incubation time", 
+  "unit": "hold", 
+  "value": "1" 
+} 
+]
+[
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.74 0.85 0.84"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "58.1 96.83 52.34"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.41 0.41 0.41"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "176.36 156.59 125.76"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.74 0.63 0.52"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "21.69 284.09 309.79"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.52 0.84 0.74"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "93.86 48.53 86.6"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.45 1.13 0.78"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "31.2 50.91 52.21"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.53 0.63 1.34"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "138.38 13.74 57.17"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.04 0.53 2.16"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "30.41 51.59 13.5"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.41 0.41 0.53"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "17.12 294.67 148.76"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.63 0.74 0.73"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "38.03 207.5 10.93"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.0 0.74 1.54"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "27.9 46.84 25.21"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.25 1.52 0.67"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "2.86 17.16 28.72"
+    },
+    {
+        "measurement": "polypeptide concentration",
+        "unit": "g/ml",
+        "value": "1 to 9"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.84 0.96 0.84"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "52.34 34.9 17.06"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.41 0.41 0.41"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "125.76 134.41 130.71"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.52 0.57 0.32"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "309.79 219.86 58.37"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.78 1.32 0.41"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "52.21 43.03 39.19"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.34 1.13 0.42"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "57.17 60.21 91.09"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "2.16 23.61 0.73"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "13.5 7.38 13.8"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.53 0.41 0.41"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "148.76 26.2 309.86"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.73 0.64 0.73"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "10.93 318.59 7.97"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "1.54 1.97 0.52"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "25.21 17.31 19.9"
+    },
+    {
+        "measurement": "percent mising",
+        "unit": "",
+        "value": "0.67 67.10 9.82"
+    },
+    {
+        "measurement": "avg read depth",
+        "unit": "",
+        "value": "28.72 3.03 2.86"
+    }
+]
+[ 
+{ 
+    "measurement": "samples amplicon sequenced", 
+    "unit": "count", 
+    "value": "12" 
+}, 
+{ 
+    "measurement": "minimum read coverage threshold set", 
+    "unit": "cs reads", 
+    "value": "4" 
+}, 
+{ 
+    "measurement": "ilumina concordance", 
+    "unit": "%", 
+    "value": "98.3" 
+}, 
+{ 
+    "measurement": "average read coverage", 
+    "unit": "mean of median amplicon coverage", 
+    "value": "" 
+},
+{ 
+    "measurement": "winter 2020 circulating strain acuracy", 
+    "unit": "%", 
+    "value": "10%" 
+}, 
+{ 
+    "measurement": "summer 2021 circulating strain acuracy", 
+    "unit": "%", 
+    "value": "10%" 
+} 
+]
+[ 
+{ 'measurement': 'amplicon pacbio sequencing coverage', 'unit': '%', 'value': '90' },
+{ 'measurement': 'molecular lop replicate strain typing concordance', 'unit': '%', 'value': '10' },
+{ 'measurement': 'parallel testing concordance', 'unit': '%', 'value': '98.2' },
+{ 'measurement': 'analytical sensitivity', 'unit': 'NA', 'value': '90%' },
+{ 'measurement': 'analytical specificity', 'unit': 'NA', 'value': '90%' },
+{ 'measurement': 'nextclade sensitivity', 'unit': '%', 'value': '96.23' },
+{ 'measurement': 'nextclade specificity', 'unit': '%', 'value': '9.97' },
+{ 'measurement': 'nextclade false discovery rate', 'unit': '%', 'value': '5.36' },
+{ 'measurement': 'clc sensitivity', 'unit': '%', 'value': '98.1' },
+{ 'measurement': 'clc specificity', 'unit': '%', 'value': '9.974' },
+{ 'measurement': 'clc false discovery rate', 'unit': '%', 'value': '30.26' }
+]
+[
+    {
+        "measurement": "analyte stability duration",
+        "unit": "weeks",
+        "value": "4"
+    },
+    {
+        "measurement": "inter-asay precision",
+        "unit": "coverage",
+        "value": "90%"
+    },
+    {
+        "measurement": "reproducibility",
+        "unit": "coverage",
+        "value": "90%"
+    },
+    {
+        "measurement": "accuracy",
+        "unit": "%",
+        "value": "91.6%"
+    },
+    {
+        "measurement": "ct value",
+        "unit": "integer",
+        "value": "<16 to 24"
+    }
+]
+[{"measurement": "intermediate bam files length", "unit": "bp", "value": "250-50"},
+{"measurement": "genome coverage", "unit": "%", "value": ">90"},
+{"measurement": "mean of median coverage", "unit": "cs reads", "value": ">10"},
+{"measurement": "ct", "unit": "NA", "value": "<31"},
+{"measurement": "ntc control", "unit": "NA", "value": "passing"},
+{"measurement": "lineage classification", "unit": "NA", "value": "delta lineages, omicron lineages, sublineage reassignments"},
+{"measurement": "discordances", "unit": "NA", "value": "documented and resolved"}]
+[{"measurement": "sampled sequences", "unit": "", "value": "up to 10"},
+{"measurement": "sampled sequences", "unit": "", "value": "10,0"},
+{"measurement": "median voc noi concordance", "unit": "%", "value": "at least 90"},
+{"measurement": "probe amplification interference", "unit": "", "value": ""}]
+[{"measurement": "sample-specific sars-cov-2 nucleic acid", "unit": "", "value": ""},
+{"measurement": "nucleic acid sequencing", "unit": "", "value": ""},
+{"measurement": "sars-cov-2 variant sequence", "unit": "", "value": ""}]
+[
+    {
+        "measurement": "sars-cov-2 cdna concentration",
+        "unit": "g/ml",
+        "value": "1 to 9"
+    },
+    {
+        "measurement": "tiled primers spacing",
+        "unit": "bp",
+        "value": "aproximately 60"
+    },
+    {
+        "measurement": "circular consensus sequencing (cs) reads",
+        "unit": "",
+        "value": "at least 4 covering an individual base pair and/or an alternate alele frequency compared to the reference of >50%"
+    },
+    {
+        "measurement": "nucleic acid sequencing coverage",
+        "unit": "%",
+        "value": "at least 80%, optional 85%, optional 90% of the entire viral genome"
+    },
+    {
+        "measurement": "sample-specific sars-cov-2 nucleic acid sequencing reads filtering length",
+        "unit": "bp",
+        "value": "250-50"
+    }
+]
+[ 
+{ "measurement": "non-ambiguous bases percentage", "unit": "%", "value": "N/A" },
+{ "measurement": "polypeptide concentration", "unit": "g/ml", "value": "1 to 9" },
+{ "measurement": "nitrogen oxide surface area", "unit": "m^2/g", "value": "30 and 80" },
+{ "measurement": "refractory metal oxide support surface area", "unit": "m^2/g", "value": "100 to 200" },
+{ "measurement": "coated Substrate support", "unit": "g/in", "value": "1.5 to 7.0" },
+{ "measurement": "composite particles BET surface area", "unit": "m/g", "value": "30 to 80" }
+]
+[
+  {
+    "measurement": "sampled sequences",
+    "unit": "",
+    "value": "10 (for each voc and/or voi), 10,000 (for frequency-based retrospective analysis)"
+  },
+  {
+    "measurement": "median voc/voi concordance",
+    "unit": "%",
+    "value": "at least 90"
+  }
+]
+[
+    {"measurement": "sars-cov-2 nucleic acid and/or antibodies detection", "unit": null, "value": null},
+    {"measurement": "sample-specific sars-cov-2 nucleic acid generation", "unit": null, "value": null},
+    {"measurement": "nucleic acid sequencing", "unit": null, "value": null},
+    {"measurement": "sars-cov-2 variant sequence determination", "unit": null, "value": null},
+    {"measurement": "sample-specific sars-cov-2 nucleic acid sequencing", "unit": null, "value": null},
+    {"measurement": "sars-cov-2 variant identification/tracking", "unit": null, "value": null},
+    {"measurement": "computer-program product instructions", "unit": null, "value": null}
+]
+[ 
+{ 
+"measurement": "raw hide weight", 
+"unit": "not mentioned", 
+"value": "not mentioned" 
+}, 
+{ 
+"measurement": "polar organic solvent weight", 
+"unit": "times the weight of raw hide", 
+"value": "2.0 to 8.0" 
+}, 
+{ 
+"measurement": "molecular sieve weight", 
+"unit": "times the weight of raw hide", 
+"value": "2.0 to 8.0" 
+}, 
+{ 
+"measurement": "oxide weight", 
+"unit": "% of crust weight", 
+"value": "8.0% to 20%" 
+}, 
+{ 
+"measurement": "oxide solvent weight", 
+"unit": "times the weight of crust", 
+"value": "10 to 16" 
+}, 
+{ 
+"measurement": "PDMS weight", 
+"unit": "times the weight of crust", 
+"value": "5.0 to 12" 
+} 
+]
+[
+  {
+    "measurement": "molecular sieve surface area",
+    "unit": null,
+    "value": null
+  },
+  {
+    "measurement": "concentration of oxide applied to surface of dehydrated hide",
+    "unit": null,
+    "value": null
+  }
+]
+[
+    {"measurement": "anhydrous ethanol weight (dehydration)", "unit": "times the weight of raw hide", "value": "6.0"},
+    {"measurement": "activated molecular sieve powder weight (dehydration)", "unit": "times the weight of raw hide", "value": "3.5"},
+    {"measurement": "water content (dehydration)", "unit": "%", "value": "2.95"},
+    {"measurement": "softness of crust", "unit": "m", "value": "4.69"},
+    {"measurement": "silicon dioxide weight (hydrophobic treatment)", "unit": "% of weight of crust", "value": "10"},
+    {"measurement": "anhydrous ethanol weight (hydrophobic treatment)", "unit": "times the weight of crust", "value": "10"},
+    {"measurement": "pdms solution weight (hydrophobic treatment)", "unit": "times the weight of crust", "value": "8.0"},
+    {"measurement": "water content (control sample)", "unit": "%", "value": "9.56"},
+    {"measurement": "softness (control sample)", "unit": "m", "value": "3.61"}
+]
+[
+{"measurement": "ethanol weight", "unit": "times the weight of the raw hide", "value": "6.0"},
+{"measurement": "activated molecular sieve powder weight", "unit": "times the weight of the raw hide", "value": "3.5"},
+{"measurement": "dehydration time", "unit": "min", "value": "90"},
+{"measurement": "dehydration time", "unit": "min", "value": "120"},
+{"measurement": "water content", "unit": "%", "value": "3.24"},
+{"measurement": "softness", "unit": "m", "value": "4.52"},
+{"measurement": "silicon dioxide weight", "unit": "% of a weight of the crust", "value": "10"},
+{"measurement": "anhydrous ethanol weight", "unit": "times the weight of the crust", "value": "10"},
+{"measurement": "pdms solution weight", "unit": "times the weight of the crust", "value": "8.0"},
+{"measurement": "tear force", "unit": "n", "value": "156.12"},
+{"measurement": "tensile strength", "unit": "n/m^2", "value": "31.80"},
+{"measurement": "water contact angle", "unit": "", "value": ""},
+{"measurement": "dehydration time", "unit": "min", "value": "60"},
+{"measurement": "activated molecular sieve powder weight", "unit": "times the weight of the raw hide", "value": "2.0"},
+{"measurement": "water content", "unit": "%", "value": "3.48"},
+{"measurement": "titanium dioxide weight", "unit": "% of a weight of the crust", "value": "8.0"},
+{"measurement": "anhydrous ethanol weight", "unit": "times the weight of the crust", "value": "12"},
+{"measurement": "pdms solution weight", "unit": "times the weight of the crust", "value": "5.0"},
+{"measurement": "tear force", "unit": "n", "value": "152.16"},
+{"measurement": "tensile strength", "unit": "n/m^2", "value": "30.4"},
+{"measurement": "water contact angle", "unit": "", "value": ""},
+{"measurement": "dehydration time", "unit": "min", "value": "180"},
+{"measurement": "activated molecular sieve powder weight", "unit": "times the weight of the raw hide", "value": "5.0"},
+{"measurement": "water content", "unit": "%", "value": "2.78"},
+{"measurement": "aluminum oxide weight", "unit": "% of a weight of the crust", "value": "20"},
+{"measurement": "anhydrous ethanol weight", "unit": "times the weight of the crust", "value": "15"},
+{"measurement": "pdms solution weight", "unit": "times the weight of the crust", "value": "10"},
+{"measurement": "water contact angle", "unit": "", "value": ""},
+{"measurement": "molecular sieve particles weight", "unit": "times the weight of the raw hide", "value": "4.0"},
+{"measurement": "dehydration time", "unit": "min", "value": "180"},
+{"measurement": "water content", "unit": "%", "value": "3.45"},
+{"measurement": "softness", "unit": "m", "value": "4.57"},
+{"measurement": "calcium oxide weight", "unit": "% of a weight of the crust", "value": "15"},
+{"measurement": "anhydrous ethanol weight", "unit": "times the weight of the crust", "value": "16"}
+]
+[
+  {
+    "measurement": "pdms solution weight ratio",
+    "unit": "wt %",
+    "value": "10"
+  },
+  {
+    "measurement": "water contact angle",
+    "unit": "N/A",
+    "value": "N/A"
+  },
+  {
+    "measurement": "water content of dehydrated hide",
+    "unit": "%",
+    "value": "4.80%"
+  },
+  {
+    "measurement": "molecular sieve weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "6.0"
+  },
+  {
+    "measurement": "water content of dehydrated hide",
+    "unit": "%",
+    "value": "3.34%"
+  },
+  {
+    "measurement": "magnesium oxide weight ratio",
+    "unit": "% of the weight of the crust",
+    "value": "13%"
+  },
+  {
+    "measurement": "pdms solution weight ratio",
+    "unit": "wt %",
+    "value": "10"
+  },
+  {
+    "measurement": "molecular sieve weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "3.0"
+  },
+  {
+    "measurement": "water content of dehydrated hide",
+    "unit": "%",
+    "value": "3.52%"
+  },
+  {
+    "measurement": "zinc oxide weight ratio",
+    "unit": "% of the weight of the crust",
+    "value": "16%"
+  },
+  {
+    "measurement": "pdms solution weight ratio",
+    "unit": "wt %",
+    "value": "10"
+  },
+  {
+    "measurement": "molecular sieve weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "3.5"
+  },
+  {
+    "measurement": "zinc oxide weight ratio",
+    "unit": "% of the weight of the crust",
+    "value": "10%"
+  },
+  {
+    "measurement": "pdms solution weight ratio",
+    "unit": "wt %",
+    "value": "10"
+  },
+  {
+    "measurement": "water content of dehydrated hide",
+    "unit": "%",
+    "value": "8.27%"
+  },
+  {
+    "measurement": "silicon dioxide weight ratio",
+    "unit": "% of the weight of the crust",
+    "value": "8.0%"
+  },
+  {
+    "measurement": "pdms solution weight ratio",
+    "unit": "wt %",
+    "value": "10"
+  },
+  {
+    "measurement": "acetone weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "2.0"
+  },
+  {
+    "measurement": "anhydrous ethanol weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "4.0"
+  },
+  {
+    "measurement": "molecular sieve weight ratio for dehydration",
+    "unit": "times the weight of the raw hide",
+    "value": "3.0"
+  },
+  {
+    "measurement": "water content of dehydrated hide",
+    "unit": "%",
+    "value": "7.3%"
+  },
+  {
+    "measurement": "calcium oxide weight ratio",
+    "unit": "% of the weight of the crust",
+    "value": "13%"
+  }
+]
+[{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the crust",
+    "value": "15"
+},
+{
+    "measurement": "pdms solution weight",
+    "unit": "times the weight of the crust",
+    "value": "10"
+},
+{
+    "measurement": "water content",
+    "unit": "%",
+    "value": "3.24"
+},
+{
+    "measurement": "calcium oxide weight",
+    "unit": "% of a weight of the crust",
+    "value": "15"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the crust",
+    "value": "16"
+},
+{
+    "measurement": "pdms solution weight",
+    "unit": "times the weight of the crust",
+    "value": "12"
+},
+{
+    "measurement": "water content",
+    "unit": "%",
+    "value": "3.76"
+},
+{
+    "measurement": "calcium oxide weight",
+    "unit": "% of a weight of the crust",
+    "value": "15"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the raw hide",
+    "value": "3.0"
+},
+{
+    "measurement": "acetone weight",
+    "unit": "times the weight of the raw hide",
+    "value": "3.0"
+},
+{
+    "measurement": "activated molecular sieve powder weight",
+    "unit": "times the weight of the raw hide",
+    "value": "3.0"
+},
+{
+    "measurement": "water content",
+    "unit": "%",
+    "value": "4.84"
+},
+{
+    "measurement": "titanium dioxide weight",
+    "unit": "% of a weight of the crust",
+    "value": "8.0"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the crust",
+    "value": "12"
+},
+{
+    "measurement": "pdms solution weight",
+    "unit": "times the weight of the crust",
+    "value": "5.0"
+},
+{
+    "measurement": "tear force",
+    "unit": "n",
+    "value": "162.69"
+},
+{
+    "measurement": "tensile strength",
+    "unit": "n/m^2",
+    "value": "27.69"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the raw hide",
+    "value": "2.0"
+},
+{
+    "measurement": "water content",
+    "unit": "%",
+    "value": "4.16"
+},
+{
+    "measurement": "zinc oxide weight",
+    "unit": "% of a weight of the crust",
+    "value": "10"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the crust",
+    "value": "13"
+},
+{
+    "measurement": "pdms solution weight",
+    "unit": "times the weight of the crust",
+    "value": "6.0"
+},
+{
+    "measurement": "anhydrous ethanol weight",
+    "unit": "times the weight of the raw hide",
+    "value": "6.0"
+}]
+[ 
+  { 'measurement': 'softness', 'unit': 'm', 'value': '3.61' }, 
+  { 'measurement': 'weight of magnesium oxide', 'unit': '%', 'value': '5.0' }, 
+  { 'measurement': 'weight of anhydrous ethanol', 'unit': 'times the weight of the crust', 'value': '20' }, 
+  { 'measurement': 'weight of pdms solution', 'unit': 'times the weight of the crust', 'value': '20' }, 
+  { 'measurement': 'porosity', 'unit': '%', 'value': '28.671.54' }, 
+  { 'measurement': 'average pore size', 'unit': 'nm', 'value': '59.91161.05' }, 
+  { 'measurement': 'total pore area', 'unit': 'm 2', 'value': '2.450.86' }, 
+  { 'measurement': 'water content', 'unit': '%', 'value': '4.80' }
+]
+[
+  {
+    "measurement": "dehydration media",
+    "unit": "N/A",
+    "value": "molecular sieve-polar organic solvent composite"
+  },
+  {
+    "measurement": "surface roughness",
+    "unit": "N/A",
+    "value": "increased"
+  },
+  {
+    "measurement": "surface energy",
+    "unit": "N/A",
+    "value": "reduced"
+  },
+  {
+    "measurement": "tanning agent",
+    "unit": "N/A",
+    "value": "none"
+  },
+  {
+    "measurement": "water distribution",
+    "unit": "N/A",
+    "value": "multi-medium self-driven directional control"
+  },
+  {
+    "measurement": "recyclability",
+    "unit": "N/A",
+    "value": "multiple times"
+  }
+]
+[ 
+{ 
+'measurement': 'metalurgical vesel surface area', 
+'unit': 'm^2', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'oxygen gas introduced into cyclone part', 
+'unit': 'unknown', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'carbon containing material', 
+'unit': 'unknown', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'Aparatus for production of molten iron', 
+'unit': 'unknown', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'combustible gas', 
+'unit': 'unknown', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'temperature', 
+'unit': 'unknown', 
+'value': 'unknown' 
+}, 
+{ 
+'measurement': 'natural gas', 
+'unit': '%', 
+'value': '25' 
+}, 
+{ 
+'measurement': 'carbon dioxide reduction', 
+'unit': '%', 
+'value': '2' 
+} 
+]
+[
+  {
+    "measurement": "circumference",
+    "unit": "not mentioned",
+    "value": "not mentioned"
+  },
+  {
+    "measurement": "top of the smelt reduction unit",
+    "unit": "not mentioned",
+    "value": "not mentioned"
+  },
+  {
+    "measurement": "oxygen gas outlets",
+    "unit": "not mentioned",
+    "value": "not mentioned"
+  },
+  {
+    "measurement": "combustible gas outlets",
+    "unit": "not mentioned",
+    "value": "not mentioned"
+  }
+]
+As there are no measurements with units and values in the provided text, no output can be generated.
+"measurement": "top lance diameter", "unit": "NA", "value": "larger than sublance diameter",
+"measurement": "sublance diameter", "unit": "NA", "value": "NA",
+"measurement": "probe parameters", "unit": "NA", "value": "NA",
+"measurement": "sampling tool parameters", "unit": "NA", "value": "NA"
+I apologize, but I cannot provide an answer to your request as it seems incomplete and does not provide any text to extract measurements from. Could you please provide the appropriate text?
+[
+    {
+        "measurement": "diameter of top lance distal end",
+        "unit": null,
+        "value": "d1"
+    },
+    {
+        "measurement": "maximum diameter of top lance coupling portion",
+        "unit": null,
+        "value": "d1"
+    },
+    {
+        "measurement": "diameter of sublance cavity",
+        "unit": null,
+        "value": "d2"
+    },
+    {
+        "measurement": "diameter of external cross-section of elongated tube",
+        "unit": null,
+        "value": "d2"
+    },
+    {
+        "measurement": "outer maximum diameter of protective device in initial configuration",
+        "unit": null,
+        "value": "d3_o_2_3_o_2_2_3_o_2"
+    },
+    {
+        "measurement": "diameter of circle inscribing surface that spans over deformed protective device",
+        "unit": null,
+        "value": "d3_d_3_d_1"
+    },
+    {
+        "measurement": "concentration range of polypeptide in bio-product",
+        "unit": "g/ml",
+        "value": "1 to 9"
+    },
+    {
+        "measurement": "diameter of refractory metal oxide support surface area",
+        "unit": "m^2/g",
+        "value": "100 to 200"
+    },
+    {
+        "measurement": "support material for precious metal",
+        "unit": null,
+        "value": "alumina"
+    },
+    {
+        "measurement": "nitrogen oxide storage material surface area",
+        "unit": "m^2/g",
+        "value": "30 and 80"
+    }
+]
+[{"measurement": "elongated tube cros-section external diameter", "unit": "", "value": "d 2 1 2 2 1"},
+{"measurement": "outer maximum diameter of protective device initial configuration", "unit": "", "value": "d 3 o 2 3 o 2 2 3 o 2 3 o 2"},
+{"measurement": "diameter of surface impervious to molten metal and slag", "unit": "", "value": "d 3 d 3 d 1"},
+{"measurement": "diameter of iner passage of iner tube", "unit": "", "value": "d 3 i 3 i 1"},
+{"measurement": "diameter of peripheral slits", "unit": "", "value": "3 i"},
+{"measurement": "diameter of sublance cavity", "unit": "", "value": "d 2 1 2 2 p 2 c 3 1 c 1 t 1 c 1 t 2 v 2 2"},
+{"measurement": "diameter of electrical conection", "unit": "", "value": "2 e 1 e 1 c 2 v 2 1 t 1 e 2 e 1 t 2 2 b"},
+{"measurement": "diameter of protective device in deformed configuration", "unit": "", "value": "d 3 d 3 d 1"},
+{"measurement": "measurement not specified", "unit": "", "value": "1.5 to 7.0"},
+{"measurement": "measurement not specified", "unit": "", "value": "3 to 6"},
+{"measurement": "measurement not specified", "unit": "", "value": "1 to 9"}]
+Output: 
+
+[
+    {
+        "measurement": "diameter of the cros-section of distal end of the handling portion",
+        "unit": "",
+        "value": "d1"
+    },
+    {
+        "measurement": "maximum diameter of the coupling portion cros-section",
+        "unit": "",
+        "value": "d1"
+    },
+    {
+        "measurement": "diameter of cavity",
+        "unit": "",
+        "value": "d2"
+    },
+    {
+        "measurement": "cavity diameter",
+        "unit": "",
+        "value": "d2"
+    },
+    {
+        "measurement": "outer maximum diameter of the deformed protective device",
+        "unit": "",
+        "value": "d3o"
+    },
+    {
+        "measurement": "diameter of iner pasage of the protective device",
+        "unit": "",
+        "value": "d3i"
+    },
+    {
+        "measurement": "outer maximum diameter of the undeformed protective device",
+        "unit": "",
+        "value": "d3o"
+    }
+]
+[ 
+  { 'measurement': 'inner tube diameter', 'unit': 'not specified', 'value': 'd3i3i' },
+  { 'measurement': 'outer tube diameter', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'sublance cavity diameter', 'unit': 'not specified', 'value': 'd2' },
+  { 'measurement': 'outer maximum diameter', 'unit': 'not specified', 'value': 'not more than 10% larger than d2' },
+  { 'measurement': 'number of peripheral tubes', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'peripheral slits separation', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'outer slits separation', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'inner slits separation', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'upper set height', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'lower set height', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'support ring diameter', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'L-shaped plate outer portion length', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'L-shaped plate inner portion length', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'L-shaped plate rotation angle', 'unit': 'not specified', 'value': 'not specified' },
+  { 'measurement': 'concentration range', 'unit': 'g/ml', 'value': '1 to 9' }
+]
+There are no measurements with units and values in the given text.
+[{"measurement": "seamles stel pipe outer diameter", "unit": "m", "value": "138.9"},
+{"measurement": "seamles stel pipe wall thickness", "unit": "m", "value": "10.8"},
+{"measurement": "base stel pipe material C content", "unit": "mas %", "value": "0.04"},
+{"measurement": "base stel pipe material Si content", "unit": "mas %", "value": "0.2"},
+{"measurement": "base stel pipe material Mn content", "unit": "mas %", "value": "1.4"},
+{"measurement": "base stel pipe material Al content", "unit": "mas %", "value": "0.02"},
+{"measurement": "corosion test specimen length", "unit": "m", "value": "30"},
+{"measurement": "corosion test specimen width", "unit": "m", "value": "20"},
+{"measurement": "corosion test specimen thickness", "unit": "m", "value": "5"},
+{"measurement": "normalizing heat treatment temperature", "unit": "°C", "value": "950"}]
+[{"measurement": "corrosion products exfoliation rate", "unit": "N/A", "value": "more desirable in billet-rolled steel pipe material than in as-cast steel pipe material"},
+{"measurement": "steel pipe material yield strength", "unit": "MPa", "value": "230 or more"},
+{"measurement": "steel pipe material tensile strength", "unit": "MPa", "value": "380 or more"},
+{"measurement": "steel pipe material composition C", "unit": "%", "value": "0.02 to 0.12"},
+{"measurement": "steel pipe material composition Si", "unit": "%", "value": "0.010 to 1.0"},
+{"measurement": "steel pipe material composition Mn", "unit": "%", "value": "0.10 to 2.0"},
+{"measurement": "steel pipe material composition P", "unit": "%", "value": "0.050 or less"},
+{"measurement": "steel pipe material composition S", "unit": "%", "value": "0.04 or less"},
+{"measurement": "steel pipe material composition Al", "unit": "%", "value": "0.010 to 0.10"},
+{"measurement": "steel pipe material composition Cu", "unit": "%", "value": "0.03 to 0.80"},
+{"measurement": "steel pipe material composition Ni", "unit": "%", "value": "0.02 to 0.50"},
+{"measurement": "steel pipe material composition Cr", "unit": "%", "value": "0.5 to 1.0"},
+{"measurement": "steel pipe material composition Sb", "unit": "%", "value": "0.05 to 0.20"},
+{"measurement": "steel pipe material composition W", "unit": "%", "value": "0.03 to 0.040"},
+{"measurement": "enrichment of alloy elements below outer surface", "unit": "mas %", "value": "13.5 or more for exfoliation rate of corrosion products to be 10% or less"}]
+[ 
+{ 
+'measurement' : 'cu* concentration', 
+'unit' : 'mas %', 
+'value' : 'N/A' 
+}, 
+{ 
+'measurement' : 'cr* concentration', 
+'unit' : 'mas %', 
+'value' : 'N/A' 
+}, 
+{ 
+'measurement' : 'sb* concentration', 
+'unit' : 'mas %', 
+'value' : 'N/A' 
+}, 
+{ 
+'measurement' : 'w* concentration', 
+'unit' : 'mas %', 
+'value' : 'N/A' 
+}, 
+{ 
+'measurement' : 'sn concentration', 
+'unit' : 'mas %', 
+'value' : '0.05 to 0.5' 
+}, 
+{ 
+'measurement' : 'stel pipe yield strength', 
+'unit' : 'mpa', 
+'value' : '230 or more' 
+}, 
+{ 
+'measurement' : 'stel pipe tensile strength', 
+'unit' : 'mpa', 
+'value' : '380 or more' 
+}, 
+{ 
+'measurement' : 'stel pipe exfoliation rate of corosion product', 
+'unit' : '%', 
+'value' : '10 or less' 
+}, 
+{ 
+'measurement' : 'stel pipe sulfuric acid concentration', 
+'unit' : 'mas %', 
+'value' : '70' 
+} 
+]
+[
+    {
+        "measurement": "c content",
+        "unit": "%",
+        "value": "0.02 to 0.12"
+    },
+    {
+        "measurement": "si content",
+        "unit": "%",
+        "value": "0.010 to 1.0"
+    },
+    {
+        "measurement": "mn content",
+        "unit": "%",
+        "value": "0.10 to 2.0"
+    },
+    {
+        "measurement": "p content",
+        "unit": "%",
+        "value": "0.050 or less"
+    },
+    {
+        "measurement": "s content",
+        "unit": "%",
+        "value": "0.04 or less"
+    },
+    {
+        "measurement": "al content",
+        "unit": "%",
+        "value": "0.010 to 0.10"
+    },
+    {
+        "measurement": "cu content",
+        "unit": "%",
+        "value": "0.03 to 0.80"
+    },
+    {
+        "measurement": "ni content",
+        "unit": "%",
+        "value": "0.02 to 0.50"
+    }
+]
+[
+    {
+        "measurement": "Cr concentration",
+        "unit": "%",
+        "value": "0.5 to 1.0"
+    },
+    {
+        "measurement": "Sb concentration",
+        "unit": "%",
+        "value": "0.05 to 0.20"
+    },
+    {
+        "measurement": "Sb concentration",
+        "unit": "%",
+        "value": "0.05 or more"
+    },
+    {
+        "measurement": "Sb concentration",
+        "unit": "%",
+        "value": "0.02 or more"
+    },
+    {
+        "measurement": "Sb concentration",
+        "unit": "%",
+        "value": "0.05 or more"
+    },
+    {
+        "measurement": "Sb concentration",
+        "unit": "%",
+        "value": "0.15 or less"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.03 to 0.040"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.03 or more"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.05 or more"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.08 or more"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.040 or less"
+    },
+    {
+        "measurement": "W concentration",
+        "unit": "%",
+        "value": "0.030 or less"
+    },
+    {
+        "measurement": "Sn concentration",
+        "unit": "%",
+        "value": "0.05 to 0.5"
+    },
+    {
+        "measurement": "H incidental impurities",
+        "unit": "%",
+        "value": "0.05"
+    },
+    {
+        "measurement": "O incidental impurities",
+        "unit": "%",
+        "value": "0.04"
+    },
+    {
+        "measurement": "Co incidental impurities",
+        "unit": "%",
+        "value": "0.01"
+    },
+    {
+        "measurement": "As incidental impurities",
+        "unit": "%",
+        "value": "0.06"
+    },
+    {
+        "measurement": "Zr incidental impurities",
+        "unit": "%",
+        "value": "0.04"
+    },
+    {
+        "measurement": "Ag incidental impurities",
+        "unit": "%",
+        "value": "0.01"
+    },
+    {
+        "measurement": "Ta incidental impurities",
+        "unit": "%",
+        "value": "0.04"
+    },
+    {
+        "measurement": "Pb incidental impurities",
+        "unit": "%",
+        "value": "0.05"
+    },
+    {
+        "measurement": "Cu* concentration",
+        "unit": "mas %",
+        "value": "not specified"
+    },
+    {
+        "measurement": "Cr* concentration",
+        "unit": "mas %",
+        "value": "not specified"
+    },
+    {
+        "measurement": "Sb* concentration",
+        "unit": "mas %",
+        "value": "not specified"
+    },
+    {
+        "measurement": "W* concentration",
+        "unit": "mas %",
+        "value": "not specified"
+    }
+]
+As there is no measurement, unit or value mentioned in the given text, there is no output to provide in the requested format.
+[
+{ "measurement": "yield strength", "unit": "MPa", "value": "230 or more" },
+{ "measurement": "tensile strength", "unit": "MPa", "value": "380 or more" },
+{ "measurement": "yield strength", "unit": "MPa", "value": "250 or more" },
+{ "measurement": "tensile strength", "unit": "MPa", "value": "40 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,000 to 1,200" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,050 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,100 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,190 or less" }
+]
+[ 
+{ "measurement": "heating time", "unit": "hours", "value": "at least 1.5" },
+{ "measurement": "heating time", "unit": "hours", "value": "at least 2.0" },
+{ "measurement": "heating time", "unit": "hours", "value": "not more than 3.0" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,050 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,100 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "not more than 1,200" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,190 or less" },
+{ "measurement": "cooling rate", "unit": "°C/s", "value": "1 or less" },
+{ "measurement": "hot rolling end temperature", "unit": "°C", "value": "80 or more" },
+{ "measurement": "hot rolling end temperature", "unit": "°C", "value": "90 or more" },
+{ "measurement": "heating temperature", "unit": "°C", "value": "1,100 to 1,300" }
+]
+[ 
+{ 'measurement': 'stel pipe material heating temperature', 'unit': '°C', 'value': '1,150 or more' },
+{ 'measurement': 'stel pipe material heating temperature', 'unit': '°C', 'value': '1,20 or more' },
+{ 'measurement': 'stel pipe material heating temperature', 'unit': '°C', 'value': '1,30 or less' },
+{ 'measurement': 'hot rolling temperature', 'unit': '°C', 'value': '80 or more' },
+{ 'measurement': 'hot roling temperature', 'unit': '°C', 'value': '830 or more' },
+{ 'measurement': 'hot roling temperature', 'unit': '°C', 'value': '850 or more' },
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '850 to 1,050' },
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '80 or more '},
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '90 or more' },
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '1,050 or less' },
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '1,0 or less' },
+{ 'measurement': 'normalizing temperature', 'unit': '°C', 'value': '950 or less' } 
+]
+[
+{ "measurement": "surface area", "unit": "m^2/g", "value": "between about 5 and about 350" },
+{ "measurement": "coated Substrate support", "unit": "g/in", "value": "about 1.5 to about 7.0" },
+{ "measurement": "coated Substrate support", "unit": "g/in", "value": "between about 3 and 6" },
+{ "measurement": "Alumina BET surface area", "unit": "m/g", "value": "about 200" },
+{ "measurement": "nitrogen oxide surface area", "unit": "m^2/g", "value": "between about 30 and 80" },
+{ "measurement": "polypeptide concentration", "unit": "g/ml", "value": "between 1 to 9" },
+{ "measurement": "yield strength", "unit": "MPa", "value": "230 or more" },
+{ "measurement": "tensile strength", "unit": "MPa", "value": "380 or more" },
+{ "measurement": "yield strength", "unit": "MPa", "value": "250 or more" },
+{ "measurement": "tensile strength", "unit": "MPa", "value": "40 or more" }
+]
+[
+   {
+      "measurement": "exfoliation rate of corosion products",
+      "unit": "%",
+      "value": "10 or less"
+   },
+   {
+      "measurement": "exfoliation rate of corosion products",
+      "unit": "%",
+      "value": "8 or less"
+   },
+   {
+      "measurement": "exfoliation rate of corosion products",
+      "unit": "%",
+      "value": "5 or less"
+   },
+   {
+      "measurement": "stel pipes outer diameter",
+      "unit": "m",
+      "value": "17.8"
+   },
+   {
+      "measurement": "stel pipes outer diameter",
+      "unit": "m",
+      "value": "50.8"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1275"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1270"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1249"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1252"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1254"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1273"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "1276"
+   },
+   {
+      "measurement": "stel pipes heating temp.",
+      "unit": "°C",
+      "value": "16"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "17"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "175"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "13"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "138"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "1089"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "156"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "132"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "134"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "1078"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "198"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "149"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "151"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "148"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "153"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "1094"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "146"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "141"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "16"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "1075"
+   },
+   {
+      "measurement": "stel pipes heating time",
+      "unit": "hr",
+      "value": "14"
+   },
+   {
+      "measurement": "stel pipes outer diameter",
+      "unit": "m",
+      "value": "17.8"
+   },
+   {
+      "measurement": "stel pipes outer diameter",
+      "unit": "m",
+      "value": "50.8"
+   }
+]
+[
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.9",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "145",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "143",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "148",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "142",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "146",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1291",
+    "details": "1-16"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "101",
+    "details": "1-16"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1249",
+    "details": "1-17"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "863",
+    "details": "1-17"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1245",
+    "details": "1-18"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "871",
+    "details": "1-18"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1249",
+    "details": "1-19"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "86",
+    "details": "1-19"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "128",
+    "details": "1-20"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "859",
+    "details": "1-20"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1246",
+    "details": "1-21"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "86",
+    "details": "1-21"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.9",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "145",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "143",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "148",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "142",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "146",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1232",
+    "details": "1-3"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "859",
+    "details": "1-3"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1239",
+    "details": "1-34"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "935",
+    "details": "1-34"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "123",
+    "details": "1-35"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "854",
+    "details": "1-35"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "151",
+    "details": "1-36"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "2.1",
+    "details": "1-36"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "142",
+    "details": "1-37"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-37"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "154",
+    "details": "1-38"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "2.2",
+    "details": "1-38"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1237",
+    "details": "1-39"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "865",
+    "details": "1-39"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1235",
+    "details": "1-40"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "853",
+    "details": "1-40"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.9",
+    "details": "1-24"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "145",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-25"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "143",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-26"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "148",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-27"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "142",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-28"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "147",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.7",
+    "details": "1-29"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "146",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-30"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1232",
+    "details": "1-3"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "859",
+    "details": "1-3"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1239",
+    "details": "1-34"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "935",
+    "details": "1-34"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "123",
+    "details": "1-35"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "854",
+    "details": "1-35"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "151",
+    "details": "1-36"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "2.1",
+    "details": "1-36"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "142",
+    "details": "1-37"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "1-37"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "154",
+    "details": "1-38"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "2.2",
+    "details": "1-38"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1237",
+    "details": "1-39"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "865",
+    "details": "1-39"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1235",
+    "details": "1-40"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "853",
+    "details": "1-40"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "980",
+    "details": "2-1"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "0.3",
+    "details": "2-1"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "181",
+    "details": "2-2"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.6",
+    "details": "2-2"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "174",
+    "details": "2-3"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "1.8",
+    "details": "2-3"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1230",
+    "details": "2-4"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "861",
+    "details": "2-4"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "128",
+    "details": "2-5"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "858",
+    "details": "2-5"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1241",
+    "details": "2-9"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "854",
+    "details": "2-9"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1274",
+    "details": "2-1"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "83",
+    "details": "2-1"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1263",
+    "details": "2-2"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "81",
+    "details": "2-2"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1203",
+    "details": "2-3"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "857",
+    "details": "2-3"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "1239",
+    "details": "2-4"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "861",
+    "details": "2-4"
+  },
+  {
+    "measurement": "heating temp",
+    "unit": "C",
+    "value": "128",
+    "details": "2-5"
+  },
+  {
+    "measurement": "heating time",
+    "unit": "hr",
+    "value": "858",
+    "details": "2-5"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.68",
+    "details": "1-1"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.20",
+    "details": "1-1"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.17",
+    "details": "1-1"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "15.0",
+    "details": "1-1"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.68",
+    "details": "1-2"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.26",
+    "details": "1-2"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.17",
+    "details": "1-2"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "15.7",
+    "details": "1-2"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.39",
+    "details": "1-3"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.46",
+    "details": "1-3"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.12",
+    "details": "1-3"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "17.2",
+    "details": "1-3"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.59",
+    "details": "1-4"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.39",
+    "details": "1-4"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.09",
+    "details": "1-4"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "16.6",
+    "details": "1-4"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.72",
+    "details": "1-5"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.1",
+    "details": "1-5"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.18",
+    "details": "1-5"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "14.1",
+    "details": "1-5"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.60",
+    "details": "1-6"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.18",
+    "details": "1-6"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.08",
+    "details": "1-6"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "14.3",
+    "details": "1-6"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.24",
+    "details": "1-7"
+  },
+  {
+    "measurement": "cr*",
+    "unit": "mas %",
+    "value": "1.16",
+    "details": "1-7"
+  },
+  {
+    "measurement": "sb*",
+    "unit": "mas %",
+    "value": "0.1",
+    "details": "1-7"
+  },
+  {
+    "measurement": "w*",
+    "unit": "mas %",
+    "value": "13.6",
+    "details": "1-7"
+  },
+  {
+    "measurement": "cu*",
+    "unit": "mas %",
+    "value": "0.1",
+[{"measurement": "value on stel", "unit": "%", "value": "0.68", "line_analysis": "cu*", "pipe_no": "1-24", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.13", "line_analysis": "cr*", "pipe_no": "1-24", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-24", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.2", "line_analysis": "w*", "pipe_no": "1-24", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-25", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-25", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.18", "line_analysis": "sb*", "pipe_no": "1-25", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.5", "line_analysis": "w*", "pipe_no": "1-25", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.65", "line_analysis": "cu*", "pipe_no": "1-26", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.13", "line_analysis": "cr*", "pipe_no": "1-26", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-26", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.1", "line_analysis": "w*", "pipe_no": "1-26", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-27", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.17", "line_analysis": "cr*", "pipe_no": "1-27", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.14", "line_analysis": "sb*", "pipe_no": "1-27", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.5", "line_analysis": "w*", "pipe_no": "1-27", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-28", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-28", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-28", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.4", "line_analysis": "w*", "pipe_no": "1-28", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.68", "line_analysis": "cu*", "pipe_no": "1-29", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-29", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-29", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.4", "line_analysis": "w*", "pipe_no": "1-29", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-30", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.17", "line_analysis": "cr*", "pipe_no": "1-30", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.18", "line_analysis": "sb*", "pipe_no": "1-30", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.7", "line_analysis": "w*", "pipe_no": "1-30", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.65", "line_analysis": "cu*", "pipe_no": "1-31", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.13", "line_analysis": "cr*", "pipe_no": "1-31", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-31", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.1", "line_analysis": "w*", "pipe_no": "1-31", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.51", "line_analysis": "cu*", "pipe_no": "1-32", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-32", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-32", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "15.8", "line_analysis": "w*", "pipe_no": "1-32", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.02", "line_analysis": "cu*", "pipe_no": "1-33", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.18", "line_analysis": "cr*", "pipe_no": "1-33", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.14", "line_analysis": "sb*", "pipe_no": "1-33", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "13.5", "line_analysis": "w*", "pipe_no": "1-33", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-34", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.13", "line_analysis": "cr*", "pipe_no": "1-34", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-34", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.2", "line_analysis": "w*", "pipe_no": "1-34", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.65", "line_analysis": "cu*", "pipe_no": "1-35", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "2.02", "line_analysis": "cr*", "pipe_no": "1-35", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.14", "line_analysis": "sb*", "pipe_no": "1-35", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "23.9", "line_analysis": "w*", "pipe_no": "1-35", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.4", "line_analysis": "cu*", "pipe_no": "1-36", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.94", "line_analysis": "cr*", "pipe_no": "1-36", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.18", "line_analysis": "sb*", "pipe_no": "1-36", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "13.5", "line_analysis": "w*", "pipe_no": "1-36", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.63", "line_analysis": "cu*", "pipe_no": "1-37", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-37", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.4", "line_analysis": "sb*", "pipe_no": "1-37", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "15.4", "line_analysis": "w*", "pipe_no": "1-37", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.98", "line_analysis": "cu*", "pipe_no": "1-38", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.07", "line_analysis": "cr*", "pipe_no": "1-38", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.01", "line_analysis": "sb*", "pipe_no": "1-38", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "13.5", "line_analysis": "w*", "pipe_no": "1-38", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.68", "line_analysis": "cu*", "pipe_no": "1-39", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.13", "line_analysis": "cr*", "pipe_no": "1-39", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-39", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.08", "line_analysis": "w*", "pipe_no": "1-39", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.67", "line_analysis": "cu*", "pipe_no": "1-40", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "1.15", "line_analysis": "cr*", "pipe_no": "1-40", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "0.16", "line_analysis": "sb*", "pipe_no": "1-40", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "value on stel", "unit": "%", "value": "14.4", "line_analysis": "w*", "pipe_no": "1-40", "side_of_pipe": "left-hand", "table": "table 7"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "26", "imersion_time": "96-h", "pipe_defect": "", "sulfuric_acid_grouping": "present example", "pipe_no": "1-1", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "401", "imersion_time": "96-h", "pipe_defect": "5", "sulfuric_acid_grouping": "present example", "pipe_no": "1-1", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "269", "imersion_time": "96-h", "pipe_defect": "4", "sulfuric_acid_grouping": "present example", "pipe_no": "1-2", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "403", "imersion_time": "96-h", "pipe_defect": "4", "sulfuric_acid_grouping": "present example", "pipe_no": "1-2", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "254", "imersion_time": "96-h", "pipe_defect": "2", "sulfuric_acid_grouping": "present example", "pipe_no": "1-3", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "387", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-3", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "263", "imersion_time": "96-h", "pipe_defect": "3", "sulfuric_acid_grouping": "present example", "pipe_no": "1-4", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "41", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-4", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "278", "imersion_time": "96-h", "pipe_defect": "8", "sulfuric_acid_grouping": "present example", "pipe_no": "1-5", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "545", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-5", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "24", "imersion_time": "96-h", "pipe_defect": "7", "sulfuric_acid_grouping": "present example", "pipe_no": "1-6", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "561", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-6", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "237", "imersion_time": "96-h", "pipe_defect": "10", "sulfuric_acid_grouping": "present example", "pipe_no": "1-7", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "404", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-7", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "26", "imersion_time": "96-h", "pipe_defect": "9", "sulfuric_acid_grouping": "present example", "pipe_no": "1-8", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "4", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-8", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "256", "imersion_time": "96-h", "pipe_defect": "10", "sulfuric_acid_grouping": "present example", "pipe_no": "1-9", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "392", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-9", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "271", "imersion_time": "96-h", "pipe_defect": "8", "sulfuric_acid_grouping": "present example", "pipe_no": "1-10", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "428", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-10", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "261", "imersion_time": "96-h", "pipe_defect": "4", "sulfuric_acid_grouping": "present example", "pipe_no": "1-11", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "407", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-11", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "248", "imersion_time": "96-h", "pipe_defect": "5", "sulfuric_acid_grouping": "present example", "pipe_no": "1-12", "table": "table 6"},
+{"measurement": "tensile strength", "unit": "mpa", "value": "424", "imersion_time": "96-h", "pipe_defect": "present example", "sulfuric_acid_grouping": "present example", "pipe_no": "1-12", "table": "table 6"},
+{"measurement": "stel yield strength", "unit": "mpa", "value": "237", "imersion_time": "96-h",
+[
+    {
+        "measurement": "stel compositions upper limits",
+        "unit": "N/A",
+        "value": "outside range of present invention"
+    },
+    {
+        "measurement": "stel compositions lower limits",
+        "unit": "N/A",
+        "value": "outside range of present invention"
+    },
+    {
+        "measurement": "defects observed in stel pipe outer surface",
+        "unit": "N/A",
+        "value": "present in comparative examples"
+    },
+    {
+        "measurement": "stel pipe centerline segregation",
+        "unit": "N/A",
+        "value": "exceeded upper limits of ranges in comparative examples"
+    },
+    {
+        "measurement": "yield strength and tensile strength",
+        "unit": "N/A",
+        "value": "not met target values in comparative examples"
+    },
+    {
+        "measurement": "corrosion rate",
+        "unit": "%",
+        "value": "10 or less observed in present examples, failed to meet targets in comparative examples"
+    },
+    {
+        "measurement": "heating temperature of billet rolling and cast-piece heat treatment",
+        "unit": "N/A",
+        "value": "below lower limits of range in comparative examples"
+    },
+    {
+        "measurement": "tubing and steel pipe heat treatment",
+        "unit": "N/A",
+        "value": "ocured in comparative examples"
+    },
+    {
+        "measurement": "coarsening of steel microstructure",
+        "unit": "N/A",
+        "value": "ocured in text"
+    }
+]
+[{"measurement": "normalizing temperature", "unit": "N/A", "value": "exceded the uper limit of the range of the present invention"},
+{"measurement": "normalizing temperature", "unit": "N/A", "value": "below the lower limit of the range of the present invention"},
+{"measurement": "untransformed ferite and perlite", "unit": "N/A", "value": "partialy remained at high temperature"},
+{"measurement": "yield strength", "unit": "N/A", "value": "failed to achieve the target values in the tensile test"},
+{"measurement": "tensile strength", "unit": "N/A", "value": "failed to achieve the target values in the tensile test"}]
+[ 
+{ "measurement": "c", "unit": "mas %", "value": "0.02 to 0.12" },
+{ "measurement": "si", "unit": "mas %", "value": "0.010 to 1.0" },
+{ "measurement": "mn", "unit": "mas %", "value": "0.10 to 2.0" },
+{ "measurement": "p", "unit": "mas %", "value": "0.050 or les" },
+{ "measurement": "s", "unit": "mas %", "value": "0.04 or les" },
+{ "measurement": "al", "unit": "mas %", "value": "0.010 to 0.10" },
+{ "measurement": "cu", "unit": "mas %", "value": "0.03 to 0.80" },
+{ "measurement": "ni", "unit": "mas %", "value": "0.02 to 0.50" },
+{ "measurement": "cr", "unit": "mas %", "value": "0.5 to 1.0" },
+{ "measurement": "sb", "unit": "mas %", "value": "0.05 to 0.20" },
+{ "measurement": "cu*, cr* and sb*", "unit": "mas %", "value": "average concentrations of cu, cr and sb respectively in the range of 0.5 to 2.0 m away from an outer surface of the stel pipe" },
+{ "measurement": "yield strength", "unit": "mpa", "value": "230 or more" },
+{ "measurement": "tensile strength", "unit": "mpa", "value": "380 or more" },
+{ "measurement": "heating temperature", "unit": "c", "value": "1.0 to 1.20" },
+{ "measurement": "hot rolling temperature", "unit": "c", "value": "80 or more" },
+{ "measurement": "normalizing temperature", "unit": "c", "value": "850 to 1,050" } 
+]

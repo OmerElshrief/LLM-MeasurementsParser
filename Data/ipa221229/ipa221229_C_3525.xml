@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411915A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411915</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17929830</doc-number>
+<date>20220906</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2017-191820</doc-number>
+<date>20170929</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>20</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>06</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>N</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>20</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>0652</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>7</main-group>
+<subgroup>16</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>0063</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>G</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>2281</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">STRAIN GAUGE</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>16650560</doc-number>
+<date>20200325</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>11499220</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2018/035706</doc-number>
+<date>20180926</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>17929830</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>MINEBEA MITSUMI Inc.</orgname>
+<address>
+<city>Nagano</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>ASAKAWA</last-name>
+<first-name>Toshiaki</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>AIZAWA</last-name>
+<first-name>Yuta</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="02" designation="us-only">
+<addressbook>
+<last-name>TODA</last-name>
+<first-name>Shinya</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="03" designation="us-only">
+<addressbook>
+<last-name>TAKATA</last-name>
+<first-name>Shintaro</first-name>
+<address>
+<city>Nagano</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="04" designation="us-only">
+<addressbook>
+<last-name>NIWA</last-name>
+<first-name>Shinichi</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A strain gauge includes a flexible substrate and a functional layer formed of a metal, an alloy, or a metal compound, the functional layer being directly on one surface of the substrate. The strain gauge includes a resistor formed of a film that includes Cr, CrN, and Cr<sub>2</sub>N and that is formed with &#x3b1;-Cr as a main component. The functional layer includes a function of promoting crystal growth of &#x3b1;-Cr and forming an &#x3b1;-Cr based film.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="84.24mm" wi="152.65mm" file="US20220411915A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="219.29mm" wi="154.69mm" file="US20220411915A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="162.73mm" wi="151.38mm" file="US20220411915A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="198.29mm" wi="133.10mm" orientation="landscape" file="US20220411915A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="137.75mm" wi="133.69mm" file="US20220411915A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation application of and claims the benefit under 35 U.S.C. &#xa7; 120 of U.S. patent application Ser. No. 16/650,560, filed Mar. 25, 2020, which claims priority to International Application No. PCT/JP2018/035706, filed Sep. 26, 2018, which claims priority to Japanese Patent Application No. 2017-191820, filed Sep. 29, 2017. The contents of these applications are incorporated herein by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<heading id="h-0003" level="1">1. Field of the Invention</heading>
+<p id="p-0003" num="0002">The present invention relates to a strain gauge.</p>
+<heading id="h-0004" level="1">2. Description of the Related Art</heading>
+<p id="p-0004" num="0003">A strain gauge is known to be attached to a measured object to detect strain on the measured object. The strain gauge includes a resistor for detecting strain, and as a resistor material, for example, material including Cr (chromium) or Ni (nickel) is used. The resistor is formed on a substrate made of, for example, an insulating resin (see, for example, Patent document 1).</p>
+<heading id="h-0005" level="1">CITATION LIST</heading>
+<p id="p-0005" num="0004">[Patent Document]</p>
+<p id="p-0006" num="0005">[Patent document 1] Japanese Unexamined Patent Application Publication No. 2016-74934</p>
+<heading id="h-0006" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">However, when a flexible substrate is used, a stable resistor is not easily formed on the substrate, and thus there is a problem in instability of gauge characteristics (a gauge factor, a gauge factor temperature coefficient TCS, and a temperature coefficient of resistance TCR).</p>
+<p id="p-0008" num="0007">In view of the point described above, an object of the present invention is to improve stability of gauge characteristics of a strain gauge including a resistor formed above a flexible substrate.</p>
+<p id="p-0009" num="0008">A strain gauge includes a flexible substrate; a functional layer formed of a metal, an alloy, or a metal compound, on one surface of the substrate; and a resistor formed of material including at least one from among chromium and nickel, on one surface of the functional layer.</p>
+<p id="p-0010" num="0009">According to the disclosed technique, with respect to a strain gauge including a resistor formed above a flexible substrate, stability of gauge characteristics can be improved.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a plan view of an example of a strain gauge according to a first embodiment.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. <b>2</b></figref> is a cross-sectional view of an example of the strain gauge according to the first embodiment.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. <b>3</b>A</figref> is a diagram (part <b>1</b>) illustrating an example of a process of manufacturing the strain gauge according to the first embodiment.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. <b>3</b>B</figref> is a diagram (part <b>2</b>) illustrating an example of the process of manufacturing the strain gauge according to the first embodiment.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. <b>4</b></figref> is a diagram illustrating a result of X-ray fluorescent analysis for a functional layer.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. <b>5</b></figref> is a diagram illustrating a result of X-ray diffraction for a resistor.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0017" num="0016">One or more embodiments will be hereinafter described with reference to the drawings. In each figure, the same numerals denote the same components; accordingly, duplicative explanations may be omitted.</p>
+<heading id="h-0009" level="1">First Embodiment</heading>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. <b>1</b></figref> is a plan view of an example of a strain gauge according to a first embodiment. <figref idref="DRAWINGS">FIG. <b>2</b></figref> is a cross-sectional view of an example of the strain gauge according to the first embodiment, and illustrates a cross section taken along the A-A line in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. With reference to <figref idref="DRAWINGS">FIGS. <b>1</b> and <b>2</b></figref>, the strain gauge <b>1</b> includes a substrate <b>10</b>, a functional layer <b>20</b>, a resistor <b>30</b>, and terminal sections <b>41</b>.</p>
+<p id="p-0019" num="0018">Note that in the present embodiment, for the sake of convenience, with respect to the strain gauge <b>1</b>, the side of the substrate <b>10</b> where the resistor <b>30</b> is provided is referred to as an upper side or one side; and the side of the substrate <b>10</b> where the resistor <b>30</b> is not provided is referred to as a lower side or another side. Further, for each component, the surface on the side where the resistor <b>30</b> is provided is referred to as one surface or an upper surface; and the surface on the side where the resistor <b>30</b> is not provided is referred to as another surface or a lower surface. However, the strain gauge <b>1</b> can be used in a state of being upside down, or be disposed at any angle. Further, a plan view means that an object is viewed from a normal direction of an upper surface <b>10</b><i>a </i>of the substrate <b>10</b>, and a planar shape refers to a shape of an object when viewed from the normal direction of the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>.</p>
+<p id="p-0020" num="0019">The substrate <b>10</b> is a member that is a base layer for forming the resistor <b>30</b> or the like and is flexible. The thickness of the substrate <b>10</b> is not particularly restricted, and can be appropriately selected for any purpose. For example, such a thickness can be approximately between 5 &#x3bc;m and 500 &#x3bc;m. In particular, when the thickness of the substrate <b>10</b> is between 5 &#x3bc;m and 200 &#x3bc;m, it is preferable in terms of strain transfer from a flexure element surface that is bonded to a lower surface of the substrate <b>10</b> via an adhesive layer or the like; and dimensional stability with respect to environment, and when the thickness is 10 &#x3bc;m or more, it is further preferable in terms of insulation.</p>
+<p id="p-0021" num="0020">The substrate <b>10</b> can be formed of an insulating resin film such as a PI (polyimide) resin, an epoxy resin, a PEEK (polyether ether ketone) resin, a PEN (polyethylene naphthalate) resin, a PET (polyethylene terephthalate) resin, a PPS (polyphenylene sulfide) resin, or a polyolefin resin. Note that the film refers to a flexible member having a thickness of about 500 &#x3bc;m or less.</p>
+<p id="p-0022" num="0021">Here, the &#x201c;formed of an insulating resin film&#x201d; is not intended to preclude the substrate <b>10</b> from containing fillers, impurities, or the like in the insulating resin film. The substrate <b>10</b> may be formed of, for example, an insulating resin film containing fillers such as silica or alumina.</p>
+<p id="p-0023" num="0022">The functional layer <b>20</b> is formed, as a lower layer of the resistor <b>30</b>, on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>. In other words, a planar shape of the functional layer <b>20</b> is approximately the same as the planar shape of the resistor <b>30</b> illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. The thickness of the functional layer <b>20</b> can be approximately between 1 nm and 100 nm, for example.</p>
+<p id="p-0024" num="0023">In the present application, the functional layer refers to a layer that has a function of promoting crystal growth of the resistor <b>30</b> that is at least an upper layer. The functional layer <b>20</b> preferably further has a function of preventing oxidation of the resistor <b>30</b> caused by oxygen and moisture included in the substrate <b>10</b>, as well as a function of improving adhesion between the substrate <b>10</b> and the resistor <b>30</b>. The functional layer <b>20</b> may further have other functions.</p>
+<p id="p-0025" num="0024">The insulating resin film that constitutes the substrate <b>10</b> contains oxygen and moisture. In this regard, particularly when the resistor <b>30</b> includes Cr (chromium), it is effective for the functional layer <b>20</b> to have a function of preventing oxidation of the resistor <b>30</b>, because Cr forms an autoxidized film.</p>
+<p id="p-0026" num="0025">The material of the functional layer <b>20</b> is not particularly restricted as long as it is material having a function of promoting crystal growth of the resistor <b>30</b> that is at least an upper layer. Such material can be appropriately selected for any purpose, and includes one or more types of metals selected from a group consisting of, for example, Cr (chromium), Ti (titanium), V (vanadium), Nb (niobium), Ta (tantalum), Ni (nickel), Y (yttrium), Zr (zirconium), Hf (hafnium), Si (silicon), C (carbon), Zn (zinc), Cu (copper), Bi (bismuth), Fe (iron), Mo (molybdenum), W (tungsten), Ru (ruthenium), Rh (rhodium), Re (rhenium), Os (osmium), Ir (iridium), Pt (platinum), Pd (palladium), Ag (silver), Au (gold), Co (cobalt), Mn (manganese), and Al (aluminum); an alloy of any metals from among the group; or a compound of any metal from among the group.</p>
+<p id="p-0027" num="0026">Examples of the above alloy include FeCr, TiAl, FeNi, NiCr, CrCu, and the like. Examples of the above compound include TiN, TaN, Si<sub>3</sub>N<sub>4</sub>, TiO<sub>2</sub>, Ta<sub>2</sub>O<sub>5</sub>, SiO<sub>2</sub>, and the like.</p>
+<p id="p-0028" num="0027">The resistor <b>30</b> is a thin film formed in a predetermined pattern and on the upper surface of the functional layer <b>20</b>, and is a sensitive section where resistance varies according to strain. Note that in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, for the sake of convenience, the resistor <b>30</b> is illustrated in a crepe pattern.</p>
+<p id="p-0029" num="0028">The resistor <b>30</b> can be formed of, for example, material including Cr (chromium); material including Ni (nickel); or material including both of Cr and Ni. In other words, the resistor <b>30</b> can be formed of material including at least one from among Cr and Ni. An example of the material including Cr includes a Cr composite film. An example of the material including nickel includes Cu&#x2014;Ni (copper nickel). An example of the material including both of Cr and Ni includes Ni&#x2014;Cr (nickel chromium).</p>
+<p id="p-0030" num="0029">Here, the Cr composite film is a composite film of Cr, CrN, Cr<sub>2</sub>N, and the like. The Cr composite film may include incidental impurities such as chromium oxide. A portion of the material that constitutes the functional layer <b>20</b> may also be diffused into the Cr composite film. In this case, the material that constitutes the functional layer <b>20</b>, and nitrogen may form a compound. For example, when the functional layer <b>20</b> is formed of Ti, the Cr composite film may include Ti or TiN (titanium nitride).</p>
+<p id="p-0031" num="0030">The thickness of the resistor <b>30</b> is not particularly restricted, and can be appropriately selected for any purpose. The thickness can be, for example, approximately between 0.05 &#x3bc;m and 2 &#x3bc;m. In particular, when the thickness of the resistor <b>30</b> is 0.1 &#x3bc;m or more, it is preferable in terms of improvement in crystallinity (e.g., crystallinity of &#x3b1;-Cr) of a crystal that constitutes the resistor <b>30</b>, and when the thickness of the resistor <b>30</b> is 1 &#x3bc;m or less, it is further preferable in terms of reduction in cracks of a given film caused by internal stress of the film that constitutes the resistor <b>30</b>, or reduction in warp in the substrate <b>10</b>.</p>
+<p id="p-0032" num="0031">With the resistor <b>30</b> being formed on the functional layer <b>20</b>, the resistor <b>30</b> can be formed by a stable crystalline phase and thus stability of gauge characteristics (a gauge factor, a gauge factor temperature coefficient TCS, and a temperature coefficient of resistance TCR) can be improved.</p>
+<p id="p-0033" num="0032">For example, when the resistor <b>30</b> is the Cr composite film, in a case of providing the functional layer <b>20</b>, the resistor <b>30</b> can be formed with &#x3b1;-Cr (alpha-chromium) as the main component. Because &#x3b1;-Cr has a stable crystalline phase, the stability of the gauge characteristics can be improved.</p>
+<p id="p-0034" num="0033">Here, a main component means that a target substance has 50% by weight or more of total substances that constitute the resistor. When the resistor <b>30</b> is the Cr composite film, the resistor <b>30</b> preferably includes &#x3b1;-Cr of 80% by weight or more, from the viewpoint of improving the gauge characteristics. Note that &#x3b1;-Cr is Cr having a bcc structure (body-centered cubic structure).</p>
+<p id="p-0035" num="0034">Also, by diffusing a metal (e.g., Ti) that constitutes the functional layer <b>20</b> into the Cr composite film, the gauge characteristics can be improved. Specifically, the gauge factor of the strain gauge <b>1</b> can be 10 or more, as well as the gauge factor temperature coefficient TCS and temperature coefficient of resistance TCR can be each in the range of from &#x2212;1000 ppm/&#xb0; C. to +1000 ppm/&#xb0; C.</p>
+<p id="p-0036" num="0035">The terminal sections <b>41</b> respectively extend from both end portions of the resistor <b>30</b> and are each wider than the resistor <b>30</b> to be in an approximately rectangular shape, in a plan view. The terminal sections <b>41</b> are a pair of electrodes from which a change in a resistance value of the resistor <b>30</b> according to strain is output externally, where, for example, a lead wire for an external connection, or the like is joined. For example, the resistor <b>30</b> extends zigzagged back and forth from one of the terminal sections <b>41</b> to another terminal section <b>41</b>. The upper surface of each terminal section <b>41</b> may be coated with a metal allowing for better solderability than the terminal section <b>41</b>. Note that for the sake of convenience, the resistor <b>30</b> and the terminal sections <b>41</b> are expressed by different numerals. However, the resistor and the terminal sections can be integrally formed of the same material, in the same process.</p>
+<p id="p-0037" num="0036">A cover layer <b>60</b> (insulating resin layer) may be provided on and above the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>, such that the resistor <b>30</b> is coated and the terminal sections <b>41</b> are exposed. With the cover layer <b>60</b> being provided, mechanical damage, and the like can be prevented from occurring in the resistor <b>30</b>. Additionally, with the cover layer <b>60</b> being provided, the resistor <b>30</b> can be protected against moisture, and the like. Note that the cover layer <b>60</b> may be provided to cover all portions except for the terminal sections <b>41</b>.</p>
+<p id="p-0038" num="0037">The cover layer <b>60</b> can be formed of an insulating resin such as a PI resin, an epoxy resin, a PEEK resin, a PEN resin, a PET resin, or a PPS resin, a composite resin (e.g., a silicone resin or a polyolefin resin). The cover layer <b>60</b> may contain fillers or pigments. The thickness of the cover layer <b>60</b> is not particularly restricted, and can be appropriately selected for any purpose. For example, the thickness may be approximately between 2 &#x3bc;m and 30 &#x3bc;m.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIGS. <b>3</b>A and <b>3</b>B</figref> are diagrams illustrating a process of manufacturing the strain gauge according to the first embodiment, and each illustrate a cross section corresponding to <figref idref="DRAWINGS">FIG. <b>2</b></figref>. In order to manufacture the strain gauge <b>1</b>, first, in the process illustrated in <figref idref="DRAWINGS">FIG. <b>3</b>A</figref>, the substrate <b>10</b> is prepared and the functional layer <b>20</b> is formed on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>. The material and thickness for each of the substrate <b>10</b> and the functional layer <b>20</b> are the same as the material and thickness described above.</p>
+<p id="p-0040" num="0039">The functional layer <b>20</b> can be vacuum-deposited by, for example, conventional sputtering in which a raw material capable of forming the functional layer <b>20</b> is the target and in which an Ar (argon) gas is supplied to a chamber. By using conventional sputtering, the functional layer <b>20</b> is deposited while the upper surface <b>10</b><i>a </i>of the substrate <b>10</b> is etched with Ar. Thus, a deposited amount of film of the functional layer <b>20</b> is minimized and thus an effect of improving adhesion can be obtained.</p>
+<p id="p-0041" num="0040">However, this is an example of a method of depositing the functional layer <b>20</b>, and the functional layer <b>20</b> may be formed by other methods. For example, before depositing the functional layer <b>20</b>, the upper surface <b>10</b><i>a </i>of the substrate <b>10</b> is activated by plasma treatment using Ar, etc. or the like to thereby obtain the effect of improving the adhesion; subsequently, the functional layer <b>20</b> may be vacuum-deposited by magnetron sputtering.</p>
+<p id="p-0042" num="0041">Next, in the process illustrated in <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>, the resistor <b>30</b> and the terminal sections <b>41</b> are formed on the entire upper surface of the functional layer. <b>20</b>, and then the functional layer <b>20</b>, the resistor <b>30</b>, and the terminal sections <b>41</b> are each patterned in the planar shape as illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>, by photolithography. The material and thickness for each of the resistor <b>30</b> and the terminal sections <b>41</b> are the same as the material and thickness described above. The resistor <b>30</b> and the terminal sections <b>41</b> can be integrally formed of the same material. The resistor <b>30</b> and the terminal sections <b>41</b> can be deposited by, for example, magnetron sputtering in which a raw material capable of forming the resistor <b>30</b> and the terminal sections <b>41</b> is a target. Instead of the magnetron sputtering, the resistor <b>30</b> and the terminal sections <b>41</b> may be deposited by reactive sputtering, vapor deposition, arc ion plating, pulsed laser deposition, or the like.</p>
+<p id="p-0043" num="0042">A combination of the material of the functional layer <b>20</b> and the material of the resistor <b>30</b> and the terminal sections <b>41</b> is not particularly restricted, and can be appropriately selected for any purpose. For example, Ti is used for the functional layer <b>20</b>, and a Cr composite film formed with &#x3b1;-Cr (alpha-chromium) as the main component can be deposited as the resistor <b>30</b> and the terminal sections <b>41</b>.</p>
+<p id="p-0044" num="0043">In this case, each of the resistor <b>30</b> and the terminal sections <b>41</b> can be deposited by, for example, magnetron sputtering in which a raw material capable of forming the Cr composite film is the target and in which an Ar gas is supplied to a chamber. Alternatively, the resistor <b>30</b> and the terminal sections <b>41</b> may be deposited by reactive sputtering in which pure Cr is the target and in which an appropriate amount of nitrogen gas, as well as an Ar gas, are supplied to a chamber.</p>
+<p id="p-0045" num="0044">In such methods, a growth face of the Cr composite film is defined by the functional layer <b>20</b> formed of Ti, and a Cr composite film that is formed with &#x3b1;-Cr as the main component having a stable crystalline structure can be deposited. Also, Ti that constitutes the functional layer <b>20</b> is diffused into the Cr composite film, so that the gauge characteristics are improved. For example, the gauge factor of the strain gauge <b>1</b> can be 10 or more, as well as the gauge factor temperature coefficient TCS and temperature coefficient of resistance TCR can be each in the range of from &#x2212;1000 ppm/&#xb0; C. to +1000 ppm/&#xb0; C.</p>
+<p id="p-0046" num="0045">Note that when the resistor <b>30</b> is a Cr composite film, the functional layer <b>20</b> formed of Ti includes all functions being a function of promoting crystal growth of the resistor <b>30</b>; a function of preventing oxidation of the resistor <b>30</b> caused by oxygen or moisture contained in the substrate <b>10</b>; and a function of improving adhesion between the substrate <b>10</b> and the resistor <b>30</b>. Instead of Ti, when the functional layer <b>20</b> is formed of Ta, Si, Al, or Fe, the functional layer also includes the same functions.</p>
+<p id="p-0047" num="0046">After the process illustrated in <figref idref="DRAWINGS">FIG. <b>3</b>B</figref>, the cover layer <b>60</b> with which the resistor <b>30</b> is coated and that exposes the terminal sections <b>41</b> is provided on and above the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>, as necessary, so that the strain gauge <b>1</b> is completed. For example, the cover layer <b>60</b> can be fabricated, such that a thermosetting insulating resin film in a semi-cured state is laminated on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>, and such that the resistor <b>30</b> is coated and the terminal sections <b>41</b> are exposed; subsequently, heat is added and curing is performed. The cover layer <b>60</b> may be formed, such that a thermosetting insulating resin that is liquid or paste-like is applied to the upper surface <b>10</b><i>a </i>of the substrate <b>10</b>, and such that the resistor <b>30</b> is coated therewith and the terminal sections <b>41</b> are exposed; subsequently, heat is added and curing is performed.</p>
+<p id="p-0048" num="0047">As described above, with the functional layer <b>20</b> being provided in the lower layer of the resistor <b>30</b>, the crystal growth of the resistor <b>30</b> can be promoted and thus the resistor <b>30</b> having a stable crystalline phase can be fabricated. As a result, with respect to the strain gauge <b>1</b>, the stability of the gauge characteristics can be improved. Also, the material that constitutes the functional layer <b>20</b> is diffused into the resistor <b>30</b>, so that the gauge characteristics of the strain gauge <b>1</b> can be thereby improved.</p>
+<heading id="h-0010" level="1">Example 1</heading>
+<p id="p-0049" num="0048">First, in an advance test, Ti as the functional layer <b>20</b> was vacuum-deposited on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b> formed of a polyimide resin that had a thickness of 25 &#x3bc;m, by conventional sputtering. In this case, five samples for each of which Ti was deposited were fabricated in order to target multiple film thicknesses.</p>
+<p id="p-0050" num="0049">Next, for the fabricated five samples, X-ray fluorescence (XRF) analysis was performed to obtain the result as illustrated in <figref idref="DRAWINGS">FIG. <b>4</b></figref>. From an X-ray peak in <figref idref="DRAWINGS">FIG. <b>4</b></figref>, it was confirmed that Ti was present, and from X-ray intensity of each sample at the X-ray peak, it was confirmed that a film thickness of a given Ti film could be controlled to be in the range of from 1 nm to 100 nm.</p>
+<p id="p-0051" num="0050">Next, in Example 1, Ti as the functional layer <b>20</b>, which had a film thickness of 3 nm, was vacuum-deposited on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b> formed of a polyimide resin that had a thickness of 25 &#x3bc;m, by conventional sputtering.</p>
+<p id="p-0052" num="0051">Subsequently, a Cr composite film, as the resistor <b>30</b> and the terminal sections <b>41</b>, was deposited on the entire upper surface of the functional layer <b>20</b>, by magnetron sputtering, and then the functional layer <b>20</b>, the resistor <b>30</b>, and the terminal sections <b>41</b> were patterned by photolithography, as illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>.</p>
+<p id="p-0053" num="0052">In comparative example 1, without forming the functional layer <b>20</b>, a Cr composite film, as the resistor <b>30</b> and the terminal sections <b>41</b>, was deposited on the upper surface <b>10</b><i>a </i>of the substrate <b>10</b> formed of a polyimide resin that had a thickness of 25 &#x3bc;m, by magnetron sputtering. Then, patterning was performed by photolithography, as illustrated in <figref idref="DRAWINGS">FIG. <b>1</b></figref>. Note that for the sample used in Example 1 and the sample used in comparative example 1, all deposition conditions for the resistor <b>30</b> and the terminal sections <b>41</b> are the same.</p>
+<p id="p-0054" num="0053">Next, for a given sample used in Example 1 and a given sample used in comparative example 1, X-ray diffraction evaluation was performed to obtain the result illustrated in <figref idref="DRAWINGS">FIG. <b>5</b></figref>. <figref idref="DRAWINGS">FIG. <b>5</b></figref> illustrates an X-ray diffraction pattern at a diffraction angle of <b>2</b><i>e </i>being in the range of from 36 to 48 degrees, and a diffraction peak in Example 1 is shifted to the right in comparison to a diffraction peak in comparative example 1. Further, the diffraction peak in Example 1 is greater than the diffraction peak in comparative example 1.</p>
+<p id="p-0055" num="0054">The diffraction peak in Example 1 is situated in proximity to a diffraction line of &#x3b1;-Cr (<b>110</b>). This is considered that when the functional layer <b>20</b> formed of Ti was provided, crystal growth of &#x3b1;-Cr was promoted to thereby form a Cr composite film with &#x3b1;-Cr as the main component.</p>
+<p id="p-0056" num="0055">Next, multiple samples used in Example 1 and comparative example 1 were fabricated, and gauge characteristics were measured. As a result, a gauge factor for each sample in Example 1 was between 14 and 16. In contrast, a gauge factor for each sample in comparative example 1 was less than 10.</p>
+<p id="p-0057" num="0056">Also, for each sample in Example 1, the gauge factor temperature coefficient TCS and temperature coefficient of resistance TCR were each in the range of from &#x2212;1000 ppm/&#xb0; C. to +1000 ppm/&#xb0; C. In contrast, for each sample in comparative example 1, the gauge factor temperature coefficient TCS and temperature coefficient of resistance TCR were not each in the range of from &#x2212;1000 ppm/&#xb0; C. to +1000 ppm/&#xb0; C.</p>
+<p id="p-0058" num="0057">As described above, with the functional layer <b>20</b> formed of Ti being provided, crystal growth of &#x3b1;-Cr was promoted and a Cr composite film was formed with &#x3b1;-Cr as the main component, so that a strain gauge that had a gauge factor of 10 or more, and that had the gauge factor temperature coefficient TCS and temperature coefficient of resistance TCR being each in the range of from &#x2212;1000 ppm/&#xb0; C. to +1000 ppm/&#xb0; C., was fabricated. Note that the diffusion effect of Ti into the Cr composite film is considered to cause the improvement in the gauge characteristics.</p>
+<p id="p-0059" num="0058">The preferred embodiment and the like have been described above in detail, but are not limited thereto. Various modifications and alternatives to the above embodiment and the like can be made without departing from a scope set forth in the claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A strain gauge comprising:
+<claim-text>a flexible substrate;</claim-text>
+<claim-text>a functional layer formed of a metal, an alloy, or a metal compound, directly on one surface of the substrate; and</claim-text>
+<claim-text>a resistor formed of a film that includes Cr, CrN, and Cr<sub>2</sub>N and that is formed with &#x3b1;-Cr as a main component,</claim-text>
+<claim-text>wherein the functional layer includes a function of promoting crystal growth of &#x3b1;-Cr and forming an &#x3b1;-Cr based film.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer further includes one or more metals selected from the group consisting of Cr, Ti, V, Nb, Ta, Ni, Y, Zr, Hf, Si, C, Zn, Cu, Bi, Fe, Mo, W, Ru, Rh, Re, Os, Ir, Pt, Pd, Ag, Au, Co, Mn, and Al; an alloy of any metals from among the group; or a compound of any metal from among the group.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer further includes one or more metals selected from the group consisting of Cr, V, Nb, Ta, Ni, Y, Hf, C, Zn, Bi, Fe, Mo, W, Ru, Rh, Re, Os, Ir, Pt, Pd, Ag, Au, Co, and Mn; an alloy of any metals from among the group; or a compound of any metal from among the group.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer further includes one alloy selected from the group consisting of FeCr, TiAl, FeNi, NiCr, and CrCu.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer protects the resistor from oxidation; suppresses movement of oxygen and moisture present in the substrate into the resistor; and/or improves adhesion between the substrate and the resistor.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer is patterned in a same planar shape as the resistor.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The strain gauge according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the functional layer has a thickness of from 1 nm to 100 nm.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

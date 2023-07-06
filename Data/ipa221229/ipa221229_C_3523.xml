@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v46-2022-02-17.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.6 2022-02-17" file="US20220411913A1-20221229.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20221214" date-publ="20221229">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20220411913</doc-number>
+<kind>A1</kind>
+<date>20221229</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>17775129</doc-number>
+<date>20201113</date>
+</document-id>
+</application-reference>
+<us-application-series-code>17</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>1916635.4</doc-number>
+<date>20191115</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>34</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>56</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>131</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>525</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>505</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>3471</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>C</section>
+<class>23</class>
+<subclass>C</subclass>
+<main-group>14</main-group>
+<subgroup>562</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>0426</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>131</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>525</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>4</main-group>
+<subgroup>505</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>H</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>2004</main-group>
+<subgroup>028</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20221229</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">METHOD OF MANUFACTURING SOLID STATE BATTERY CATHODES FOR USE IN BATTERIES</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Dyson Technology Limited</orgname>
+<address>
+<city>Wiltshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+<residence>
+<country>GB</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>GRUAR</last-name>
+<first-name>Robert Ian Joseph</first-name>
+<address>
+<city>Swindon</city>
+<country>GB</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Dyson Technology Limited</orgname>
+<role>03</role>
+<address>
+<city>Wiltshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2020/052895</doc-number>
+<date>20201113</date>
+</document-id>
+<us-371c12-date><date>20220506</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of manufacturing a battery cathode for a solid state battery is provided. The method includes generating a plasma remote from one or more targets suitable for forming cathodes, such as LiCoO<sub>2</sub>, exposing the plasma target or targets to the plasma, thereby generating sputtered material from the target or targets, and depositing sputtered material on a first portion of a substrate, thereby forming crystalline material, such as LiCoO<sub>2 </sub>on the first portion of the substrate.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="132.25mm" wi="158.75mm" file="US20220411913A1-20221229-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="149.27mm" wi="169.25mm" file="US20220411913A1-20221229-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="133.01mm" wi="89.07mm" file="US20220411913A1-20221229-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="183.05mm" wi="112.95mm" file="US20220411913A1-20221229-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="189.31mm" wi="126.24mm" file="US20220411913A1-20221229-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="101.43mm" wi="139.95mm" file="US20220411913A1-20221229-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="201.25mm" wi="150.96mm" file="US20220411913A1-20221229-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="198.12mm" wi="153.75mm" file="US20220411913A1-20221229-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="126.58mm" wi="143.09mm" file="US20220411913A1-20221229-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="220.98mm" wi="108.37mm" file="US20220411913A1-20221229-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="124.04mm" wi="164.51mm" file="US20220411913A1-20221229-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="183.05mm" wi="147.74mm" orientation="landscape" file="US20220411913A1-20221229-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="188.55mm" wi="126.07mm" file="US20220411913A1-20221229-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="220.47mm" wi="108.37mm" file="US20220411913A1-20221229-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="219.88mm" wi="95.08mm" file="US20220411913A1-20221229-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="179.49mm" wi="101.94mm" file="US20220411913A1-20221229-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="156.21mm" wi="88.39mm" file="US20220411913A1-20221229-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="178.05mm" wi="136.48mm" orientation="landscape" file="US20220411913A1-20221229-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="99.40mm" wi="117.43mm" file="US20220411913A1-20221229-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="192.70mm" wi="150.20mm" orientation="landscape" file="US20220411913A1-20221229-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="181.27mm" wi="88.39mm" file="US20220411913A1-20221229-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="181.27mm" wi="151.13mm" orientation="landscape" file="US20220411913A1-20221229-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="224.11mm" wi="140.89mm" file="US20220411913A1-20221229-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="113.79mm" wi="140.89mm" file="US20220411913A1-20221229-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="219.63mm" wi="94.74mm" file="US20220411913A1-20221229-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="217.25mm" wi="94.74mm" file="US20220411913A1-20221229-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="196.51mm" wi="85.34mm" file="US20220411913A1-20221229-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present disclosure relates a method of depositing thin films, using a remotely generated plasma.</p>
+<p id="p-0003" num="0002">The present disclosure relates to methods of depositing thin films onto substrates. More particularly, but not exclusively, the present invention relates to a method of sputtering material from a target such that it is deposited as a thin film on a substrate, wherein the material is sputtered from the target by a remotely generated plasma, and upon deposition on to the substrate, the material directly forms a thin film with a crystalline structure.</p>
+<p id="p-0004" num="0003">Plasma deposition systems are widely used in a range of industries, from electronic device manufacture to the production of hardwearing coatings. In the electronic device sector, there are a number of established plasma deposition technologies. These include DC sputtering, RF sputtering, pulsed DC sputtering, magnetron sputtering (DC, RF or pulsed DC), reactive sputtering, and plasma-enhanced chemical vapour deposition.</p>
+<p id="p-0005" num="0004">PCT publication WO2011/131921A1 discloses a method of using a remotely generated plasma, and guiding said plasma onto the target in such a way that there is uniform sputtering of the target material.</p>
+<p id="p-0006" num="0005">However, WO2011/131921A1 is not concerned with the deposition of crystalline thin-films at all, and certainly not the deposition of thin-films in situ. It does not discuss, or anticipate, a method of how to deposit a crystalline film in situ through manipulation of certain parameters of a thin film deposition system that utilises a remotely generated plasma. Additionally, WO(2011/131921A1 does not discuss a plasma/target geometric arrangement that allows for achieving the preservation of stoichiometry between a target material and a thin film formed through sputter deposition of said target.</p>
+<p id="p-0007" num="0006">CN105821378 discloses a method of forming crystalline film of antimony doped tin oxide on a substrate using a remotely generated plasma. Whilst this document discloses this process occurring at relatively low temperatures, it should be noted that this is enabled by the relatively low energy crystal structure of antimony doped tin oxide, and is therefore not relevant when discussing the formation of the high-energy crystal structure required by LiCoO<sub>2</sub>.</p>
+<p id="p-0008" num="0007">Whilst the techniques that comprise the state of the art are capable of producing thin films of high quality material, there remains a long felt need for an ability to produce crystalline films of highly ordered material, such as layered oxide materials, at temperatures sufficiently low to allow the use of a wide range of substrate materials and thicknesses.</p>
+<heading id="h-0002" level="1">SUMMARY OF INVENTION</heading>
+<p id="p-0009" num="0008">In accordance with the first aspect of the invention there is provided a method of manufacturing a layer of cathode, optionally for a solid state battery, the method comprising:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0009">providing a substrate;</li>
+        <li id="ul0002-0002" num="0010">generating a plasma remote from one or more targets suitable for forming a cathode;</li>
+        <li id="ul0002-0003" num="0011">confining the plasma in a space between the substrate and the one or more cathode material sputter targets;</li>
+        <li id="ul0002-0004" num="0012">exposing the plasma target or targets to the plasma, thereby generating sputtered material from the target or targets</li>
+        <li id="ul0002-0005" num="0013">depositing sputtered material on the substrate, thereby forming a layer of cathode on the substrate.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0010" num="0014">The applicant has discovered that it is possible to form films of cathode material directly onto substrates. In &#x201c;directly&#x201d;, what is meant is that the film forms a film with substantially no annealing step. The method has been shown to work on a wide range of substrate materials. The applicant has discovered that the method is particularly effective for depositing crystalline alkali and alkaline earth metal-based cathode materials, such as lithium-based cathode layers. The applicant has discovered that it is possible to deposit a layer of cathode by generating a plasma remote from one or more suitable targets, use the plasma to generate sputtered material from the target(s), and deposit sputtered material into the substrate to form a layer of cathode.</p>
+<p id="p-0011" num="0015">The sputter target and substrate together define a deposition space in which the plasma can be generated and confined such that maximum efficiencies in generation and utilisation of the plasma can be achieved. In examples, the plasma is generated and confined in said deposition space (i.e. between the sputter target and substrate) to enhance and achieve industrial-scale deposition and full target utilisation.</p>
+<p id="p-0012" num="0016">The layer of cathode may be suitable for a battery cathode.</p>
+<p id="p-0013" num="0017">The layer of cathode may be ordered and may, for example, be crystalline.</p>
+<p id="p-0014" num="0018">The cathode material of the layer of cathode may comprise one or more alkali metals, such as lithium. The cathode material may comprise oxygen, and may comprise an oxide or phosphate, for example. The cathode material may comprise one or more transition metals, optionally more than one transition metal. The one or more transition metal may be in period 4 or period 5 of the Periodic Table. The one or more transition metal may be selected from the group consisting of Co, Ni, Mn, Fe, V, Nb and Ti, and may optionally be selected from the group consisting of CO, Ni and Mn. The cathode material may comprise one or more alkali metal, one or more transition metal and (each of which is selected from the group consisting of Co, Ni, Mn, Fe, V, Nb and Ti, and optionally from the group consisting of Co, Ni and Mn), and optionally another metal not being an alkali metal or a transition metal (such as aluminium). The cathode material may be an oxide or phosphate, and may comprise lithium and at least one transition metal, and optionally more than one transition metal, each transition metal being selected from the group consisting of Co, Ni, Mn, Fe, V, Nb and Ti, and optionally from the group consisting of Co, Ni and Mn. The cathode material may be an oxide or phosphate, and may consist of oxygen (in the case of an oxide) or phosphate (in the case of a phosphate), in combination with lithium and at least one transition metal, and optionally more than one transition metal, each transition metal being selected from the group consisting of Co, Ni, Mn, Fe, V, Nb and Ti, and optionally from the group consisting of Co, Ni and Mn, and optionally aluminium.</p>
+<p id="p-0015" num="0019">The cathode material optionally comprises lithium and one or more of manganese, nickel and cobalt, and optionally aluminium.</p>
+<p id="p-0016" num="0020">The cathode material is optionally an oxide, said oxide comprising lithium and one or more of manganese, nickel and cobalt, and optionally aluminium.</p>
+<p id="p-0017" num="0021">The cathode material is optionally on oxide, said oxide consisting essentially of oxygen, lithium, one or more of manganese, nickel and cobalt, and optionally aluminium.</p>
+<p id="p-0018" num="0022">The cathode material may be of empirical formula A<sub>a</sub>M1<sub>b</sub>M2<sub>c</sub>O<sub>2</sub>, wherein A is an alkali metal (optionally lithium), M1 is one or more transition metal (optionally one or more of cobalt, nickel, niobium, vanadium and manganese) (b being the total of transition metal), M2 being aluminium, a being from 0.5 to 1.5 and z being from 0 to 0.5.</p>
+<p id="p-0019" num="0023">Optionally, a is 1, b is 1 and c is 0. Optionally, M1 is one of cobalt, nickel, vanadium, niobium and manganese.</p>
+<p id="p-0020" num="0024">Optionally, a is more than 1 and A is lithium. In the case, the materials are sometimes known as &#x201c;lithium rich&#x201d; materials. Such lithium-rich materials may be</p>
+<p id="p-0021" num="0000">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>Li</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>Ni</mi>
+    <mi>x</mi>
+   </msub>
+   <mo>&#x2062;</mo>
+   <mi>Mn</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+   </msub>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0022" num="0000">with x=0, 0.06, 0.12, 0.2, 0.3 and 0.4, for example.</p>
+<p id="p-0023" num="0025">Another such material is</p>
+<p id="p-0024" num="0000">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>Li</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>Co</mi>
+    <mi>y</mi>
+   </msub>
+   <mo>&#x2062;</mo>
+   <mi>Mn</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+   </msub>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0025" num="0000">wherein y has a value greater than 0.12 and equal to or less than 0.4.</p>
+<p id="p-0026" num="0026">Another such material is</p>
+<p id="p-0027" num="0000">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>Li</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Ni</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Co</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Mn</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+   </msub>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0028" num="0000">wherein x has a value equal to or greater than 0.175 and equal to or less than 0.325; and y has a value equal to or greater than 0.05 and equal to or less than 0.35.</p>
+<p id="p-0029" num="0000">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>Li</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Ni</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Co</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Al</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mi>Mn</mi>
+   <mstyle><mtext>?</mtext></mstyle>
+   <msub>
+    <mi>O</mi>
+    <mn>2</mn>
+   </msub>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0030" num="0000">is another such material, wherein x is equal to or greater than 0 and equal to or less than 0.4; y is equal to or greater than 0.1 and equal to or less than 0.4; and z is equal to or greater than 0.02 and equal to or less than 0.3.</p>
+<p id="p-0031" num="0027">The substrate may comprise polymer. The substrate may be flexible. The substrate may comprise polyethylene terephthalate (PET), or polyethylene naphthalate (PEN). PEN and PET are reasonably flexible, and relatively high tensile strength due to their semi-crystalline structure.</p>
+<p id="p-0032" num="0028">The method may comprise depositing cathode material on a first portion of the substrate. The method may comprise moving the substrate, and depositing sputtered material on a second portion of substrate, thereby forming cathode material on the second portion of the substrate.</p>
+<p id="p-0033" num="0029">This facilitates the reasonably rapid production of relatively large areas of cathode.</p>
+<p id="p-0034" num="0030">The substrate may comprise, or be in the form of, a sheet or web, optionally an elongate sheet or web. Such a sheet or web may be provided in the form of a roll or stack. Preferably, the substrate is provided as a roll. This facilitates simple and safe storage and handling of the substrate.</p>
+<p id="p-0035" num="0031">The substrate may be movably mounted to facilitate movement of the substrate (optionally in the form of a sheet). The substrate may be mounted in a roll-to-roll arrangement. Substrate upstream of the plasma deposition process may be held on roller or drum. Substrate downstream of the plasma deposition process may be held on a roller or drum. This facilitates simple and rapid handling of flexible sheets of substrate. A shutter may be provided to allow for a portion of the substrate to be exposed to the remotely generated plasma.</p>
+<p id="p-0036" num="0032">The use of a roll-to-roll arrangement has a number of advantages. It facilitates a high material throughput and allows a large cathode area to be deposited on one large substrate, though a series of depositions at a first portion of the substrate, followed by a second portion of the substrate, and so on. One of the main benefits of a roll-to-roll processing is that it allows for a number of depositions to occur without breaking vacuum. This saves both time and energy compared to systems in which the chamber needs to be taken to back up to atmospheric pressure from vacuum after deposition, in order to load a new substrate.</p>
+<p id="p-0037" num="0033">The plasma deposition process optionally takes place in a chamber. The upstream drum or roller for carrying the substrate may be located inside or outside the chamber. The downstream drum or roller for carrying the substrate may be located inside or outside the chamber.</p>
+<p id="p-0038" num="0034">The substrate may optionally not exceed its temperature corrected yield strength at any point as it passes between the upstream and downstream rollers or drums. This is important as roll-to-roll processing machines require the substrate to be in tension as the substrate is fed through various rolls, rollers and drums. If the substrate comprises a polymer, then as the polymer heats up, its yield strength may begin to lower. If the polymer increases in temperature too much, the polymer may begin to deform as it passes through the roll-to-roll machine. This can lead to buckles, jams, and uneven deposition onto the substrate. Preferably, the temperature of the substrate does not exceed 200 degrees at any point during the plasma deposition process, or as it passes between the upstream and downstream rollers or drums.</p>
+<p id="p-0039" num="0035">One or more target(s) may optionally comprise the cathode material that forms the layer of cathode. Using a target of the cathode material helps preserve stoichiometry during the deposition process. This ceramic target is also more resilient to ultra-high vacuum (10<sup>&#x2212;9 </sup>mbar or lower) than elemental lithium, and will not sublime at these pressures. Being able to run the system at a stronger vacuum is advantageous as it allows for a higher deposition rate.</p>
+<p id="p-0040" num="0036">One or more target(s) may optionally comprise a distinct region of elemental first metal (such as lithium), and a distinct region of elemental second metal (such as cobalt).</p>
+<p id="p-0041" num="0037">A &#x201c;distinct region&#x201d; can mean either its own target, or an area of a target. A single target which comprises multiple distinct regions of different first metal and/or second metal species can be referred to as a composite target.</p>
+<p id="p-0042" num="0038">One or more target(s) optionally comprise a distinct region of first elemental metal (such as lithium), a distinct region of second elemental metal (such as cobalt), a distinct region of an oxide of the first metal (such as lithium oxide), a distinct region of an oxide of the second metal (such as cobalt oxide), a distinct region of first and second elemental metals (such as LiCo), a distinct region of the cathode material (such as LiCoO<sub>2</sub>), or any combination thereof.</p>
+<p id="p-0043" num="0039">Oxide targets or mixed elemental targets (e.g. lithium oxide, cobalt oxide, LiCo and LiCoO<sub>2</sub>) are useful targets to use as they are far less expensive than their elemental metal counterparts. They are also more environmentally stable, and are easier to handle in an industrial environment.</p>
+<p id="p-0044" num="0040">The method may also optionally comprise the sputtering of material under a reactive sputtering regime, using a reactive gas, such as oxygen, nitrogen, ozone or ammonia.</p>
+<p id="p-0045" num="0041">In a reactive sputtering method, a reactive gas is provided, along with the inert sputter gas. This allows elemental targets to be used, and oxides to form as part of the plasma sputtering process. Generally, the structure and form of the oxide produced may be adjusted, by providing the reactive oxygen gas at a higher or lower flow rate.</p>
+<p id="p-0046" num="0042">The thickness of the deposited cathode material on completion of the method is optionally no more than 10 microns.</p>
+<p id="p-0047" num="0043">The thickness of the substrate is optionally no more than 1.6 microns. The thickness of the substrate provided is optionally less than 1.0 microns.</p>
+<p id="p-0048" num="0044">It is beneficial when designing solid state batteries for the substrate to be as thin as possible. This allows for batteries with a higher energy density to be manufactured. Preferably, if a thinner substrate became available, which met the necessary requirements of a relatively high temperature corrected yield strength and high degradation point, this substrate would be used for the method.</p>
+<p id="p-0049" num="0045">At least a portion of and optionally all of the deposited material may have a hexagonal crystal structure. If the cathode material comprises LiCoO<sub>2</sub>, for example, the crystal structure of the LiCoO<sub>2 </sub>which is deposited is optionally in the R3(bar)m space group.</p>
+<p id="p-0050" num="0046">The R<o ostyle="single">3</o>m space group structure is a layered oxide structure. This structure has a number of benefits, such as having a high usable capacity and high speed of charging and discharging compared to the low energy structure of LiCoO<sub>2</sub>, which has a structure in the Fd3m space group. The R<o ostyle="single">3</o>m space group is regarded as having better performance in typical battery applications due to enhanced reversibility and fewer structural changes on lithium intercalation and deintercalation. Therefore crystalline LiCoO<sub>2 </sub>in the R<o ostyle="single">3</o>m space group is favoured for solid state battery applications.</p>
+<p id="p-0051" num="0047">During the deposition part of the method, the crystals may optionally grow substantially epitaxially from the surface of the substrate.</p>
+<p id="p-0052" num="0048">Epitaxial growth is favoured as it allows for lithium ions to intercalate and deintercalate more easily.</p>
+<p id="p-0053" num="0049">The crystals are optionally aligned with the (101) and (110) planes substantially parallel to the substrate. At least a portion of and optionally all of the deposited material may have a hexagonal crystal structure.</p>
+<p id="p-0054" num="0050">The target optionally has a power density associated with the bias applied to it of at least 1.0 Wcm<sup>&#x2212;2</sup>. Such a power density has been found to be effective in order for the sputtering threshold to be passed, the target material to sputter.</p>
+<p id="p-0055" num="0051">The power density associated with the bias applied to the target is optionally up to 100 Wcm<sup>&#x2212;2</sup>.</p>
+<p id="p-0056" num="0052">The temperature experienced by the first portion or second portion of the substrate during the manufacturing process optionally does not exceed the degradation temperature of the substrate material.</p>
+<p id="p-0057" num="0053">The ratio of the power supplied to generate the remote plasma to the power associated with the bias of the target is optionally more than 1:1.</p>
+<p id="p-0058" num="0054">The inventors have found that surprisingly, above this ratio, that thin films of cathode material, such as LiCoO<sub>2</sub>, form crystalline structure directly in situ on the film.</p>
+<p id="p-0059" num="0055">In the system where this was found by the inventors, the efficiency of the power source used to generate the remote plasma was taken to be 50%. In this connection, the efficiency of the generation of the plasma ([actual power in the plasma/power used to generate the plasma]&#xd7;100). The efficiency of the generation of the plasma may be anywhere between 50% and 85%. It may be the case that this ratio is adjusted, such that it is &#x201c;normalised&#x201d; with respect to efficiency. For example, in the case where the efficiency of the generation of the plasma is actually 85%, the normalised efficiency of the plasma would be [(1&#xd7;0.5)/0.85=approx. 0.6] approximately 0.6:1.</p>
+<p id="p-0060" num="0056">The ratio of the power supplied to generate the remote plasma to the power associated with the bias of the target is optionally no more than 7:2. This is under the assumption that the efficiency of the generation of the plasma is taken to be 50%, and this ratio may or may not be normalised as previously described, if the efficiency of the generation of the plasma is greater or lower than 50%. The means of powering the plasma source may be of RF, DC, or pulsed-DC type.</p>
+<p id="p-0061" num="0057">The ratio of the power supplied to generate the remote plasma to the power associated with the bias of the target is optionally no more than 3:2. This is under the assumption that the efficiency of the generation of the plasma is taken to be 50%, and this ratio may or may not be normalised as previously described, if the efficiency of the generation of the plasma is greater or lower than 50%.</p>
+<p id="p-0062" num="0058">Optionally, the maximum temperature reached at any given time by any given square of substrate material having an area of 1 cm<sup>2 </sup>as measured on the surface opposite to said surface on which the material is deposited and as averaged over a period of 1 second, is less than 500&#xb0; C., optionally no more than 300&#xb0; C., optionally no more than 200 degrees C., optionally no more than 190 degrees C., optionally no more than 180 degrees C., optionally no more than 170 degrees C., optionally no more than 160 degrees C. and optionally no more than 150 degrees C.</p>
+<p id="p-0063" num="0059">If there are one or more targets comprising regions of second elemental metal (such as cobalt) or oxide thereof, and one or more targets comprising regions of first elemental metal (such as lithium) or oxide thereof, then optionally the targets comprising regions of second elemental metal or oxide thereof are angled such that their angle of incidence in relation to the plane defined by the surface of the remotely generated plasma is greater than that of targets comprising regions of first elemental metal or oxide thereof. Optionally, the targets comprising regions of second elemental metal or oxide thereof and the targets comprising regions of first elemental metal or oxide thereof are arranged such that ions of the first and second metals are sputtered at substantially the same rate. This is beneficial, as it helps targets made of different materials to be depleted at the same rate, allowing the targets to be replaced at the same time. This may result in less waste from only partially utilised targets.</p>
+<p id="p-0064" num="0060">Optionally, the geometry of the surface defined by the remotely generated plasma is curved, at a location substantially near to the one or more targets. This optionally allows for tuning the sputter rate of individual targets in an angled target assembly. A curved plasma facilitates some control over the amount of interaction between the target and plasma, depending on the angle of orientation of the target. This is possible because curving the plasma allows for targets at a non-zero angle (i.e. titled angle) in relation to the plane defined by the plasma if the plasma profile was flat, to be exposed to a higher density of plasma, and therefore to sputter at a higher rate. This can be tuned, such that curving the plasma more or less resulting in submerging the target in a lower or higher density of plasma.</p>
+<p id="p-0065" num="0061">Plumes of material may optionally be sputtered from targets. These plumes may optionally overlap. For example, a first plume sputtered from a first target may overlap with a second plume sputtered from a second target. The first target may comprise lithium for example and the second target may comprise cobalt. The plumes may overlap such that the first portion of the substrate is coated with both the first and second plumes of material.</p>
+<p id="p-0066" num="0062">The substrate optionally comprises a current collecting layer. The current collecting layer may comprise an electrically-conductive material, such as an inert metal. The current collecting layer may be platinum. The current collecting layer may have a modified structure to increase its surface area. The current collecting layer may also act as an anode. The cathode material (such as LiCoO<sub>2</sub>) may be deposited onto the current collecting layer. The substrate may be provided with an adhesion promoter layer immediately beneath the current collecting layer.</p>
+<p id="p-0067" num="0063">The working distance between the target and the substrate may be within +1-50% of the theoretical mean free path of the system.</p>
+<p id="p-0068" num="0064">Without wishing to be bound by theory, it is believed that the working distance has an influence on the &#x201c;ad atom&#x201d; energy of the sputtered material as it deposits onto the substrate. In a case where the working distance is greater than the mean free path of the system, it is thought that it is more likely that an ion in the sputter flux would be involved in a collision before reaching the substrate, resulting in relatively low ad atom energy. Conversely, if the working distance is shorter than the mean free path of the system, the ad atom energy is relatively high.</p>
+<p id="p-0069" num="0065">A definition of the mean free path is the average distance between collisions for an ion in the plasma. The mean free path is calculated based on the volume of interaction (varied by the working distance), and the number of molecules per unit volume (varied by the working pressure).</p>
+<p id="p-0070" num="0066">The working distance is optionally at least 3.0 cm, optionally at least 4.0 cm and optionally 5.0 cm. The working distance is optionally no more than 20 cm, optionally no more than 15 cm and optionally no more than 13 cm. The working distance may be from 4.0 cm to 13 cm, optionally from 6.0 cm to 10 cm, and optionally from 8.0 cm to 9.0 cm.</p>
+<p id="p-0071" num="0067">The working pressure may be from 0.00065 to 0.01 mBar, and optionally from 0.0010 mBar to 0.0065 mBar. A higher working pressure in this range may result in a higher deposition rate. This is because a higher working pressure results in a larger number of process ion (usually Ar+) bombardments on the surface of the target, and hence material is sputtered from the target at a higher rate.</p>
+<p id="p-0072" num="0068">When the working distance is from 8.0 to 9.0 cm, the range of crystallite sizes available may be narrower, for example, if a working pressure of from 0.0010 mBar to 0.0065 mBar is used. The crystallite size may be from 14 to 25 nm. This is evidence that within these parameter ranges, it is possible to form films with narrow and predictable thin film ranges.</p>
+<p id="p-0073" num="0069">The surface onto which the layer of cathode is deposited may have a surface roughness Xs or less, where Xs=100 nm, and the cathode layer may have a thickness of from 0.01 to 10 &#x3bc;m and a surface roughness of no more than Xi, where Xi equals the product of F and Xs, where F is a factor in the range of 1 to 2.</p>
+<p id="p-0074" num="0070">Xs may be no more than 10% of the thickness of the substrate. The product of the thickness of the substrate and Xs may be no more than 10<sup>5 </sup>nm<sup>2</sup>.</p>
+<p id="p-0075" num="0071">The substrate, optionally a polymer substrate, may be provided with embedded particles and of all of the embedded particles within or on the polymer material, the majority of those that contribute to surface roughness of the substrate have a median size from 10% to 125% of Xs.</p>
+<p id="p-0076" num="0072">Alternatively, the substrate, optionally a polymer substrate, may be provided with embedded particles and of all of the embedded particles within or on the polymer material, the majority of those that contribute to surface roughness of the substrate have a median size of no less than 150% of Xs.</p>
+<p id="p-0077" num="0073">The method may include a step of depositing material onto the surface using sputter deposition to form a further layer having a thickness of from 0.01 to 10 &#x3bc;m and a surface roughness of no more than 150% of Xs, the material composition of the crystalline layer being different from the material composition of the further layer.</p>
+<p id="p-0078" num="0074">The method may comprise plasma sputtering material from a first target comprising an alkali metal or an alkaline earth metal onto a surface of or supported by a substrate, there being at least a first plume corresponding to trajectories of particles from the first target onto the surface, and plasma sputtering material from a second target comprising a transition metal (such as cobalt) onto the surface, there being at least a second plume corresponding to trajectories of particles from the second target onto the surface, and wherein the first target is positioned to be non-parallel with the second target, the first plume and the second plume converge at a region proximate to the surface of or supported by the substrate, and the crystalline layer is formed on the surface at said region.</p>
+<p id="p-0079" num="0075">More plasma energy may be received at the first target than at the second target.</p>
+<p id="p-0080" num="0076">The first target may face towards the substrate in a first direction, and the second target may face towards the substrate in a second direction, the first and second directions converging towards the substrate.</p>
+<p id="p-0081" num="0077">The notional line parallel to the first direction which extends from the centre of the surface of the first target may intersect, in the cross-section, the notional line parallel to the second direction which extends from the centre of the surface of the second target, at a location closer to the substrate than to either of the targets.</p>
+<p id="p-0082" num="0078">The location of the intersection may be closer to the substrate than half of the shortest distance from either of the targets to the substrate.</p>
+<p id="p-0083" num="0079">At least one of the substrate and the first and second targets may be moving as the crystalline layer is being formed on the surface.</p>
+<p id="p-0084" num="0080">The substrate may have a radius of curvature at the region at which the first plume and the second plume converge and the targets are arranged circumferentially around the centre of the radius of curvature.</p>
+<p id="p-0085" num="0081">According to a second aspect of the present invention there is provided a layer of cathode made by the method of the first aspect of the invention, optionally a battery cathode. The layer of cathode of the second aspect of the present invention may comprise those features described above in relation to the method of the first aspect of the present invention.</p>
+<p id="p-0086" num="0082">According to a third aspect of the present invention, there is provided a method of manufacturing a cathodic half-cell of a battery (such as a solid state thin film battery), the method comprising:</p>
+<p id="p-0087" num="0000">making a battery cathode using the method of the first aspect of the present invention; and
+<br/>
+forming electrolyte onto said battery cathode.
+</p>
+<p id="p-0088" num="0083">The electrolyte is optionally a ceramic material, such as LiPON (lithium phosphorous oxynitride). The method may comprise generating a plasma remote from one or more targets comprising target material (such as Li<sub>3</sub>PO<sub>4</sub>); exposing the plasma target or targets to the plasma, thereby generating sputtered material from the target or targets, optionally in a reactive atmosphere comprising a reactive gas (such as nitrogen), thereby forming ceramic material (such as LiPON) on the battery cathode.</p>
+<p id="p-0089" num="0084">Alternatively, the electrolyte comprises a polymer. In this case, the method may comprise depositing a polymer onto said battery cathode. Alternatively or additionally, the method may comprise depositing a precursor onto said battery cathode and forming a polymer from the precursor.</p>
+<p id="p-0090" num="0085">The method may comprise depositing a current collecting layer on the ceramic battery electrolyte material.</p>
+<p id="p-0091" num="0086">According to a fourth aspect of the present invention, there is provided a cathodic half cell made by the method of the third aspect of the present invention.</p>
+<p id="p-0092" num="0087">In accordance with a fifth aspect of the present invention, there is provided a method of making a solid state battery cell, the method comprising making a cathodic half cell in accordance with the method of the third aspect of the present invention and contacting said cathodic half cell with an anode or depositing anode-forming material on the electrolyte.</p>
+<p id="p-0093" num="0088">The anode-forming material may comprise an electrically-conductive material. The anode-forming material may comprise a lithium alloy or a metal, such as lithium or copper.</p>
+<p id="p-0094" num="0089">In accordance with a sixth aspect of the present invention, there is provided a solid state battery cell made in accordance with the method of the fifth aspect of the present invention.</p>
+<p id="p-0095" num="0090">In accordance with a seventh aspect of the present invention, there is provided a method of making a solid state battery comprising a plurality of solid state battery cells, the method comprising:</p>
+<p id="p-0096" num="0000">Making a plurality of solid state battery cells in accordance with the method of the fifth aspect of the present invention.</p>
+<p id="p-0097" num="0091">In accordance with an eighth aspect of the present invention, there is provided a solid state battery made in accordance with the method of the seventh aspect of the present invention.</p>
+<p id="p-0098" num="0092">It will of course be appreciated that features described in relation to one aspect of the present invention may be incorporated into other aspects of the present invention.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0099" num="0093">Embodiments of the present invention will now be described by way of example only with reference to the accompanying schematic drawings which can be briefly summarised as follows.</p>
+<p id="p-0100" num="0094"><figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>is a schematic side-on view of a plasma deposition chamber used in accordance with a first example;</p>
+<p id="p-0101" num="0095"><figref idref="DRAWINGS">FIG. <b>1</b><i>b </i></figref>shows the steps of a method of manufacturing a battery cathode in accordance with the first example;</p>
+<p id="p-0102" num="0096"><figref idref="DRAWINGS">FIGS. <b>1</b><i>c </i>to <b>1</b><i>h </i></figref>are schematic illustrations of various polymer substrate materials in cross-section;</p>
+<p id="p-0103" num="0097"><figref idref="DRAWINGS">FIG. <b>2</b><i>a </i></figref>is a schematic side-on view of a plasma deposition chamber used in accordance with a second example method;</p>
+<p id="p-0104" num="0098"><figref idref="DRAWINGS">FIG. <b>2</b><i>b </i></figref>is an X-ray diffraction (XRD) spectra of a first sample of a battery cathode made in accordance with the method of the second example;</p>
+<p id="p-0105" num="0099"><figref idref="DRAWINGS">FIG. <b>2</b><i>c </i></figref>is a Raman spectra of a battery cathode from which the XRD data of <figref idref="DRAWINGS">FIG. <b>2</b><i>b </i></figref>are obtained;</p>
+<p id="p-0106" num="0100"><figref idref="DRAWINGS">FIG. <b>2</b><i>d </i></figref>is an XRD spectra of a second sample of a battery cathode made in accordance with a method of the second example;</p>
+<p id="p-0107" num="0101"><figref idref="DRAWINGS">FIG. <b>2</b><i>e </i></figref>is a Raman spectra of the battery cathode from which the XRD data of <figref idref="DRAWINGS">FIG. <b>2</b><i>d </i></figref>are obtained;</p>
+<p id="p-0108" num="0102"><figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>is a schematic side view of a plasma deposition chamber used in a method in accordance with a third example;</p>
+<p id="p-0109" num="0103"><figref idref="DRAWINGS">FIG. <b>3</b><i>b </i></figref>is a schematic plan view of the plasma deposition chamber shown in <figref idref="DRAWINGS">FIG. <b>3</b></figref><i>a; </i></p>
+<p id="p-0110" num="0104"><figref idref="DRAWINGS">FIG. <b>3</b><i>c </i></figref>is a further schematic side view of the plasma deposition chamber shown in <figref idref="DRAWINGS">FIGS. <b>3</b><i>a </i></figref>and <b>3</b><i>b; </i></p>
+<p id="p-0111" num="0105"><figref idref="DRAWINGS">FIG. <b>3</b><i>d </i></figref>is a graph comparing sputter yields of cobalt and lithium as a function of energy;</p>
+<p id="p-0112" num="0106"><figref idref="DRAWINGS">FIG. <b>3</b><i>e </i></figref>is a schematic side view of a plasma deposition chamber used in a method in accordance with a fourth example;</p>
+<p id="p-0113" num="0107"><figref idref="DRAWINGS">FIG. <b>4</b><i>a </i></figref>is a cross-sectional scanning electron micrograph of a battery cathode relating to a first sample made using in accordance with the method of the second example;</p>
+<p id="p-0114" num="0108"><figref idref="DRAWINGS">FIG. <b>4</b><i>b </i></figref>is a birds-eye view of a scanning electron micrograph of a battery cathode relating to a second sample made in accordance with the method of the second example;</p>
+<p id="p-0115" num="0109"><figref idref="DRAWINGS">FIG. <b>5</b><i>a </i></figref>is a schematic cross-section through a battery cathode relating to a first sample made using a method of a fifth example;</p>
+<p id="p-0116" num="0110"><figref idref="DRAWINGS">FIG. <b>5</b><i>b </i></figref>is a schematic cross-section through a battery cathode relating to a second sample made using the method of the fifth example;</p>
+<p id="p-0117" num="0111"><figref idref="DRAWINGS">FIG. <b>5</b><i>c </i></figref>shows the steps of a method of manufacturing a battery cathodic half-cell in accordance with the fifth example;</p>
+<p id="p-0118" num="0112"><figref idref="DRAWINGS">FIG. <b>6</b></figref> is a schematic representation of an example of a method of making a battery cell in accordance with a sixth example;</p>
+<p id="p-0119" num="0113"><figref idref="DRAWINGS">FIG. <b>7</b><i>a </i></figref>is a schematic representation of an example of a method of manufacturing a solid-state thin film battery in accordance with a seventh example;</p>
+<p id="p-0120" num="0114"><figref idref="DRAWINGS">FIG. <b>7</b><i>b </i></figref>is a schematic cross-section through a solid-state thin film battery in accordance with a first sample of the seventh example;</p>
+<p id="p-0121" num="0115"><figref idref="DRAWINGS">FIG. <b>7</b><i>c </i></figref>is a schematic cross-section through a sample solid state thin film battery made in accordance with a second sample of the seventh example;</p>
+<p id="p-0122" num="0116"><figref idref="DRAWINGS">FIG. <b>8</b><i>a </i></figref>is a schematic representation of a method of determining an optimum working distance for a remote plasma deposition system configured for the deposition of layered oxide materials in accordance with an eighth example;</p>
+<p id="p-0123" num="0117"><figref idref="DRAWINGS">FIG. <b>8</b><i>b </i></figref>shows a number of X-Ray diffraction spectra collected as part of the method of <figref idref="DRAWINGS">FIG. <b>8</b><i>a</i></figref>, where the characterisation technique is X-Ray diffraction and the characteristic feature is a characteristic X-Ray diffraction peak associated with a layered oxide structure;</p>
+<p id="p-0124" num="0118"><figref idref="DRAWINGS">FIG. <b>9</b><i>a </i></figref>is a micrograph of a sample film formed in accordance with the first example of the invention;</p>
+<p id="p-0125" num="0119"><figref idref="DRAWINGS">FIG. <b>9</b><i>b </i></figref>is an X-ray diffraction spectra obtained from the film shown in <figref idref="DRAWINGS">FIG. <b>9</b></figref><i>a; </i></p>
+<p id="p-0126" num="0120"><figref idref="DRAWINGS">FIG. <b>10</b><i>a </i></figref>a schematic representation of an example of a method of determining an optimum working pressure for a remote plasma deposition system configured for the deposition of layered oxide materials in accordance with a ninth example;</p>
+<p id="p-0127" num="0121"><figref idref="DRAWINGS">FIG. <b>10</b><i>b </i></figref>shows two X-Ray diffraction spectra collected as part of the method as described with reference to <figref idref="DRAWINGS">FIG. <b>10</b><i>a</i></figref>, where the characterisation technique is X-Ray diffraction and the characteristic feature is a characteristic X-Ray diffraction peak associated with a layered oxide structure;</p>
+<p id="p-0128" num="0122"><figref idref="DRAWINGS">FIG. <b>11</b><i>a </i></figref>is an example of the steps of a method of determining the crystallite size of layered oxide materials in accordance with a tenth example;</p>
+<p id="p-0129" num="0123"><figref idref="DRAWINGS">FIG. <b>11</b><i>b </i></figref>is a graph showing how to determine the crystallite size at different working pressures in accordance with the tenth example, for a working distance of 16 cm, showing the crystallite size for a number of films deposited in accordance with the first example;</p>
+<p id="p-0130" num="0124"><figref idref="DRAWINGS">FIG. <b>11</b><i>c </i></figref>is a graph showing how to determine the crystallite size at different working pressures in accordance with the tenth example, for a working distance of 8.5 cm, the crystallite size for a number of films deposited in accordance with the first example;</p>
+<p id="p-0131" num="0125"><figref idref="DRAWINGS">FIG. <b>12</b></figref> is a schematic representation of a method of depositing a material on a substrate in accordance with an eleventh example of the invention;</p>
+<p id="p-0132" num="0126"><figref idref="DRAWINGS">FIG. <b>13</b></figref> is a schematic representation of an example of a method of manufacturing a component for an electronic device in accordance with a twelfth example;</p>
+<p id="p-0133" num="0127"><figref idref="DRAWINGS">FIG. <b>14</b></figref> is a schematic representation of an example of a method of manufacturing a component for an electronic device, in accordance with the thirteenth example of the invention;</p>
+<p id="p-0134" num="0128"><figref idref="DRAWINGS">FIG. <b>15</b></figref> is a schematic representation of an example of a method of manufacturing a Light Emitting Diode (LED) in accordance with a fourteenth example of the invention;</p>
+<p id="p-0135" num="0129"><figref idref="DRAWINGS">FIG. <b>16</b></figref> is a schematic representation of an example of a method of manufacturing a permanent magnet in accordance with a fifteenth example of the invention; and</p>
+<p id="p-0136" num="0130"><figref idref="DRAWINGS">FIG. <b>17</b></figref> is a schematic representation of an example of a method of manufacturing an electronic device comprising a layer of Indium Tin Oxide (ITO) in accordance with a sixteenth example of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0137" num="0131"><figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>is a schematic side-on view of a plasma deposition process apparatus which is used in a method of depositing a (crystalline) material onto a substrate in accordance with a first example. The method is denoted generally by reference numeral <b>1001</b> and is shown schematically in <figref idref="DRAWINGS">FIG. <b>1</b><i>b</i></figref>, and comprises generating <b>1002</b> a plasma remote from one or more targets, exposing <b>1003</b> the plasma target or targets to the plasma such that target material is sputtered from one or more targets, and exposing <b>1004</b> a first portion of a substrate to sputtered material such that the sputtered material is deposited onto the first portion of the substrate, thereby forming crystalline material onto the first portion of the substrate. The method of depositing a (crystalline) material onto the substrate may be performed as a part of a method of manufacturing a battery cathode.</p>
+<p id="p-0138" num="0132">The crystalline material in this example takes the form ABO<sub>2</sub>. In the present example, the ABO<sub>2 </sub>material takes a layered oxide structure. In the present example, the ABO<sub>2 </sub>material is LiCoO<sub>2</sub>. However, the method of the present example has been shown to work on a wide range of ABO<sub>2 </sub>materials. In other examples, the ABO<sub>2 </sub>material structure comprises at least one of the following compounds (described here with non-specific stoichiometry): LiCoO, LiCoAlO, LiNiCoAlO, LiMnO, LiNiMnO, LiNiMnCoO, LiNiO and LiNiCoO. These materials are potential candidates for manufacturing a battery cathode. Those skilled in the art will realise that the stoichiometry may be varied.</p>
+<p id="p-0139" num="0133">In this example, the ABO<sub>2 </sub>material is LiCoO<sub>2 </sub>and is deposited as a layer that is approximately 1 micron thick. In other examples, the ABO<sub>2 </sub>material is deposited as layer that is approximately 5 microns thick. In yet further examples, the ABO<sub>2 </sub>material is deposited as a layer that is approximately 10 microns thick.</p>
+<p id="p-0140" num="0134">With reference to <figref idref="DRAWINGS">FIG. <b>1</b><i>a</i></figref>, the plasma deposition process apparatus is denoted generally by reference numeral <b>100</b> and comprises a plasma target assembly <b>102</b> comprising a target <b>104</b>, a remote plasma generator <b>106</b>, a series of electromagnets <b>108</b> for confining the plasma generated by the remote plasma generator <b>106</b>, a target power supply <b>110</b>, a remote plasma source power supply <b>112</b> and a housing <b>114</b>. Remote plasma generator <b>106</b> comprises two pairs of radio frequency (RF) antennae <b>116</b>. Housing <b>114</b> comprises a vacuum outlet <b>120</b> which is connected to a series of vacuum pumps located outside the chamber so that the chamber <b>122</b> defined by housing <b>114</b> can be evacuated. Housing <b>114</b> is also provided with a gas inlet <b>124</b> which may be connected to a gas supply (not shown) for the introduction of one or more gases into the chamber <b>122</b>. In other examples, the gas inlet <b>124</b> may be positioned over the surface of the target assembly <b>102</b>. As can be seen from <figref idref="DRAWINGS">FIG. <b>1</b><i>a</i></figref>, the plasma is generated remote from the target <b>104</b>.</p>
+<p id="p-0141" num="0135">In this example, the target <b>104</b> comprises material LiCoO<sub>2</sub>. Briefly, the chamber <b>122</b> is evacuated until a sufficiently low pressure is reached. Power provided by power supply <b>112</b> is used to power the remote plasma generator <b>106</b> to generate a plasma. Power is applied to the target <b>104</b> such that plasma interacts with target <b>104</b>, causing LiCoO<sub>2 </sub>to be sputtered from the target <b>104</b> and onto the substrate <b>128</b>. In the present example, the substrate <b>128</b> comprises a polymer sheet which is introduced into the housing <b>114</b> via inlet <b>130</b> and out of the housing <b>114</b> via outlet <b>132</b>. A powered roller <b>134</b> is used to help move the substrate <b>128</b>. The LiCoO<sub>2 </sub>is deposited onto the substrate <b>128</b> as a crystalline (non-amorphous) material.</p>
+<p id="p-0142" num="0136">The apparatus <b>100</b> also comprises a shutter <b>136</b>, for restricting deposition of sputtered material onto the substrate <b>128</b>, and an input <b>138</b> for cooling the drum. Shutter <b>136</b> allows a portion of the substrate <b>128</b> to be exposed to the sputtered material.</p>
+<p id="p-0143" num="0137">As mentioned above, a powered roller <b>134</b> is used to help move the substrate <b>128</b> into and out of the plasma deposition apparatus <b>100</b>. Powered roller <b>134</b> is part of a roll-to-roll substrate handling apparatus (not shown) which comprises at least a first storage roller upstream of the plasma deposition apparatus <b>100</b> and a second storage roller downstream of the plasma deposition apparatus <b>100</b>. The roll-to-roll substrate handling apparatus is a convenient way of handling, storing and moving thin, flexible substrates such as the polymer substrate used in this example. Such a roll-to-roll system has a number of other advantages. It allows for a high material throughput and allows a large cathode area to be deposited on one substrate, throughout a series of depositions at a first portion of the substrate, followed by a second portion of the substrate, and so on. Furthermore, such roll-to-roll processing allows for a number of depositions to occur without breaking vacuum. This saves both time and energy compared to systems in which the chamber needs to be taken back up to atmospheric pressure from vacuum after deposition in order to load a new substrate. In other examples, sheet-to-sheet processing is used instead of roll-to-roll processing, wherein the substrate is provided with a support. Alternatively, the substrate may be supplied in discrete sheets that are handled and stored in relatively flat sheets. The substrate may be planar in shape as the material is deposited thereon. This may be the case, when the substrate is provided in the form of discrete sheets, not being transferred to or from a roll. The sheets may each be mounted on a carrier, having greater structural rigidity. This may allow for thinner substrates to be used than in the case of substrate film held on a roller. It may be that the substrate is a sacrificial substrate. It may be that the substrate is removed before the layer(s) of material. Part or all of the substrate may be removed before integrating the crystalline layer or a part thereof in an electronic product package, component or other end product. For example, the layer of crystalline material may be lifted off from the substrate. There may be a layer of other intervening material between the base substrate and the crystalline material. This layer may lift off with the crystalline material or assist in the separation of the crystalline material from the base substrate. A laser-based lift-off technique may be used. The substrate may be removed by a process that utilises laser ablation.</p>
+<p id="p-0144" num="0138">Similar techniques are described in the prior art. For example, KR20130029488 describes a method of making a battery including using a sacrificial substrate and laser radiation to harvest a battery layer. In other examples, another suitable processing regime is used, provided it is capable of sufficiently high production throughput.</p>
+<p id="p-0145" num="0139">The polymer substrate <b>128</b> is under tension when moving through the system, for example withstanding a tension of at least 0.001N during at least part of the processing. The polymer is robust enough such that when the polymer is fed through the roll-to-roll machine, it does not experience deformation under tensile stress. In this example, the polymer is Polyethylene terephthalate (PET), and the substrate <b>128</b> has a thickness of 1 micron or less, in examples the thickness is 0.9 microns. The substrate <b>128</b> is pre-coated with a current collecting layer, which is made of an inert metal. In this example, the inert metal used as the current collecting layer is platinum. The yield strength of the PET film is sufficiently strong that the substrate does not yield or plastically deform under the stresses of the roll-to-roll handling apparatus. The inert metal used in other examples can alternatively be gold, iridium, copper, aluminium or nickel.</p>
+<p id="p-0146" num="0140">The use of such thin polymer substrates is beneficial because this facilitates batteries with a higher energy density to be manufactured. In other examples, a material, which is not polymeric, is used, providing that it can be manufactured in a sufficiently thin and flexible manner to allow for a high battery density and ease of handling post-deposition.</p>
+<p id="p-0147" num="0141">The plasma deposition process and subsequent manufacturing processes are however subject to the technical challenges that working with such thin layers impose.</p>
+<p id="p-0148" num="0142">Before the substrate <b>128</b> is so pre-coated, it has a surface roughness that is carefully engineered so as (a) to be great enough to mitigate the undesirable effects that would otherwise result from electrostatic forces (such as increasing the force required to unwind the polymer film from the drum on which it is held) and (b) to be small enough that the roughness does not cause problems when depositing material onto the substrate. In this example, the surface roughness is engineered to be about 50 nm. It will be noted that the product of the thickness of the substrate (0.9 microns) and the surface roughness is 4.5&#xd7;10<sup>4 </sup>nm<sup>2 </sup>and is therefore less than 10<sup>5 </sup>nm<sup>2 </sup>and less than 5&#xd7;10<sup>4 </sup>nm<sup>2 </sup>in this example. It has been found that that the roughness needed for easing handling of thin films rises with decreasing thickness. Generally, it has been found that the roughness required to improve handling of thinner substrates (i.e. less than 10 microns, particularly less than 1 micron) increases as the substrate thickness decreases.</p>
+<p id="p-0149" num="0143"><figref idref="DRAWINGS">FIG. <b>1</b><i>c </i></figref>shows (not to scale) a typical thin-film polymer being about 1 micron thick and having embedded particles providing roughness. The roughness of the surface features provided by the particles is at least 90 nm and possibly higher. This is too rough for the particular example envisaged (although may be acceptable for other examples).</p>
+<p id="p-0150" num="0144"><figref idref="DRAWINGS">FIG. <b>1</b><i>d </i></figref>shows (not to scale) one way in which the desired roughness can be achieved. Spherical particles of polystyrene are embedded in the substrate material such that at least 90% of those which contribute to the roughness of the substrate protrude from the local substrate surface by no more than half the volume of the particle. The particles have a diameter of about 90 nm. Thus, a majority of the embedded particles that contribute to surface roughness of the substrate have a median size of about 180% of the surface roughness of the substrate. In other examples, the embedded spherical particles are made of different material, such as silicon oxide.</p>
+<p id="p-0151" num="0145"><figref idref="DRAWINGS">FIG. <b>1</b><i>e </i></figref>shows (not to scale) an alternative way in which a desired roughness can be achieved. Spherical embedded particles of polystyrene are present on the surface of the substrate material such that at least 90% of those which contribute to the roughness of the substrate protrude from the local substrate surface by more than half the volume of the particle. The particles used in the example of <figref idref="DRAWINGS">FIG. <b>1</b><i>e </i></figref>are smaller than those used in the example of <figref idref="DRAWINGS">FIG. <b>1</b></figref><i>d. </i></p>
+<p id="p-0152" num="0146">Examples such as those of <figref idref="DRAWINGS">FIGS. <b>1</b><i>d </i>and <b>1</b><i>e </i></figref>enable good quality films to be deposited, as crystalline material, on thin substrates in a manufacturing environment. The advantages of the presence of embedded particles are retained, but by careful control of the location and size distribution of such particles, the potential disadvantages can be avoided or reduced. <figref idref="DRAWINGS">FIGS. <b>1</b><i>f </i>to <b>1</b><i>h </i></figref>show schematically a cross-section corresponding to the substrate shown in <figref idref="DRAWINGS">FIGS. <b>1</b><i>c </i>to <b>1</b><i>e </i></figref>after a layer of crystalline material has been formed on the substrate surface. The intermediate layer of metal current collector is omitted from <figref idref="DRAWINGS">FIGS. <b>1</b><i>f </i>to <b>1</b><i>h</i></figref>. The roughness of the substrate shown in <figref idref="DRAWINGS">FIGS. <b>1</b><i>c </i>and <b>1</b><i>f </i></figref>is such that problems arise. The dominating protrusions caused by certain embedded particles <b>152</b> cause shadowing and competing crystal growth, which are illustrated schematically by means of the contrasting shading <b>154</b> in <figref idref="DRAWINGS">FIG. <b>1</b><i>f</i></figref>. This competing crystal growth which is aligned in a conflicting direction gives rise to discontinuities in the layer that affects performance of the final product. Also, there is a surprisingly profound effect on the likelihood of delamination of the layer of deposited material from the substrate. This may be as a result of poor contact between the deposited layer and the underlying substrate in the region near to any embedded particles that protrude far from the median plane of the surface (illustrated schematically by the voids <b>156</b> in <figref idref="DRAWINGS">FIG. <b>1</b><i>f</i></figref>), where the local asperity radius is small In contrast, it can be seen from <figref idref="DRAWINGS">FIGS. <b>1</b><i>g </i>and <b>1</b><i>h </i></figref>that no such problems arise. The roughness of the surface of the material deposited on the substrate is approximately 50 nm.</p>
+<p id="p-0153" num="0147">The roughness of the substrate can be measured with a profilometer.</p>
+<p id="p-0154" num="0148">This instrument has a stationary stylus. The surface to be measured is translated under the stylus, and the deflections of the stylus measure the surface profile, from which various roughness parameters are calculated.</p>
+<p id="p-0155" num="0149">Roughness can also be measured using &#x201c;non-contact&#x201d; methods. A suitable machine for measuring roughness is the &#x201c;Omniscan MicroXAM 5000B 3d&#x201d; which uses optical phase shift interference to measure the surface profile.</p>
+<p id="p-0156" num="0150">The roughness, Ra, can be calculated using the formula</p>
+<p id="p-0157" num="0000">
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+ <mrow>
+  <mrow>
+   <mi>Ra</mi>
+   <mo>=</mo>
+   <mrow>
+    <mfrac>
+     <mn>1</mn>
+     <mi>n</mi>
+    </mfrac>
+    <mo>&#x2062;</mo>
+    <mrow>
+     <munderover>
+      <mo>&#x2211;</mo>
+      <mrow>
+       <mi>i</mi>
+       <mo>=</mo>
+       <mn>1</mn>
+      </mrow>
+      <mi>n</mi>
+     </munderover>
+     <mtext> </mtext>
+     <mrow>
+      <semantics definitionURL="">
+       <mo>&#x2758;</mo>
+       <annotation encoding="Mathematica">"\[LeftBracketingBar]"</annotation>
+      </semantics>
+      <mstyle><mtext>?</mtext></mstyle>
+      <semantics definitionURL="">
+       <mo>&#x2758;</mo>
+       <annotation encoding="Mathematica">"\[RightBracketingBar]"</annotation>
+      </semantics>
+     </mrow>
+    </mrow>
+   </mrow>
+  </mrow>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0158" num="0000">where the deviation y from a smooth surface is measured for n data points.</p>
+<p id="p-0159" num="0151">The surface roughness, Sa, of an area A extending in the x- and y-directions can be calculated using the formula:</p>
+<p id="p-0160" num="0000">
+<maths id="MATH-US-00006" num="00006">
+<math overflow="scroll">
+ <mrow>
+  <mstyle><mtext>?</mtext></mstyle>
+  <mo>&#x2062;</mo>
+  <mtext>
+</mtext>
+  <mrow>
+   <mstyle><mtext>?</mtext></mstyle>
+   <mtext mathsize="6pt">indicates text missing or illegible when filed</mtext>
+  </mrow>
+ </mrow>
+</math>
+</maths>
+</p>
+<p id="p-0161" num="0000">where Z is the deviation from a mathematically perfectly smooth surface.</p>
+<p id="p-0162" num="0152">In the present example, the average surface roughness is measured with a non-contact method.</p>
+<p id="p-0163" num="0153">The remotely generated plasma is created by the power supplied to the antennae <b>116</b> by power supply <b>112</b>. There is therefore a measurable power associated with that used to generate the plasma. The plasma is accelerated to the target by means of electrically biasing the target <b>104</b>, there being an associated electrical current as a result. There is thus a power associated with the bias on the target <b>104</b>. In this example, the ratio of the power used to generate the plasma to the power associated with the bias on the target is greater than 1:1, and optionally greater than 1.0:1.0. Note that in this example, the ratio is calculated on the assumption that the power efficiency of the plasma-generating source is taken to be 50%. The power associated with the bias on the target is at least 1 Wcm<sup>&#x2212;2</sup>. Ideally, the plasma source is an inductively coupled plasma source or helicon source such that the active temperature of the plasma is low and the directional momentum of species within the plasma is not a hindrance to the deposition system.</p>
+<p id="p-0164" num="0154">In further examples, the ratio of the power used to generate the plasma to the power associated with the bias on the target is greater than 1:1, and no more than 7:2, optionally 7.0:2.0. In yet further examples, the power associated with the bias on the target is greater than 1:1 and no more than 3:2, optionally 3.0:2.0. In some examples, the power efficiency of the plasma generating source is taken to be 80%. In some examples, the power associated with the bias on the target is 10 Wcm<sup>&#x2212;2</sup>. In yet further examples, the power associated with the bias on the target is 100 Wcm<sup>&#x2212;2</sup>. In yet further examples, the power associated with the bias on the target is 800 Wcm<sup>&#x2212;2</sup>. In other examples, the efficiency of the plasma generating source may be different, and the power ratio may also be different.</p>
+<p id="p-0165" num="0155">When the LiCoO<sub>2 </sub>film is deposited onto the substrate, it forms a crystalline film of LiCoO<sub>2</sub>. The crystalline structure which forms onto the substrate is in the R<o ostyle="single">3</o>m space group. This structure is a layered oxide structure. This structure has a number of benefits, such as having a high accessible capacity and high rate of charge and discharge compared to the low energy structure of LiCoO<sub>2</sub>, which has a structure in the Fd3m space group. Crystalline LiCoO<sub>2 </sub>in the R<o ostyle="single">3</o>m space group is often favoured for solid state battery applications.</p>
+<p id="p-0166" num="0156">Throughout the plasma deposition process, the temperature of the substrate <b>128</b> does not exceed the degradation point of the polymer substrate <b>128</b>. Moreover, the temperature of the substrate is sufficiently low throughout the deposition process such that the temperature adjusted yield stress of the polymer substrate remains sufficiently high such that the polymer substrate does not deform under the stresses exerted by the roll-to-roll processing machine.</p>
+<p id="p-0167" num="0157">The general shape of the confined plasma made from the remote plasma generator <b>106</b> is shown by the dashed lines B in <figref idref="DRAWINGS">FIG. <b>1</b><i>a</i></figref>. The series of electromagnets <b>108</b> is used to and confine the plasma to a desired shape/volume.</p>
+<p id="p-0168" num="0158">It should be noted that, whilst in this first example, substrate <b>128</b> is fed into the chamber at inlet <b>130</b>, and exits the chamber at outlet <b>132</b>, alternative arrangements are possible. For example, the roll or other store upstream of shutter <b>136</b> may be inside the process chamber <b>122</b>. The roll or other store downstream of shutter <b>136</b> may be inside or could be stored inside the process chamber <b>122</b>.</p>
+<p id="p-0169" num="0159">In addition the means <b>112</b> of powering the plasma source, may be of RF, (Direct Current) DC, or pulsed-DC type.</p>
+<p id="p-0170" num="0160">In this first example, the target assembly <b>102</b> comprises only one target <b>104</b>. This target is made of LiCoO<sub>2</sub>. It should be appreciated that alternative and/or multiple target assemblies may be used, for example, comprising a distinct region of elemental lithium, a distinct region of elemental cobalt, a distinct region of lithium oxide, a distinct region of cobalt oxide, a distinct region of a LiCo alloy, a distinct region of LiCoO<sub>2</sub>, or any combination thereof. In other examples, the ABO<sub>2 </sub>material may not be LiCoO<sub>2</sub>. In these examples, the target assembly or assemblies contain distinct regions of A, distinct regions of B, distinct regions of a compound containing A and/or B, and/or distinct regions containing ABO<sub>2</sub>.</p>
+<p id="p-0171" num="0161">For the avoidance of doubt, the target <b>104</b> of the target assembly <b>103</b> acts as a source of material alone and does not function as a cathode when power is applied to it from the RF, DC or pulsed DC power supply.</p>
+<p id="p-0172" num="0162">In this example, the working pressure of the system is 0.0050 mBar. The theoretical mean free path of the system is approximately 10 cm. The theoretical mean free path is the average distance between collisions for an ion in the plasma. The working distance between the target <b>104</b> and substrate <b>128</b> is approximately 8.5 cm.</p>
+<p id="p-0173" num="0163">This working distance is therefore approximately 85% of the theoretical mean free path of the system.</p>
+<p id="p-0174" num="0164">In this example, the working pressure is above a lower bound below which crystalline material in the layered oxide structure does not form, but below an upper bound above which observable damage is caused to the substrate. The working distance is shorter than an upper bound above which crystalline material in the layered oxide structure does not form, and longer than a lower bound below which the energy of the deposition causes observable damage to the substrate, or unfavourable oxide states to form.</p>
+<p id="p-0175" num="0165">The average crystallite size of the crystallites which form on the film in this example is around 20 nm. In other examples, the average crystallite size of the crystallites which form on the film is around 50 nm.</p>
+<p id="p-0176" num="0166">In an alternative example, the working pressure of the system is 0.0020 mBar. The theoretical mean free path of the system is approximately 12 cm. The working distance between the target <b>104</b> and substrate <b>128</b> is approximately 9 cm. This working distance is therefore approximately 75% of the theoretical mean free path of the system.</p>
+<p id="p-0177" num="0167">In an alternative example, the working pressure of the system is 0.0065 mBar. The theoretical mean free path of the system is approximately 15 cm. The working distance between the target <b>104</b> and substrate <b>128</b> is approximately 7.5 cm. This working distance is therefore approximately 50% of the theoretical mean free path of the system.</p>
+<p id="p-0178" num="0168">A second example method uses the apparatus shown in <figref idref="DRAWINGS">FIG. <b>2</b><i>a</i></figref>. The main differences between the apparatus of <figref idref="DRAWINGS">FIG. <b>1</b><i>a </i></figref>and the apparatus of <figref idref="DRAWINGS">FIG. <b>2</b><i>a </i></figref>will now be described. <figref idref="DRAWINGS">FIG. <b>2</b><i>a </i></figref>shows that instead of the flexible substrate <b>128</b> presented in the first example, an inflexible planar glass substrate <b>228</b> is used. Furthermore, no shutter is present in this example. The thickness of the glass substrate is in the order of millimetres. A single target <b>204</b> is used in this example. A thermal indicator sticker was attached to the face of the glass slide opposite to that on which the cathode material was deposited. The thermal indicator sticker is configured to indicate whether or not the substrate <b>228</b> experienced a temperature of 270&#xb0; C. or more during the plasma deposition process. After deposition, the sticker indicated that the substrate did not experience a temperature of 270&#xb0; C. or more during the deposition process. The general shape of the plasma is indicated by the area enclosed by the broken line B&#x2032; in <figref idref="DRAWINGS">FIG. <b>2</b></figref><i>a. </i></p>
+<p id="p-0179" num="0169">Table 1 shows the properties of the resultant exemplary battery cathodes produced in accordance with the second example:</p>
+<p id="p-0180" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="1">
+<colspec colname="1" colwidth="364pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="1" rowsep="1">TABLE 1</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry namest="1" nameend="1" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>properties of LiCoO<sub>2 </sub>cathode films as a function of deposition parameters</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="7">
+<colspec colname="offset" colwidth="140pt" align="left"/>
+<colspec colname="1" colwidth="28pt" align="center"/>
+<colspec colname="2" colwidth="70pt" align="center"/>
+<colspec colname="3" colwidth="35pt" align="center"/>
+<colspec colname="4" colwidth="35pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Plasma</entry>
+<entry/>
+<entry>Ar</entry>
+<entry/>
+<entry>Film</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="10">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="35pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry/>
+<entry>Measured film</entry>
+<entry>source</entry>
+<entry>Sputtering</entry>
+<entry>Process</entry>
+<entry>process</entry>
+<entry>Film</entry>
+<entry>Roughness</entry>
+<entry>Dep</entry>
+</row>
+<row>
+<entry>Example</entry>
+<entry>Target</entry>
+<entry>Composition (At %)</entry>
+<entry>power</entry>
+<entry>Power</entry>
+<entry>pressure</entry>
+<entry>flow rate</entry>
+<entry>thickness</entry>
+<entry>Sa</entry>
+<entry>time</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="center"/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>identifier</entry>
+<entry>composition</entry>
+<entry>O</entry>
+<entry>Co</entry>
+<entry>Li</entry>
+<entry>(W)</entry>
+<entry>(W)</entry>
+<entry>(mBar)</entry>
+<entry>(SCCM)</entry>
+<entry>(nm)</entry>
+<entry>(nm)</entry>
+<entry>(min)</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="12">
+<colspec colname="1" colwidth="35pt" align="center"/>
+<colspec colname="2" colwidth="42pt" align="center"/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="21pt" align="center"/>
+<colspec colname="6" colwidth="28pt" align="center"/>
+<colspec colname="7" colwidth="35pt" align="center"/>
+<colspec colname="8" colwidth="35pt" align="center"/>
+<colspec colname="9" colwidth="35pt" align="center"/>
+<colspec colname="10" colwidth="35pt" align="center"/>
+<colspec colname="11" colwidth="35pt" align="char" char="."/>
+<colspec colname="12" colwidth="21pt" align="center"/>
+<tbody valign="top">
+<row>
+<entry>Sample 1</entry>
+<entry>LiCoO<sub>2</sub></entry>
+<entry>56</entry>
+<entry>21</entry>
+<entry>23</entry>
+<entry>1800</entry>
+<entry>500</entry>
+<entry>3.90e&#x2212;03</entry>
+<entry>52</entry>
+<entry>910</entry>
+<entry>51.8</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>Sample 2</entry>
+<entry>LiCoO<sub>2</sub></entry>
+<entry>55</entry>
+<entry>21</entry>
+<entry>24</entry>
+<entry>1800</entry>
+<entry>800</entry>
+<entry>3.90e&#x2212;03</entry>
+<entry>52</entry>
+<entry>915</entry>
+<entry>106</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry namest="1" nameend="12" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0181" num="0170">In Table 1 above, the elemental film composition was determined by x-ray photoelectron spectroscopy using a Themo Fisher K-alpha spectrometer with a MAGCIS ion gun. Quoted compositions were taken from depth profiling measuring at about 10 levels with a film. Plasma source power is the electrical power supplied to generate the plasma. Sputtering power is the electrical power applied to the target <b>204</b>. Process pressure is the pressure in the chamber. Film thickness and roughness measurements were taken after deposition, using an Omniscan MicroXAM 5000b 3d optical profiler. Film thicknesses were measured after deposition, as step-heights at masked edges and roughness measurements were taken from sample areas of about 400 microns&#xd7;500 microns.</p>
+<p id="p-0182" num="0171"><figref idref="DRAWINGS">FIG. <b>2</b><i>b </i></figref>shows an X-ray diffraction (XRD) spectra of the battery cathode of Sample 1. The structure of the film was characterised by X-ray diffraction using a diffractometer (Rigaku-Smartlab) with nickel filtered CuK&#x3b1; radiation (&#x3bb;=1.5406 &#x212b;). The diffraction pattern was taken at room temperature in the range 10&#xb0;&#x3c;2 &#x3b8;&#x3c;80&#xb0; using a fixed incident angle of &#x3c;5&#xb0;. Data were collected using step scans with a resolution of 0.04&#xb0;/step and a count time of 0.5 s/step. The peak at approximately 37&#xb0; is associated with the (101) plane of the crystals being substantially orientated parallel to the substrate surface. The peak at approximately 66&#xb0; is associated with the crystals being substantially oriented such that the (110) plane is parallel to the substrate. The peak at approximately 55&#xb0; is associated with the glass substrate, and for the purposes of determining the crystal structure of the LiCoO<sub>2</sub>, should be ignored.</p>
+<p id="p-0183" num="0172">The absence of extra reflections associated with the Fd3m space group is an initial indicator that the LiCoO<sub>2 </sub>deposited is in the R<o ostyle="single">3</o>m, space group.</p>
+<p id="p-0184" num="0173">Also notably absent is the peak associated with the (003) plane. This implies that very few crystals are orientated in such a way that the (003) plane is parallel to the substrate surface. It is beneficial that very few crystals are orientated in this way. A detailed explanation is beyond the scope of the present application, but briefly, the accessible capacity of a cathode increases when a higher proportion of the crystals are aligned such that the (101) and (110) planes are parallel to the substrate, as opposed to being aligned such that the (003) plane is parallel to the substrate as the apparent resistance to ion migration is lower. The crystals have formed such that the longitudinal axis of the crystals is normal to the substrate. In other words, the crystals have formed in an epitaxial manner.</p>
+<p id="p-0185" num="0174">The applicant has discovered that if the ratio of the power used to generate the plasma to the power associated with the biasing of the target is more than 1:1, then generally a crystalline material is deposited. In Sample 1, the ratio is 1800:500 (3.6:1) and in Sample 2, the ratio is 1800:800 (9:4). Note that in this example, the ratio is calculated on the assumption that the power efficiency of the plasma-generating source is taken to be 50%.</p>
+<p id="p-0186" num="0175">In a comparative example, the experiment was repeated with a plasma source power of 1 kW and a power associated with bias to the target of 1 kW. The material deposited was substantially amorphous. The performance of the film of the comparative example as a cathode was investigated by depositing an electrolyte (in this case, LiPON) and an anode metal on top of the cathode layer, thereby making a solid state battery. The charge-discharge characteristics of the battery were investigated and were found to be poor, with a cathode specific capacity of about 10 mAh/g. When analogous batteries were made using crystalline LiCoO<sub>2 </sub>such as that formed in Sample 1 and Sample 2, the charge-discharge characteristics were far superior, with typical cathode specific capacities of about 120 mAh/g.</p>
+<p id="p-0187" num="0176"><figref idref="DRAWINGS">FIG. <b>2</b><i>c </i></figref>shows a Raman spectra of the battery cathode of Sample 1. The bonding environment of the films was characterised by Raman Spectrocopy. Raman spectra were collected using a JY Horiba LabRAM ARAMIS imaging confocal Raman microscope using 532 nm excitation. Note that the strong sharp peak at 600 cm<sup>&#x2212;1 </sup>can be considered as anomalous due to the unphysical nature of the sharpness of the peak. The strong, characteristic peak observed at 487 cm<sup>&#x2212;1 </sup>is well known in the art to be associated with the R<o ostyle="single">3</o>m space group crystal structure of LiCoO<sub>2</sub>.</p>
+<p id="p-0188" num="0177"><figref idref="DRAWINGS">FIG. <b>2</b><i>d </i></figref>shows an XRD spectra (collected in the same way as that for Sample 1) of the cathode of Sample 2. The spectra shown is similar to that shown in <figref idref="DRAWINGS">FIG. <b>2</b><i>b</i></figref>. However, in <figref idref="DRAWINGS">FIG. <b>2</b><i>d</i></figref>, the relative intensity of the peak at approximately 66&#xb0; is far stronger than that of the peak at 37&#xb0;. This indicates that the number of crystals with their (110) planes parallel to the substrate is higher than the number of crystals with their (101) planes parallel to the substrate for Sample 2. This is beneficial as it means that the ion channels of the thin film are orientated perpendicular to the substrate, making for easier for intercalation and de-intercalation of the ions from their interstitial sites from within the crystal structure of the cathode. This improves the accessible capacity and the rate of charge of the cathode. <figref idref="DRAWINGS">FIG. <b>2</b><i>e </i></figref>is a Raman spectra of the cathode of Sample 2; the same comments apply to <figref idref="DRAWINGS">FIG. <b>2</b><i>e </i></figref>that apply to <figref idref="DRAWINGS">FIG. <b>2</b></figref><i>c. </i></p>
+<p id="p-0189" num="0178"><figref idref="DRAWINGS">FIGS. <b>3</b><i>a </i>to <b>3</b><i>c </i></figref>show an alternative example of an apparatus for use in another example of a method of manufacturing a layer of crystalline material on a surface using plasma sputtering according to a third example. The apparatus and method of manufacture employed is similar to that described with reference to the first example. Only the significant differences will now be described. The same parts are labelled with reference numerals sharing the same last two digits. For example, rotating drum <b>334</b> in <figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>is the same as rotating drum <b>134</b> in <figref idref="DRAWINGS">FIG. <b>1</b><i>a</i></figref>. The apparatus of <figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>comprises a rotating drum <b>334</b> on which a polymer substrate <b>328</b> is supported within a region defined by a process chamber <b>322</b> (the walls of the chamber being omitted for the sake of clarity). The target assembly <b>302</b> comprises a plurality of targets. There is provided a first target <b>304</b> consisting of elemental lithium and a plurality of targets <b>303</b> consisting of elemental cobalt (referred to now as the second targets). The targets are all positioned at a working distance of about 10 cm from the substrate <b>328</b> (the working distance being shortest separation therebetween). The surface of each target <b>303</b>, <b>304</b> facing the drum <b>334</b> is flat (and planar). The radius of the drum <b>334</b> is significantly greater than the working distance (the size of the drum <b>334</b> being shown in the Figures as being relatively smaller than it is in reality for the sake of the illustration). The targets <b>303</b>, <b>304</b> are arranged circumferentially around the circumference of the drum <b>334</b>. The apparatus also comprises a shutter <b>336</b>, for restricting deposition of sputtered material onto the substrate <b>328</b>.</p>
+<p id="p-0190" num="0179">A plasma of argon ions and electrons is generated by means of two electrically powered spaced apart antennae <b>316</b>. The plasma is confined and focused by a magnetic field controlled by two pairs of electromagnets <b>308</b>, each pair being positioned proximate to one of the antennae <b>316</b> and the electric field generated by the system. The overall shape of the plasma (the 90% highest concentration of which being illustrated in highly schematic fashion in <figref idref="DRAWINGS">FIG. <b>3</b><i>c </i></figref>by the plasma cloud B&#x2033;) is that of a blanket, in that the length and width of the plasma cloud are much greater than the thickness. The width of the plasma is controlled in part by the length of the antennae <b>316</b>. The two pairs of antennae <b>316</b> are separated by a distance that is comparable to the length of the plasma. The length and width of the plasma are in the same general direction as the length and width, respectively, of the substrate.</p>
+<p id="p-0191" num="0180">The plasma source is spaced apart from the targets, and may thus be considered as a remotely generated plasma. The theoretical mean free path of the system (that is, the average distance between collisions for an ion in the plasma) is about 12 cm, meaning that the majority of particles travel from the target to the substrate without colliding with any argon ions in the plasma.</p>
+<p id="p-0192" num="0181"><figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>is a partial schematic cross-sectional view showing part of the substrate travelling on the drum <b>334</b> and also shows schematically the trajectories of particles that travel from the targets <b>303</b>, <b>304</b> to the substrate. Thus, there is a first plume corresponding to the trajectories of particles from the first target <b>304</b> to the surface of the substrate <b>328</b> and a second plume corresponding to the trajectories of particles from the second target <b>303</b> to the surface of the substrate <b>328</b>. The first plume is shown as a spotted region and each second plume is shown as a solid grey region. It will be seen from <figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>that the first plume and the second plume converge at a region proximate to the substrate. It will also be seen in <figref idref="DRAWINGS">FIG. <b>3</b><i>a </i></figref>that the first target <b>304</b> faces towards the substrate in a first direction (defined in this example by the notional line extending from the centre of the surface of the target <b>304</b>) and the adjacent second target <b>303</b> to the left as shown in <figref idref="DRAWINGS">FIG. <b>3</b><i>a</i></figref>, faces towards the substrate in a second direction (defined in this example by the notional line extending from the centre of the surface of the target <b>303</b>). The first and second directions converge towards the substrate and intersect at a location just beyond the substrate (the location being about 3 cm beyond the substrate). Oxygen gas is supplied at a controlled rate into the process chamber <b>322</b> through inlets <b>325</b>. The targets are stationary as the substrate moves with rotation of the drum. In other examples, the inert sputtering gas is introduced through the gas inlet (not shown here, but substantially the same configuration as that shown in <figref idref="DRAWINGS">FIG. <b>1</b><i>a</i></figref>).</p>
+<p id="p-0193" num="0182">The amount of oxygen introduced into the chamber may be reduced in some other examples if distinct regions of lithium oxide and cobalt oxide are present in targets <b>304</b>, <b>303</b>, and the oxygen content in such targets may be sufficiently high in some examples such that no additional oxygen gas need be introduced into the chamber <b>322</b> at all.</p>
+<p id="p-0194" num="0183"><figref idref="DRAWINGS">FIG. <b>3</b><i>b </i></figref>is a view looking from the drum towards the targets. <figref idref="DRAWINGS">FIG. <b>3</b><i>c </i></figref>is a cross-sectional view that includes sections of the first target <b>304</b>, the second targets <b>303</b> and the substrate <b>328</b> on the drum <b>334</b>.</p>
+<p id="p-0195" num="0184">It will be seen that in <figref idref="DRAWINGS">FIG. <b>3</b><i>c </i></figref>(the view of the cross-section) the first target <b>304</b> is angled relative to each of the second targets <b>303</b>.</p>
+<p id="p-0196" num="0185">In performance of the method, the plasma generated is used to sputter material from the first target and from the second targets onto the substrate.</p>
+<p id="p-0197" num="0186">As shown in <figref idref="DRAWINGS">FIG. <b>3</b><i>d</i></figref>, elemental lithium material has a lower sputter yield than cobalt as measured in atoms yielded per ion received at the surface at a given energy (less than half at 10 keV). As such, the (negative) potential applied to the first target has a magnitude greater than the potential applied to the second targets. The first target also has a slightly larger surface area exposed to the plasma than the sum area of the second targets. As such, the number of ionised Li atoms arriving at the substrate per unit is substantially the same as the number of ionised Co atoms arriving at the substrate per unit. Ionised oxygen atoms are also present as are electrons from the plasma. The high energy particles made possible by the remote plasma allows for crystalline LiCoO<sub>2 </sub>material, having a hexagonal crystal structure, to be formed in situ on the surface of the substrate.</p>
+<p id="p-0198" num="0187">A greater number of high energy particles from the plasma are received at the first target <b>304</b> (over the whole surface area of the target) than at the second targets <b>303</b> (summed over the whole surface area of both second targets).</p>
+<p id="p-0199" num="0188"><figref idref="DRAWINGS">FIG. <b>3</b><i>e </i></figref>shows a schematic cross-section through a further example of an apparatus in accordance with a fourth example, similar to that shown in <figref idref="DRAWINGS">FIGS. <b>3</b><i>a </i>to <b>3</b><i>c</i></figref>, but in which the targets move and are arranged in pairs, circumferentially around the drum <b>334</b>. Each pair of targets (i.e. each assembly <b>302</b>) is arranged to be angled to face towards a location very near to the substrate on the drum. Each pair <b>302</b> comprises a first target <b>304</b> of elemental lithium and a second target of elemental cobalt <b>303</b>. The targets are all positioned at a working distance of about 15 cm from the substrate, the working distance being the shortest separation therebetween. The theoretical mean free path of the system (that is, the average distance between collisions for an ion in the plasma) is about 20 cm. For each pair of targets (<b>302</b>), in use there is a first plume of particles from the first target (<b>304</b>) and a second plume of particles from the second target (<b>303</b>) which converge at a region proximate to the substrate. The centre of rotation of the main drum <b>334</b> is also the centre of rotation of the targets. The targets move with an angular velocity about the centre of rotation slower than the drum. Targets may be replaced when they have moved out of the plasma on a rotating basis, thus allowing for constant deposition of material on the moving substrate.</p>
+<p id="p-0200" num="0189">An example of a battery cathode made in accordance with the second example will now be described with reference to <figref idref="DRAWINGS">FIGS. <b>4</b><i>a</i>, <b>4</b><i>b </i>and <b>5</b><i>a</i></figref>. The substrate <b>428</b>, <b>528</b> comprises a current collecting layer <b>429</b>, <b>529</b>, in this case, a layer of platinum, on which a layer of LiCoO<sub>2 </sub><b>442</b>, <b>542</b> is deposited. In other examples, another inert metal is used as a current collecting layer, for example gold, iridium, copper, aluminium or nickel. In yet further examples, the current collecting layer may be carbon based. In some examples, the current collecting layer is surface modified, and in some examples, the current collecting layer comprises rod-like structures.</p>
+<p id="p-0201" num="0190">As shown on the Scanning Electron Microscope (SEM) image of <figref idref="DRAWINGS">FIG. <b>4</b><i>a </i></figref>(cross sectional view of a first sample deposited film) and <figref idref="DRAWINGS">FIG. <b>4</b><i>b </i></figref>(bird's-eye view a second sample deposited film), the LiCoO<sub>2 </sub>film layer <b>442</b>, <b>542</b> of both samples is polycrystalline in nature. The battery cathodes of <figref idref="DRAWINGS">FIGS. <b>4</b><i>a</i>, <b>4</b><i>b </i>and <b>5</b><i>a </i></figref>can also be made in accordance with the methods of the third or fourth example.</p>
+<p id="p-0202" num="0191">A method of making a cathodic half-cell in accordance with a fifth example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>5</b><i>a </i></figref>(a first sample), <figref idref="DRAWINGS">FIG. <b>5</b><i>b </i></figref>(a second sample), and <figref idref="DRAWINGS">FIG. <b>5</b><i>c</i></figref>. The method, generally described by reference numeral <b>3001</b>, comprises depositing <b>3002</b> a battery cathode material <b>542</b> onto a substrate (which in this example comprises a current collecting layer <b>529</b>), and depositing <b>3003</b> onto said battery cathode material <b>542</b> battery electrolyte material <b>544</b>. In this example, the material deposited for the electrolyte <b>544</b> is lithium phosphorous oxy-nitride (LiPON). In other examples, the material deposited is another suitable electrolyte material. In some samples of the fifth example of the invention (such as the second sample), the half-cell may comprise an electrode material <b>544</b>, and in other samples of the fifth example, the half-cell may not comprise an electrode material <b>544</b> (such as the first sample).</p>
+<p id="p-0203" num="0192">In this example, the LiPON is deposited in substantially the same way as the ABO<sub>2 </sub>materials in the first, second, third or fourth examples, using a remotely-generated plasma. However, in this example, the target material used is Li<sub>3</sub>PO<sub>4</sub>, with deposition occurring in a reactive nitrogen atmosphere. In other examples, the target assembly may include a number of targets, with distinct regions of lithium and/or phosphorous containing compounds, elemental lithium, or lithium oxide. In other examples, the deposition additionally occurs in a reactive oxygen atmosphere.</p>
+<p id="p-0204" num="0193">An example of a method of making a solid-state battery cell in accordance with a sixth example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>6</b></figref>. The method is denoted generally by reference numeral <b>5001</b> and comprises making <b>5002</b> a cathodic half-cell in accordance with the fifth example (for example, as described above with reference to <figref idref="DRAWINGS">FIGS. <b>5</b><i>b </i>and <b>5</b><i>c</i></figref>) and contacting <b>5003</b> said cathodic half-cell with an anode. In this example, the anode is deposited by a convenient method, including remote plasma sputtering, magnetron sputtering, CVD etc. In other examples, the anode is deposited by thermal evaporation, e-beam evaporation, pulsed laser deposition, or simple DC-sputtering.</p>
+<p id="p-0205" num="0194">An example of a method of making a solid-state battery in accordance with a seventh example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>7</b><i>a</i></figref>. The method is denoted generally by reference numeral <b>6001</b> and comprises making <b>6002</b> a plurality of cathodic half-cells of a solid state thin film battery, making <b>6003</b> a plurality of anodic half cells of a solid state thin film battery and bringing <b>6004</b> said cathodic and anodic half cells into contact with one another, thereby forming at least one battery. A battery so made according to a first sample of the seventh example of the present invention is shown schematically in <figref idref="DRAWINGS">FIG. <b>7</b><i>b</i></figref>. Referring to <figref idref="DRAWINGS">FIGS. <b>7</b><i>b</i></figref>, <b>628</b> and <b>628</b>&#x2032; are substrate materials, <b>629</b> and <b>629</b>&#x2032; are current collecting layers, <b>642</b> is the cathode material, in this case, LiCoO<sub>2</sub>, and <b>644</b> is LiPON, which acts as both electrolyte and anode.</p>
+<p id="p-0206" num="0195">Alternatively, in other examples the current collector material acts as an anode material. Alternatively, in a second sample of the seventh example of the invention a further anode material may be deposited. This is shown schematically in <figref idref="DRAWINGS">FIG. <b>7</b><i>c</i></figref>. Referring to <figref idref="DRAWINGS">FIGS. <b>7</b><i>c</i></figref>, <b>628</b> and <b>628</b>&#x2032; are substrate materials, <b>629</b> and <b>629</b>&#x2032; are current collecting layers, <b>642</b> is the cathode material, in this case, LiCoO<sub>2</sub>, <b>644</b> is LiPON, which acts as electrolyte, and <b>646</b> is a suitable anode material.</p>
+<p id="p-0207" num="0196">An example of a method of determining an optimum working distance for a remote plasma deposition system configured for the deposition of layered oxide materials in accordance with an eighth example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>8</b><i>a</i></figref>. The method is generally described by numeral <b>7001</b> and comprises:
+<ul id="ul0003" list-style="none">
+    <li id="ul0003-0001" num="0000">
+    <ul id="ul0004" list-style="none">
+        <li id="ul0004-0001" num="0197">Selecting <b>7002</b> a range of working distances, wherein a working distance within said range is +/&#x2212;50% of the theoretical mean free path of the system,</li>
+        <li id="ul0004-0002" num="0198">for a number of test specimens, for each respective specimen, performing <b>7003</b> the method of depositing material according to the first example at different working distances within the selected range,</li>
+        <li id="ul0004-0003" num="0199">performing <b>7004</b> a characterisation technique capable of determining a characteristic feature of a layered oxide structure on each of the test specimens after deposition has occurred,</li>
+        <li id="ul0004-0004" num="0200">identifying <b>7005</b> specimens where said characteristic property is present;</li>
+        <li id="ul0004-0005" num="0201">from those specimens, selecting <b>7006</b> the specimen wherein the (normalised) intensity of said characteristic peak is highest, and subsequently selecting <b>7007</b> the working distance for the system to that which was used during deposition of said test specimen.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0208" num="0202">In this eighth example, the characterisation technique used is X-ray diffraction, and the characteristic property is a diffraction peak or series of diffraction peaks. <figref idref="DRAWINGS">FIG. <b>8</b><i>b </i></figref>shows a number of X-Ray diffraction patterns recorded of films deposited at different working distances. From the top diffraction pattern to the bottom diffraction pattern the working distances were 5 cm (ref. no. <b>731</b>), 8 cm (733), 12 cm (735) and 15 cm (737), respectively. As can be seen from the figure, a working distance of 8 cm shows the highest intensity peak <b>733</b> at 19 degrees 2theta (which is one of the required peak positions <b>739</b> for hexagonal LiCoO<sub>2</sub>, this particular peak not being present in cubic or spinel structures of LiCoO<sub>2</sub>). Therefore, in this example, 8 cm is chosen as the working distance. In other examples, a different characterisation technique may be used other than X-Ray diffraction. The intensity of the diffraction pattern <b>731</b> measured for a working distance of 5 cm is less intense at 19 degrees 2theta than the diffraction pattern <b>733</b> at a working distance of 8 cm. The diffraction patterns collected for a working distance of 12 cm 735 and 15 cm 737 do not show the characteristic peak for hexagonal LiCoO<sub>2 </sub>at 19 degrees 2theta at all.</p>
+<p id="p-0209" num="0203">In some examples, the test specimens of the method are replaced with an average value for a number of test specimens, comprising a number of test specimens, wherein the method of the first example has been performed a number of times at the same working distance, and an average taken. In some examples the method may be performed a number of times such that a range of optimal working distances can be found for operating the system.</p>
+<p id="p-0210" num="0204"><figref idref="DRAWINGS">FIG. <b>9</b><i>a </i></figref>shows a sample formed in accordance with the first example, during performing the method of the eighth example, and shows a damaged substrate surface (with undesirable oxides) which forms due to the deposition when the working distance is too short. In this example, the working distance was 5 cm, and the material deposited was LiCoO<sub>2</sub>. As can be seen from the figure, crystallites have not formed over the whole substrate surface, and deformation of the substrate can be seen. In addition, regions of Co(II)O, an undesirable phase of cobalt oxide, can be seen forming on the substrate at this working distance. This is confirmed by the spectra as shown in <figref idref="DRAWINGS">FIG. <b>9</b><i>b</i></figref>, which shows peaks relating to Co(II)O phases (identified at two values <b>843</b> of 2theta) being detected in a diffraction pattern <b>831</b> obtained for a sample at which the working distance was 5 cm, in addition to hexagonal LCO, peaks (identified at 5 values <b>839</b> of 2theta). A structural refinement model <b>831</b>&#x2032; containing both hexagonal LiCoO<sub>2 </sub>and Co(II)O phases, was obtained from the collected diffraction pattern of <b>831</b>. The difference between the diffraction pattern <b>831</b> and the refinement model <b>831</b>&#x2032; is illustrated by the difference line <b>841</b>. Thus, during the method of the eighth example, overly short working distances cannot be selected as the optimum working distance.</p>
+<p id="p-0211" num="0205">An example of a method of determining an optimum range of working pressures for a remote plasma deposition system configured for the deposition of layered oxide materials in accordance with a ninth example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>10</b><i>a</i></figref>. The method is generally described by numeral <b>8001</b> wherein the method comprises:
+<ul id="ul0005" list-style="none">
+    <li id="ul0005-0001" num="0000">
+    <ul id="ul0006" list-style="none">
+        <li id="ul0006-0001" num="0206">Selecting <b>8002</b> an initial range of working pressures, from 0.00065 mBar to 0.01 mBar (and optionally from 0.001 to 0.007 mBar),</li>
+        <li id="ul0006-0002" num="0207">for a number of test specimens, for each respective specimen, performing <b>8003</b> the method of depositing material according to the first example at different working pressures within the selected range,</li>
+        <li id="ul0006-0003" num="0208">performing <b>8004</b> a characterisation technique capable of determining a characteristic property of a layered oxide structure on each of the test specimens after deposition has occurred,</li>
+        <li id="ul0006-0004" num="0209">selecting <b>8005</b> the test specimen which was deposited at the lowest working pressure from the group of test specimens which display a characteristic feature of a layered oxide material, and setting <b>8006</b> this working pressure as the lower bound of the range,</li>
+        <li id="ul0006-0005" num="0210">selecting <b>8007</b> the test specimen which was deposited at the highest working pressure from the group of test specimens which do not show observable signs of damage to the substrate, and setting <b>8008</b> this working pressure as the higher bound of the range.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0212" num="0211">In this ninth example, the characterisation technique used is X-ray diffraction, and the characteristic feature is a feature comprises a characteristic X-Ray diffraction peak of a layered oxide material. <figref idref="DRAWINGS">FIG. <b>10</b><i>b </i></figref>shows an example X-Ray spectra showing how below a certain working pressure, this characteristic feature is not present. In this example, the presence of a peak at 19 degrees 2theta in the pattern <b>947</b> for the sample deposited at 0.0046 mBar resulted in the formation of a hexagonal crystalline phase, whereas the pattern <b>945</b> for the sample deposited at 0.0012 mBar did not lead to the formation of a hexagonal crystalline phase, as shown by the absence of the peak. In other examples, a characterisation technique may be used other than X-Ray diffraction.</p>
+<p id="p-0213" num="0212">In further examples, the test specimens of the method are replaced with an average value for a number of test specimens, comprising a number of test specimens wherein the method of the first example has been performed a number of times at the same working pressure, and an average taken.</p>
+<p id="p-0214" num="0213">In some examples, the method also comprises selecting the optimum working pressure of the system within the desired range. In this example, the optimum working pressure is the working pressure within the range that results in the highest deposition rate.</p>
+<p id="p-0215" num="0214">An example of a method of determining the crystallite size for deposition of layered oxide materials in accordance with a tenth example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>11</b><i>a</i></figref>. The method is generally described by numeral <b>9001</b> wherein the method comprises:
+<ul id="ul0007" list-style="none">
+    <li id="ul0007-0001" num="0000">
+    <ul id="ul0008" list-style="none">
+        <li id="ul0008-0001" num="0215">selecting <b>9002</b> an initial range of working pressures, from 0.00065 mBar and 0.01 mBar,</li>
+        <li id="ul0008-0002" num="0216">for a number of test specimens, for each respective specimen, performing <b>9003</b> the method of depositing material according to the first example at different working pressures within the selected range,</li>
+        <li id="ul0008-0003" num="0217">performing <b>9004</b> a characterisation technique capable of determining the crystallite size of each film for each of the test specimens after deposition has occurred,</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0216" num="0218">The selected range of working pressures may be from 0.001 to 0.007 mBar, for example.</p>
+<p id="p-0217" num="0219"><figref idref="DRAWINGS">FIG. <b>11</b><i>b </i></figref>is a graph showing, after performing the method of the tenth example over a given range of working pressures, for a working distance of 16 cm, that the range of crystallite size that forms for a number of films deposited in accordance with the first example at different working pressures between 0.001 mBar and 0.0065 mBar, is relatively broad in comparison to <figref idref="DRAWINGS">FIG. <b>11</b></figref><i>c. </i></p>
+<p id="p-0218" num="0220"><figref idref="DRAWINGS">FIG. <b>11</b><i>c </i></figref>is a graph showing, after performing the method of the tenth example over a given range of working pressures, for a working distance of 8.5 cm, that the range of crystallite size that forms for a number of films deposited in accordance with the first example at different working pressures between 0.001 mBar and 0.0065 mBar is relatively narrow in comparison to <figref idref="DRAWINGS">FIG. <b>11</b></figref><i>b. </i></p>
+<p id="p-0219" num="0221">It is beneficial to have a narrow distribution of crystallite sizes, as this makes the crystallite size of films deposited on an industrial scale both predictable and repeatable.</p>
+<p id="p-0220" num="0222">An example of a method of depositing a material on a substrate in accordance with an eleventh example of an example will now be described with reference to <figref idref="DRAWINGS">FIG. <b>12</b></figref>. The method is generally described by numeral <b>1101</b> and comprises:
+<ul id="ul0009" list-style="none">
+    <li id="ul0009-0001" num="0000">
+    <ul id="ul0010" list-style="none">
+        <li id="ul0010-0001" num="0223">generating <b>1102</b> a plasma remote from a plasma target or targets suitable for plasma sputtering,</li>
+        <li id="ul0010-0002" num="0224">exposing <b>1103</b> the plasma target or targets to the plasma, thereby generating sputtered material from the target or targets,</li>
+        <li id="ul0010-0003" num="0225">depositing <b>1104</b> the sputtered material on a first portion of the substrate.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0221" num="0226">The method of depositing material on a substrate as described by the eleventh example comprises all of the features of the deposition of the first example, although in this example, the target material may be any material. In this example, the target material is crystalline, however in other examples the deposited material may take a semi-crystalline form, or be amorphous.</p>
+<p id="p-0222" num="0227">Also presented is a twelfth example, which relates to a method of manufacturing a component for an electronic device comprising a substrate, which will now be described with reference to <figref idref="DRAWINGS">FIG. <b>13</b></figref>. The method is generally described by numeral <b>1201</b> and comprises depositing <b>1202</b> a material onto the substrate using a method of the as described in the eleventh example. The method of the eleventh example in this example is performed a plurality of times <b>1203</b> in order to deposit multiple layers. In this example, at least some of the multiple layers may are semi-conducting layers. In this example, the method is therefore a method of manufacturing a semi-conducting device or part thereof. In this example adjacent layers are be deposited with differing parameters and/or target materials used for the deposition of each layer, in order to produce an electronic device. In other examples, multiple layers of a plurality of layers of material are deposited with substantially the same target materials and parameters.</p>
+<p id="p-0223" num="0228">In this example, the substrate comprises one intermediate layer, which may optionally act as a current collecting layer. In other examples, there are more intermediate layers, which help with adhesion during deposition steps. In some other examples, there is no intermediate layer. The deposition of the intermediate layer onto the substrate is be performed in accordance with the method as described in the eleventh example. In other examples, deposition of the intermediate layer onto the substrate is performed by another appropriate deposition technology such as sputtering, thermal evaporation, electron beam evaporation, pulsed laser deposition, or other thin film deposition technology.</p>
+<p id="p-0224" num="0229">In this example, the method comprises depositing a first semiconducting layer of material. In this example, the first semiconducting layer is deposited onto an intermediate layer of material. In other examples, the first semiconducting layer is deposited directly onto the substrate. In this example, the first semiconducting layer comprises silicon. In other examples, the first semiconducting layer comprises aluminium, and in some further examples, gallium nitride. In examples where the semiconducting layer of material is gallium nitride, the deposition occurs under a reactive nitrogen atmosphere. In this example, the first semiconducting layer of material is doped n-type. This is achieved in this example by sputtering of a target comprising a compound containing phosphorous. In other examples, this is achieved by use of a different dopant such as arsenic, antimony, bismuth or lithium. In some further examples, the semiconducting layer of material is doped p-type, with dopants such as boron, aluminium, gallium or indium. In further examples, the semiconducting layer of material is not doped, and is an intrinsic semi-conductor. In some of these examples, the dopant material is not introduced as a target which can be sputtered, and is instead introduced as a gas after deposition, such that the dopant diffuses into the surface of the semiconducting layer.</p>
+<p id="p-0225" num="0230">In this example, the method comprises depositing a second semiconducting layer of material, onto the first semiconducting layer of material. In other examples, the second semi-conducting layer of material is deposited directly onto the substrate or the intermediate layer (if present). In this example, the second semiconducting layer of material is an intrinsic semiconductor. In this example, the second semiconducting layer of material is gallium nitride. In further examples, the second semiconducting layer of material is doped n-type with dopants such as phosphorous, arsenic, antimony, bismuth or lithium. In some further examples, the second semiconducting layer of material is doped p-type, with dopants such as boron, aluminium, gallium or indium. In some of these examples, the dopant material is not introduced as a target that can be sputtered, and is instead introduced as a gas after deposition, such that the dopant diffuses into the surface of the semiconducting layer.</p>
+<p id="p-0226" num="0231">In this example, the method comprises depositing a third semiconducting layer of material. In this example, the third semiconducting layer is deposited onto the second semi-conducting layer of material. In other examples, the third semiconducting layer is deposited directly onto the first semiconducting layer, second semiconducting layer, the intermediate layer or the substrate. In this example, the third semiconducting layer comprises silicon. In other examples, the third semiconducting layer comprises aluminium, and in some further examples, gallium nitride. In some examples where the semiconducting layer of material is gallium nitride, the deposition occurs under a reactive nitrogen atmosphere. In this example, the third semiconducting layer of material is doped p-type. This is achieved in this example by sputtering of a target comprising a compound containing boron. In other examples, this is achieved by use of a different dopant such as aluminium, gallium or indium. In some further examples, the third semiconducting layer of material is doped n-type, with dopants such as phosphorus, arsenic, antimony, bismuth or lithium. In further examples, the third semiconducting layer of material is not doped, and is an intrinsic semi-conductor. In some of these examples, the dopant material is not introduced as a target, which can be sputtered, and is instead introduced as a gas after deposition, such that the dopant diffuses into the surface of the semiconducting layer.</p>
+<p id="p-0227" num="0232">The method of this example may therefore be used to form a p-n or p-i-n junction.</p>
+<p id="p-0228" num="0233">In this example, no further dopants are introduced into some of the semiconducting layers hitherto described. In some examples, germanium is introduced as a dopant in the first, second and/or third layers. Germanium alters the band gap of the electronic device, and improves the mechanical properties of each semiconducting layer of material. In some examples, nitrogen is introduced as a dopant in the first, second and/or third layers of material. Nitrogen is used to improve the mechanical properties of the semiconducting layers formed.</p>
+<p id="p-0229" num="0234">Also presented is a thirteenth example, which relates to a method of manufacturing a crystalline layer of Yttrium Aluminium Garnet (YAG), which will now be described with reference to <figref idref="DRAWINGS">FIG. <b>14</b></figref>. The method is generally described by numeral <b>1301</b> and comprises using the method as described in the eleventh example <b>1302</b>, wherein the YAG is doped <b>1303</b> with at least one f-block transition metal.</p>
+<p id="p-0230" num="0235">In this example, the dopant material is a lanthanide.</p>
+<p id="p-0231" num="0236">In this example, the dopant material comprises neodymium. In other examples, the dopant material comprises chromium or cerium in addition to neodymium. In this example, the crystalline layer of material comprises 1.0 molar percent neodymium. In some examples, the material also comprises 0.5 molar percent cerium.</p>
+<p id="p-0232" num="0237">In yet further examples, the dopant material comprises erbium. In this example, the dopant material is provided as a target, and sputtered as described in the eleventh example. The crystalline layer of material in this further example comprises 40 molar percent erbium. In one example, the crystalline layer of material comprises 55 percent erbium.</p>
+<p id="p-0233" num="0238">In yet further examples, the dopant material comprises ytterbium. In one of these examples, the crystalline layer of material comprises 15 molar percent ytterbium.</p>
+<p id="p-0234" num="0239">In yet further examples, the dopant material comprises thulium. In further examples, the dopant material comprises dysprosium. In further examples, the dopant material comprises samarium. In further examples, the dopant material comprises terbium.</p>
+<p id="p-0235" num="0240">In yet further examples, the dopant material comprises cerium. In some examples where the dopant material comprises cerium, the dopant material also comprises gadolinium.</p>
+<p id="p-0236" num="0241">In some examples, instead of the dopant material being provided as a distinct region of a target or targets, the dopant material is, at least in part, introduced after the deposition of the layer of crystalline material, by providing the dopant material as a gas, such that it diffuses into the layer of crystalline material.</p>
+<p id="p-0237" num="0242">According to a fourteenth example, a method of manufacturing a light emitting diode is presented, which will now be described with reference to <figref idref="DRAWINGS">FIG. <b>15</b></figref>. The method is generally described by numeral <b>1401</b> and comprises performing the method according to the twelfth example <b>1402</b>, and thereafter or therein performing the method according to the thirteenth example <b>1403</b>, in the case where the dopant used during the method of the thirteenth example comprises cerium <b>1404</b>. The layer of cerium-doped YAG is used as a scintillator in an LED in this example.</p>
+<p id="p-0238" num="0243">The methods according to the twelfth and thirteenth examples may be performed inside the same process chamber.</p>
+<p id="p-0239" num="0244">According to a fifteenth example, a method of manufacturing a permanent magnet is presented, which will now be described with reference to <figref idref="DRAWINGS">FIG. <b>16</b></figref>. The method is generally described by numeral <b>1501</b> and comprises comprising performing the method according to the eleventh example <b>1502</b>, wherein the distinct regions of the target or targets provided comprise neodymium, iron, boron and dysprosium <b>1503</b>, and the method comprises processing the film <b>1504</b> such that the layer of material becomes a permanent magnet.</p>
+<p id="p-0240" num="0245">In this example, the final layer of material comprises 6.0 molar percent dysprosium. In further examples, the molar percentage of dysprosium is less than 6.0.</p>
+<p id="p-0241" num="0246">The high target utilisation that the current method provides is beneficial when constructing electronic devices from rare elements such as dysprosium. Dysprosium is available in limited Earth abundancy, and so a deposition system with a high target utilisation results in less material waste.</p>
+<p id="p-0242" num="0247">According to a sixteenth example, a method of manufacturing a layer of Indium Tin Oxide (ITO) is presented, which will now be described with reference to <figref idref="DRAWINGS">FIG. <b>17</b></figref>. The method is generally described by numeral <b>1601</b> and comprises performing the method according to the eleventh example <b>1602</b>, wherein the distinct regions of the targets provided comprise indium and tin <b>1603</b>. The layer of ITO is deposited in such a way that it directly forms a transparent crystalline layer of material on deposition <b>1604</b> onto the substrate. In other examples, a composite target is used, which comprises both indium and tin. In yet further examples, the composite target comprises an oxide of indium and tin. The number of targets used thus may differ in further examples, and a single target may be used.</p>
+<p id="p-0243" num="0248">In yet further examples the targets may comprise an oxide of indium, or an oxide of tin. The deposition process in further examples comprises providing oxygen, such that the sputtered material from the targets reacts with the oxygen in order to form Indium Tin Oxide on the substrate.</p>
+<p id="p-0244" num="0249">According to a seventeenth example, not separately illustrated, a method of manufacturing a photovoltaic cell is presented. In this example, the method further comprises the deposition of an ITO, as described in the fifteenth example In further examples, no layer of ITO is deposited. In this example, the method also comprises the deposition of a layer of perovskite material in between a n-type doped layer of semiconducting material and a p-type doped layer of semiconducting material. The perovskite layer of material is in this case deposited as described by the method of the eleventh example. In further examples, it is deposited by another suitable means such as physical vapour deposition, or wet chemistry techniques. In further examples, no perovskite layer of material is deposited.</p>
+<p id="p-0245" num="0250">In alternative examples, the method comprises the deposition of a layer of copper indium gallium selenide in accordance with the eleventh example. The copper, indium, gallium, and selenide is provided as distinct regions of the target or targets. In this example the copper is provided as an elemental target, and the indium, gallium, and selenide are provided as oxide targets. Other combinations of oxide, elemental, compound or composite targets are used in further examples. The number of targets used thus may differ in further examples, and a single target may be used.</p>
+<p id="p-0246" num="0251">In some examples, the method comprises the deposition of a layer of cadmium sulphide in accordance with the eleventh example. In this example, the cadmium and sulphide are provided as distinct regions of the targets in oxide form. Other combinations of oxide, elemental, compound or composite targets are used in further examples. The number of targets used thus may differ in further examples, and a single target may be used.</p>
+<p id="p-0247" num="0252">In some examples, the method comprises deposition of a layer of cadmium telluride in accordance with the eleventh example. The cadmium and telluride is provided as distinct regions of elemental targets in tis example. In other examples, the cadmium and telluride is provided as distinct regions of the target or targets in elemental, an oxide, a composite or any combination thereof. The number of targets used thus may differ in further examples, and a single target may be used.</p>
+<p id="p-0248" num="0253">Whilst the forgoing description has been described and illustrated with reference to particular examples, it will be appreciated by those of ordinary skill in the art that the invention lends itself to many different variations not specifically illustrated herein. By way of example only, certain possible variations will now be described.</p>
+<p id="p-0249" num="0254">Where in the foregoing description, integers or elements are mentioned which have known, obvious or foreseeable equivalents, then such equivalents are herein incorporated as if individually set forth. Reference should be made to the claims for determining the true scope of the example, which should be construed so as to encompass any such equivalents. It will also be appreciated by the reader that integers or features of the invention that are described as preferable, advantageous, convenient or the like are optional and do not limit the scope of the independent claims. Moreover, it is to be understood that such optional integers or features, whilst of possible benefit in some embodiments of the invention, may not be desirable, and may therefore be absent, in other embodiments.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US20220411913A1-20221229-M00001.NB">
+<img id="EMI-M00001" he="6.69mm" wi="76.20mm" file="US20220411913A1-20221229-M00001.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US20220411913A1-20221229-M00002.NB">
+<img id="EMI-M00002" he="6.69mm" wi="76.20mm" file="US20220411913A1-20221229-M00002.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US20220411913A1-20221229-M00003.NB">
+<img id="EMI-M00003" he="6.69mm" wi="76.20mm" file="US20220411913A1-20221229-M00003.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US20220411913A1-20221229-M00004.NB">
+<img id="EMI-M00004" he="6.69mm" wi="76.20mm" file="US20220411913A1-20221229-M00004.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US20220411913A1-20221229-M00005.NB">
+<img id="EMI-M00005" he="11.60mm" wi="76.20mm" file="US20220411913A1-20221229-M00005.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00006" nb-file="US20220411913A1-20221229-M00006.NB">
+<img id="EMI-M00006" he="6.69mm" wi="76.20mm" file="US20220411913A1-20221229-M00006.TIF" alt="text missing or illegible when filed" img-content="math" img-format="tif"/>
+</us-math>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A method of manufacturing a layer of cathode, the method comprising:
+<claim-text>providing a substrate;</claim-text>
+<claim-text>generating a plasma remote from one or more cathode material sputter targets;</claim-text>
+<claim-text>confining the plasma in a space between the substrate and the one or more cathode material sputter targets;</claim-text>
+<claim-text>generating sputtered material from the target using the plasma; and</claim-text>
+<claim-text>depositing sputtered material on the substrate, thereby forming a layer of cathode on the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising moving the substrate, and depositing a layer of crystalline cathode onto the moving substrate.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the substrate is in the form of a continuous flexible web, and comprises a polymer.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The method according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein substrate upstream of the plasma deposition process is held on a roller or drum, and substrate downstream of the plasma deposition process is held on a roller or drum.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the substrate does not exceed its temperature corrected yield strength.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The method according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, in which the substrate does not exceed its temperature corrected yield strength as it passes between the upstream and downstream rollers or drums.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the substrate is supported on a rigid support when material is sputtered on to the first portion of substrate.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the substrate and rigid support are moved relative to one another so that the rigid support no longer supports the substrate.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cathode material comprises one or more alkali metals, one or more transition metals, and optionally aluminium.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the cathode material comprises lithium and one or more transition metal, each selected from the group consisting of Co, Ni and Mn.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the maximum temperature reached at any given time by any given square of substrate material having an area of 1 cm<sup>2 </sup>as measured on the surface opposite to said surface on which the material is deposited and as averaged over a period of 1 second, is less than 200 degrees C.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which one or more target(s) comprises the cathode material.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the thickness of the deposited cathode material on completion of deposition is no more than 10 microns.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the thickness of the substrate is no more than 1.6 microns.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the power density associated with the bias applied to at least one target is at least 1.0 Wcm<sup>&#x2212;2</sup>.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the power density associated with the bias applied to the target is up to 100 Wcm<sup>&#x2212;2</sup>.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the ratio of the power supplied to generate the remote plasma to the power associated with the bias of the target is more than 1:1.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The method according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, in which the ratio of the power supplied to generate the remote plasma to the power associated with the bias of the target is no more than 7:2.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the geometry of the surface defined by the remotely generated plasma is curved, at a location substantially near to the one or more targets.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the working distance between the target and the substrate may be within +/&#x2212;50% of the theoretical mean free path of the system.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the working pressure is from 0.00065 mBar to 0.02 mBar.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the substrate comprises a current collecting layer.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. A battery cathode made by the method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. A method of manufacturing a cathodic half-cell of a battery, the method comprising:
+<claim-text>making a battery cathode for a solid state battery using the method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>; and</claim-text>
+<claim-text>depositing electrolyte onto said battery cathode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. A cathodic half cell made in accordance with the method of <claim-ref idref="CLM-00024">claim 24</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. A method of making a solid state battery cell, the method comprising
+<claim-text>making a cathodic half cell in accordance with the method of <claim-ref idref="CLM-00024">claim 24</claim-ref>; and</claim-text>
+<claim-text>contacting said cathodic half cell with an anode or depositing anode-forming material on the electrolyte.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. A solid state battery cell made in accordance with the method of <claim-ref idref="CLM-00026">claim 26</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. A method of making a solid state battery comprising a plurality of solid state battery cells, the method comprising:
+<claim-text>making a plurality of solid state battery cells in accordance with the method of <claim-ref idref="CLM-00026">claim 26</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. A solid state battery made in accordance with the method of <claim-ref idref="CLM-00028">claim 28</claim-ref>.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
