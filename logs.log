@@ -115,3 +115,43 @@
 2023-07-06 12:57:38,235 - INFO - Loaded 4 Examples.
 2023-07-06 12:57:38,235 - INFO - Initializing chat API..
 2023-07-06 12:57:38,571 - INFO - Sending 115 tokens.
+2023-07-06 12:59:24,629 - INFO - Starting Context Evlauation for Prompt 000
+2023-07-06 12:59:24,630 - INFO - Loaded 4 Examples.
+2023-07-06 12:59:24,631 - INFO - Initializing chat API..
+2023-07-06 12:59:24,956 - INFO - Sending 115 tokens.
+2023-07-06 12:59:28,889 - INFO - Sending 121 tokens.
+2023-07-06 12:59:32,502 - INFO - Sending 29 tokens.
+2023-07-06 12:59:33,765 - INFO - Sending 46 tokens.
+2023-07-06 12:59:35,046 - INFO - Finished Context Evlauation for Prompt 000
+2023-07-06 12:59:35,046 - INFO - Starting Test set Evlauation for Prompt 000
+2023-07-06 12:59:35,047 - INFO - Loaded 8 Test samples.
+2023-07-06 12:59:35,049 - INFO - Initializing chat API..
+2023-07-06 12:59:35,050 - INFO - Sending 115 tokens.
+2023-07-06 12:59:38,314 - INFO - Sending 121 tokens.
+2023-07-06 12:59:41,377 - INFO - Sending 82 tokens.
+2023-07-06 12:59:43,703 - INFO - Sending 137 tokens.
+2023-07-06 12:59:48,244 - INFO - Sending 63 tokens.
+2023-07-06 12:59:51,896 - INFO - Sending 29 tokens.
+2023-07-06 12:59:53,167 - INFO - Sending 46 tokens.
+2023-07-06 12:59:54,335 - INFO - Sending 106 tokens.
+2023-07-06 13:00:00,489 - INFO - Finished Test set Evlauation for Prompt 000
+2023-07-06 13:00:00,489 - INFO - Starting Context Evlauation for Prompt 001
+2023-07-06 13:00:00,491 - INFO - Loaded 4 Examples.
+2023-07-06 13:00:00,491 - INFO - Initializing chat API..
+2023-07-06 13:00:00,491 - INFO - Sending 115 tokens.
+2023-07-06 13:00:04,792 - INFO - Sending 121 tokens.
+2023-07-06 13:00:08,793 - INFO - Sending 29 tokens.
+2023-07-06 13:00:09,921 - INFO - Sending 46 tokens.
+2023-07-06 13:00:11,235 - INFO - Finished Context Evlauation for Prompt 001
+2023-07-06 13:00:11,235 - INFO - Starting Test set Evlauation for Prompt 001
+2023-07-06 13:00:11,235 - INFO - Loaded 8 Test samples.
+2023-07-06 13:00:11,236 - INFO - Initializing chat API..
+2023-07-06 13:00:11,237 - INFO - Sending 115 tokens.
+2023-07-06 13:00:14,793 - INFO - Sending 121 tokens.
+2023-07-06 13:00:19,343 - INFO - Sending 82 tokens.
+2023-07-06 13:00:22,249 - INFO - Sending 137 tokens.
+2023-07-06 13:00:26,886 - INFO - Sending 63 tokens.
+2023-07-06 13:00:29,470 - INFO - Sending 29 tokens.
+2023-07-06 13:00:30,764 - INFO - Sending 46 tokens.
+2023-07-06 13:00:32,200 - INFO - Sending 106 tokens.
+2023-07-06 13:00:34,915 - INFO - Finished Test set Evlauation for Prompt 001
