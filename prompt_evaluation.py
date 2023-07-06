@@ -1,8 +1,10 @@
 import html
 import json
+import os
 from json.decoder import JSONDecodeError
 
 import fuzzywuzzy.process as fuzz_process
+import pandas as pd
 from fuzzywuzzy import fuzz
 
 from basf_measurement_parser import BASFMeasurementParser
@@ -14,7 +16,7 @@ from utils import (
     write_json_objects_to_file,
 )
 
-logger = ParserLogger("Prompts/000/logs.log")
+logger = ParserLogger("logging/evaluation_logs.log")
 
 
 class PromptEvaluator:
@@ -23,26 +25,26 @@ class PromptEvaluator:
         Evaluates how the the LLM understand the provided examples within the prompt (in case of few-shots prompting),
         by using the example in the prompt as inputs then compare the predictions to the expected output.
         """
+        logger.log_info(f"Starting Context Evlauation for Prompt {prompt_id}")
         (
             prompt,
-            prompt_examples,
             prompt_instructions,
+            prompt_examples,
         ) = PromptBuilder.build_prompt_from_dir(prompt_id)
         # Building input and GT lists
-        groud_truth = []
+        groundtruth = []
         inputs = []
+        logger.log_info(f"Loaded {len(prompt_examples)} Examples.")
         for exmaple in prompt_examples:
-            groud_truth.append(exmaple["measurements"])
+            groundtruth.append(exmaple["measurements"])
             inputs.append(exmaple["text"])
 
         # Defining a parser
-        measurements_parser = BASFMeasurementParser(prompt)
-        measurements_parser.build_chat_chain()
-
+        measurements_parser = BASFMeasurementParser(prompt, logger=logger)
         output_format = prompt_instructions["output_format"]
 
         eval_results = []
-        for input_text, gt in zip(inputs, groud_truth):
+        for input_text, gt in zip(inputs, groundtruth):
 
             predictions = html.unescape(
                 measurements_parser.parse_text(input_text, output_format)
@@ -79,25 +81,32 @@ class PromptEvaluator:
         self.analyze_evaluation_results(eval_results)
         # Let's add number of Tokens of the prompt
         eval_results[-1]["number_of_tokens"] = measurements_parser.get_number_of_tokens(
-            prompt
+            " ".join([prompt_instructions[key] for key in prompt_instructions])
         )
         write_json_objects_to_file(
             eval_results, f"prompts/{prompt_id}/context_evaluation_results.json"
         )
 
+        logger.log_info(f"Finished Context Evlauation for Prompt {prompt_id}")
         return eval_results
 
     def evaluate_model_with_testset(self, prompt_id):
 
+        logger.log_info(f"Starting Test set Evlauation for Prompt {prompt_id}")
+
         with open("Data/test_set.json", encoding="utf-8") as file:
             data = file.read()
 
-        test_data = json.loads(data)
+        try:
+            test_data = json.loads(data)
+        except JSONDecodeError as exception:
+            logger.log_error(f"Failed to load test set, wrong JSON format.")
+            return
 
-        prompt, _, prompt_instructions = PromptBuilder.build_prompt_from_dir(prompt_id)
+        logger.log_info(f"Loaded {len(test_data)} Test samples.")
+        prompt, prompt_instructions, _ = PromptBuilder.build_prompt_from_dir(prompt_id)
 
         measurements_parser = BASFMeasurementParser(prompt)
-        measurements_parser.build_chat_chain()
 
         output_format = prompt_instructions["output_format"]
         eval_results = []
@@ -123,13 +132,14 @@ class PromptEvaluator:
                     }
                 )
             except JSONDecodeError as e:
+                logger.log_error(f"Json parsing error: {e}, for {predictions}.")
                 eval_results.append(
                     {
                         "input": input_text,
                         "ground_truth": gt,
                         "predictions": predictions,
                         #             "score": eval_resul,
-                        "error": f"Output parsing error: {e.msg}",
+                        "error": f"Output parsing error: {e}",
                     }
                 )
 
@@ -137,12 +147,12 @@ class PromptEvaluator:
 
         # Let's add number of Tokens of the prompt
         eval_results[-1]["number_of_tokens"] = measurements_parser.get_number_of_tokens(
-            prompt
+            " ".join([prompt_instructions[key] for key in prompt_instructions])
         )
         write_json_objects_to_file(
             eval_results, f"prompts/{prompt_id}/test_set_evaluation_results.json"
         )
-
+        logger.log_info(f"Finished Test set Evlauation for Prompt {prompt_id}")
         return eval_results
 
     def evaluate_measurements_extraction(self, gt, pred):
@@ -231,3 +241,39 @@ class PromptEvaluator:
         total_result["total_false_predictions"] = total_false_predictions
 
         eval_results.append(total_result)
+
+    def get_evaluation_results_for_prompt_id(self, prompt_id, test_set_evaluation=True):
+        if test_set_evaluation:
+            file_path = f"Prompts/{prompt_id}/test_set_evaluation_results.json"
+        else:
+            file_path = f"Prompts/{prompt_id}/context_evaluation_results.json"
+
+        if os.path.exists(file_pathi):
+            with open(file_path) as file:
+                data = json.loads(file.read())
+            data["prmpt_id"] = prompt_id
+            return data[-1]
+
+        return {}
+
+    def evaluate_prompts(self, prompts_path="Prompts"):
+
+        prompt_evaluator = PromptEvaluator()
+
+        test_evaluation_results = []
+        context_evaluation_results = []
+        prompts = os.listdir("prompts")
+
+        for prompt_id in prompts:
+
+            context_evaluation = self.evaluate_prompt_context(prompt_id)
+            context_evaluation[-1]["prompt_id"] = prompt_id
+            context_evaluation_results.append(context_evaluation[-1])
+
+            test_evaluation = self.evaluate_model_with_testset(prompt_id)
+            test_evaluation[-1]["prompt_id"] = prompt_id
+            test_evaluation_results.append(test_evaluation[-1])
+
+        return pd.DataFrame(test_evaluation_results), pd.DataFrame(
+            context_evaluation_results
+        )

@@ -15,8 +15,8 @@ from langchain import LLMChain
 from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from logger import ParserLogger
 
+from logger import ParserLogger
 from utils import build_dict_from_json_string
 
 load_dotenv("env.env")
@@ -51,7 +51,10 @@ class BASFMeasurementParser:
         self.BASE_URL = os.getenv("AZURE_OPENAI_ENDPOINT")
         self.API_KEY = os.getenv("AZURE_OPENAI_KEY")
         self.DEPLOYMENT_NAME = "gpt-35-turbo"
-        self.logger = logger
+        if not logger:
+            self.logger = ParserLogger(f"logging/{prompt_id}_{chunk_size}_logs.log")
+        else:
+            self.logger = logger
         self.prompt_id = prompt_id
 
         try:
