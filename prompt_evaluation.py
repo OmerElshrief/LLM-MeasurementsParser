@@ -1,3 +1,5 @@
+"""For Evaluatin and combaring different prompts.
+"""
 import html
 import json
 import os
@@ -20,7 +22,7 @@ logger = ParserLogger("logging/evaluation_logs.log")
 
 
 class PromptEvaluator:
-    def evaluate_prompt_context(self, prompt_id):
+    def evaluate_prompt_context(self, prompt_id: str) -> list:
         """
         Evaluates how the the LLM understand the provided examples within the prompt (in case of few-shots prompting),
         by using the example in the prompt as inputs then compare the predictions to the expected output.
@@ -90,7 +92,16 @@ class PromptEvaluator:
         logger.log_info(f"Finished Context Evlauation for Prompt {prompt_id}")
         return eval_results
 
-    def evaluate_model_with_testset(self, prompt_id):
+    def evaluate_model_with_testset(self, prompt_id: str) -> list:
+        """Evaluate a prompt using a test set.
+
+        Args:
+            prompt_id (str): Id of the prompt.
+
+        Returns:
+            list: List of dicts, each dict corosponds to a prediction for a chunk of text.
+            Last item of the list is a dict that contains evaluatino metrics results.
+        """
 
         logger.log_info(f"Starting Test set Evlauation for Prompt {prompt_id}")
 
@@ -155,7 +166,18 @@ class PromptEvaluator:
         logger.log_info(f"Finished Test set Evlauation for Prompt {prompt_id}")
         return eval_results
 
-    def evaluate_measurements_extraction(self, gt, pred):
+    def evaluate_measurements_extraction(self, gt: list, pred: list) -> list:
+        """Evaluates a prediction vs a Ground truth data.
+        
+        It uses fuzzy search for matching between predicted items and ground truth items.
+
+        Args:
+            gt (list): List of ground truth measurements.
+            pred (list): List of predicted measurements.
+
+        Returns:
+            list: List that contains evaluation results.
+        """
 
         evaluation_results = []
         true_positives = 0
@@ -211,7 +233,15 @@ class PromptEvaluator:
 
         return evaluation_results
 
-    def analyze_evaluation_results(self, eval_results):
+    def analyze_evaluation_results(self, eval_results: list):
+        """Calculate total overall evaluation results.
+        
+        There is an evaluation results per prediction, 
+        this function calculates the total evaluation results.
+
+        Args:
+            eval_results (list): List that contains evaluation results per prediction.
+        """
 
         total_overall_accuracy = 0
         total_true_predictions = 0
@@ -242,7 +272,17 @@ class PromptEvaluator:
 
         eval_results.append(total_result)
 
-    def get_evaluation_results_for_prompt_id(self, prompt_id, test_set_evaluation=True):
+    def get_evaluation_results_for_prompt_id(self, prompt_id: str, test_set_evaluation=True) -> dict:
+        """Read evaluation results form a file for a given prompt.
+
+        Args:
+            prompt_id (str): Id of the prompt.
+            test_set_evaluation (bool, optional): We have 2 types of evaluation results, 
+            test set evaluation, and context evaluation. If this is true, the function will read Test set Evaluations. Defaults to True.
+
+        Returns:
+            dict: Return the total overall evaluation result of the given prompt.
+        """
         if test_set_evaluation:
             file_path = f"Prompts/{prompt_id}/test_set_evaluation_results.json"
         else:
@@ -256,7 +296,7 @@ class PromptEvaluator:
 
         return {}
 
-    def evaluate_prompts(self, prompts_path="Prompts"):
+    def evaluate_prompts(self, prompts_path: str="Prompts") -> tuple(pd.DataFrame, pd.DataFrame):
 
         prompt_evaluator = PromptEvaluator()
 
