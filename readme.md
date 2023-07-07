@@ -50,6 +50,7 @@ In the prompt directory from the main directory, there will be all prompts, each
     - [Prompt Building and Engineering](#prompt-building-and-engineering)
     - [Prompt Evaluation](#prompt-evaluation)
       - [Context Evaluation](#context-evaluation)
+      - [Test set Evaluation](#test-set-evaluation)
     - [Prompt Versioning](#prompt-versioning)
   - [Examples and Demos](#examples-and-demos)
 
@@ -149,6 +150,8 @@ For the prompt Evaluation, we need to put into consideration 3 main questions:
  3- If the output is different, it's is probably because of the prompt is not clear, and It needs to be rewritten.
 
 For Each prompt directory, there should be **Examples.json** file, this one is used in Prompt Context Evaluation.
+
+#### Test set Evaluation
 
 **After we make sure that GPT understand our prompts and our Examples, how can we make sure GPT is not overfitting to the provided examples?**
 There will be a separate test set with carefully crafted Ground truth labels to evaluate the prompt.
