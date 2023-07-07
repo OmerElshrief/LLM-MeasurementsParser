@@ -1,4 +1,4 @@
-"""For Evaluatin and combaring different prompts.
+"""For Evaluating and comparing different prompts.
 """
 import html
 import json
@@ -111,7 +111,7 @@ class PromptEvaluator:
         try:
             test_data = json.loads(data)
         except JSONDecodeError as exception:
-            logger.log_error(f"Failed to load test set, wrong JSON format.")
+            logger.log_error(f"Failed to load test set, wrong JSON format. {exception}")
             return
 
         logger.log_info(f"Loaded {len(test_data)} Test samples.")
@@ -168,7 +168,7 @@ class PromptEvaluator:
 
     def evaluate_measurements_extraction(self, gt: list, pred: list) -> list:
         """Evaluates a prediction vs a Ground truth data.
-        
+
         It uses fuzzy search for matching between predicted items and ground truth items.
 
         Args:
@@ -235,8 +235,8 @@ class PromptEvaluator:
 
     def analyze_evaluation_results(self, eval_results: list):
         """Calculate total overall evaluation results.
-        
-        There is an evaluation results per prediction, 
+
+        There is an evaluation results per prediction,
         this function calculates the total evaluation results.
 
         Args:
@@ -272,12 +272,14 @@ class PromptEvaluator:
 
         eval_results.append(total_result)
 
-    def get_evaluation_results_for_prompt_id(self, prompt_id: str, test_set_evaluation=True) -> dict:
+    def get_evaluation_results_for_prompt_id(
+        self, prompt_id: str, test_set_evaluation=True
+    ) -> dict:
         """Read evaluation results form a file for a given prompt.
 
         Args:
             prompt_id (str): Id of the prompt.
-            test_set_evaluation (bool, optional): We have 2 types of evaluation results, 
+            test_set_evaluation (bool, optional): We have 2 types of evaluation results,
             test set evaluation, and context evaluation. If this is true, the function will read Test set Evaluations. Defaults to True.
 
         Returns:
@@ -288,7 +290,7 @@ class PromptEvaluator:
         else:
             file_path = f"Prompts/{prompt_id}/context_evaluation_results.json"
 
-        if os.path.exists(file_pathi):
+        if os.path.exists(file_path):
             with open(file_path) as file:
                 data = json.loads(file.read())
             data["prmpt_id"] = prompt_id
@@ -296,7 +298,9 @@ class PromptEvaluator:
 
         return {}
 
-    def evaluate_prompts(self, prompts_path: str="Prompts") -> tuple(pd.DataFrame, pd.DataFrame):
+    def evaluate_prompts(
+        self, prompts_path: str = "Prompts"
+    ) -> (pd.DataFrame, pd.DataFrame):
 
         prompt_evaluator = PromptEvaluator()
 

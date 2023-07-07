@@ -1,5 +1,4 @@
-"""Building prompts objects.
-"""
+"""Building prompts objects."""
 import html
 import json
 import os
@@ -16,18 +15,19 @@ from utils import format_dicts_to_string
 
 class PromptBuilder:
     @classmethod
-    def build_prompt_from_dir(cls, prompt_id: str)-> ChatPromptTemplate:
+    def build_prompt_from_dir(cls, prompt_id: str) -> ChatPromptTemplate:
         """Builds a prompt given a prompt id.
         
         Prombt directory should contains:
-        1- prombt.json: This file should contain prombt instructions and output format, 
+        1- prombt.json: This file should contain prombt instructions and output format,
         ex:
         {
         "text": "prompt instructions",
 
         "output_format": "Prompt for the output format"
         }
-        2- examples.json: in case using a few-shots prompting, this file should contain the exmaples used in the few shots prompt as a list of jsons.
+        2- examples.json: in case using a few-shots prompting, this file should contain the 
+        exmaples used in the few shots prompt as a list of jsons.
         Each json is for 1 example, and contains "text" key and "measurements" key.
 
         Args:
