@@ -1,0 +1,12 @@
+[]
+[] (No measurements found)
+[ 
+    { "measurement": "sample surface area", "unit": "m^2/g", "value": "5 and about 350" }, 
+    { "measurement": "coated Substrate support", "unit": "g/in", "value": "1.5 to 7.0" }, 
+    { "measurement": "Alumina BET surface area", "unit": "m/g", "value": "200" }, 
+    { "measurement": "nitrogen oxide surface area", "unit": "m^2/g", "value": "30 and 80" }, 
+    { "measurement": "polypeptide concentration", "unit": "g/ml", "value": "1 to 9" }
+]
+[{"measurement": "surface area", "unit": "m^2/g", "value": "13.5 or more, preferably 14.0 or more, more preferably 15.0 or more"},
+{"measurement": "yield strength", "unit": "MPa", "value": "230 or more, preferably 250 or more"},
+{"measurement": "tensile strength", "unit": "MPa", "value": "380 or more, preferably 40 or more"}]
