@@ -45,6 +45,7 @@ Provide an overview of your project, explaining its purpose, goal, and main feat
     - [Prompt Building and Engineering.](#prompt-building-and-engineering)
     - [Prompt Evaluation](#prompt-evaluation)
       - [Context Evaluation](#context-evaluation)
+    - [Prompt Versioning](#prompt-versioning)
   - [Examples and Demos](#examples-and-demos)
 
 ## Installation
@@ -123,7 +124,9 @@ In the Data Directory, there is a test_set.json file that contains test examples
 
 For Prompt Evaluation and Building, follow the notebook **Prompts_Evaluation.ipynb**
 
-Explain how to use your software. Provide examples or sample commands to demonstrate its usage. Describe the expected inputs and outputs. Include any necessary instructions for customizing or configuring the software.
+### Prompt Versioning
+
+For each Prompt subdirectory, there will be evaluation logs, evaluation results and prompt files, this is important for versioning and comparing prompts later.
 
 
 ## Examples and Demos
@@ -131,4 +134,4 @@ Explain how to use your software. Provide examples or sample commands to demonst
 **Full Example.ipynb** Notebook contain a full pipeline example with discussion and results.
 **Prompts Evaluation.ipynb** Notebook contains steps for evaluating prompts in the prompts directory with results and discussion.
 **Parsing a text file.ipynb** Notebook contains steps to parse a text file and building the prompt for it with results and discussion.
-
+**Data.ipynb** Notebook for parsing XML files and splitting, filtering patents.
