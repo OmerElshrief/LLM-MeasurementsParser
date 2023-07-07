@@ -30,7 +30,6 @@ We set a guideline for writing prompts, the application is configurable and will
 
 In the prompt directory from the main directory, there will be all prompts, each prompt in a directory with name as the prompt ID.
 
-Provide an overview of your project, explaining its purpose, goal, and main features.
 
 ## Table of Contents
 
@@ -93,8 +92,6 @@ Prompts Directory contains a sub directory for each prompt with the prompt id as
 ```
 
 To add a prompt, create a new directory and add both files and make sure they follow the same format mentioned above.
-
-Explain the steps required to install and set up your software. Include any prerequisites or dependencies needed. Provide clear instructions for configuring the environment.
 
 ## Usage
 
