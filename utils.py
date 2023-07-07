@@ -39,9 +39,21 @@ def extract_numbers(string):
     return float_numbers
 
 
-def build_dict_from_json_string(json_str_list):
+def build_dict_from_json_string(json_str_list: list) -> list:
+    """Building structured dict form the predictions.
+
+    Args:
+        json_str_list (list): list of predictions.
+
+    Returns:
+        list: List of json objects.
+    """
     try:
         fixed_json = json.loads(json_str_list)
+        for prediction in fixed_json:
+            prediction = {
+                key.strip(): value.strip() for key, value in prediction.items()
+            }
         return fixed_json
     except json.JSONDecodeError as e:
         # Remove the surrounding square brackets and newlines
@@ -49,5 +61,8 @@ def build_dict_from_json_string(json_str_list):
 
         # Safely evaluate the string as a list of dictionaries
         dictionary_list = ast.literal_eval(clean_string)
-
+        for prediction in dictionary_list:
+            prediction = {
+                key.strip(): value.strip() for key, value in prediction.items()
+            }
         return dictionary_list
