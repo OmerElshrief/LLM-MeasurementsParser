@@ -14,7 +14,9 @@ from dotenv import load_dotenv
 from langchain import LLMChain
 from langchain.chat_models import AzureChatOpenAI
 from langchain.document_loaders import TextLoader
+from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.vectorstores import FAISS
 
 from logger import ParserLogger
 from utils import build_dict_from_json_string
@@ -52,7 +54,9 @@ class BASFMeasurementParser:
         self.API_KEY = os.getenv("AZURE_OPENAI_KEY")
         self.DEPLOYMENT_NAME = "gpt-35-turbo"
         if not logger:
-            self.logger = ParserLogger(f"logging/{prompt_id}_{chunk_size}_logs.log")
+            self.logger = ParserLogger(
+                f"logging/parsing_logs_{prompt_id}_{chunk_size}_logs.log"
+            )
         else:
             self.logger = logger
         self.prompt_id = prompt_id
@@ -88,8 +92,8 @@ class BASFMeasurementParser:
         return all_splits
 
     def parse_txt_by_chunks(
-        self, file_path: str, output_format: str
-    ) -> Tuple[dict, dict]:
+        self, file_path: str, output_format: str, use_retriever=False
+    ) -> [dict, dict]:
         """Given a text file, it splits the text into chunks then feed it to LLM one by one.
 
         Chunks are sent to LLM one by one, output of the LLM is then post-processed to be
@@ -105,10 +109,13 @@ class BASFMeasurementParser:
             second item is predictions failed to be parsed as Json.
         """
         all_splits = self._load_txt_and_split(file_path)
+        if use_retriever:
+            all_splits = self.build_vector_store_retriever(all_splits)
+
         results_all_splits = []
 
         with open(
-            f"parsing_results_{len(all_splits)}_chunks_prompt_{self.prompt_id}.txt",
+            f"output/parsing_results_{self.prompt_id}_{self.chunk_size}.txt",
             mode="w",
             encoding="utf8",
         ) as logs_file:
@@ -122,12 +129,49 @@ class BASFMeasurementParser:
                 logs_file.write("\n")
 
         self.logger.log_info("File Parsing has finished!")
+        predictions_json, faulty_predictions = self.post_process_predictions(
+            results_all_splits
+        )
+        predictions_json.to_excel(
+            f"output/parsing_results_{self.prompt_id}_{self.chunk_size}_use_retrieve_{use_retriever}.xlsx"
+        )
 
-        return self.post_process_predictions(results_all_splits)
+        # logging false JSONs
+        with open(
+            f"output/parsing_results_{self.prompt_id}_{self.chunk_size}_use_retrieve_{use_retriever}_false_json.txt",
+            mode="w",
+            encoding="utf8",
+        ) as file:
+            for string in faulty_predictions:
+                file.write(string + "\n")
+
+        return predictions_json, faulty_predictions
+
+    def build_vector_store_retriever(self, text_splits: list) -> list:
+
+        self.logger.log_info(
+            "Building Vector Retriever for relevant Documents filtering."
+        )
+        embeddings = OpenAIEmbeddings(
+            openai_api_base=self.BASE_URL,
+            openai_api_version="2023-03-15-preview",
+            openai_api_key=self.API_KEY,
+            openai_api_type="azure",
+            chunk_size=1,
+        )
+
+        documents_search = FAISS.from_documents(text_splits, embeddings)
+        documents_retriever = documents_search.as_retriever()
+
+        relevant_documents = documents_retriever.get_relevant_documents(
+            "Experiments with Measurements and units of measurements"
+        )
+        self.logger.log_info(f"Retrieved {len(relevant_documents)} documents.")
+        return relevant_documents
 
     def post_process_predictions(
         self, predictions: list, return_df=True
-    ) -> Tuple[dict, dict]:
+    ) -> [dict, dict]:
         """Parse Predictions from LLM to follow JSON format.
 
         We parse the string to load it as JSON, some predictions fails to be parsed as JSON,
@@ -138,14 +182,14 @@ class BASFMeasurementParser:
             return_df (bool, optional): IF true, returned predictions will be in a DataFrame. Default True.
 
         Returns:
-            Tuple[dict, dict]: First item is the list of json objects,
+            Tuple[DataFrame, list[dict]]: First item is the list of json objects,
             second item is predictions failed to be parsed as Json.
         """
         predictions_json = []
         false_json = []
         for prediction in predictions:
             try:
-                predictions_json.extend(build_dict_from_json_string(prediction + "]"))
+                predictions_json.extend(build_dict_from_json_string(prediction))
             except Exception as exception:
                 self.logger.log_warning(
                     f"Failed to parse a prediction, Error: {exception}, Prediction: {prediction}"
@@ -154,6 +198,26 @@ class BASFMeasurementParser:
         if return_df:
             predictions_json = pd.DataFrame(predictions_json)
         return predictions_json, false_json
+
+    def post_process_predictions_from_file(
+        self, prediction_file_path: str
+    ) -> (pd.DataFrame, list[dict]):
+        """Read predictions from a log file then post_process predictions.
+
+        Args:
+            prediction_file_path (str): File path containing the predictions.
+        Returns:
+            Tuple[DataFrame, list]: First item is the list of json objects,
+            second item is predictions failed to be parsed as Json.
+        """
+        with open(prediction_file_path, encoding="utf8") as file:
+            predictions = file.read()
+
+        prediction_list = predictions.replace("\n", " ").split("]")
+        character = "]"
+        prediction_list = list(map(lambda item: item + character, prediction_list))
+
+        return self.post_process_predictions(prediction_list)
 
     def parse_text(self, input_text: str, output_format: str) -> list:
         """Parse a given text to extract Measurements.
