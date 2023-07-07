@@ -122,7 +122,7 @@ We provide some prompt design principles that could help writing prompts.
  • **Avoid complex sentence structure:** Using complex sentence structures can confuse the model, leading to poorly generated output. Using simple sentences and straightforward language makes it easier for the model to understand and generate the desired output.
 
  • **Avoid ambiguity:** Ensure that the prompt is specific and avoids ambiguity. Avoid using words with multiple meanings or phrases that can be interpreted in different ways.
- 
+
  • Use keywords: Use keywords in the prompt that are relevant to the topic of the conversation. This helps the chatbot to understand the context and respond appropriately.
 
  • **Consider the intended audience:** Consider the intended audience for the generated responses and tailor the prompts accordingly. Use appropriate language, terminology, and examples that the audience is likely to understand and relate to.
@@ -168,6 +168,9 @@ For each Prompt subdirectory, there will be evaluation logs, evaluation results 
 ## Examples and Demos
 
 **Full Example.ipynb** Notebook contain a full pipeline example with discussion and results.
+
 **Prompts Evaluation.ipynb** Notebook contains steps for evaluating prompts in the prompts directory with results and discussion.
+
 **Parsing a text file.ipynb** Notebook contains steps to parse a text file and building the prompt for it with results and discussion.
+
 **Data.ipynb** Notebook for parsing XML files and splitting, filtering patents.
