@@ -1,0 +1,12 @@
+{
+        "_type": "few_shot",
+        "input_variables": ["input_text"],
+        "prefix": "Write antonyms for the following words.",
+        "example_prompt": {
+            "_type": "prompt",
+            "input_variables": ["input_text", "measurments"],
+            "template": "input_text: {input}\nMeasurments: {measurments}"
+        },
+        "examples": "examples.json",
+        "suffix": "Input: {input}\nOutput:"
+    }   
