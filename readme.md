@@ -57,6 +57,7 @@ In the prompt directory from the main directory, there will be all prompts, each
       - [Test set Evaluation](#test-set-evaluation)
     - [Prompt Versioning](#prompt-versioning)
   - [Examples and Demos](#examples-and-demos)
+  - [Output](#output)
 
 ## Installation
 
@@ -177,3 +178,12 @@ For each Prompt subdirectory, there will be evaluation logs, evaluation results 
 **Parsing a text file.ipynb** Notebook contains steps to parse a text file and building the prompt for it with results and discussion.
 
 **Data.ipynb** Notebook for parsing XML files and splitting, filtering patents.
+
+## Output
+
+After running the Code, the parsing results will be in the "output" directory under the name:
+
+ "parsing_results_{prompt_id}_{chunk_size}_{use_retriever}.txt": this file contains the parsing results in json string.
+
+ "parsing_results_{prompt_id}_{chunk_size}_{use_retriever}.xlsx": this contains the predictions and parsing results in a excel format.
+
