@@ -13,9 +13,13 @@ Parse large text and extract unstructured Measurements in a structured format.
 ### Features
 
 1- Parse large XML files that contains many patents and extract useful text.
+
 2- Pre-process Text and format it in a way that fits a LLM.
+
 3- Uses Langchain to send large files to GPT3.5.
+
 4- Post-process output to be in a structured format (JSON).
+
 5- Compare and evaluates prompts.
 
 ### LLM
@@ -65,7 +69,6 @@ You need to have env.env in root directory that contain the following environmen
 
   <li>AZURE_OPENAI_KEY</li>
   <li>AZURE_OPENAI_ENDPOINT</li>
-  <li>OPENAI_API_KEY</li>
 
 </list>
 
