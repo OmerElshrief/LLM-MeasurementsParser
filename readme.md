@@ -1,4 +1,4 @@
-# BASF Measurements Parser
+# RAG-LLM Based Measurements Parser
 
 Chemical Research patents Measurements Parser.
 
@@ -8,7 +8,7 @@ LLM based application that parses Chemical research patents to extract Measureme
 
 ### GOAL
 
-Parse large text and extract unstructured Measurements in a structured format.
+Parse large corbus of documents and extract unstructured Measurements in a structured format.
 
 ### Features
 
