@@ -58,6 +58,7 @@ In the prompt directory from the main directory, there will be all prompts, each
   - [Communication with LLM: Retrieval-Augmented Generation To add knowledge](#communication-with-llm-retrieval-augmented-generation-to-add-knowledge)
     - [**Why RAG?**](#why-rag)
     - [Methodology](#methodology)
+  - [Output format](#output-format)
   - [Examples and Demos](#examples-and-demos)
   - [Output](#output)
 
@@ -189,6 +190,12 @@ At this point, out external knowledge is the research patents. We use this with 
 2- Transform the chunks of text into embedding using OpenAI embedding model and store the vectors in a Vector Database (Langchain).
 3- Use the retriever to retrieve the chunks that are related to the problem and pass it with the prompt to the LLM.
 
+## Output format
+
+* Output format is challenging, We can craft our prompts to be explicit about the output format, but there is no guarantee that the outputs will always follow this format. That s why I preferred using custom formatter.
+* For each prediction, the prediction is first parsed using json loader, if failed due to bad output format, it is added to bad json list for further processing.
+* Data with bad output format (corrupted JSON) are sent again to the LLM to correct the JSON format.
+
 ## Examples and Demos
 
 **Full Example.ipynb** Notebook contain a full pipeline example with discussion and results.
@@ -206,3 +213,4 @@ After running the Code, the parsing results will be in the "output" directory un
  "parsing_results_{prompt_id}_{chunk_size}_{use_retriever}.txt": this file contains the parsing results in json string.
 
  "parsing_results_{prompt_id}_{chunk_size}_{use_retriever}.xlsx": this contains the predictions and parsing results in a excel format.
+
